@@ -1,11 +1,15 @@
 # awesome android ㋡
 Collection of Android related open source Apps | Libraries | Tools (in Kotlin, Java, ...)
 
-*While I'm preparing this list (maybe) none of the libraries added to [android-arsenal.com](http://android-arsenal.com/)*
+*While I'm preparing this list (maybe) none of them listed in [android-arsenal.com](http://android-arsenal.com/)*
+
+generated at: 2020-03-30
 
 ---
 
-1 |    ✰ 36472 ✰    |    awesome-android-ui
+1 |    awesome-android-ui
+
+✰✰✰ 37441
 
 A curated list of awesome Android UI/UX libraries
 
@@ -14,7 +18,20 @@ A curated list of awesome Android UI/UX libraries
 
 ---
 
-2 |    ✰ 34793 ✰    |    architecture-samples
+2 |    android-architecture
+
+✰✰✰ 35861
+
+A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+
+[https://github.com/googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
+
+
+---
+
+3 |    architecture-samples
+
+✰✰✰ 35861
 
 A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
@@ -23,7 +40,20 @@ A collection of samples to discuss and showcase different architectural tools an
 
 ---
 
-3 |    ✰ 29345 ✰    |    android-open-project
+4 |    free-for-dev
+
+✰✰✰ 34170
+
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+[https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+
+---
+
+5 |    android-open-project
+
+✰✰✰ 29751
 
 A categorized collection of Android Open Source Projects,  More powerful web version:
 
@@ -32,16 +62,20 @@ A categorized collection of Android Open Source Projects,  More powerful web ver
 
 ---
 
-4 |    ✰ 27381 ✰    |    fastlane
+6 |    scrcpy
 
-🚀 The easiest way to automate building and releasing your iOS and Android apps
+✰✰✰ 27428
 
-[https://github.com/fastlane/fastlane](https://github.com/fastlane/fastlane)
+Display and control your Android device
+
+[https://github.com/genymobile/scrcpy](https://github.com/genymobile/scrcpy)
 
 
 ---
 
-5 |    ✰ 25990 ✰    |    android_guides
+7 |    android_guides
+
+✰✰✰ 26465
 
 Extensive Open-Source Guides for Android Developers
 
@@ -50,16 +84,9 @@ Extensive Open-Source Guides for Android Developers
 
 ---
 
-6 |    ✰ 21846 ✰    |    EventBus
+8 |    security-guide-for-developers
 
-Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-
-[https://github.com/greenrobot/eventbus](https://github.com/greenrobot/eventbus)
-
-
----
-
-7 |    ✰ 18522 ✰    |    security-guide-for-developers
+✰✰✰ 18890
 
 Security Guide for Developers (实用性开发人员安全须知)
 
@@ -68,7 +95,20 @@ Security Guide for Developers (实用性开发人员安全须知)
 
 ---
 
-8 |    ✰ 15364 ✰    |    anko
+9 |    android-architecture-components
+
+✰✰✰ 16476
+
+Samples for Android Architecture Components. 
+
+[https://github.com/googlesamples/android-architecture-components](https://github.com/googlesamples/android-architecture-components)
+
+
+---
+
+10 |    anko
+
+✰✰✰ 15586
 
 Pleasant Android application development
 
@@ -77,25 +117,9 @@ Pleasant Android application development
 
 ---
 
-9 |    ✰ 15176 ✰    |    architecture-components-samples
+11 |    mars
 
-Samples for Android Architecture Components. 
-
-[https://github.com/android/architecture-components-samples](https://github.com/android/architecture-components-samples)
-
-
----
-
-10 |    ✰ 14606 ✰    |    plaid
-
-An Android app which provides design news & inspiration as well as being an example of implementing material design.
-
-[https://github.com/android/plaid](https://github.com/android/plaid)
-
-
----
-
-11 |    ✰ 13711 ✰    |    mars
+✰✰✰ 14229
 
 Mars is a cross-platform network component  developed by WeChat.
 
@@ -104,7 +128,9 @@ Mars is a cross-platform network component  developed by WeChat.
 
 ---
 
-12 |    ✰ 13688 ✰    |    f8app
+12 |    f8app
+
+✰✰✰ 13831
 
 Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
 
@@ -113,7 +139,9 @@ Source code of the official F8 app of 2017, powered by React Native and other Fa
 
 ---
 
-13 |    ✰ 12721 ✰    |    Telegram
+13 |    telegram
+
+✰✰✰ 13638
 
 Telegram for Android source
 
@@ -122,25 +150,20 @@ Telegram for Android source
 
 ---
 
-14 |    ✰ 11240 ✰    |    uamp
+14 |    awesome-design
 
-This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
+✰✰✰ 11910
 
-[https://github.com/android/uamp](https://github.com/android/uamp)
+🌟Curated design resources
 
-
----
-
-15 |    ✰ 11240 ✰    |    uamp
-
-This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
-
-[https://github.com/android/android-universalmusicplayer](https://github.com/android/android-universalmusicplayer)
+[https://github.com/gztchan/awesome-design](https://github.com/gztchan/awesome-design)
 
 
 ---
 
-16 |    ✰ 11038 ✰    |    ARouter
+15 |    arouter
+
+✰✰✰ 11613
 
 💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)
 
@@ -149,7 +172,31 @@ This sample shows how to implement an audio media app that works across multiple
 
 ---
 
-17 |    ✰ 10979 ✰    |    Luban
+16 |    android-universalmusicplayer
+
+✰✰✰ 11516
+
+A sample audio app for Android
+
+[https://github.com/googlesamples/android-universalmusicplayer](https://github.com/googlesamples/android-universalmusicplayer)
+
+
+---
+
+17 |    uamp
+
+✰✰✰ 11516
+
+A sample audio app for Android
+
+[https://github.com/android/uamp](https://github.com/android/uamp)
+
+
+---
+
+18 |    luban
+
+✰✰✰ 11462
 
 Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 
@@ -158,7 +205,42 @@ Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/�
 
 ---
 
-18 |    ✰ 9215 ✰    |    sunflower
+19 |    rxtool
+
+✰✰✰ 10641
+
+Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | ArcGis | VTPK | 编译运行一下说不定会找到惊喜
+
+[https://github.com/vondear/rxtool](https://github.com/vondear/rxtool)
+
+
+---
+
+20 |    libphonenumber
+
+✰✰✰ 10595
+
+Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+
+[https://github.com/googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber)
+
+
+---
+
+21 |    android-sunflower
+
+✰✰✰ 10378
+
+A gardening app illustrating Android development best practices with Android Jetpack.
+
+[https://github.com/googlesamples/android-sunflower](https://github.com/googlesamples/android-sunflower)
+
+
+---
+
+22 |    sunflower
+
+✰✰✰ 10378
 
 A gardening app illustrating Android development best practices with Android Jetpack.
 
@@ -167,7 +249,20 @@ A gardening app illustrating Android development best practices with Android Jet
 
 ---
 
-19 |    ✰ 8553 ✰    |    material-components-android
+23 |    permissionsdispatcher
+
+✰✰✰ 9858
+
+Simple annotation-based API to handle runtime permissions.
+
+[https://github.com/permissions-dispatcher/permissionsdispatcher](https://github.com/permissions-dispatcher/permissionsdispatcher)
+
+
+---
+
+24 |    material-components-android
+
+✰✰✰ 9807
 
 Modular and customizable Material Design UI components for Android
 
@@ -176,7 +271,53 @@ Modular and customizable Material Design UI components for Android
 
 ---
 
-20 |    ✰ 8193 ✰    |    DanmakuFlameMaster
+25 |    virtualxposed
+
+✰✰✰ 9433
+
+A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+
+[https://github.com/android-hacker/virtualxposed](https://github.com/android-hacker/virtualxposed)
+
+
+---
+
+26 |    appintro
+
+✰✰✰ 9014
+
+Make a cool intro for your Android app.
+
+[https://github.com/apl-devs/appintro](https://github.com/apl-devs/appintro)
+
+
+---
+
+27 |    wifi-cracking
+
+✰✰✰ 8627
+
+Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+
+[https://github.com/brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking)
+
+
+---
+
+28 |    awesome-kotlin
+
+✰✰✰ 8503
+
+A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+
+[https://github.com/kotlinby/awesome-kotlin](https://github.com/kotlinby/awesome-kotlin)
+
+
+---
+
+29 |    danmakuflamemaster
+
+✰✰✰ 8395
 
 Android开源弹幕引擎·烈焰弹幕使 ～
 
@@ -185,16 +326,20 @@ Android开源弹幕引擎·烈焰弹幕使 ～
 
 ---
 
-21 |    ✰ 8065 ✰    |    filament
+30 |    pictureselector
 
-Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+✰✰✰ 8272
 
-[https://github.com/google/filament](https://github.com/google/filament)
+Picture Selector Library for Android  or 图片选择器
+
+[https://github.com/lucksiege/pictureselector](https://github.com/lucksiege/pictureselector)
 
 
 ---
 
-22 |    ✰ 7862 ✰    |    open-source-android-apps
+31 |    open-source-android-apps
+
+✰✰✰ 8017
 
 Open-Source Android Apps
 
@@ -203,16 +348,20 @@ Open-Source Android Apps
 
 ---
 
-23 |    ✰ 7494 ✰    |    PictureSelector
+32 |    awesome-android
 
-Picture Selector Library for Android  or 多图片选择器
+✰✰✰ 7642
 
-[https://github.com/lucksiege/pictureselector](https://github.com/lucksiege/pictureselector)
+A curated list of awesome Android packages and resources.
+
+[https://github.com/JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
 
 
 ---
 
-24 |    ✰ 7406 ✰    |    atlas
+33 |    atlas
+
+✰✰✰ 7567
 
 A powerful Android Dynamic Component Framework.
 
@@ -221,43 +370,42 @@ A powerful Android Dynamic Component Framework.
 
 ---
 
-25 |    ✰ 7319 ✰    |    awesome-android
+34 |    android-ktx
 
-A curated list of awesome Android packages and resources.
+✰✰✰ 7560
 
-[https://github.com/jstumpp/awesome-android](https://github.com/jstumpp/awesome-android)
+A set of Kotlin extensions for Android app development.
+
+[https://github.com/android/android-ktx](https://github.com/android/android-ktx)
 
 
 ---
 
-26 |    ✰ 6896 ✰    |    MaterialDesign
+35 |    materialdesign
 
-✒4600+ Material Design Icons from the Community
+✰✰✰ 7495
+
+✒5000+ Material Design Icons from the Community
 
 [https://github.com/templarian/materialdesign](https://github.com/templarian/materialdesign)
 
 
 ---
 
-27 |    ✰ 6884 ✰    |    UltimateAndroidReference
+36 |    android-testing
 
-:rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
-
-[https://github.com/aritraroy/ultimateandroidreference](https://github.com/aritraroy/ultimateandroidreference)
-
-
----
-
-28 |    ✰ 6882 ✰    |    testing-samples
+✰✰✰ 7201
 
 A collection of samples demonstrating different frameworks and techniques for automated testing
 
-[https://github.com/android/testing-samples](https://github.com/android/testing-samples)
+[https://github.com/googlesamples/android-testing](https://github.com/googlesamples/android-testing)
 
 
 ---
 
-29 |    ✰ 6765 ✰    |    LitePal
+37 |    litepal
+
+✰✰✰ 7004
 
 An Android library that makes developers use SQLite database extremely easy.
 
@@ -266,16 +414,20 @@ An Android library that makes developers use SQLite database extremely easy.
 
 ---
 
-30 |    ✰ 6574 ✰    |    android-open-project-analysis
+38 |    ultimateandroidreference
 
-Analysis implementation of android open source project, 微信公众号:codekk, 网站:
+✰✰✰ 6992
 
-[https://github.com/android-cn/android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis)
+:rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
+
+[https://github.com/aritraroy/ultimateandroidreference](https://github.com/aritraroy/ultimateandroidreference)
 
 
 ---
 
-31 |    ✰ 6562 ✰    |    AndroidDevTools
+39 |    androiddevtools
+
+✰✰✰ 6689
 
 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 
@@ -284,16 +436,9 @@ Analysis implementation of android open source project, 微信公众号:codekk, 
 
 ---
 
-32 |    ✰ 6507 ✰    |    android-gpuimage
+40 |    litho
 
-Android filters based on OpenGL (idea from GPUImage for iOS)
-
-[https://github.com/cats-oss/android-gpuimage](https://github.com/cats-oss/android-gpuimage)
-
-
----
-
-33 |    ✰ 6397 ✰    |    litho
+✰✰✰ 6623
 
 A declarative framework for building efficient UIs on Android.
 
@@ -302,34 +447,53 @@ A declarative framework for building efficient UIs on Android.
 
 ---
 
-34 |    ✰ 6265 ✰    |    kotlinx.coroutines
+41 |    android-open-project-analysis
 
-Library support for Kotlin coroutines 
+✰✰✰ 6593
 
-[https://github.com/kotlin/kotlinx.coroutines](https://github.com/kotlin/kotlinx.coroutines)
+Analysis implementation of android open source project, 微信公众号:codekk, 网站:
 
-
----
-
-35 |    ✰ 5994 ✰    |    lab
-
-A customisable 3D platform for agent-based AI research
-
-[https://github.com/deepmind/lab](https://github.com/deepmind/lab)
+[https://github.com/android-cn/android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis)
 
 
 ---
 
-36 |    ✰ 5962 ✰    |    awesome-android
+42 |    sonar
 
-android libs from github or other websites
+✰✰✰ 6501
 
-[https://github.com/snowdream/awesome-android](https://github.com/snowdream/awesome-android)
+A desktop debugging platform for mobile developers.
+
+[https://github.com/facebook/sonar](https://github.com/facebook/sonar)
 
 
 ---
 
-37 |    ✰ 5923 ✰    |    AndPermission
+43 |    flipper
+
+✰✰✰ 6501
+
+A desktop debugging platform for mobile developers.
+
+[https://github.com/facebook/flipper](https://github.com/facebook/flipper)
+
+
+---
+
+44 |    replugin
+
+✰✰✰ 6231
+
+RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework
+
+[https://github.com/qihoo360/replugin](https://github.com/qihoo360/replugin)
+
+
+---
+
+45 |    andpermission
+
+✰✰✰ 6166
 
 :strawberry: Permissions manager for Android platform.
 
@@ -338,7 +502,42 @@ android libs from github or other websites
 
 ---
 
-38 |    ✰ 5872 ✰    |    Awesome-MaterialDesign
+46 |    timber
+
+✰✰✰ 6148
+
+Material Design Music Player
+
+[https://github.com/naman14/timber](https://github.com/naman14/timber)
+
+
+---
+
+47 |    lab
+
+✰✰✰ 6112
+
+A customisable 3D platform for agent-based AI research
+
+[https://github.com/deepmind/lab](https://github.com/deepmind/lab)
+
+
+---
+
+48 |    awesome-android
+
+✰✰✰ 5962
+
+android libs from github or other websites
+
+[https://github.com/snowdream/awesome-android](https://github.com/snowdream/awesome-android)
+
+
+---
+
+49 |    awesome-materialdesign
+
+✰✰✰ 5901
 
 Collection of material design libs and res.
 
@@ -347,7 +546,9 @@ Collection of material design libs and res.
 
 ---
 
-39 |    ✰ 5808 ✰    |    AndroidSdkSourceAnalysis
+50 |    androidsdksourceanalysis
+
+✰✰✰ 5890
 
 android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
 
@@ -356,106 +557,9 @@ android sdk 源码解析——旨在帮助Android开发者更好的学习Android
 
 ---
 
-40 |    ✰ 5648 ✰    |    github-changelog-generator
+51 |    mobile-security-framework-mobsf
 
-Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-
-[https://github.com/github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
-
-
----
-
-41 |    ✰ 5570 ✰    |    Detox
-
-Gray box end-to-end testing and automation framework for mobile apps
-
-[https://github.com/wix/detox](https://github.com/wix/detox)
-
-
----
-
-42 |    ✰ 5394 ✰    |    android-interview-questions
-
-Your Cheat Sheet For Android Interview - Android Interview Questions
-
-[https://github.com/mindorksopensource/android-interview-questions](https://github.com/mindorksopensource/android-interview-questions)
-
-
----
-
-43 |    ✰ 5363 ✰    |    tachiyomi
-
-Free and open source manga reader for Android
-
-[https://github.com/inorichi/tachiyomi](https://github.com/inorichi/tachiyomi)
-
-
----
-
-44 |    ✰ 5345 ✰    |    Keyframes
-
-A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices.
-
-[https://github.com/facebookincubator/keyframes](https://github.com/facebookincubator/keyframes)
-
-
----
-
-45 |    ✰ 5316 ✰    |    android-oss
-
-Kickstarter for Android. Bring new ideas to life, anywhere.
-
-[https://github.com/kickstarter/android-oss](https://github.com/kickstarter/android-oss)
-
-
----
-
-46 |    ✰ 5227 ✰    |    AndroidAssetStudio
-
-A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
-
-[https://github.com/romannurik/androidassetstudio](https://github.com/romannurik/androidassetstudio)
-
-
----
-
-47 |    ✰ 5226 ✰    |    otto
-
-An enhanced Guava-based event bus with emphasis on Android support.
-
-[https://github.com/square/otto](https://github.com/square/otto)
-
-
----
-
-48 |    ✰ 5066 ✰    |    nanohttpd
-
-Tiny, easily embeddable HTTP server in Java.
-
-[https://github.com/nanohttpd/nanohttpd](https://github.com/nanohttpd/nanohttpd)
-
-
----
-
-49 |    ✰ 5009 ✰    |    cw-omnibus
-
-Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
-
-[https://github.com/commonsguy/cw-omnibus](https://github.com/commonsguy/cw-omnibus)
-
-
----
-
-50 |    ✰ 4819 ✰    |    android-lifecycle
-
-A diagram of the Android Activity / Fragment lifecycle
-
-[https://github.com/xxv/android-lifecycle](https://github.com/xxv/android-lifecycle)
-
-
----
-
-51 |    ✰ 4798 ✰    |    Mobile-Security-Framework-MobSF
+✰✰✰ 5704
 
 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
@@ -464,25 +568,64 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 
 ---
 
-52 |    ✰ 4596 ✰    |    android-guidelines
+52 |    android-interview-questions
 
-Architecture and code guidelines we use at ribot when developing for Android
+✰✰✰ 5629
 
-[https://github.com/ribot/android-guidelines](https://github.com/ribot/android-guidelines)
+Your Cheat Sheet For Android Interview - Android Interview Questions
 
-
----
-
-53 |    ✰ 4532 ✰    |    git-style-guide
-
-A Git Style Guide
-
-[https://github.com/agis-/git-style-guide](https://github.com/agis-/git-style-guide)
+[https://github.com/mindorksopensource/android-interview-questions](https://github.com/mindorksopensource/android-interview-questions)
 
 
 ---
 
-54 |    ✰ 4516 ✰    |    koin
+53 |    owasp-mstg
+
+✰✰✰ 5554
+
+ The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+
+[https://github.com/owasp/owasp-mstg](https://github.com/owasp/owasp-mstg)
+
+
+---
+
+54 |    android-oss
+
+✰✰✰ 5379
+
+Kickstarter for Android. Bring new ideas to life, anywhere.
+
+[https://github.com/kickstarter/android-oss](https://github.com/kickstarter/android-oss)
+
+
+---
+
+55 |    keyframes
+
+✰✰✰ 5364
+
+A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices.
+
+[https://github.com/facebookincubator/keyframes](https://github.com/facebookincubator/keyframes)
+
+
+---
+
+56 |    nanohttpd
+
+✰✰✰ 5293
+
+Tiny, easily embeddable HTTP server in Java.
+
+[https://github.com/nanohttpd/nanohttpd](https://github.com/nanohttpd/nanohttpd)
+
+
+---
+
+57 |    koin
+
+✰✰✰ 5128
 
 Koin - a pragmatic lightweight dependency injection framework for Kotlin
 
@@ -491,34 +634,97 @@ Koin - a pragmatic lightweight dependency injection framework for Kotlin
 
 ---
 
-55 |    ✰ 4509 ✰    |    Depth-LIB-Android-
+58 |    cw-omnibus
 
-A library that gives depth to Views.
+✰✰✰ 5072
 
-[https://github.com/danielzeller/depth-lib-android-](https://github.com/danielzeller/depth-lib-android-)
+Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 
-
----
-
-56 |    ✰ 4421 ✰    |    android-volley
-
-DEPRECATED
-
-[https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
+[https://github.com/commonsguy/cw-omnibus](https://github.com/commonsguy/cw-omnibus)
 
 
 ---
 
-57 |    ✰ 4358 ✰    |    kryo
+59 |    awesome-android-libraries
 
-Java binary serialization and cloning: fast, efficient, automatic
+✰✰✰ 5070
 
-[https://github.com/esotericsoftware/kryo](https://github.com/esotericsoftware/kryo)
+This is an alphabetical list of libraries for Android development, the majority being actively maintained.
+
+[https://github.com/wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 
 
 ---
 
-58 |    ✰ 4348 ✰    |    Android-skin-support
+60 |    jsonschema2pojo
+
+✰✰✰ 4963
+
+Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc
+
+[https://github.com/joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)
+
+
+---
+
+61 |    android-lifecycle
+
+✰✰✰ 4883
+
+A diagram of the Android Activity / Fragment lifecycle
+
+[https://github.com/xxv/android-lifecycle](https://github.com/xxv/android-lifecycle)
+
+
+---
+
+62 |    fast-android-networking
+
+✰✰✰ 4815
+
+🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
+
+[https://github.com/amitshekhariitbhu/fast-android-networking](https://github.com/amitshekhariitbhu/fast-android-networking)
+
+
+---
+
+63 |    android-guidelines
+
+✰✰✰ 4701
+
+Architecture and code guidelines we use at ribot when developing for Android
+
+[https://github.com/ribot/android-guidelines](https://github.com/ribot/android-guidelines)
+
+
+---
+
+64 |    camerakit-android
+
+✰✰✰ 4682
+
+Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
+
+[https://github.com/camerakit/camerakit-android](https://github.com/camerakit/camerakit-android)
+
+
+---
+
+65 |    git-style-guide
+
+✰✰✰ 4619
+
+A Git Style Guide
+
+[https://github.com/agis-/git-style-guide](https://github.com/agis-/git-style-guide)
+
+
+---
+
+66 |    android-skin-support
+
+✰✰✰ 4586
 
 Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it.一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!!
 
@@ -527,7 +733,64 @@ Android-skin-support is an easy dynamic skin framework to use  for Android, Only
 
 ---
 
-59 |    ✰ 4301 ✰    |    coursera-android
+67 |    from-java-to-kotlin
+
+✰✰✰ 4570
+
+From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+
+[https://github.com/mindorksopensource/from-java-to-kotlin](https://github.com/mindorksopensource/from-java-to-kotlin)
+
+
+---
+
+68 |    kryo
+
+✰✰✰ 4550
+
+Java binary serialization and cloning: fast, efficient, automatic
+
+[https://github.com/esotericsoftware/kryo](https://github.com/esotericsoftware/kryo)
+
+
+---
+
+69 |    depth-lib-android-
+
+✰✰✰ 4527
+
+A library that gives depth to Views.
+
+[https://github.com/danielzeller/depth-lib-android-](https://github.com/danielzeller/depth-lib-android-)
+
+
+---
+
+70 |    android-security-awesome
+
+✰✰✰ 4510
+
+A collection of android security related resources
+
+[https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
+
+
+---
+
+71 |    android-volley
+
+✰✰✰ 4412
+
+DEPRECATED
+
+[https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
+
+
+---
+
+72 |    coursera-android
+
+✰✰✰ 4300
 
 Source Code for Android Course Example Applications
 
@@ -536,7 +799,9 @@ Source Code for Android Course Example Applications
 
 ---
 
-60 |    ✰ 4202 ✰    |    bilibili-android-client
+73 |    bilibili-android-client
+
+✰✰✰ 4243
 
 An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05   -- 该项目已停止维护！
 
@@ -545,7 +810,9 @@ An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05
 
 ---
 
-61 |    ✰ 4041 ✰    |    PLDroidPlayer
+74 |    pldroidplayer
+
+✰✰✰ 4160
 
 PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
 
@@ -554,7 +821,9 @@ PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放
 
 ---
 
-62 |    ✰ 4015 ✰    |    android-tips-tricks
+75 |    android-tips-tricks
+
+✰✰✰ 4154
 
 :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 
@@ -563,7 +832,9 @@ PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放
 
 ---
 
-63 |    ✰ 3958 ✰    |    muzei
+76 |    muzei
+
+✰✰✰ 4012
 
 Muzei Live Wallpaper for Android
 
@@ -572,7 +843,9 @@ Muzei Live Wallpaper for Android
 
 ---
 
-64 |    ✰ 3889 ✰    |    CoordinatorTabLayout
+77 |    coordinatortablayout
+
+✰✰✰ 3947
 
 Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件
 
@@ -581,25 +854,9 @@ Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相
 
 ---
 
-65 |    ✰ 3861 ✰    |    Flutter-UI-Kit
+78 |    shimmer-android
 
-Flutter app for collection of UI in a UIKit
-
-[https://github.com/iampawan/flutter-ui-kit](https://github.com/iampawan/flutter-ui-kit)
-
-
----
-
-66 |    ✰ 3773 ✰    |    RxDownload
-
-A multi-threaded download tool written with RxJava and Kotlin
-
-[https://github.com/ssseasonnn/rxdownload](https://github.com/ssseasonnn/rxdownload)
-
-
----
-
-67 |    ✰ 3709 ✰    |    shimmer-android
+✰✰✰ 3886
 
 An easy, flexible way to add a shimmering effect to any view in an Android app.
 
@@ -608,7 +865,20 @@ An easy, flexible way to add a shimmering effect to any view in an Android app.
 
 ---
 
-68 |    ✰ 3648 ✰    |    FirebaseUI-Android
+79 |    rxdownload
+
+✰✰✰ 3858
+
+A multi-threaded download tool written with RxJava and Kotlin
+
+[https://github.com/ssseasonnn/rxdownload](https://github.com/ssseasonnn/rxdownload)
+
+
+---
+
+80 |    firebaseui-android
+
+✰✰✰ 3809
 
 Optimized UI components for Firebase
 
@@ -617,16 +887,20 @@ Optimized UI components for Firebase
 
 ---
 
-69 |    ✰ 3584 ✰    |    Store
+81 |    android-imsi-catcher-detector
 
-Android Library for Async Data Loading and Caching
+✰✰✰ 3709
 
-[https://github.com/nytimes/store](https://github.com/nytimes/store)
+AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
+
+[https://github.com/cellularprivacy/android-imsi-catcher-detector](https://github.com/cellularprivacy/android-imsi-catcher-detector)
 
 
 ---
 
-70 |    ✰ 3578 ✰    |    BadgeView
+82 |    badgeview
+
+✰✰✰ 3705
 
 支持自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView
 
@@ -635,34 +909,9 @@ Android Library for Async Data Loading and Caching
 
 ---
 
-71 |    ✰ 3348 ✰    |    objectbox-java
+83 |    exposed
 
-ObjectBox is a superfast lightweight database for objects
-
-[https://github.com/greenrobot/objectbox](https://github.com/greenrobot/objectbox)
-
-
----
-
-72 |    ✰ 3347 ✰    |    libretaxi
-
-LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers.
-
-[https://github.com/ro31337/libretaxi](https://github.com/ro31337/libretaxi)
-
-
----
-
-73 |    ✰ 3346 ✰    |    MvRx
-
-MvRx: Android on Autopilot
-
-[https://github.com/airbnb/mvrx](https://github.com/airbnb/mvrx)
-
-
----
-
-74 |    ✰ 3229 ✰    |    Exposed
+✰✰✰ 3691
 
 Kotlin SQL Framework
 
@@ -671,7 +920,97 @@ Kotlin SQL Framework
 
 ---
 
-75 |    ✰ 3224 ✰    |    ShapeShifter
+84 |    store
+
+✰✰✰ 3614
+
+Android Library for Async Data Loading and Caching
+
+[https://github.com/nytimes/store](https://github.com/nytimes/store)
+
+
+---
+
+85 |    launcher3
+
+✰✰✰ 3540
+
+The Launcher3 fork known as "Rootless Pixel Launcher"
+
+[https://github.com/amirzaidi/launcher3](https://github.com/amirzaidi/launcher3)
+
+
+---
+
+86 |    objectbox
+
+✰✰✰ 3475
+
+ObjectBox is a superfast lightweight database for objects
+
+[https://github.com/greenrobot/objectbox](https://github.com/greenrobot/objectbox)
+
+
+---
+
+87 |    objectbox-java
+
+✰✰✰ 3475
+
+ObjectBox is a superfast lightweight database for objects
+
+[https://github.com/objectbox/objectbox-java](https://github.com/objectbox/objectbox-java)
+
+
+---
+
+88 |    dropdownmenu
+
+✰✰✰ 3438
+
+一个实用的多条件筛选菜单
+
+[https://github.com/dongjunkun/dropdownmenu](https://github.com/dongjunkun/dropdownmenu)
+
+
+---
+
+89 |    arrow
+
+✰✰✰ 3434
+
+Functional companion to Kotlin's Standard Library
+
+[https://github.com/arrow-kt/arrow](https://github.com/arrow-kt/arrow)
+
+
+---
+
+90 |    libretaxi
+
+✰✰✰ 3431
+
+Open source Uber #deleteuber
+
+[https://github.com/ro31337/libretaxi](https://github.com/ro31337/libretaxi)
+
+
+---
+
+91 |    okdownload
+
+✰✰✰ 3427
+
+A Reliable, Flexible, Fast and Powerful download engine.
+
+[https://github.com/lingochamp/okdownload](https://github.com/lingochamp/okdownload)
+
+
+---
+
+92 |    shapeshifter
+
+✰✰✰ 3366
 
 SVG icon animation tool for Android, iOS, and the web
 
@@ -680,34 +1019,20 @@ SVG icon animation tool for Android, iOS, and the web
 
 ---
 
-76 |    ✰ 3215 ✰    |    intellij-colors-solarized
+93 |    floatwindow
 
-Solarized Colorscheme for IntelliJ IDEA
+✰✰✰ 3331
 
-[https://github.com/jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized)
+Andorid 任意界面悬浮窗，实现悬浮窗如此简单
 
-
----
-
-77 |    ✰ 3203 ✰    |    afinal
-
-Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。详情请通过以下网址查看。
-
-[https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
+[https://github.com/yhaolpz/floatwindow](https://github.com/yhaolpz/floatwindow)
 
 
 ---
 
-78 |    ✰ 3077 ✰    |    boxing
+94 |    lawnchair
 
-Android multi-media selector based on MVP mode.
-
-[https://github.com/bilibili/boxing](https://github.com/bilibili/boxing)
-
-
----
-
-79 |    ✰ 3051 ✰    |    Lawnchair
+✰✰✰ 3291
 
 No clever tagline needed
 
@@ -716,16 +1041,53 @@ No clever tagline needed
 
 ---
 
-80 |    ✰ 3039 ✰    |    blurkit-android
+95 |    intellij-colors-solarized
 
-The missing Android blurring library. Fast blur-behind layout that parallels iOS.
+✰✰✰ 3232
 
-[https://github.com/camerakit/blurkit-android](https://github.com/camerakit/blurkit-android)
+Solarized Colorscheme for IntelliJ IDEA
+
+[https://github.com/jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized)
 
 
 ---
 
-81 |    ✰ 3039 ✰    |    blurkit-android
+96 |    smartcropper
+
+✰✰✰ 3229
+
+🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
+
+[https://github.com/pqpo/smartcropper](https://github.com/pqpo/smartcropper)
+
+
+---
+
+97 |    afinal
+
+✰✰✰ 3196
+
+Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。详情请通过以下网址查看。
+
+[https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
+
+
+---
+
+98 |    android-clean-architecture-boilerplate
+
+✰✰✰ 3186
+
+An android boilerplate project using clean architecture
+
+[https://github.com/bufferapp/android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate)
+
+
+---
+
+99 |    blurkit-android
+
+✰✰✰ 3131
 
 The missing Android blurring library. Fast blur-behind layout that parallels iOS.
 
@@ -734,25 +1096,20 @@ The missing Android blurring library. Fast blur-behind layout that parallels iOS
 
 ---
 
-82 |    ✰ 3022 ✰    |    OpenHub
+100 |    boxing
 
-An open source GitHub Android client app, faster and concise.
+✰✰✰ 3129
 
-[https://github.com/thirtydegreesray/openhub](https://github.com/thirtydegreesray/openhub)
+Android multi-media selector based on MVP mode.
 
-
----
-
-83 |    ✰ 2987 ✰    |    conceal
-
-Conceal provides easy Android APIs for performing fast encryption and authentication of data.
-
-[https://github.com/facebook/conceal](https://github.com/facebook/conceal)
+[https://github.com/bilibili/boxing](https://github.com/bilibili/boxing)
 
 
 ---
 
-84 |    ✰ 2954 ✰    |    ChatKit
+101 |    chatkit
+
+✰✰✰ 3096
 
 Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon
 
@@ -761,7 +1118,20 @@ Android library. Flexible components for chat UI implementation with flexible po
 
 ---
 
-85 |    ✰ 2919 ✰    |    Android-Material-Examples
+102 |    uhabits
+
+✰✰✰ 2994
+
+Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+
+[https://github.com/isoron/uhabits](https://github.com/isoron/uhabits)
+
+
+---
+
+103 |    android-material-examples
+
+✰✰✰ 2912
 
 [Deprecated] Little bites of Material Design
 
@@ -770,205 +1140,9 @@ Android library. Flexible components for chat UI implementation with flexible po
 
 ---
 
-86 |    ✰ 2884 ✰    |    ktlint
+104 |    coil
 
-An anti-bikeshedding Kotlin linter with built-in formatter
-
-[https://github.com/pinterest/ktlint](https://github.com/pinterest/ktlint)
-
-
----
-
-87 |    ✰ 2864 ✰    |    sqldelight
-
-SQLDelight - Generates typesafe Kotlin APIs from SQL
-
-[https://github.com/cashapp/sqldelight](https://github.com/cashapp/sqldelight)
-
-
----
-
-88 |    ✰ 2792 ✰    |    FastDev4Android
-
-本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加
-
-[https://github.com/jiangqqlmj/fastdev4android](https://github.com/jiangqqlmj/fastdev4android)
-
-
----
-
-89 |    ✰ 2742 ✰    |    mdui
-
-MDUI 是一个基于 Material Design 的前端框架。
-
-[https://github.com/zdhxiong/mdui](https://github.com/zdhxiong/mdui)
-
-
----
-
-90 |    ✰ 2649 ✰    |    MasteringAndroidDataBinding
-
-A comprehensive tutorial for Android Data Binding
-
-[https://github.com/lyndonchin/masteringandroiddatabinding](https://github.com/lyndonchin/masteringandroiddatabinding)
-
-
----
-
-91 |    ✰ 2646 ✰    |    AutoDispose
-
-Automatic binding+disposal of RxJava 2+ streams.
-
-[https://github.com/uber/autodispose](https://github.com/uber/autodispose)
-
-
----
-
-92 |    ✰ 2639 ✰    |    BubbleSeekBar
-
-A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking. 自定义SeekBar，进度变化更以可视化气泡样式呈现
-
-[https://github.com/woxingxiao/bubbleseekbar](https://github.com/woxingxiao/bubbleseekbar)
-
-
----
-
-93 |    ✰ 2620 ✰    |    sugar
-
-Insanely easy way to work with Android Database.  
-
-[https://github.com/satyan/sugar](https://github.com/satyan/sugar)
-
-
----
-
-94 |    ✰ 2611 ✰    |    TourGuide
-
-TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
-
-[https://github.com/worker8/tourguide](https://github.com/worker8/tourguide)
-
-
----
-
-95 |    ✰ 2578 ✰    |    web3j
-
-Lightweight Java and Android library for integration with Ethereum clients
-
-[https://github.com/web3j/web3j](https://github.com/web3j/web3j)
-
-
----
-
-96 |    ✰ 2552 ✰    |    Algorithms
-
-Solutions for some common algorithm problems written in Java.
-
-[https://github.com/pedrovgs/algorithms](https://github.com/pedrovgs/algorithms)
-
-
----
-
-97 |    ✰ 2546 ✰    |    android-ConstraintLayoutExamples
-
-Migrated:
-
-[https://github.com/googlearchive/android-constraintlayoutexamples](https://github.com/googlearchive/android-constraintlayoutexamples)
-
-
----
-
-98 |    ✰ 2542 ✰    |    hover
-
-A floating menu library for Android.
-
-[https://github.com/google/hover](https://github.com/google/hover)
-
-
----
-
-99 |    ✰ 2526 ✰    |    MusicDNA
-
-A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
-
-[https://github.com/harjot-oberai/musicdna](https://github.com/harjot-oberai/musicdna)
-
-
----
-
-100 |    ✰ 2478 ✰    |    tivi
-
-Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
-
-[https://github.com/chrisbanes/tivi](https://github.com/chrisbanes/tivi)
-
-
----
-
-101 |    ✰ 2470 ✰    |    mockk
-
-mocking library for Kotlin
-
-[https://github.com/mockk/mockk](https://github.com/mockk/mockk)
-
-
----
-
-102 |    ✰ 2449 ✰    |    awesome-android-complete-reference
-
-Awesome Android references for everything like best practices, performance optimization, etc.
-
-[https://github.com/amitshekhariitbhu/awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
-
-
----
-
-103 |    ✰ 2447 ✰    |    AndroidTVLauncher
-
-This is a leanback style tv launcher(minSdkVersion 17)
-
-[https://github.com/jackyandroid/androidtvlauncher](https://github.com/jackyandroid/androidtvlauncher)
-
-
----
-
-104 |    ✰ 2410 ✰    |    Android-ItemTouchHelper-Demo
-
-Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView.
-
-[https://github.com/ipaulpro/android-itemtouchhelper-demo](https://github.com/ipaulpro/android-itemtouchhelper-demo)
-
-
----
-
-105 |    ✰ 2410 ✰    |    MovieGuide
-
-Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture
-
-[https://github.com/esoxjem/movieguide](https://github.com/esoxjem/movieguide)
-
-
----
-
-106 |    ✰ 2388 ✰    |    AndroidFire
-
-AndroidFire，一款新闻阅读 App框架，基于 Material Design + MVP + RxJava + Retrofit + Glide，基本涵盖了当前 Android 端开发最常用的主流框架，基于此框架可以快速开发一个app。
-
-[https://github.com/jaydenxiao2016/androidfire](https://github.com/jaydenxiao2016/androidfire)
-
-
----
-
-107 |    ✰ 2337 ✰    |    Tiny
-
-an image compression framework.（一个高保真、高压缩比的图片压缩框架）
-
-[https://github.com/sunzxyong/tiny](https://github.com/sunzxyong/tiny)
-
-
----
-
-108 |    ✰ 2323 ✰    |    coil
+✰✰✰ 2910
 
 Image loading for Android backed by Kotlin Coroutines.
 
@@ -977,25 +1151,229 @@ Image loading for Android backed by Kotlin Coroutines.
 
 ---
 
-109 |    ✰ 2323 ✰    |    wire-android
+105 |    mockk
 
-:phone: Wire for Android
+✰✰✰ 2857
 
-[https://github.com/wireapp/wire-android](https://github.com/wireapp/wire-android)
+mocking library for Kotlin
 
-
----
-
-110 |    ✰ 2319 ✰    |    PagerBottomTabStrip
-
-An bottom navigation bar for Android
-
-[https://github.com/tyzlmjj/pagerbottomtabstrip](https://github.com/tyzlmjj/pagerbottomtabstrip)
+[https://github.com/mockk/mockk](https://github.com/mockk/mockk)
 
 
 ---
 
-111 |    ✰ 2264 ✰    |    gradle_plugin_android_aspectjx
+106 |    mdui
+
+✰✰✰ 2852
+
+MDUI 是一个基于 Material Design 的前端框架。
+
+[https://github.com/zdhxiong/mdui](https://github.com/zdhxiong/mdui)
+
+
+---
+
+107 |    fastdev4android
+
+✰✰✰ 2809
+
+本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加
+
+[https://github.com/jiangqqlmj/fastdev4android](https://github.com/jiangqqlmj/fastdev4android)
+
+
+---
+
+108 |    uetool
+
+✰✰✰ 2800
+
+Show/edit any view's attributions on the screen.
+
+[https://github.com/eleme/uetool](https://github.com/eleme/uetool)
+
+
+---
+
+109 |    autodispose
+
+✰✰✰ 2799
+
+Automatic binding+disposal of RxJava 2+ streams.
+
+[https://github.com/uber/autodispose](https://github.com/uber/autodispose)
+
+
+---
+
+110 |    bubbleseekbar
+
+✰✰✰ 2745
+
+A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking. 自定义SeekBar，进度变化更以可视化气泡样式呈现
+
+[https://github.com/woxingxiao/bubbleseekbar](https://github.com/woxingxiao/bubbleseekbar)
+
+
+---
+
+111 |    nullaway
+
+✰✰✰ 2732
+
+A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+
+[https://github.com/uber/nullaway](https://github.com/uber/nullaway)
+
+
+---
+
+112 |    expectanim
+
+✰✰✰ 2726
+
+Describe your animation and run !
+
+[https://github.com/florent37/expectanim](https://github.com/florent37/expectanim)
+
+
+---
+
+113 |    tivi
+
+✰✰✰ 2687
+
+Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+
+[https://github.com/chrisbanes/tivi](https://github.com/chrisbanes/tivi)
+
+
+---
+
+114 |    groupie
+
+✰✰✰ 2674
+
+Groupie helps you display and manage complex RecyclerView layouts.
+
+[https://github.com/lisawray/groupie](https://github.com/lisawray/groupie)
+
+
+---
+
+115 |    masteringandroiddatabinding
+
+✰✰✰ 2646
+
+A comprehensive tutorial for Android Data Binding
+
+[https://github.com/lyndonchin/masteringandroiddatabinding](https://github.com/lyndonchin/masteringandroiddatabinding)
+
+
+---
+
+116 |    supercalendar
+
+✰✰✰ 2644
+
+@Deprecated android 自定义日历控件  支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期
+
+[https://github.com/magicmashroom/supercalendar](https://github.com/magicmashroom/supercalendar)
+
+
+---
+
+117 |    skeleton
+
+✰✰✰ 2628
+
+A library provides an easy way to show skeleton loading view like Facebook and Alipay
+
+[https://github.com/ethanhua/skeleton](https://github.com/ethanhua/skeleton)
+
+
+---
+
+118 |    swiftkotlin
+
+✰✰✰ 2618
+
+A tool to convert Swift code to Kotlin.
+
+[https://github.com/angelolloqui/swiftkotlin](https://github.com/angelolloqui/swiftkotlin)
+
+
+---
+
+119 |    tourguide
+
+✰✰✰ 2615
+
+TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
+
+[https://github.com/worker8/tourguide](https://github.com/worker8/tourguide)
+
+
+---
+
+120 |    algorithms
+
+✰✰✰ 2578
+
+Solutions for some common algorithm problems written in Java.
+
+[https://github.com/pedrovgs/algorithms](https://github.com/pedrovgs/algorithms)
+
+
+---
+
+121 |    musicdna
+
+✰✰✰ 2576
+
+A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.
+
+[https://github.com/harjot-oberai/musicdna](https://github.com/harjot-oberai/musicdna)
+
+
+---
+
+122 |    hover
+
+✰✰✰ 2573
+
+A floating menu library for Android.
+
+[https://github.com/google/hover](https://github.com/google/hover)
+
+
+---
+
+123 |    booster
+
+✰✰✰ 2553
+
+🚀Optimizer for mobile applications
+
+[https://github.com/didi/booster](https://github.com/didi/booster)
+
+
+---
+
+124 |    android-showcase
+
+✰✰✰ 2541
+
+💎 Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+
+[https://github.com/igorwojda/android-showcase](https://github.com/igorwojda/android-showcase)
+
+
+---
+
+125 |    gradle_plugin_android_aspectjx
+
+✰✰✰ 2533
 
 A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.
 
@@ -1004,16 +1382,42 @@ A Android gradle plugin that effects AspectJ on Android project and can hook met
 
 ---
 
-112 |    ✰ 2243 ✰    |    Phonograph
+126 |    androidtvlauncher
 
-A material designed music player for Android
+✰✰✰ 2517
 
-[https://github.com/kabouzeid/phonograph](https://github.com/kabouzeid/phonograph)
+This is a leanback style tv launcher(minSdkVersion 17)
+
+[https://github.com/jackyandroid/androidtvlauncher](https://github.com/jackyandroid/androidtvlauncher)
 
 
 ---
 
-113 |    ✰ 2242 ✰    |    Anki-Android
+127 |    awesome-android-complete-reference
+
+✰✰✰ 2513
+
+Awesome Android references for everything like best practices, performance optimization, etc.
+
+[https://github.com/amitshekhariitbhu/awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
+
+
+---
+
+128 |    spotlight
+
+✰✰✰ 2513
+
+Android Library that lights items for tutorials or walk-throughs etc...
+
+[https://github.com/takusemba/spotlight](https://github.com/takusemba/spotlight)
+
+
+---
+
+129 |    anki-android
+
+✰✰✰ 2492
 
 AnkiDroid: Anki on Android
 
@@ -1022,187 +1426,119 @@ AnkiDroid: Anki on Android
 
 ---
 
-114 |    ✰ 2227 ✰    |    ZLayoutManager
+130 |    commonutillibrary
 
-Some custom LayoutManager .Such as SwipeCard、FLowLayout。一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。
+✰✰✰ 2489
 
-[https://github.com/mcxtzhang/zlayoutmanager](https://github.com/mcxtzhang/zlayoutmanager)
+快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
 
-
----
-
-115 |    ✰ 2188 ✰    |    SopCastComponent
-
-来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等
-
-[https://github.com/laifeng-android/sopcastcomponent](https://github.com/laifeng-android/sopcastcomponent)
+[https://github.com/abrahamcaijin/commonutillibrary](https://github.com/abrahamcaijin/commonutillibrary)
 
 
 ---
 
-116 |    ✰ 2188 ✰    |    WordPress-Android
+131 |    movieguide
 
-WordPress for Android
+✰✰✰ 2468
 
-[https://github.com/wordpress-mobile/wordpress-android](https://github.com/wordpress-mobile/wordpress-android)
+Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture
 
-
----
-
-117 |    ✰ 2129 ✰    |    learning-oop-in-php
-
-A collection of resources to learn object-oriented programming and related concepts for PHP developers.
-
-[https://github.com/marcelgsantos/learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php)
+[https://github.com/esoxjem/movieguide](https://github.com/esoxjem/movieguide)
 
 
 ---
 
-118 |    ✰ 2128 ✰    |    philm
+132 |    falco
 
-Movie collection and information app for Android.
+✰✰✰ 2465
 
-[https://github.com/chrisbanes/philm](https://github.com/chrisbanes/philm)
+Cloud Native Runtime Security
 
-
----
-
-119 |    ✰ 2125 ✰    |    CompressHelper
-
-:fire: 压缩文件，压缩图片，压缩Bitmap，Compress, CompressImage, CompressFile, CompressBitmap：https://github.com/nanchen2251/AiYaCompressHelper
-
-[https://github.com/nanchen2251/compresshelper](https://github.com/nanchen2251/compresshelper)
+[https://github.com/draios/falco](https://github.com/draios/falco)
 
 
 ---
 
-120 |    ✰ 2113 ✰    |    android-developer-roadmap
+133 |    kotlin-for-android-developers
 
-Android Developer Roadmap 2019
+✰✰✰ 2460
 
-[https://github.com/mobile-roadmap/android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
+Companion App for the book
 
-
----
-
-121 |    ✰ 2098 ✰    |    Android-CleanArchitecture-Kotlin
-
-This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
-
-[https://github.com/android10/android-cleanarchitecture-kotlin](https://github.com/android10/android-cleanarchitecture-kotlin)
+[https://github.com/antoniolg/kotlin-for-android-developers](https://github.com/antoniolg/kotlin-for-android-developers)
 
 
 ---
 
-122 |    ✰ 2077 ✰    |    Android-Studio-Plugins
+134 |    androidfire
 
-This is a list of all awesome and useful android studio plugins.
+✰✰✰ 2449
 
-[https://github.com/balsikandar/android-studio-plugins](https://github.com/balsikandar/android-studio-plugins)
+AndroidFire，一款新闻阅读 App框架，基于 Material Design + MVP + RxJava + Retrofit + Glide，基本涵盖了当前 Android 端开发最常用的主流框架，基于此框架可以快速开发一个app。
 
-
----
-
-123 |    ✰ 2061 ✰    |    MarqueeViewLibrary
-
-一个帮您快速实现跑马灯效果的library
-
-[https://github.com/gongwen/marqueeviewlibrary](https://github.com/gongwen/marqueeviewlibrary)
+[https://github.com/jaydenxiao2016/androidfire](https://github.com/jaydenxiao2016/androidfire)
 
 
 ---
 
-124 |    ✰ 2055 ✰    |    Kodein-DI
+135 |    android-itemtouchhelper-demo
 
-Painless Kotlin Dependency Injection
+✰✰✰ 2430
 
-[https://github.com/kodein-framework/kodein-di](https://github.com/kodein-framework/kodein-di)
+Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView.
 
-
----
-
-125 |    ✰ 2041 ✰    |    AndServer
-
-:cherries: Web server and web framework of Android platform.
-
-[https://github.com/yanzhenjie/andserver](https://github.com/yanzhenjie/andserver)
+[https://github.com/ipaulpro/android-itemtouchhelper-demo](https://github.com/ipaulpro/android-itemtouchhelper-demo)
 
 
 ---
 
-126 |    ✰ 1972 ✰    |    cardslider-android
+136 |    pagerbottomtabstrip
 
-:octocat: 🃏 Cardslider is a material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions. - https://github.com/Ramotion/android-ui-animation-components-and-libraries
+✰✰✰ 2407
 
-[https://github.com/ramotion/cardslider-android](https://github.com/ramotion/cardslider-android)
+An bottom navigation bar for Android
 
-
----
-
-127 |    ✰ 1960 ✰    |    transferee
-
-一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
-
-[https://github.com/hitomis/transferimage](https://github.com/hitomis/transferimage)
+[https://github.com/tyzlmjj/pagerbottomtabstrip](https://github.com/tyzlmjj/pagerbottomtabstrip)
 
 
 ---
 
-128 |    ✰ 1959 ✰    |    CircularAnim
+137 |    android
 
-Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.4.6)
+✰✰✰ 2406
 
-[https://github.com/xunmengwinter/circularanim](https://github.com/xunmengwinter/circularanim)
+cSploit - The most complete and advanced IT security professional toolkit on Android.
 
-
----
-
-129 |    ✰ 1953 ✰    |    android-demos
-
-Examples of Android applications
-
-[https://github.com/novoda/android-demos](https://github.com/novoda/android-demos)
+[https://github.com/csploit/android](https://github.com/csploit/android)
 
 
 ---
 
-130 |    ✰ 1952 ✰    |    objection
+138 |    tiny
 
-📱 objection - runtime mobile exploration
+✰✰✰ 2391
 
-[https://github.com/sensepost/objection](https://github.com/sensepost/objection)
+an image compression framework.（一个高保真、高压缩比的图片压缩框架）
 
-
----
-
-131 |    ✰ 1942 ✰    |    transitioner
-
-A library for dynamic view-to-view transitions
-
-[https://github.com/dev-labs-bg/transitioner](https://github.com/dev-labs-bg/transitioner)
+[https://github.com/sunzxyong/tiny](https://github.com/sunzxyong/tiny)
 
 
 ---
 
-132 |    ✰ 1940 ✰    |    materialistic
+139 |    kotlinconf-app
 
-A material-design Hacker News Android reader
+✰✰✰ 2372
 
-[https://github.com/hidroh/materialistic](https://github.com/hidroh/materialistic)
+KotlinConf Schedule Application
 
-
----
-
-133 |    ✰ 1934 ✰    |    Omni-Notes
-
-Open source note-taking application for Android
-
-[https://github.com/federicoiosue/omni-notes](https://github.com/federicoiosue/omni-notes)
+[https://github.com/jetbrains/kotlinconf-app](https://github.com/jetbrains/kotlinconf-app)
 
 
 ---
 
-134 |    ✰ 1916 ✰    |    gnirehtet
+140 |    gnirehtet
+
+✰✰✰ 2361
 
 Gnirehtet provides reverse tethering for Android
 
@@ -1211,52 +1547,207 @@ Gnirehtet provides reverse tethering for Android
 
 ---
 
-135 |    ✰ 1916 ✰    |    falco
+141 |    wire-android
 
-Falco: Container Native Runtime Security
+✰✰✰ 2352
 
-[https://github.com/draios/falco](https://github.com/draios/falco)
+:phone: Wire for Android
 
-
----
-
-136 |    ✰ 1912 ✰    |    android-showcase
-
-💎Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
-
-[https://github.com/igorwojda/android-showcase](https://github.com/igorwojda/android-showcase)
+[https://github.com/wireapp/wire-android](https://github.com/wireapp/wire-android)
 
 
 ---
 
-137 |    ✰ 1909 ✰    |    santa-tracker-android
+142 |    phonograph
 
-Ho Ho Ho
+✰✰✰ 2299
 
-[https://github.com/google/santa-tracker-android](https://github.com/google/santa-tracker-android)
+A material designed music player for Android
 
-
----
-
-138 |    ✰ 1901 ✰    |    apollo-android
-
-:pager: A strongly-typed, caching GraphQL client for Android and the JVM
-
-[https://github.com/apollographql/apollo-android](https://github.com/apollographql/apollo-android)
+[https://github.com/kabouzeid/phonograph](https://github.com/kabouzeid/phonograph)
 
 
 ---
 
-139 |    ✰ 1836 ✰    |    spek
+143 |    wordpress-android
 
-A specification framework for Kotlin
+✰✰✰ 2273
 
-[https://github.com/spekframework/spek](https://github.com/spekframework/spek)
+WordPress for Android
+
+[https://github.com/wordpress-mobile/wordpress-android](https://github.com/wordpress-mobile/wordpress-android)
 
 
 ---
 
-140 |    ✰ 1835 ✰    |    Scarlet
+144 |    zlayoutmanager
+
+✰✰✰ 2267
+
+Some custom LayoutManager .Such as SwipeCard、FLowLayout。一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。
+
+[https://github.com/mcxtzhang/zlayoutmanager](https://github.com/mcxtzhang/zlayoutmanager)
+
+
+---
+
+145 |    android-upload-service
+
+✰✰✰ 2264
+
+Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress indication notification
+
+[https://github.com/gotev/android-upload-service](https://github.com/gotev/android-upload-service)
+
+
+---
+
+146 |    sopcastcomponent
+
+✰✰✰ 2232
+
+来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等
+
+[https://github.com/laifeng-android/sopcastcomponent](https://github.com/laifeng-android/sopcastcomponent)
+
+
+---
+
+147 |    andserver
+
+✰✰✰ 2209
+
+:cherries: Web server and web framework of Android platform.
+
+[https://github.com/yanzhenjie/andserver](https://github.com/yanzhenjie/andserver)
+
+
+---
+
+148 |    compresshelper
+
+✰✰✰ 2178
+
+:fire: 压缩文件，压缩图片，压缩Bitmap，Compress, CompressImage, CompressFile, CompressBitmap：https://github.com/nanchen2251/AiYaCompressHelper
+
+[https://github.com/nanchen2251/compresshelper](https://github.com/nanchen2251/compresshelper)
+
+
+---
+
+149 |    learning-oop-in-php
+
+✰✰✰ 2169
+
+A collection of resources to learn object-oriented programming and related concepts for PHP developers.
+
+[https://github.com/marcelgsantos/learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php)
+
+
+---
+
+150 |    kotest
+
+✰✰✰ 2161
+
+Powerful, elegant and flexible test framework for Kotlin
+
+[https://github.com/kotest/kotest](https://github.com/kotest/kotest)
+
+
+---
+
+151 |    html-textview
+
+✰✰✰ 2155
+
+TextView to display simple HTML
+
+[https://github.com/privacyapps/html-textview](https://github.com/privacyapps/html-textview)
+
+
+---
+
+152 |    philm
+
+✰✰✰ 2126
+
+Movie collection and information app for Android.
+
+[https://github.com/chrisbanes/philm](https://github.com/chrisbanes/philm)
+
+
+---
+
+153 |    mzbannerview
+
+✰✰✰ 2124
+
+仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
+
+[https://github.com/pinguo-zhouwei/mzbannerview](https://github.com/pinguo-zhouwei/mzbannerview)
+
+
+---
+
+154 |    android-studio-plugins
+
+✰✰✰ 2119
+
+This is a list of all awesome and useful android studio plugins.
+
+[https://github.com/balsikandar/android-studio-plugins](https://github.com/balsikandar/android-studio-plugins)
+
+
+---
+
+155 |    transferimage
+
+✰✰✰ 2118
+
+一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
+
+[https://github.com/hitomis/transferimage](https://github.com/hitomis/transferimage)
+
+
+---
+
+156 |    materialstepperview
+
+✰✰✰ 2115
+
+Steppers - Material Design Components for Android
+
+[https://github.com/fython/materialstepperview](https://github.com/fython/materialstepperview)
+
+
+---
+
+157 |    marqueeviewlibrary
+
+✰✰✰ 2099
+
+一个帮您快速实现跑马灯效果的library
+
+[https://github.com/gongwen/marqueeviewlibrary](https://github.com/gongwen/marqueeviewlibrary)
+
+
+---
+
+158 |    omni-notes
+
+✰✰✰ 2038
+
+Open source note-taking application for Android
+
+[https://github.com/federicoiosue/omni-notes](https://github.com/federicoiosue/omni-notes)
+
+
+---
+
+159 |    scarlet
+
+✰✰✰ 2034
 
 A Retrofit inspired WebSocket client for Kotlin, Java, and Android
 
@@ -1265,61 +1756,196 @@ A Retrofit inspired WebSocket client for Kotlin, Java, and Android
 
 ---
 
-141 |    ✰ 1762 ✰    |    garland-view-android
+160 |    simple-calendar
 
-:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Made by @Ramotion - https://github.com/Ramotion/android-ui-animation-components-and-libraries
+✰✰✰ 2026
 
-[https://github.com/ramotion/garland-view-android](https://github.com/ramotion/garland-view-android)
+A simple calendar with events, customizable widgets and no ads.
 
-
----
-
-142 |    ✰ 1727 ✰    |    SdkSearch
-
-An Android app and Chrome extension for searching the Android SDK documentation.
-
-[https://github.com/jakewharton/sdksearch](https://github.com/jakewharton/sdksearch)
+[https://github.com/simplemobiletools/simple-calendar](https://github.com/simplemobiletools/simple-calendar)
 
 
 ---
 
-143 |    ✰ 1725 ✰    |    spectrum
+161 |    cardslider-android
 
-A client-side image transcoding library.
+✰✰✰ 2016
 
-[https://github.com/facebookincubator/spectrum](https://github.com/facebookincubator/spectrum)
+:octocat: 🃏 Cardslider is a material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions. - https://github.com/Ramotion/android-ui-animation-components-and-libraries
 
-
----
-
-144 |    ✰ 1711 ✰    |    ExpandableLayout
-
-An expandable layout container for Android
-
-[https://github.com/cachapa/expandablelayout](https://github.com/cachapa/expandablelayout)
+[https://github.com/ramotion/cardslider-android](https://github.com/ramotion/cardslider-android)
 
 
 ---
 
-145 |    ✰ 1691 ✰    |    FolioReader-Android
+162 |    materialshadows
 
-A Java ePub reader and parser framework for Android.
+✰✰✰ 2002
 
-[https://github.com/folioreader/folioreader-android](https://github.com/folioreader/folioreader-android)
+Material Shadows for android : A library for supporting convex material shadows
 
-
----
-
-146 |    ✰ 1683 ✰    |    Inspeckage
-
-Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
-
-[https://github.com/ac-pm/inspeckage](https://github.com/ac-pm/inspeckage)
+[https://github.com/harjot-oberai/materialshadows](https://github.com/harjot-oberai/materialshadows)
 
 
 ---
 
-147 |    ✰ 1671 ✰    |    oboe
+163 |    oksocket
+
+✰✰✰ 2000
+
+An blocking socket client for Android applications.
+
+[https://github.com/xuuhaoo/oksocket](https://github.com/xuuhaoo/oksocket)
+
+
+---
+
+164 |    androidpilelayout
+
+✰✰✰ 1990
+
+An abnormal horizontal ListView-like pile layout with stretch and contraction effects.
+
+[https://github.com/xmusistone/androidpilelayout](https://github.com/xmusistone/androidpilelayout)
+
+
+---
+
+165 |    transitioner
+
+✰✰✰ 1984
+
+A library for dynamic view-to-view transitions
+
+[https://github.com/dev-labs-bg/transitioner](https://github.com/dev-labs-bg/transitioner)
+
+
+---
+
+166 |    materialistic
+
+✰✰✰ 1983
+
+A material-design Hacker News Android reader
+
+[https://github.com/hidroh/materialistic](https://github.com/hidroh/materialistic)
+
+
+---
+
+167 |    phimpme-android
+
+✰✰✰ 1982
+
+Phimp.me Photo Imaging and Picture Editor https://play.google.com/store/apps/details?id=org.fossasia.phimpme
+
+[https://github.com/fossasia/phimpme-android](https://github.com/fossasia/phimpme-android)
+
+
+---
+
+168 |    circularanim
+
+✰✰✰ 1974
+
+Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.4.6)
+
+[https://github.com/xunmengwinter/circularanim](https://github.com/xunmengwinter/circularanim)
+
+
+---
+
+169 |    santa-tracker-android
+
+✰✰✰ 1965
+
+Ho Ho Ho
+
+[https://github.com/google/santa-tracker-android](https://github.com/google/santa-tracker-android)
+
+
+---
+
+170 |    multisnaprecyclerview
+
+✰✰✰ 1964
+
+Android library for multiple snapping of RecyclerView
+
+[https://github.com/takusemba/multisnaprecyclerview](https://github.com/takusemba/multisnaprecyclerview)
+
+
+---
+
+171 |    richpath
+
+✰✰✰ 1964
+
+💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can.
+
+[https://github.com/tarek360/richpath](https://github.com/tarek360/richpath)
+
+
+---
+
+172 |    RichPath
+
+✰✰✰ 1964
+
+💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can.
+
+[https://github.com/tarek360/RichPath](https://github.com/tarek360/RichPath)
+
+
+---
+
+173 |    jimu
+
+✰✰✰ 1962
+
+一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。
+
+[https://github.com/mqzhangw/jimu](https://github.com/mqzhangw/jimu)
+
+
+---
+
+174 |    android-demos
+
+✰✰✰ 1960
+
+Examples of Android applications
+
+[https://github.com/novoda/android-demos](https://github.com/novoda/android-demos)
+
+
+---
+
+175 |    timeline
+
+✰✰✰ 1877
+
+瀑布流式的时间轴
+
+[https://github.com/vivian8725118/timeline](https://github.com/vivian8725118/timeline)
+
+
+---
+
+176 |    textpathview
+
+✰✰✰ 1862
+
+A View with text path animation!
+
+[https://github.com/totond/textpathview](https://github.com/totond/textpathview)
+
+
+---
+
+177 |    oboe
+
+✰✰✰ 1846
 
 Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 
@@ -1328,7 +1954,75 @@ Oboe is a C++ library that makes it easy to build high-performance audio apps on
 
 ---
 
-148 |    ✰ 1647 ✰    |    expandable-recycler-view
+178 |    sdksearch
+
+✰✰✰ 1810
+
+An Android app and Chrome extension for searching the Android SDK documentation.
+
+[https://github.com/jakewharton/sdksearch](https://github.com/jakewharton/sdksearch)
+
+
+---
+
+179 |    inspeckage
+
+✰✰✰ 1806
+
+Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
+
+[https://github.com/ac-pm/inspeckage](https://github.com/ac-pm/inspeckage)
+
+
+---
+
+180 |    garland-view-android
+
+✰✰✰ 1798
+
+:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Made by @Ramotion - https://github.com/Ramotion/android-ui-animation-components-and-libraries
+
+[https://github.com/ramotion/garland-view-android](https://github.com/ramotion/garland-view-android)
+
+
+---
+
+181 |    expandablelayout
+
+✰✰✰ 1787
+
+An expandable layout container for Android
+
+[https://github.com/cachapa/expandablelayout](https://github.com/cachapa/expandablelayout)
+
+
+---
+
+182 |    vegalayoutmanager
+
+✰✰✰ 1777
+
+√A customized LayoutManager - fade and shrink the head itemView when scrolling.
+
+[https://github.com/xmusistone/vegalayoutmanager](https://github.com/xmusistone/vegalayoutmanager)
+
+
+---
+
+183 |    folioreader-android
+
+✰✰✰ 1760
+
+A Java ePub reader and parser framework for Android.
+
+[https://github.com/folioreader/folioreader-android](https://github.com/folioreader/folioreader-android)
+
+
+---
+
+184 |    expandable-recycler-view
+
+✰✰✰ 1720
 
 Custom Android RecyclerViewAdapters that collapse and expand
 
@@ -1337,7 +2031,20 @@ Custom Android RecyclerViewAdapters that collapse and expand
 
 ---
 
-149 |    ✰ 1645 ✰    |    Notes
+185 |    kotlin-guides
+
+✰✰✰ 1705
+
+A set of guides for writing Kotlin for Android.
+
+[https://github.com/android/kotlin-guides](https://github.com/android/kotlin-guides)
+
+
+---
+
+186 |    notes
+
+✰✰✰ 1690
 
 小米便签社区开源版（Community edition of XM notepad/MIUI notes)
 
@@ -1346,7 +2053,9 @@ Custom Android RecyclerViewAdapters that collapse and expand
 
 ---
 
-150 |    ✰ 1644 ✰    |    PaletteImageView
+187 |    paletteimageview
+
+✰✰✰ 1673
 
 懂得智能配色的ImageView,还能给自己设置多彩的阴影哦。(Understand the intelligent color matching ImageView, but also to set their own colorful shadow Oh!)
 
@@ -1355,16 +2064,9 @@ Custom Android RecyclerViewAdapters that collapse and expand
 
 ---
 
-151 |    ✰ 1642 ✰    |    andOTP
+188 |    transitionhelper
 
-Open source two-factor authentication for Android
-
-[https://github.com/andotp/andotp](https://github.com/andotp/andotp)
-
-
----
-
-152 |    ✰ 1637 ✰    |    TransitionHelper
+✰✰✰ 1646
 
 This is a simple util to create Activity transition animation
 
@@ -1373,7 +2075,9 @@ This is a simple util to create Activity transition animation
 
 ---
 
-153 |    ✰ 1636 ✰    |    chromeview
+189 |    chromeview
+
+✰✰✰ 1640
 
 Proof of concept Android WebView implementation based on Chromium code
 
@@ -1382,34 +2086,9 @@ Proof of concept Android WebView implementation based on Chromium code
 
 ---
 
-154 |    ✰ 1611 ✰    |    stickers
+190 |    kuaichuan
 
-This repository contains the iOS and Android sample apps and API for creating  third party sticker packs for WhatsApp.
-
-[https://github.com/whatsapp/stickers](https://github.com/whatsapp/stickers)
-
-
----
-
-155 |    ✰ 1600 ✰    |    MultipleTheme
-
-Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。         This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
-
-[https://github.com/dersoncheng/multipletheme](https://github.com/dersoncheng/multipletheme)
-
-
----
-
-156 |    ✰ 1593 ✰    |    kotlinx.serialization
-
-Kotlin multiplatform / multi-format serialization 
-
-[https://github.com/kotlin/kotlinx.serialization](https://github.com/kotlin/kotlinx.serialization)
-
-
----
-
-157 |    ✰ 1592 ✰    |    KuaiChuan
+✰✰✰ 1624
 
 仿茄子快传的一款文件传输应用
 
@@ -1418,7 +2097,20 @@ Kotlin multiplatform / multi-format serialization
 
 ---
 
-158 |    ✰ 1571 ✰    |    idea-live-templates
+191 |    multipletheme
+
+✰✰✰ 1623
+
+Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。         This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
+
+[https://github.com/dersoncheng/multipletheme](https://github.com/dersoncheng/multipletheme)
+
+
+---
+
+192 |    idea-live-templates
+
+✰✰✰ 1578
 
 An #androidDev collection of Live Templates for Android Studio
 
@@ -1427,97 +2119,20 @@ An #androidDev collection of Live Templates for Android Studio
 
 ---
 
-159 |    ✰ 1491 ✰    |    Lightning-Browser
+193 |    android-ui-animation-components-and-libraries
 
-A lightweight Android browser with modern navigation
+✰✰✰ 1572
 
-[https://github.com/anthonycr/lightning-browser](https://github.com/anthonycr/lightning-browser)
+Android UI libraries, components and animations by @ramotion - https://github.com/Ramotion/swift-ui-animation-components-libraries
 
-
----
-
-160 |    ✰ 1480 ✰    |    CouponView
-
-半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合
-
-[https://github.com/dongjunkun/couponview](https://github.com/dongjunkun/couponview)
+[https://github.com/Ramotion/android-ui-animation-components-and-libraries](https://github.com/Ramotion/android-ui-animation-components-and-libraries)
 
 
 ---
 
-161 |    ✰ 1467 ✰    |    android-circlebutton
+194 |    bundletool
 
-Circle button widget for Android
-
-[https://github.com/markushi/android-circlebutton](https://github.com/markushi/android-circlebutton)
-
-
----
-
-162 |    ✰ 1466 ✰    |    cw-advandroid
-
-Source Code to _The Busy Coder's Guide To Advanced Android Development_
-
-[https://github.com/commonsguy/cw-advandroid](https://github.com/commonsguy/cw-advandroid)
-
-
----
-
-163 |    ✰ 1437 ✰    |    Hyperion-Android
-
-App Debugging & Inspection Tool for Android
-
-[https://github.com/willowtreeapps/hyperion-android](https://github.com/willowtreeapps/hyperion-android)
-
-
----
-
-164 |    ✰ 1430 ✰    |    apkstudio
-
-Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
-
-[https://github.com/vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
-
-
----
-
-165 |    ✰ 1422 ✰    |    Notes
-
-Material Design Notes App
-
-[https://github.com/lguipeng/notes](https://github.com/lguipeng/notes)
-
-
----
-
-166 |    ✰ 1418 ✰    |    VCameraDemo
-
-微信小视频+秒拍,FFmpeg库封装
-
-[https://github.com/motianhuo/vcamerademo](https://github.com/motianhuo/vcamerademo)
-
-
----
-
-167 |    ✰ 1401 ✰    |    android-PictureInPicture
-
-Migrated:
-
-[https://github.com/android/android-pictureinpicture](https://github.com/android/android-pictureinpicture)
-
-
----
-
-168 |    ✰ 1397 ✰    |    MyDiary
-
-In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version.
-
-[https://github.com/erttyy8821/mydiary](https://github.com/erttyy8821/mydiary)
-
-
----
-
-169 |    ✰ 1376 ✰    |    bundletool
+✰✰✰ 1571
 
 Bundletool is a command-line tool to manipulate Android App Bundles
 
@@ -1526,34 +2141,152 @@ Bundletool is a command-line tool to manipulate Android App Bundles
 
 ---
 
-170 |    ✰ 1376 ✰    |    android-ui-animation-components-and-libraries
+195 |    openauto
 
-Android UI libraries, components and animations by @ramotion - https://github.com/Ramotion/swift-ui-animation-components-libraries
+✰✰✰ 1556
 
-[https://github.com/ramotion/android-ui-animation-components-and-libraries](https://github.com/ramotion/android-ui-animation-components-and-libraries)
+AndroidAuto headunit emulator
 
-
----
-
-171 |    ✰ 1348 ✰    |    ArcMenu
-
-An android custom view which looks like the menu in Path 2.0 (for iOS).
-
-[https://github.com/dacapricorn/arcmenu](https://github.com/dacapricorn/arcmenu)
+[https://github.com/f1xpl/openauto](https://github.com/f1xpl/openauto)
 
 
 ---
 
-172 |    ✰ 1343 ✰    |    android-examples
+196 |    fluid-slider
 
-:shipit: [Examples] Simple basic isolated apps, for budding android devs.
+✰✰✰ 1556
 
-[https://github.com/nisrulz/android-examples](https://github.com/nisrulz/android-examples)
+:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion - https://github.com/Ramotion/swift-ui-animation-components-and-libraries
+
+[https://github.com/ramotion/fluid-slider](https://github.com/ramotion/fluid-slider)
 
 
 ---
 
-173 |    ✰ 1339 ✰    |    marytts
+197 |    mipushframework
+
+✰✰✰ 1538
+
+Let supported push service run system-ly on every Android devices
+
+[https://github.com/trumeet/mipushframework](https://github.com/trumeet/mipushframework)
+
+
+---
+
+198 |    lightning-browser
+
+✰✰✰ 1534
+
+A lightweight Android browser with modern navigation
+
+[https://github.com/anthonycr/lightning-browser](https://github.com/anthonycr/lightning-browser)
+
+
+---
+
+199 |    couponview
+
+✰✰✰ 1490
+
+半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合
+
+[https://github.com/dongjunkun/couponview](https://github.com/dongjunkun/couponview)
+
+
+---
+
+200 |    hyperion-android
+
+✰✰✰ 1490
+
+App Debugging & Inspection Tool for Android
+
+[https://github.com/willowtreeapps/hyperion-android](https://github.com/willowtreeapps/hyperion-android)
+
+
+---
+
+201 |    recyclerbanner
+
+✰✰✰ 1488
+
+用RecyclerView实现无限轮播图，有普通版和3d版
+
+[https://github.com/renjianan/recyclerbanner](https://github.com/renjianan/recyclerbanner)
+
+
+---
+
+202 |    android-circlebutton
+
+✰✰✰ 1477
+
+Circle button widget for Android
+
+[https://github.com/markushi/android-circlebutton](https://github.com/markushi/android-circlebutton)
+
+
+---
+
+203 |    cw-advandroid
+
+✰✰✰ 1465
+
+Source Code to _The Busy Coder's Guide To Advanced Android Development_
+
+[https://github.com/commonsguy/cw-advandroid](https://github.com/commonsguy/cw-advandroid)
+
+
+---
+
+204 |    mydiary
+
+✰✰✰ 1426
+
+In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version.
+
+[https://github.com/erttyy8821/mydiary](https://github.com/erttyy8821/mydiary)
+
+
+---
+
+205 |    notes
+
+✰✰✰ 1423
+
+Material Design Notes App
+
+[https://github.com/lguipeng/notes](https://github.com/lguipeng/notes)
+
+
+---
+
+206 |    multiwaveheader
+
+✰✰✰ 1420
+
+Wave,水波,Android 炫酷的多重水波纹 MultiWaveHeader 
+
+[https://github.com/scwang90/multiwaveheader](https://github.com/scwang90/multiwaveheader)
+
+
+---
+
+207 |    vcamerademo
+
+✰✰✰ 1418
+
+微信小视频+秒拍,FFmpeg库封装
+
+[https://github.com/motianhuo/vcamerademo](https://github.com/motianhuo/vcamerademo)
+
+
+---
+
+208 |    marytts
+
+✰✰✰ 1415
 
 MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 
@@ -1562,7 +2295,86 @@ MARY TTS -- an open-source, multilingual text-to-speech synthesis system written
 
 ---
 
-174 |    ✰ 1337 ✰    |    android-actionbar
+209 |    android-pictureinpicture
+
+✰✰✰ 1410
+
+Migrated:
+
+[https://github.com/googlesamples/android-pictureinpicture](https://github.com/googlesamples/android-pictureinpicture)
+
+
+---
+
+210 |    android-examples
+
+✰✰✰ 1396
+
+:shipit: [Examples] Simple basic isolated apps, for budding android devs.
+
+[https://github.com/nisrulz/android-examples](https://github.com/nisrulz/android-examples)
+
+
+---
+
+211 |    slidinguppanellayout
+
+✰✰✰ 1395
+
+A vertical-handled and multi-panel support SlidingPanelLayout. 一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果。
+
+[https://github.com/woxingxiao/slidinguppanellayout](https://github.com/woxingxiao/slidinguppanellayout)
+
+
+---
+
+212 |    Store
+
+✰✰✰ 1391
+
+Kotlin Library for Async Data Loading and Caching
+
+[https://github.com/dropbox/Store](https://github.com/dropbox/Store)
+
+
+---
+
+213 |    autobahn-java
+
+✰✰✰ 1376
+
+WebSocket & WAMP in Java for Android and Java 8
+
+[https://github.com/crossbario/autobahn-java](https://github.com/crossbario/autobahn-java)
+
+
+---
+
+214 |    arcmenu
+
+✰✰✰ 1354
+
+An android custom view which looks like the menu in Path 2.0 (for iOS).
+
+[https://github.com/dacapricorn/arcmenu](https://github.com/dacapricorn/arcmenu)
+
+
+---
+
+215 |    catchup
+
+✰✰✰ 1336
+
+An app for catching up on things.
+
+[https://github.com/hzsweers/catchup](https://github.com/hzsweers/catchup)
+
+
+---
+
+216 |    android-actionbar
+
+✰✰✰ 1335
 
 DEPRECATED Android Action Bar Implementation
 
@@ -1571,115 +2383,9 @@ DEPRECATED Android Action Bar Implementation
 
 ---
 
-175 |    ✰ 1332 ✰    |    KISS
+217 |    http4k
 
-Lightning fast, open-source, < 200kb Android launcher
-
-[https://github.com/neamar/kiss](https://github.com/neamar/kiss)
-
-
----
-
-176 |    ✰ 1320 ✰    |    strman-java
-
-A Java 8 string manipulation library. 
-
-[https://github.com/shekhargulati/strman-java](https://github.com/shekhargulati/strman-java)
-
-
----
-
-177 |    ✰ 1314 ✰    |    MaterialEverywhere
-
-Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.
-
-[https://github.com/antoniolg/materialeverywhere](https://github.com/antoniolg/materialeverywhere)
-
-
----
-
-178 |    ✰ 1285 ✰    |    material-remixer
-
-A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
-
-[https://github.com/material-foundation/material-remixer](https://github.com/material-foundation/material-remixer)
-
-
----
-
-179 |    ✰ 1267 ✰    |    Android-Cheat-sheet
-
-Cheat Sheet for Android Interviews
-
-[https://github.com/anitaa1990/android-cheat-sheet](https://github.com/anitaa1990/android-cheat-sheet)
-
-
----
-
-180 |    ✰ 1258 ✰    |    Surviving-with-android
-
-Source code related to the posts in the blog
-
-[https://github.com/survivingwithandroid/surviving-with-android](https://github.com/survivingwithandroid/surviving-with-android)
-
-
----
-
-181 |    ✰ 1242 ✰    |    mainframer
-
-Tool for remote builds. Sync project to remote machine, execute command, sync back.
-
-[https://github.com/gojuno/mainframer](https://github.com/gojuno/mainframer)
-
-
----
-
-182 |    ✰ 1237 ✰    |    CatchUp
-
-An app for catching up on things.
-
-[https://github.com/zacsweers/catchup](https://github.com/zacsweers/catchup)
-
-
----
-
-183 |    ✰ 1227 ✰    |    Superuser
-
-
-
-[https://github.com/koush/superuser](https://github.com/koush/superuser)
-
-
----
-
-184 |    ✰ 1222 ✰    |    MultiType-FilePicker
-
-This is a light Android file picker library.
-
-[https://github.com/fishwjy/multitype-filepicker](https://github.com/fishwjy/multitype-filepicker)
-
-
----
-
-185 |    ✰ 1216 ✰    |    jvm-mon
-
-Console-based JVM monitoring
-
-[https://github.com/ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon)
-
-
----
-
-186 |    ✰ 1205 ✰    |    StateButton
-
-一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
-
-[https://github.com/niniloveyou/statebutton](https://github.com/niniloveyou/statebutton)
-
-
----
-
-187 |    ✰ 1178 ✰    |    http4k
+✰✰✰ 1334
 
 http4k is a "Server as a Function" HTTP toolkit written in Kotlin with a focus on creating simple, testable APIs
 
@@ -1688,25 +2394,108 @@ http4k is a "Server as a Function" HTTP toolkit written in Kotlin with a focus o
 
 ---
 
-188 |    ✰ 1176 ✰    |    Curved-Fab-Reveal-Example
+218 |    streetcomplete
 
+✰✰✰ 1328
 
+Easy to use OpenStreetMap editor for Android
 
-[https://github.com/saulmm/curved-fab-reveal-example](https://github.com/saulmm/curved-fab-reveal-example)
-
-
----
-
-189 |    ✰ 1173 ✰    |    java
-
-jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
-
-[https://github.com/json-iterator/java](https://github.com/json-iterator/java)
+[https://github.com/westnordost/streetcomplete](https://github.com/westnordost/streetcomplete)
 
 
 ---
 
-190 |    ✰ 1170 ✰    |    AnExplorer
+219 |    strman-java
+
+✰✰✰ 1324
+
+A Java 8 string manipulation library. 
+
+[https://github.com/shekhargulati/strman-java](https://github.com/shekhargulati/strman-java)
+
+
+---
+
+220 |    mainframer
+
+✰✰✰ 1321
+
+Tool for remote builds. Sync project to remote machine, execute command, sync back.
+
+[https://github.com/gojuno/mainframer](https://github.com/gojuno/mainframer)
+
+
+---
+
+221 |    materialeverywhere
+
+✰✰✰ 1312
+
+Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.
+
+[https://github.com/antoniolg/materialeverywhere](https://github.com/antoniolg/materialeverywhere)
+
+
+---
+
+222 |    material-remixer
+
+✰✰✰ 1286
+
+A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
+
+[https://github.com/material-foundation/material-remixer](https://github.com/material-foundation/material-remixer)
+
+
+---
+
+223 |    paris
+
+✰✰✰ 1281
+
+Define and apply styles to Android views programmatically
+
+[https://github.com/airbnb/paris](https://github.com/airbnb/paris)
+
+
+---
+
+224 |    surviving-with-android
+
+✰✰✰ 1278
+
+Source code related to the posts in the blog
+
+[https://github.com/survivingwithandroid/surviving-with-android](https://github.com/survivingwithandroid/surviving-with-android)
+
+
+---
+
+225 |    jvm-mon
+
+✰✰✰ 1267
+
+Console-based JVM monitoring
+
+[https://github.com/ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon)
+
+
+---
+
+226 |    multitype-filepicker
+
+✰✰✰ 1259
+
+This is a light Android file picker library.
+
+[https://github.com/fishwjy/multitype-filepicker](https://github.com/fishwjy/multitype-filepicker)
+
+
+---
+
+227 |    anexplorer
+
+✰✰✰ 1248
 
 📁 Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google.
 
@@ -1715,25 +2504,86 @@ jsoniter (json-iterator) is fast and flexible JSON parser available in Java and 
 
 ---
 
-191 |    ✰ 1150 ✰    |    PaperPlane
+228 |    superuser
 
-📚 PaperPlane - An Android reading app, including articles from Zhihu Daily, Guokr Handpick and Douban Moment. 
+✰✰✰ 1243
 
-[https://github.com/marktony/paperplane](https://github.com/marktony/paperplane)
+None
 
-
----
-
-192 |    ✰ 1143 ✰    |    recyclerview-playground
-
-Examples of RecyclerView use and custom LayoutManager implementations
-
-[https://github.com/devunwired/recyclerview-playground](https://github.com/devunwired/recyclerview-playground)
+[https://github.com/koush/superuser](https://github.com/koush/superuser)
 
 
 ---
 
-193 |    ✰ 1130 ✰    |    zt-zip
+229 |    Unciv
+
+✰✰✰ 1233
+
+Open-source Android/Desktop remake of Civ V
+
+[https://github.com/yairm210/Unciv](https://github.com/yairm210/Unciv)
+
+
+---
+
+230 |    views-widgets-samples
+
+✰✰✰ 1232
+
+Multiple samples showing the best practices in views-widgets on Android.
+
+[https://github.com/android/views-widgets-samples](https://github.com/android/views-widgets-samples)
+
+
+---
+
+231 |    java
+
+✰✰✰ 1217
+
+jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
+
+[https://github.com/json-iterator/java](https://github.com/json-iterator/java)
+
+
+---
+
+232 |    statebutton
+
+✰✰✰ 1217
+
+一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
+
+[https://github.com/niniloveyou/statebutton](https://github.com/niniloveyou/statebutton)
+
+
+---
+
+233 |    githubclient
+
+✰✰✰ 1199
+
+Example of Github API client implemented on top of Dagger 2 DI framework. 
+
+[https://github.com/frogermcs/githubclient](https://github.com/frogermcs/githubclient)
+
+
+---
+
+234 |    android
+
+✰✰✰ 1193
+
+DuckDuckGo Android App
+
+[https://github.com/duckduckgo/android](https://github.com/duckduckgo/android)
+
+
+---
+
+235 |    zt-zip
+
+✰✰✰ 1182
 
 ZeroTurnaround ZIP Library
 
@@ -1742,250 +2592,64 @@ ZeroTurnaround ZIP Library
 
 ---
 
-194 |    ✰ 1120 ✰    |    android-open-source-project-cracking
+236 |    adaptiveiconplayground
 
-Analysis for Popular & Hot Android open-source Applications & Libraries will help you grow into a Senior Android developer. Follow us, do practice in the right and fast way. 通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的。
+✰✰✰ 1180
 
-[https://github.com/wingjay/android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking)
+An Android app for experimenting with Adaptive Icons.
 
-
----
-
-195 |    ✰ 1112 ✰    |    Avengers
-
-[Deprecated] This project aims to work as a demo project and reference using the common frameworks and tools
-
-[https://github.com/saulmm/avengers](https://github.com/saulmm/avengers)
+[https://github.com/nickbutcher/adaptiveiconplayground](https://github.com/nickbutcher/adaptiveiconplayground)
 
 
 ---
 
-196 |    ✰ 1102 ✰    |    AndroidWM
+237 |    curved-fab-reveal-example
 
-An android image watermark library that supports invisible digital watermarks (steganography). :foggy: 
+✰✰✰ 1172
 
-[https://github.com/huangyz0918/androidwm](https://github.com/huangyz0918/androidwm)
+None
 
-
----
-
-197 |    ✰ 1097 ✰    |    keyczar
-
-Easy-to-use crypto toolkit
-
-[https://github.com/google/keyczar](https://github.com/google/keyczar)
+[https://github.com/saulmm/curved-fab-reveal-example](https://github.com/saulmm/curved-fab-reveal-example)
 
 
 ---
 
-198 |    ✰ 1088 ✰    |    Isometric
+238 |    graywater
 
-Isometric drawing library for Android
+✰✰✰ 1167
 
-[https://github.com/fabianterhorst/isometric](https://github.com/fabianterhorst/isometric)
+An Android library for decomposing RecyclerView layouts to improve scroll performance.
 
-
----
-
-199 |    ✰ 1082 ✰    |    KnowWeather
-
-一款美观、实用的天气app。实践了模块化架构 和 Android Architecture Components 
-
-[https://github.com/silencedut/knowweather](https://github.com/silencedut/knowweather)
+[https://github.com/tumblr/graywater](https://github.com/tumblr/graywater)
 
 
 ---
 
-200 |    ✰ 1078 ✰    |    android-components
+239 |    recyclerview-playground
 
-A collection of Android libraries to build browsers or browser-like applications.
+✰✰✰ 1156
 
-[https://github.com/mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components)
+Examples of RecyclerView use and custom LayoutManager implementations
 
-
----
-
-201 |    ✰ 1068 ✰    |    appbarlayout-spring-behavior
-
-One Behavior help AppBarLayout to scroll spring
-
-[https://github.com/todou/appbarlayout-spring-behavior](https://github.com/todou/appbarlayout-spring-behavior)
+[https://github.com/devunwired/recyclerview-playground](https://github.com/devunwired/recyclerview-playground)
 
 
 ---
 
-202 |    ✰ 1065 ✰    |    Espresso
+240 |    paperplane
 
-🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
+✰✰✰ 1150
 
-[https://github.com/tonnyl/espresso](https://github.com/tonnyl/espresso)
+📚 PaperPlane - An Android reading app, including articles from Zhihu Daily, Guokr Handpick and Douban Moment. 
 
-
----
-
-203 |    ✰ 1045 ✰    |    Android-DirectionalViewPager
-
-[DEPRECATED] Implementation of the compatibility library ViewPager class that supports paging both vertically and horizontally.
-
-[https://github.com/jakewharton/android-directionalviewpager](https://github.com/jakewharton/android-directionalviewpager)
+[https://github.com/marktony/paperplane](https://github.com/marktony/paperplane)
 
 
 ---
 
-204 |    ✰ 1033 ✰    |    android-dev-bookmarks
+241 |    spotless
 
-Android Dev Bookmarks(ADB) - Android 开发者的浏览器书签 For CN-Dev now | 历史更新文章戳这里：https://rocko.xyz/categories/Android-Dev-Bookmarks/  |  订阅： https://tinyletter.com/Rocko  |   站点主页：
-
-[https://github.com/zhengxiaopeng/android-dev-bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks)
-
-
----
-
-205 |    ✰ 1029 ✰    |    BaseAnimation
-
-BaseAnimation network Android animation set, custom controls, nearly 200 kinds of source code！ BaseAnimation, if a new version is updated automatically to remind everyone, I hope everyone will contribute their animated XML files or other source, together to create this open source app！
-
-[https://github.com/z56402344/baseanimation](https://github.com/z56402344/baseanimation)
-
-
----
-
-206 |    ✰ 1029 ✰    |    CalendarListView
-
-A custom ListView combine with CalendarView which interactive each other.
-
-[https://github.com/kelin-hong/calendarlistview](https://github.com/kelin-hong/calendarlistview)
-
-
----
-
-207 |    ✰ 1023 ✰    |    spark
-
-A simple Android sparkline chart view.
-
-[https://github.com/robinhood/spark](https://github.com/robinhood/spark)
-
-
----
-
-208 |    ✰ 1018 ✰    |    BlurredView
-
-【Deprecated】 Dynamic blur of image views for Android
-
-[https://github.com/wl9739/blurredview](https://github.com/wl9739/blurredview)
-
-
----
-
-209 |    ✰ 993 ✰    |    DragLayout
-
-An Android Project.强迫症头像制作器，使用support.v4包下的ViewDragHelper实现QQ5.0侧滑
-
-[https://github.com/bluemor/draglayout](https://github.com/bluemor/draglayout)
-
-
----
-
-210 |    ✰ 990 ✰    |    AlgorithmVisualizer-Android
-
-Visualize algorithms and data structures using animations
-
-[https://github.com/naman14/algorithmvisualizer-android](https://github.com/naman14/algorithmvisualizer-android)
-
-
----
-
-211 |    ✰ 988 ✰    |    android-eye
-
-Change your android phone to surveillance camera
-
-[https://github.com/teaonly/android-eye](https://github.com/teaonly/android-eye)
-
-
----
-
-212 |    ✰ 977 ✰    |    SlyceMessaging
-
-A messaging library for Android
-
-[https://github.com/slyce-inc/slycemessaging](https://github.com/slyce-inc/slycemessaging)
-
-
----
-
-213 |    ✰ 968 ✰    |    kyrie
-
-🍀 Animated Vector Drawables on steroids 🍀
-
-[https://github.com/alexjlockwood/kyrie](https://github.com/alexjlockwood/kyrie)
-
-
----
-
-214 |    ✰ 965 ✰    |    quran_android
-
-a quran reading application for android
-
-[https://github.com/quran/quran_android](https://github.com/quran/quran_android)
-
-
----
-
-215 |    ✰ 962 ✰    |    SaveState
-
-:icecream: Generate 'onSaveInstanceState' and 'onRestoreInstanceState' methods for your application automatically
-
-[https://github.com/prototypez/savestate](https://github.com/prototypez/savestate)
-
-
----
-
-216 |    ✰ 959 ✰    |    android-ScreenCapture
-
-Migrated:
-
-[https://github.com/android/android-screencapture](https://github.com/android/android-screencapture)
-
-
----
-
-217 |    ✰ 954 ✰    |    ImageFilterForAndroid
-
-
-
-[https://github.com/daizhenjun/imagefilterforandroid](https://github.com/daizhenjun/imagefilterforandroid)
-
-
----
-
-218 |    ✰ 941 ✰    |    BezierDemo
-
-A demo to show bezier.
-
-[https://github.com/chenupt/bezierdemo](https://github.com/chenupt/bezierdemo)
-
-
----
-
-219 |    ✰ 940 ✰    |    SimpleTagImageView
-
-ImageView with a tag on android
-
-[https://github.com/wujingchao/simpletagimageview](https://github.com/wujingchao/simpletagimageview)
-
-
----
-
-220 |    ✰ 928 ✰    |    GADownloading
-
-A Gorgeous LoadingView (一个绚丽的LoadingView )
-
-[https://github.com/ajian-studio/gadownloading](https://github.com/ajian-studio/gadownloading)
-
-
----
-
-221 |    ✰ 926 ✰    |    spotless
+✰✰✰ 1135
 
 Keep your code spotless
 
@@ -1994,7 +2658,383 @@ Keep your code spotless
 
 ---
 
-222 |    ✰ 923 ✰    |    adp-delightful-details
+242 |    clean-architecture-components-boilerplate
+
+✰✰✰ 1133
+
+A fork of our clean architecture boilerplate, this time using the Android Architecture Components
+
+[https://github.com/bufferapp/clean-architecture-components-boilerplate](https://github.com/bufferapp/clean-architecture-components-boilerplate)
+
+
+---
+
+243 |    manifold
+
+✰✰✰ 1121
+
+A model-agnostic visual debugging tool for machine learning
+
+[https://github.com/uber/manifold](https://github.com/uber/manifold)
+
+
+---
+
+244 |    android-open-source-project-cracking
+
+✰✰✰ 1114
+
+Analysis for Popular & Hot Android open-source Applications & Libraries will help you grow into a Senior Android developer. Follow us, do practice in the right and fast way. 通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的。
+
+[https://github.com/wingjay/android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking)
+
+
+---
+
+245 |    appbarlayout-spring-behavior
+
+✰✰✰ 1109
+
+One Behavior help AppBarLayout to scroll spring
+
+[https://github.com/todou/appbarlayout-spring-behavior](https://github.com/todou/appbarlayout-spring-behavior)
+
+
+---
+
+246 |    avengers
+
+✰✰✰ 1105
+
+[Deprecated] This project aims to work as a demo project and reference using the common frameworks and tools
+
+[https://github.com/saulmm/avengers](https://github.com/saulmm/avengers)
+
+
+---
+
+247 |    knowweather
+
+✰✰✰ 1102
+
+一款美观、实用的天气app。实践了模块化架构 和 Android Architecture Components 
+
+[https://github.com/silencedut/knowweather](https://github.com/silencedut/knowweather)
+
+
+---
+
+248 |    keyczar
+
+✰✰✰ 1100
+
+Easy-to-use crypto toolkit
+
+[https://github.com/google/keyczar](https://github.com/google/keyczar)
+
+
+---
+
+249 |    isometric
+
+✰✰✰ 1092
+
+Isometric drawing library for Android
+
+[https://github.com/fabianterhorst/isometric](https://github.com/fabianterhorst/isometric)
+
+
+---
+
+250 |    daggraph
+
+✰✰✰ 1080
+
+Dagger dependency graph generator for Android Developers
+
+[https://github.com/dvdciri/daggraph](https://github.com/dvdciri/daggraph)
+
+
+---
+
+251 |    mricheditor
+
+✰✰✰ 1079
+
+A rich text editor sample (based on summernote)
+
+[https://github.com/even201314/mricheditor](https://github.com/even201314/mricheditor)
+
+
+---
+
+252 |    astrid
+
+✰✰✰ 1077
+
+Astrid: Android's #1 Task Management Application
+
+[https://github.com/todoroo/astrid](https://github.com/todoroo/astrid)
+
+
+---
+
+253 |    espresso
+
+✰✰✰ 1072
+
+🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
+
+[https://github.com/tonnyl/espresso](https://github.com/tonnyl/espresso)
+
+
+---
+
+254 |    material-components-android-examples
+
+✰✰✰ 1065
+
+Companion example apps and code for MDC-Android.
+
+[https://github.com/material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples)
+
+
+---
+
+255 |    clikt
+
+✰✰✰ 1056
+
+Multiplatform command line interface parsing for Kotlin
+
+[https://github.com/ajalt/clikt](https://github.com/ajalt/clikt)
+
+
+---
+
+256 |    android-directionalviewpager
+
+✰✰✰ 1045
+
+[DEPRECATED] Implementation of the compatibility library ViewPager class that supports paging both vertically and horizontally.
+
+[https://github.com/jakewharton/android-directionalviewpager](https://github.com/jakewharton/android-directionalviewpager)
+
+
+---
+
+257 |    spark
+
+✰✰✰ 1045
+
+A simple Android sparkline chart view.
+
+[https://github.com/robinhood/spark](https://github.com/robinhood/spark)
+
+
+---
+
+258 |    android-dev-bookmarks
+
+✰✰✰ 1038
+
+Android Dev Bookmarks(ADB) - Android 开发者的浏览器书签 For CN-Dev now | 历史更新文章戳这里：https://rocko.xyz/categories/Android-Dev-Bookmarks/  |  订阅： https://tinyletter.com/Rocko  |   站点主页：
+
+[https://github.com/zhengxiaopeng/android-dev-bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks)
+
+
+---
+
+259 |    calendarlistview
+
+✰✰✰ 1032
+
+A custom ListView combine with CalendarView which interactive each other.
+
+[https://github.com/kelin-hong/calendarlistview](https://github.com/kelin-hong/calendarlistview)
+
+
+---
+
+260 |    baseanimation
+
+✰✰✰ 1030
+
+BaseAnimation network Android animation set, custom controls, nearly 200 kinds of source code！ BaseAnimation, if a new version is updated automatically to remind everyone, I hope everyone will contribute their animated XML files or other source, together to create this open source app！
+
+[https://github.com/z56402344/baseanimation](https://github.com/z56402344/baseanimation)
+
+
+---
+
+261 |    blurredview
+
+✰✰✰ 1017
+
+【Deprecated】 Dynamic blur of image views for Android
+
+[https://github.com/wl9739/blurredview](https://github.com/wl9739/blurredview)
+
+
+---
+
+262 |    quran_android
+
+✰✰✰ 1009
+
+a quran reading application for android
+
+[https://github.com/quran/quran_android](https://github.com/quran/quran_android)
+
+
+---
+
+263 |    rootbeer
+
+✰✰✰ 1009
+
+Simple to use root checking Android library and sample app
+
+[https://github.com/scottyab/rootbeer](https://github.com/scottyab/rootbeer)
+
+
+---
+
+264 |    algorithmvisualizer-android
+
+✰✰✰ 1003
+
+Visualize algorithms and data structures using animations
+
+[https://github.com/naman14/algorithmvisualizer-android](https://github.com/naman14/algorithmvisualizer-android)
+
+
+---
+
+265 |    dropdownview
+
+✰✰✰ 999
+
+A simple drop down view with built-in animations.
+
+[https://github.com/anthonyfermin/dropdownview](https://github.com/anthonyfermin/dropdownview)
+
+
+---
+
+266 |    android-eye
+
+✰✰✰ 996
+
+Change your android phone to surveillance camera
+
+[https://github.com/teaonly/android-eye](https://github.com/teaonly/android-eye)
+
+
+---
+
+267 |    kyrie
+
+✰✰✰ 995
+
+🍀 Animated Vector Drawables on steroids 🍀
+
+[https://github.com/alexjlockwood/kyrie](https://github.com/alexjlockwood/kyrie)
+
+
+---
+
+268 |    draglayout
+
+✰✰✰ 994
+
+An Android Project.强迫症头像制作器，使用support.v4包下的ViewDragHelper实现QQ5.0侧滑
+
+[https://github.com/bluemor/draglayout](https://github.com/bluemor/draglayout)
+
+
+---
+
+269 |    Foodium
+
+✰✰✰ 985
+
+ 🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+
+[https://github.com/PatilShreyas/Foodium](https://github.com/PatilShreyas/Foodium)
+
+
+---
+
+270 |    android-screencapture
+
+✰✰✰ 980
+
+Migrated:
+
+[https://github.com/googlesamples/android-screencapture](https://github.com/googlesamples/android-screencapture)
+
+
+---
+
+271 |    savestate
+
+✰✰✰ 979
+
+:icecream: Generate 'onSaveInstanceState' and 'onRestoreInstanceState' methods for your application automatically
+
+[https://github.com/prototypez/savestate](https://github.com/prototypez/savestate)
+
+
+---
+
+272 |    slycemessaging
+
+✰✰✰ 978
+
+A messaging library for Android
+
+[https://github.com/slyce-inc/slycemessaging](https://github.com/slyce-inc/slycemessaging)
+
+
+---
+
+273 |    user-interface-samples
+
+✰✰✰ 971
+
+Multiple samples showing the best practices in the user interface on Android.
+
+[https://github.com/android/user-interface-samples](https://github.com/android/user-interface-samples)
+
+
+---
+
+274 |    imagefilterforandroid
+
+✰✰✰ 957
+
+None
+
+[https://github.com/daizhenjun/imagefilterforandroid](https://github.com/daizhenjun/imagefilterforandroid)
+
+
+---
+
+275 |    chucker
+
+✰✰✰ 954
+
+🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
+
+[https://github.com/ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker)
+
+
+---
+
+276 |    adp-delightful-details
+
+✰✰✰ 953
 
 This sample app accompanies a blog post I wrote on icon animations
 
@@ -2003,16 +3043,86 @@ This sample app accompanies a blog post I wrote on icon animations
 
 ---
 
-223 |    ✰ 894 ✰    |    PullToZoomInListView
+277 |    talon-for-twitter-android
 
-An Android custom ListView with pull to zoom-in and parallax effect header like Path App.
+✰✰✰ 952
 
-[https://github.com/matrixxun/pulltozoominlistview](https://github.com/matrixxun/pulltozoominlistview)
+The most powerful and beautiful Twitter client available.
+
+[https://github.com/klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android)
 
 
 ---
 
-224 |    ✰ 888 ✰    |    Associate-Android-Developer-Certification
+278 |    bezierdemo
+
+✰✰✰ 948
+
+A demo to show bezier.
+
+[https://github.com/chenupt/bezierdemo](https://github.com/chenupt/bezierdemo)
+
+
+---
+
+279 |    android_additive_animations
+
+✰✰✰ 945
+
+Additive animations for Android!
+
+[https://github.com/wirecube/android_additive_animations](https://github.com/wirecube/android_additive_animations)
+
+
+---
+
+280 |    simpletagimageview
+
+✰✰✰ 944
+
+ImageView with a tag on android
+
+[https://github.com/wujingchao/simpletagimageview](https://github.com/wujingchao/simpletagimageview)
+
+
+---
+
+281 |    profilo
+
+✰✰✰ 943
+
+A library for performance traces from production.
+
+[https://github.com/facebookincubator/profilo](https://github.com/facebookincubator/profilo)
+
+
+---
+
+282 |    gadownloading
+
+✰✰✰ 934
+
+A Gorgeous LoadingView (一个绚丽的LoadingView )
+
+[https://github.com/ajian-studio/gadownloading](https://github.com/ajian-studio/gadownloading)
+
+
+---
+
+283 |    kayenta
+
+✰✰✰ 919
+
+Automated Canary Service
+
+[https://github.com/spinnaker/kayenta](https://github.com/spinnaker/kayenta)
+
+
+---
+
+284 |    associate-android-developer-certification
+
+✰✰✰ 915
 
 All the info and materials about the certification that I've collected so far
 
@@ -2021,43 +3131,31 @@ All the info and materials about the certification that I've collected so far
 
 ---
 
-225 |    ✰ 880 ✰    |    Android-PullLayout
+285 |    Kotlin-Pokedex
 
-仿UC天气下拉和微信下拉眼睛
+✰✰✰ 904
 
-[https://github.com/bluemor/android-pulllayout](https://github.com/bluemor/android-pulllayout)
+:cyclone: A Pokedex app using ViewModel, LiveData, Room and Navigation
 
-
----
-
-226 |    ✰ 875 ✰    |    GracefulMovies
-
-简影讯，简约精彩影讯。基于Retrofit+RxJava+Android Arch+DataBinding+Room的高颜值影讯app。简约，优雅，精彩，即看即走，已正式发布上线。
-
-[https://github.com/woxingxiao/gracefulmovies](https://github.com/woxingxiao/gracefulmovies)
+[https://github.com/mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex)
 
 
 ---
 
-227 |    ✰ 875 ✰    |    Android-Kotlin-Clean-Architecture
+286 |    pulltozoominlistview
 
-Android Sample Clean Architecture App written in Kotlin
+✰✰✰ 896
 
-[https://github.com/sanogueralorenzo/android-kotlin-clean-architecture](https://github.com/sanogueralorenzo/android-kotlin-clean-architecture)
+An Android custom ListView with pull to zoom-in and parallax effect header like Path App.
 
-
----
-
-228 |    ✰ 874 ✰    |    android-developer-roadmap
-
-Android Developer Roadmap - A complete roadmap to learn Android App Development
-
-[https://github.com/mindorksopensource/android-developer-roadmap](https://github.com/mindorksopensource/android-developer-roadmap)
+[https://github.com/matrixxun/pulltozoominlistview](https://github.com/matrixxun/pulltozoominlistview)
 
 
 ---
 
-229 |    ✰ 863 ✰    |    Android-Cookbook-Examples
+287 |    android-cookbook-examples
+
+✰✰✰ 889
 
 Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!
 
@@ -2066,286 +3164,42 @@ Contributed code examples from O'Reilly Android Cookbook. See #user-content-tabl
 
 ---
 
-230 |    ✰ 856 ✰    |    android-state
+288 |    gracefulmovies
 
-A utility library for Android to save objects in a Bundle without any boilerplate.
+✰✰✰ 889
 
-[https://github.com/evernote/android-state](https://github.com/evernote/android-state)
+简影讯，简约精彩影讯。基于Retrofit+RxJava+Android Arch+DataBinding+Room的高颜值影讯app。简约，优雅，精彩，即看即走，已正式发布上线。
 
-
----
-
-231 |    ✰ 856 ✰    |    PullScrollView
-
-1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。
-
-[https://github.com/markmjw/pullscrollview](https://github.com/markmjw/pullscrollview)
+[https://github.com/woxingxiao/gracefulmovies](https://github.com/woxingxiao/gracefulmovies)
 
 
 ---
 
-232 |    ✰ 854 ✰    |    awesome-android-things
+289 |    avocado
 
-A curated list of awesome android things tutorials, libraries and much more at one place
+✰✰✰ 883
 
-[https://github.com/amitshekhariitbhu/awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things)
+🥑 Vector Drawable optimization tool 🥑
 
-
----
-
-233 |    ✰ 849 ✰    |    AndroidCommon
-
-基于Android系统Api封装常用工具类
-
-[https://github.com/h4de5ing/androidcommon](https://github.com/h4de5ing/androidcommon)
+[https://github.com/alexjlockwood/avocado](https://github.com/alexjlockwood/avocado)
 
 
 ---
 
-234 |    ✰ 843 ✰    |    code-reader
+290 |    amazing-android-apps
 
-One Multi program language code reader
+✰✰✰ 883
 
-[https://github.com/loopeer/code-reader](https://github.com/loopeer/code-reader)
+Amazing open source Android apps written in Java. 
 
-
----
-
-235 |    ✰ 837 ✰    |    2048-android
-
-The android port of the 2048 game (for offline playing)
-
-[https://github.com/uberspot/2048-android](https://github.com/uberspot/2048-android)
+[https://github.com/mybridge/amazing-android-apps](https://github.com/mybridge/amazing-android-apps)
 
 
 ---
 
-236 |    ✰ 835 ✰    |    android-design-support-lib-sample
+291 |    animation-samples
 
-Just Sample how to use the android design support lib
-
-[https://github.com/swissonid/android-design-support-lib-sample](https://github.com/swissonid/android-design-support-lib-sample)
-
-
----
-
-237 |    ✰ 827 ✰    |    SlideBack
-
-A library to close an activity with swipe gestures.
-
-[https://github.com/oubowu/slideback](https://github.com/oubowu/slideback)
-
-
----
-
-238 |    ✰ 816 ✰    |    FilterMenu
-
-(UNMAINTAINED) An implemention of  Filter Menu concept for android
-
-[https://github.com/linroid/filtermenu](https://github.com/linroid/filtermenu)
-
-
----
-
-239 |    ✰ 815 ✰    |    AndroidIconAnimator
-
-Android vector icon animation tool
-
-[https://github.com/romannurik/androidiconanimator](https://github.com/romannurik/androidiconanimator)
-
-
----
-
-240 |    ✰ 813 ✰    |    nanoscope
-
- An extremely accurate Android method tracing tool.
-
-[https://github.com/uber/nanoscope](https://github.com/uber/nanoscope)
-
-
----
-
-241 |    ✰ 802 ✰    |    androiddev
-
-Quick tips/tutorials for Android developers
-
-[https://github.com/gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev)
-
-
----
-
-242 |    ✰ 799 ✰    |    GraphView
-
-Android GraphView is used to display data in graph structures.
-
-[https://github.com/team-blox/graphview](https://github.com/team-blox/graphview)
-
-
----
-
-243 |    ✰ 796 ✰    |    android-layout-samples
-
-[DEPRECATED] Explorations around Android custom layouts 
-
-[https://github.com/lucasr/android-layout-samples](https://github.com/lucasr/android-layout-samples)
-
-
----
-
-244 |    ✰ 795 ✰    |    wallsplash-android
-
-wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos)
-
-[https://github.com/mikepenz/wallsplash-android](https://github.com/mikepenz/wallsplash-android)
-
-
----
-
-245 |    ✰ 786 ✰    |    SeekArc
-
-Circular SeekBar view for Android
-
-[https://github.com/neild001/seekarc](https://github.com/neild001/seekarc)
-
-
----
-
-246 |    ✰ 784 ✰    |    Aceso
-
-A hotfix library for Android
-
-[https://github.com/meili/aceso](https://github.com/meili/aceso)
-
-
----
-
-247 |    ✰ 780 ✰    |    material-remixer-android
-
-Remixer for Android. Live adjustment of app variables.
-
-[https://github.com/material-foundation/material-remixer-android](https://github.com/material-foundation/material-remixer-android)
-
-
----
-
-248 |    ✰ 779 ✰    |    LoopRotarySwitch
-
-3d旋转切换view，类似旋转木马效果。可以自动切换！
-
-[https://github.com/dalong982242260/looprotaryswitch](https://github.com/dalong982242260/looprotaryswitch)
-
-
----
-
-249 |    ✰ 772 ✰    |    DanmukuLight
-
-Android上专为视频直播打造的轻量级弹幕库（100多kb）
-
-[https://github.com/hpdx/danmukulight](https://github.com/hpdx/danmukulight)
-
-
----
-
-250 |    ✰ 767 ✰    |    CurveLoadingView
-
-一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果
-
-[https://github.com/huyamin150/-dampview-springingview](https://github.com/huyamin150/-dampview-springingview)
-
-
----
-
-251 |    ✰ 762 ✰    |    SVG-Android
-
-support svg images for android 4.0+, more powerful than IconFont and Vector.
-
-[https://github.com/megatronking/svg-android](https://github.com/megatronking/svg-android)
-
-
----
-
-252 |    ✰ 754 ✰    |    gradle-dependency-graph-generator-plugin
-
-Gradle plugin that generates dependency graphs from your project.
-
-[https://github.com/vanniktech/gradle-dependency-graph-generator-plugin](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin)
-
-
----
-
-253 |    ✰ 747 ✰    |    app-privacy-policy-generator
-
-A simple web app to generate a generic privacy policy for your Android/iOS apps
-
-[https://github.com/nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)
-
-
----
-
-254 |    ✰ 742 ✰    |    YoutubeUX
-
-With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout 
-
-[https://github.com/burhanrashid52/youtubeux](https://github.com/burhanrashid52/youtubeux)
-
-
----
-
-255 |    ✰ 740 ✰    |    Etar-Calendar
-
-Android open source calendar
-
-[https://github.com/etar-group/etar-calendar](https://github.com/etar-group/etar-calendar)
-
-
----
-
-256 |    ✰ 740 ✰    |    RxJavaProGuardRules
-
-ProGuard rules for RxJava shipped as AAR!
-
-[https://github.com/artem-zinnatullin/rxjavaproguardrules](https://github.com/artem-zinnatullin/rxjavaproguardrules)
-
-
----
-
-257 |    ✰ 733 ✰    |    Tinker_imitator
-
-(UNMAINTAINED)微信热更新方案实践
-
-[https://github.com/zzz40500/tinker_imitator](https://github.com/zzz40500/tinker_imitator)
-
-
----
-
-258 |    ✰ 731 ✰    |    Android-HorizontalListView
-
-HorizontalListView is an Android ListView widget which scrolls in a horizontal manner (in contrast with the SDK-provided ListView which scrolls vertically).
-
-[https://github.com/meetme/android-horizontallistview](https://github.com/meetme/android-horizontallistview)
-
-
----
-
-259 |    ✰ 725 ✰    |    SmsVerifyCatcher
-
-Android library for phone number verification feature in your app. Automatically copies verification code from SMS right into the app. Made by Stfalcon
-
-[https://github.com/stfalcon-studio/smsverifycatcher](https://github.com/stfalcon-studio/smsverifycatcher)
-
-
----
-
-260 |    ✰ 709 ✰    |    SlidesCodeHighlighter
-
-A little web app that helps you copy+paste syntax-highlighted code into slide decks.
-
-[https://github.com/romannurik/slidescodehighlighter](https://github.com/romannurik/slidescodehighlighter)
-
-
----
-
-261 |    ✰ 705 ✰    |    animation-samples
+✰✰✰ 881
 
 Multiple samples showing the best practices in animation on Android.
 
@@ -2354,43 +3208,526 @@ Multiple samples showing the best practices in animation on Android.
 
 ---
 
-262 |    ✰ 702 ✰    |    openlauncher
+292 |    android-pulllayout
 
-Customizable and open source android launcher.
+✰✰✰ 880
+
+仿UC天气下拉和微信下拉眼睛
+
+[https://github.com/bluemor/android-pulllayout](https://github.com/bluemor/android-pulllayout)
+
+
+---
+
+293 |    android-resource-usage-count
+
+✰✰✰ 877
+
+Show usage count for each resource
+
+[https://github.com/niorgai/android-resource-usage-count](https://github.com/niorgai/android-resource-usage-count)
+
+
+---
+
+294 |    nanoscope
+
+✰✰✰ 876
+
+ An extremely accurate Android method tracing tool.
+
+[https://github.com/uber/nanoscope](https://github.com/uber/nanoscope)
+
+
+---
+
+295 |    awesome-android-things
+
+✰✰✰ 868
+
+A curated list of awesome android things tutorials, libraries and much more at one place
+
+[https://github.com/amitshekhariitbhu/awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things)
+
+
+---
+
+296 |    2048-android
+
+✰✰✰ 866
+
+The android port of the 2048 game (for offline playing)
+
+[https://github.com/uberspot/2048-android](https://github.com/uberspot/2048-android)
+
+
+---
+
+297 |    pullscrollview
+
+✰✰✰ 865
+
+1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。
+
+[https://github.com/markmjw/pullscrollview](https://github.com/markmjw/pullscrollview)
+
+
+---
+
+298 |    turn-layout-manager
+
+✰✰✰ 864
+
+A carousel layout manager for RecyclerView
+
+[https://github.com/cdflynn/turn-layout-manager](https://github.com/cdflynn/turn-layout-manager)
+
+
+---
+
+299 |    android-state
+
+✰✰✰ 860
+
+A utility library for Android to save objects in a Bundle without any boilerplate.
+
+[https://github.com/evernote/android-state](https://github.com/evernote/android-state)
+
+
+---
+
+300 |    androidcommon
+
+✰✰✰ 859
+
+基于Android系统Api封装常用工具类
+
+[https://github.com/h4de5ing/androidcommon](https://github.com/h4de5ing/androidcommon)
+
+
+---
+
+301 |    code-reader
+
+✰✰✰ 854
+
+One Multi program language code reader
+
+[https://github.com/loopeer/code-reader](https://github.com/loopeer/code-reader)
+
+
+---
+
+302 |    gradle-dependency-graph-generator-plugin
+
+✰✰✰ 844
+
+Gradle plugin that generates dependency graphs from your project.
+
+[https://github.com/vanniktech/gradle-dependency-graph-generator-plugin](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin)
+
+
+---
+
+303 |    app-privacy-policy-generator
+
+✰✰✰ 842
+
+A simple web app to generate a generic privacy policy for your Android/iOS apps
+
+[https://github.com/nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)
+
+
+---
+
+304 |    mapme
+
+✰✰✰ 840
+
+The Android maps adapter
+
+[https://github.com/trademe/mapme](https://github.com/trademe/mapme)
+
+
+---
+
+305 |    mylittlecanvas
+
+✰✰✰ 839
+
+🎨Need to create a custom view ?  You don't know how to use Canvas, use MyLittleCanvas instead !
+
+[https://github.com/florent37/mylittlecanvas](https://github.com/florent37/mylittlecanvas)
+
+
+---
+
+306 |    androl4b
+
+✰✰✰ 837
+
+A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+
+[https://github.com/sh4hin/androl4b](https://github.com/sh4hin/androl4b)
+
+
+---
+
+307 |    android-design-support-lib-sample
+
+✰✰✰ 834
+
+Just Sample how to use the android design support lib
+
+[https://github.com/swissonid/android-design-support-lib-sample](https://github.com/swissonid/android-design-support-lib-sample)
+
+
+---
+
+308 |    30-seconds-of-java
+
+✰✰✰ 833
+
+Curated collection of useful little Java functions that you can understand quickly
+
+[https://github.com/shekhargulati/30-seconds-of-java](https://github.com/shekhargulati/30-seconds-of-java)
+
+
+---
+
+309 |    danmukulight
+
+✰✰✰ 828
+
+Android上专为视频直播打造的轻量级弹幕库（100多kb）
+
+[https://github.com/hpdx/danmukulight](https://github.com/hpdx/danmukulight)
+
+
+---
+
+310 |    apkupdater
+
+✰✰✰ 827
+
+APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+
+[https://github.com/rumboalla/apkupdater](https://github.com/rumboalla/apkupdater)
+
+
+---
+
+311 |    slideback
+
+✰✰✰ 826
+
+A library to close an activity with swipe gestures.
+
+[https://github.com/oubowu/slideback](https://github.com/oubowu/slideback)
+
+
+---
+
+312 |    GraphView
+
+✰✰✰ 825
+
+Android GraphView is used to display data in graph structures.
+
+[https://github.com/Team-Blox/GraphView](https://github.com/Team-Blox/GraphView)
+
+
+---
+
+313 |    dex-member-list
+
+✰✰✰ 823
+
+Diffuse is a tool for diffing APKs, AABs, AARs, and JARs
+
+[https://github.com/jakewharton/dex-member-list](https://github.com/jakewharton/dex-member-list)
+
+
+---
+
+314 |    filtermenu
+
+✰✰✰ 820
+
+(UNMAINTAINED) An implemention of  Filter Menu concept for android
+
+[https://github.com/linroid/filtermenu](https://github.com/linroid/filtermenu)
+
+
+---
+
+315 |    androidiconanimator
+
+✰✰✰ 819
+
+Android vector icon animation tool
+
+[https://github.com/romannurik/androidiconanimator](https://github.com/romannurik/androidiconanimator)
+
+
+---
+
+316 |    seekarc
+
+✰✰✰ 807
+
+Circular SeekBar view for Android
+
+[https://github.com/neild001/seekarc](https://github.com/neild001/seekarc)
+
+
+---
+
+317 |    slidescodehighlighter
+
+✰✰✰ 804
+
+A little web app that helps you copy+paste syntax-highlighted code into slide decks.
+
+[https://github.com/romannurik/slidescodehighlighter](https://github.com/romannurik/slidescodehighlighter)
+
+
+---
+
+318 |    kotlin-android-examples
+
+✰✰✰ 803
+
+:muscle: [Examples] Isolated applications purely on Kotlin, for all android devs out there 
+
+[https://github.com/amanjeetsingh150/kotlin-android-examples](https://github.com/amanjeetsingh150/kotlin-android-examples)
+
+
+---
+
+319 |    androiddev
+
+✰✰✰ 801
+
+Quick tips/tutorials for Android developers
+
+[https://github.com/gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev)
+
+
+---
+
+320 |    android-layout-samples
+
+✰✰✰ 799
+
+[DEPRECATED] Explorations around Android custom layouts 
+
+[https://github.com/lucasr/android-layout-samples](https://github.com/lucasr/android-layout-samples)
+
+
+---
+
+321 |    android-clean-architecture-mvi-boilerplate
+
+✰✰✰ 798
+
+A fork of our clean architecture boilerplate using the Model-View-Intent pattern
+
+[https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
+
+
+---
+
+322 |    wallsplash-android
+
+✰✰✰ 795
+
+wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos)
+
+[https://github.com/mikepenz/wallsplash-android](https://github.com/mikepenz/wallsplash-android)
+
+
+---
+
+323 |    svg-android
+
+✰✰✰ 787
+
+support svg images for android 4.0+, more powerful than IconFont and Vector.
+
+[https://github.com/megatronking/svg-android](https://github.com/megatronking/svg-android)
+
+
+---
+
+324 |    youtubeux
+
+✰✰✰ 786
+
+With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout 
+
+[https://github.com/burhanrashid52/youtubeux](https://github.com/burhanrashid52/youtubeux)
+
+
+---
+
+325 |    aceso
+
+✰✰✰ 785
+
+A hotfix library for Android
+
+[https://github.com/meili/aceso](https://github.com/meili/aceso)
+
+
+---
+
+326 |    looprotaryswitch
+
+✰✰✰ 781
+
+3d旋转切换view，类似旋转木马效果。可以自动切换！
+
+[https://github.com/dalong982242260/looprotaryswitch](https://github.com/dalong982242260/looprotaryswitch)
+
+
+---
+
+327 |    runtimepermission
+
+✰✰✰ 781
+
+Simpliest way to ask runtime permissions on Android, no need to extend class or override permissionResult method, choose your way : Kotlin / Coroutines / RxJava / Java7 / Java8
+
+[https://github.com/florent37/runtimepermission](https://github.com/florent37/runtimepermission)
+
+
+---
+
+328 |    material-remixer-android
+
+✰✰✰ 781
+
+Remixer for Android. Live adjustment of app variables.
+
+[https://github.com/material-foundation/material-remixer-android](https://github.com/material-foundation/material-remixer-android)
+
+
+---
+
+329 |    -dampview-springingview
+
+✰✰✰ 769
+
+一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果
+
+[https://github.com/huyamin150/-dampview-springingview](https://github.com/huyamin150/-dampview-springingview)
+
+
+---
+
+330 |    openlauncher
+
+✰✰✰ 766
+
+Customizable and Open Source Launcher for Android
 
 [https://github.com/bennykok/openlauncher](https://github.com/bennykok/openlauncher)
 
 
 ---
 
-263 |    ✰ 701 ✰    |    FlightSeat
+331 |    toastcompat
 
-Ticket seat selection
+✰✰✰ 763
 
-[https://github.com/ldoublem/flightseat](https://github.com/ldoublem/flightseat)
+An Android hook library to fix Toast BadTokenException
 
-
----
-
-264 |    ✰ 701 ✰    |    StateMachine
-
-A Kotlin DSL for finite state machine
-
-[https://github.com/tinder/statemachine](https://github.com/tinder/statemachine)
+[https://github.com/drakeet/toastcompat](https://github.com/drakeet/toastcompat)
 
 
 ---
 
-265 |    ✰ 687 ✰    |    ringdroid
+332 |    serial
 
+✰✰✰ 756
 
+Light-weight, fast framework for object serialization in Java, with Android support.
 
-[https://github.com/google/ringdroid](https://github.com/google/ringdroid)
+[https://github.com/twitter/serial](https://github.com/twitter/serial)
 
 
 ---
 
-266 |    ✰ 684 ✰    |    morph-bottom-navigation
+333 |    smsverifycatcher
+
+✰✰✰ 746
+
+Android library for phone number verification feature in your app. Automatically copies verification code from SMS right into the app. Made by Stfalcon
+
+[https://github.com/stfalcon-studio/smsverifycatcher](https://github.com/stfalcon-studio/smsverifycatcher)
+
+
+---
+
+334 |    stetho-realm
+
+✰✰✰ 740
+
+Realm module for Stetho
+
+[https://github.com/uphyca/stetho-realm](https://github.com/uphyca/stetho-realm)
+
+
+---
+
+335 |    encrypt
+
+✰✰✰ 737
+
+[暂停维护]Android 加密解密工具包。
+
+[https://github.com/gcssloop/encrypt](https://github.com/gcssloop/encrypt)
+
+
+---
+
+336 |    rxjavaproguardrules
+
+✰✰✰ 734
+
+ProGuard rules for RxJava shipped as AAR!
+
+[https://github.com/artem-zinnatullin/rxjavaproguardrules](https://github.com/artem-zinnatullin/rxjavaproguardrules)
+
+
+---
+
+337 |    android-horizontallistview
+
+✰✰✰ 734
+
+HorizontalListView is an Android ListView widget which scrolls in a horizontal manner (in contrast with the SDK-provided ListView which scrolls vertically).
+
+[https://github.com/meetme/android-horizontallistview](https://github.com/meetme/android-horizontallistview)
+
+
+---
+
+338 |    tinker_imitator
+
+✰✰✰ 732
+
+(UNMAINTAINED)微信热更新方案实践
+
+[https://github.com/zzz40500/tinker_imitator](https://github.com/zzz40500/tinker_imitator)
+
+
+---
+
+339 |    morph-bottom-navigation
+
+✰✰✰ 722
 
 This library represents a Bottom Navigation with an awesome morph effect on top of the selected item
 
@@ -2399,205 +3736,42 @@ This library represents a Bottom Navigation with an awesome morph effect on top 
 
 ---
 
-267 |    ✰ 681 ✰    |    android-uitableview
+340 |    movienight
 
-Library and example project on how to use the UITableView component
+✰✰✰ 721
 
-[https://github.com/thiagolocatelli/android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
+MovieNight is a sample Android application that uses the clean architecture approach and is written in Kotlin.
 
-
----
-
-268 |    ✰ 679 ✰    |    diffuse
-
-Diffuse is a tool for diffing APKs, AABs, AARs, and JARs
-
-[https://github.com/jakewharton/diffuse](https://github.com/jakewharton/diffuse)
+[https://github.com/mrsegev/movienight](https://github.com/mrsegev/movienight)
 
 
 ---
 
-269 |    ✰ 664 ✰    |    VPNHotspot
+341 |    kotlin-sample-app
 
-Share your VPN connection over hotspot or repeater! (root required)
+✰✰✰ 714
 
-[https://github.com/mygod/vpnhotspot](https://github.com/mygod/vpnhotspot)
+📚  Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack. 
 
-
----
-
-270 |    ✰ 663 ✰    |    Android-DragDismissActivity
-
-A smooth, easy-to-implement, drag to dismiss Android Activity.
-
-[https://github.com/klinker24/android-dragdismissactivity](https://github.com/klinker24/android-dragdismissactivity)
+[https://github.com/VMadalin/kotlin-sample-app](https://github.com/VMadalin/kotlin-sample-app)
 
 
 ---
 
-271 |    ✰ 663 ✰    |    LogReport
+342 |    ktx
 
-崩溃日志上传框架
+✰✰✰ 712
 
-[https://github.com/wenmingvs/logreport](https://github.com/wenmingvs/logreport)
+LibKTX: Kotlin extensions for LibGDX games and applications
 
-
----
-
-272 |    ✰ 660 ✰    |    Calligraphy
-
-Custom fonts in Android the easy way...
-
-[https://github.com/inflationx/calligraphy](https://github.com/inflationx/calligraphy)
+[https://github.com/libktx/ktx](https://github.com/libktx/ktx)
 
 
 ---
 
-273 |    ✰ 657 ✰    |    conscrypt
+343 |    mobius
 
-Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
-
-[https://github.com/google/conscrypt](https://github.com/google/conscrypt)
-
-
----
-
-274 |    ✰ 656 ✰    |    rexxar-android
-
-Mobile Hybrid Framework Rexxar Android Container
-
-[https://github.com/douban/rexxar-android](https://github.com/douban/rexxar-android)
-
-
----
-
-275 |    ✰ 654 ✰    |    GiftCard
-
-A beautiful gift Cards for android
-
-[https://github.com/ldoublem/giftcard](https://github.com/ldoublem/giftcard)
-
-
----
-
-276 |    ✰ 653 ✰    |    yahnac
-
-Yet Another Hacker News Android Client
-
-[https://github.com/malmstein/yahnac](https://github.com/malmstein/yahnac)
-
-
----
-
-277 |    ✰ 652 ✰    |    AndroidTouchGallery
-
-Android widget for gallery, using viewpager. Allow pinch zoom and drag for images by url
-
-[https://github.com/romantruba/androidtouchgallery](https://github.com/romantruba/androidtouchgallery)
-
-
----
-
-278 |    ✰ 650 ✰    |    CursorWheelLayout
-
-An Android Widget for selecting items that rotate on a wheel.
-
-[https://github.com/bcsl/cursorwheellayout](https://github.com/bcsl/cursorwheellayout)
-
-
----
-
-279 |    ✰ 645 ✰    |    android-drag-FlowLayout
-
-this is a draggable flow layout lib.
-
-[https://github.com/lightsun/android-drag-flowlayout](https://github.com/lightsun/android-drag-flowlayout)
-
-
----
-
-280 |    ✰ 641 ✰    |    kotlin-statistics
-
-Idiomatic statistical operators for Kotlin
-
-[https://github.com/thomasnield/kotlin-statistics](https://github.com/thomasnield/kotlin-statistics)
-
-
----
-
-281 |    ✰ 639 ✰    |    Intra
-
-An experimental tool that allows you to test new DNS-over-HTTPS services on Android
-
-[https://github.com/jigsaw-code/intra](https://github.com/jigsaw-code/intra)
-
-
----
-
-282 |    ✰ 638 ✰    |    tinker-manager
-
-微信tinker补丁管理，后端代码+客户端sdk
-
-[https://github.com/baidao/tinker-manager](https://github.com/baidao/tinker-manager)
-
-
----
-
-283 |    ✰ 632 ✰    |    BadgeView
-
-a BadeView  base on android
-
-[https://github.com/alexliusheng/badgeview](https://github.com/alexliusheng/badgeview)
-
-
----
-
-284 |    ✰ 632 ✰    |    GuideBackgroundColorAnimation
-
-A library for making the background color change while you scoll the viewpager
-
-[https://github.com/taurusxi/guidebackgroundcoloranimation](https://github.com/taurusxi/guidebackgroundcoloranimation)
-
-
----
-
-285 |    ✰ 630 ✰    |    chucker
-
-🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device) - More Chucker than Chuck
-
-[https://github.com/chuckerteam/chucker](https://github.com/chuckerteam/chucker)
-
-
----
-
-286 |    ✰ 628 ✰    |    CircleRecyclerView
-
-the library is a loop RecyclerView(expression), can show some effects when display
-
-[https://github.com/khrystal/circlerecyclerview](https://github.com/khrystal/circlerecyclerview)
-
-
----
-
-287 |    ✰ 626 ✰    |    MD-BiliBili
-
-Material Design 版 BiliBili Android 客户端
-
-[https://github.com/qixingchen/md-bilibili](https://github.com/qixingchen/md-bilibili)
-
-
----
-
-288 |    ✰ 624 ✰    |    OXChart
-
-各种自定义图表库，使用简单，支持扩展
-
-[https://github.com/openxu/oxchart](https://github.com/openxu/oxchart)
-
-
----
-
-289 |    ✰ 622 ✰    |    mobius
+✰✰✰ 710
 
 A functional reactive framework for managing state evolution and side-effects.
 
@@ -2606,16 +3780,185 @@ A functional reactive framework for managing state evolution and side-effects.
 
 ---
 
-290 |    ✰ 620 ✰    |    ExpandableTextView
+344 |    ringdroid
 
-Android TextView that can expand and collapse.
+✰✰✰ 708
 
-[https://github.com/chen-sir/expandabletextview](https://github.com/chen-sir/expandabletextview)
+None
+
+[https://github.com/google/ringdroid](https://github.com/google/ringdroid)
 
 
 ---
 
-291 |    ✰ 617 ✰    |    RSyntaxTextArea
+345 |    conscrypt
+
+✰✰✰ 705
+
+Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
+
+[https://github.com/google/conscrypt](https://github.com/google/conscrypt)
+
+
+---
+
+346 |    flightseat
+
+✰✰✰ 704
+
+Ticket seat selection
+
+[https://github.com/ldoublem/flightseat](https://github.com/ldoublem/flightseat)
+
+
+---
+
+347 |    kotlin-statistics
+
+✰✰✰ 698
+
+Idiomatic statistical operators for Kotlin
+
+[https://github.com/thomasnield/kotlin-statistics](https://github.com/thomasnield/kotlin-statistics)
+
+
+---
+
+348 |    windowimageview
+
+✰✰✰ 693
+
+An ImageView display in RecyclerView, looks like window.
+
+[https://github.com/bleoo/windowimageview](https://github.com/bleoo/windowimageview)
+
+
+---
+
+349 |    android-drag-flowlayout
+
+✰✰✰ 693
+
+this is a draggable flow layout lib.
+
+[https://github.com/lightsun/android-drag-flowlayout](https://github.com/lightsun/android-drag-flowlayout)
+
+
+---
+
+350 |    android-uitableview
+
+✰✰✰ 684
+
+Library and example project on how to use the UITableView component
+
+[https://github.com/thiagolocatelli/android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
+
+
+---
+
+351 |    AssistedInject
+
+✰✰✰ 677
+
+Assisted injection for JSR 330.
+
+[https://github.com/square/AssistedInject](https://github.com/square/AssistedInject)
+
+
+---
+
+352 |    material-calendar-view
+
+✰✰✰ 675
+
+Material Calendar View for Android
+
+[https://github.com/applandeo/material-calendar-view](https://github.com/applandeo/material-calendar-view)
+
+
+---
+
+353 |    android-dragdismissactivity
+
+✰✰✰ 673
+
+A smooth, easy-to-implement, drag to dismiss Android Activity.
+
+[https://github.com/klinker24/android-dragdismissactivity](https://github.com/klinker24/android-dragdismissactivity)
+
+
+---
+
+354 |    java-aes-crypto
+
+✰✰✰ 672
+
+A simple Android class for encrypting & decrypting strings, aiming to avoid the classic mistakes that most such classes suffer from.
+
+[https://github.com/tozny/java-aes-crypto](https://github.com/tozny/java-aes-crypto)
+
+
+---
+
+355 |    chartview
+
+✰✰✰ 667
+
+An example of custom chart on Android
+
+[https://github.com/romandanylyk/chartview](https://github.com/romandanylyk/chartview)
+
+
+---
+
+356 |    logreport
+
+✰✰✰ 667
+
+崩溃日志上传框架
+
+[https://github.com/wenmingvs/logreport](https://github.com/wenmingvs/logreport)
+
+
+---
+
+357 |    rexxar-android
+
+✰✰✰ 662
+
+Mobile Hybrid Framework Rexxar Android Container
+
+[https://github.com/douban/rexxar-android](https://github.com/douban/rexxar-android)
+
+
+---
+
+358 |    giftcard
+
+✰✰✰ 662
+
+A beautiful gift Cards for android
+
+[https://github.com/ldoublem/giftcard](https://github.com/ldoublem/giftcard)
+
+
+---
+
+359 |    MeowBottomNavigation
+
+✰✰✰ 662
+
+Android Meow Bottm Navigation
+
+[https://github.com/oneHamidreza/MeowBottomNavigation](https://github.com/oneHamidreza/MeowBottomNavigation)
+
+
+---
+
+360 |    rsyntaxtextarea
+
+✰✰✰ 660
 
 A syntax highlighting, code folding text editor for Java Swing applications.
 
@@ -2624,277 +3967,163 @@ A syntax highlighting, code folding text editor for Java Swing applications.
 
 ---
 
-292 |    ✰ 615 ✰    |    custom-touch-examples
+361 |    puzzleview
 
-Collection of example applications to highlight doing custom touch event handling and using GestureDetectors in Android applications.
+✰✰✰ 659
 
-[https://github.com/devunwired/custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
+Android Jigsaw puzzle support,inspired by Instagram's layout.
 
-
----
-
-293 |    ✰ 614 ✰    |    From-design-to-Android-part1
-
-First part of 'from design to android' series
-
-[https://github.com/saulmm/from-design-to-android-part1](https://github.com/saulmm/from-design-to-android-part1)
+[https://github.com/wuapnjie/puzzleview](https://github.com/wuapnjie/puzzleview)
 
 
 ---
 
-294 |    ✰ 613 ✰    |    TheContext-Podcast
+362 |    cursorwheellayout
 
-Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin, Artur Dryomov and wonderful guests!
+✰✰✰ 658
 
-[https://github.com/artem-zinnatullin/thecontext-podcast](https://github.com/artem-zinnatullin/thecontext-podcast)
+An Android Widget for selecting items that rotate on a wheel.
 
-
----
-
-295 |    ✰ 611 ✰    |    AllAngleExpandableButton
-
-An expandable button menu that you can define expand angle and button count and so on
-
-[https://github.com/uin3566/allangleexpandablebutton](https://github.com/uin3566/allangleexpandablebutton)
+[https://github.com/bcsl/cursorwheellayout](https://github.com/bcsl/cursorwheellayout)
 
 
 ---
 
-296 |    ✰ 611 ✰    |    MVICore
+363 |    mango
 
-MVI framework with events, time-travel, and more
+✰✰✰ 653
 
-[https://github.com/badoo/mvicore](https://github.com/badoo/mvicore)
+🏀 An Android app for dribbble.com
 
-
----
-
-297 |    ✰ 611 ✰    |    FlickerProgressBar
-
-Android 仿应用宝下载进度条 
-
-[https://github.com/linechen/flickerprogressbar](https://github.com/linechen/flickerprogressbar)
+[https://github.com/tonnyl/mango](https://github.com/tonnyl/mango)
 
 
 ---
 
-298 |    ✰ 610 ✰    |    android-collapse-calendar-view
+364 |    yahnac
 
-Android calendar view that can be toggled between week and month view.
+✰✰✰ 651
 
-[https://github.com/blazsolar/android-collapse-calendar-view](https://github.com/blazsolar/android-collapse-calendar-view)
+Yet Another Hacker News Android Client
 
-
----
-
-299 |    ✰ 603 ✰    |    countries
-
-An example Android app using Retrofit, Realm, Parceler, Dagger and the MVVM pattern with the data binding lib.
-
-[https://github.com/patloew/countries](https://github.com/patloew/countries)
+[https://github.com/malmstein/yahnac](https://github.com/malmstein/yahnac)
 
 
 ---
 
-300 |    ✰ 602 ✰    |    MaterialUp
+365 |    androidtouchgallery
 
-MaterialUp Android App
+✰✰✰ 650
 
-[https://github.com/jariz/materialup](https://github.com/jariz/materialup)
+Android widget for gallery, using viewpager. Allow pinch zoom and drag for images by url
 
-
----
-
-301 |    ✰ 598 ✰    |    RingProgress
-
-a circle progress bar with effect
-
-[https://github.com/ldoublem/ringprogress](https://github.com/ldoublem/ringprogress)
+[https://github.com/romantruba/androidtouchgallery](https://github.com/romantruba/androidtouchgallery)
 
 
 ---
 
-302 |    ✰ 595 ✰    |    ActivityOptionsICS
+366 |    tinker-manager
 
-The lib can make the ActivityOptions animations use in Android api3.1+
+✰✰✰ 649
 
-[https://github.com/tianzhijiexian/activityoptionsics](https://github.com/tianzhijiexian/activityoptionsics)
+微信tinker补丁管理，后端代码+客户端sdk
 
-
----
-
-303 |    ✰ 594 ✰    |    spongycastle
-
-Spongy Castle - a repackage of Bouncy Castle for Android (which ships a crippled version of BC)
-
-[https://github.com/rtyley/spongycastle](https://github.com/rtyley/spongycastle)
+[https://github.com/baidao/tinker-manager](https://github.com/baidao/tinker-manager)
 
 
 ---
 
-304 |    ✰ 590 ✰    |    PixelShot
+367 |    creative-viewpager
 
-PixelShot is an awesome Android library that can save any View in your app as an image
+✰✰✰ 649
 
-[https://github.com/muddz/pixelshot](https://github.com/muddz/pixelshot)
+Creative View Pager easy to use in Android
 
-
----
-
-305 |    ✰ 587 ✰    |    gradle-completion
-
-Gradle tab completion for bash and zsh
-
-[https://github.com/gradle/gradle-completion](https://github.com/gradle/gradle-completion)
+[https://github.com/tommybuonomo/creative-viewpager](https://github.com/tommybuonomo/creative-viewpager)
 
 
 ---
 
-306 |    ✰ 585 ✰    |    CardView
+368 |    fod
 
+✰✰✰ 648
 
+Freedom of Developers
 
-[https://github.com/chiemy/cardview](https://github.com/chiemy/cardview)
-
-
----
-
-307 |    ✰ 582 ✰    |    UndoBar
-
-[Deprecated] Android Library that implements Snackbars (former known as Undobar) from Google's Material Design documentation.
-
-[https://github.com/soarcn/undobar](https://github.com/soarcn/undobar)
+[https://github.com/freedomofdevelopers/fod](https://github.com/freedomofdevelopers/fod)
 
 
 ---
 
-308 |    ✰ 580 ✰    |    ThinRPlugin
+369 |    DisneyMotions
 
-去除android中的R.class
+✰✰✰ 648
 
-[https://github.com/meili/thinrplugin](https://github.com/meili/thinrplugin)
+🦁 A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
 
-
----
-
-309 |    ✰ 577 ✰    |    AnimatedExpandableListView
-
-An extendable, flexible ExpandableListView widget that supports animations.
-
-[https://github.com/idunnololz/animatedexpandablelistview](https://github.com/idunnololz/animatedexpandablelistview)
+[https://github.com/skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions)
 
 
 ---
 
-310 |    ✰ 577 ✰    |    FairEmail
+370 |    badgeview
 
-Open source, privacy friendly email app for Android
+✰✰✰ 644
 
-[https://github.com/m66b/fairemail](https://github.com/m66b/fairemail)
+a BadeView  base on android
 
-
----
-
-311 |    ✰ 575 ✰    |    AppJoint
-
-🔧 Cross module Android development made easy!
-
-[https://github.com/prototypez/appjoint](https://github.com/prototypez/appjoint)
+[https://github.com/alexliusheng/badgeview](https://github.com/alexliusheng/badgeview)
 
 
 ---
 
-312 |    ✰ 572 ✰    |    Spika
+371 |    android-architecture-counter-sample
 
-Spika is universal chat module with backend, web, ios and Android client.
+✰✰✰ 644
 
-[https://github.com/cloverstudio/spika](https://github.com/cloverstudio/spika)
+Sample app using Android architecture components
 
-
----
-
-313 |    ✰ 563 ✰    |    slidetoact
-
-A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
-
-[https://github.com/cortinico/slidetoact](https://github.com/cortinico/slidetoact)
+[https://github.com/dlew/android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample)
 
 
 ---
 
-314 |    ✰ 561 ✰    |    HtmlCompat
+372 |    spark
 
-Compatibility library for Android's Html class. [DEPRECATED]
+✰✰✰ 642
 
-[https://github.com/pixplicity/htmlcompat](https://github.com/pixplicity/htmlcompat)
+🎨 An Android library to create gradient animation like Instagram&Spotify
 
-
----
-
-315 |    ✰ 559 ✰    |    Sprayscape
-
-Sprayscape is a perfectly imperfect VR-ish camera. It is an open source Android app released on the Android Experiments platform.
-
-[https://github.com/googlecreativelab/sprayscape](https://github.com/googlecreativelab/sprayscape)
+[https://github.com/tonnyl/spark](https://github.com/tonnyl/spark)
 
 
 ---
 
-316 |    ✰ 559 ✰    |    DraggableGridView
+373 |    guidebackgroundcoloranimation
 
-A drag-and-drop scrolling grid view for Android
+✰✰✰ 639
 
-[https://github.com/thquinn/draggablegridview](https://github.com/thquinn/draggablegridview)
+A library for making the background color change while you scoll the viewpager
 
-
----
-
-317 |    ✰ 552 ✰    |    LayoutSwitch
-
-A sample showing an easy way to make switch animation from list layout to grid layout with RecyclerView.
-
-[https://github.com/gjiazhe/layoutswitch](https://github.com/gjiazhe/layoutswitch)
+[https://github.com/taurusxi/guidebackgroundcoloranimation](https://github.com/taurusxi/guidebackgroundcoloranimation)
 
 
 ---
 
-318 |    ✰ 552 ✰    |    effective-rxjava
+374 |    kotshi
 
-Effective RxJava
+✰✰✰ 637
 
-[https://github.com/mgp/effective-rxjava](https://github.com/mgp/effective-rxjava)
+An annotations processor that generates Moshi adapters from immutable Kotlin data classes.
 
-
----
-
-319 |    ✰ 548 ✰    |    Posts
-
-A sample Android app using Kotlin, Dagger 2, RxJava, RxAndroid, Retrofit and Android Architecture Components with a modular setup & effective networking
-
-[https://github.com/karntrehan/posts](https://github.com/karntrehan/posts)
+[https://github.com/ansman/kotshi](https://github.com/ansman/kotshi)
 
 
 ---
 
-320 |    ✰ 548 ✰    |    apk2gold
+375 |    ok-gradle
 
-CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
-
-[https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
-
-
----
-
-321 |    ✰ 547 ✰    |    dagger-reflect
-
-A reflection-based implementation of the Dagger dependency injection library for fast IDE builds.
-
-[https://github.com/jakewharton/dagger-reflect](https://github.com/jakewharton/dagger-reflect)
-
-
----
-
-322 |    ✰ 539 ✰    |    ok-gradle
+✰✰✰ 636
 
 IntelliJ/Android Studio plugin for searching artifacts ids of popular Java libraries.
 
@@ -2903,556 +4132,438 @@ IntelliJ/Android Studio plugin for searching artifacts ids of popular Java libra
 
 ---
 
-323 |    ✰ 539 ✰    |    search-samples
+376 |    android-arch-news-sample
 
-Sample code for integrating with Search.
-
-[https://github.com/google/search-samples](https://github.com/google/search-samples)
-
-
----
-
-324 |    ✰ 537 ✰    |    ParallaxScrollView
-
-A Parallax ScrollView which takes a background and foreground views - DEPRECATED
-
-[https://github.com/chrisjenx/parallaxscrollview](https://github.com/chrisjenx/parallaxscrollview)
-
-
----
-
-325 |    ✰ 535 ✰    |    android_volley_examples
-
-Project with examples how to use the new Volley networking framework
-
-[https://github.com/ogrebgr/android_volley_examples](https://github.com/ogrebgr/android_volley_examples)
-
-
----
-
-326 |    ✰ 534 ✰    |    FlipsideCamera
-
-The camera app that takes pictures from both sides of your world ! :camera:
-
-[https://github.com/andyb129/flipsidecamera](https://github.com/andyb129/flipsidecamera)
-
-
----
-
-327 |    ✰ 530 ✰    |    card.io-Android-source
-
-The open-source code for the card.io-Android-SDK: provides fast, easy credit card scanning in mobile apps
-
-[https://github.com/card-io/card.io-android-source](https://github.com/card-io/card.io-android-source)
-
-
----
-
-328 |    ✰ 526 ✰    |    Light
-
-🍭 The usual Snackbar, but elegant
-
-[https://github.com/tonnyl/light](https://github.com/tonnyl/light)
-
-
----
-
-329 |    ✰ 523 ✰    |    Nearby-Shops-End-User-Android-app
-
-Open Source Food Delivery and local shopping Platform
-
-[https://github.com/nearbyshops/nearby-shops-end-user-android-app](https://github.com/nearbyshops/nearby-shops-end-user-android-app)
-
-
----
-
-330 |    ✰ 523 ✰    |    News
+✰✰✰ 635
 
 A sample News 🗞 app built using Modern Android Development [Architecture Components, Coroutines, Retrofit, Room, Kotlin, Dagger]
 
-[https://github.com/akshaychordiya/news](https://github.com/akshaychordiya/news)
+[https://github.com/akshaychordiya/android-arch-news-sample](https://github.com/akshaychordiya/android-arch-news-sample)
 
 
 ---
 
-331 |    ✰ 522 ✰    |    android-recyclerview
+377 |    gradle-completion
 
-Android RecyclerView
+✰✰✰ 634
 
-[https://github.com/chiuki/android-recyclerview](https://github.com/chiuki/android-recyclerview)
+Gradle tab completion for bash and zsh
 
-
----
-
-332 |    ✰ 520 ✰    |    RxAndroidLibs
-
-A curated list of libraries to aid reactive development on Android
-
-[https://github.com/zsoltk/rxandroidlibs](https://github.com/zsoltk/rxandroidlibs)
+[https://github.com/gradle/gradle-completion](https://github.com/gradle/gradle-completion)
 
 
 ---
 
-333 |    ✰ 514 ✰    |    CodeView
+378 |    mysplash
 
-android code highlight
+✰✰✰ 632
 
-[https://github.com/thereisnospon/codeview](https://github.com/thereisnospon/codeview)
+An Unsplash Client
 
-
----
-
-334 |    ✰ 514 ✰    |    Remindly
-
-Remindly is a simple and user friendly Android application to create reminders.
-
-[https://github.com/blanyal/remindly](https://github.com/blanyal/remindly)
+[https://github.com/wangdayeeeeee/mysplash](https://github.com/wangdayeeeeee/mysplash)
 
 
 ---
 
-335 |    ✰ 514 ✰    |    kotlin-99
+379 |    okreplay
 
-Ninety-Nine Problems in Kotlin
+✰✰✰ 631
 
-[https://github.com/dkandalov/kotlin-99](https://github.com/dkandalov/kotlin-99)
+📼 Record and replay OkHttp network interaction in your tests.
 
-
----
-
-336 |    ✰ 513 ✰    |    AndroidDrawableFactory
-
-A Java Application to create appropriate Drawable resources for your Android application
-
-[https://github.com/tizionario/androiddrawablefactory](https://github.com/tizionario/androiddrawablefactory)
+[https://github.com/airbnb/okreplay](https://github.com/airbnb/okreplay)
 
 
 ---
 
-337 |    ✰ 513 ✰    |    CycleMenu
+380 |    expandabletextview
 
-Custom LayoutManager for the inner RecyclerView
+✰✰✰ 630
 
-[https://github.com/cleveroad/cyclemenu](https://github.com/cleveroad/cyclemenu)
+Android TextView that can expand and collapse.
 
-
----
-
-338 |    ✰ 508 ✰    |    WaniKani-for-Android
-
-An android client application for the awesome kanji learning website wanikani.com
-
-[https://github.com/xiprox/wanikani-for-android](https://github.com/xiprox/wanikani-for-android)
+[https://github.com/chen-sir/expandabletextview](https://github.com/chen-sir/expandabletextview)
 
 
 ---
 
-339 |    ✰ 508 ✰    |    Aegis
+381 |    ig-lazy-module-loader
 
-A free, secure and open source app for Android to manage your 2-step verification tokens.
+✰✰✰ 630
 
-[https://github.com/beemdevelopment/aegis](https://github.com/beemdevelopment/aegis)
+Library that implements module lazy loading. 
 
-
----
-
-340 |    ✰ 504 ✰    |    PloyFun
-
-LowPoly image processing./导入图片生成Low Poly风格图片的app
-
-[https://github.com/hugeterry/ployfun](https://github.com/hugeterry/ployfun)
+[https://github.com/instagram/ig-lazy-module-loader](https://github.com/instagram/ig-lazy-module-loader)
 
 
 ---
 
-341 |    ✰ 499 ✰    |    RxLifecycle
+382 |    md-bilibili
 
-Bind observables to the lifecycle of Activity or Fragment in a non-invasive way.
+✰✰✰ 626
 
-[https://github.com/nekocode/rxlifecycle](https://github.com/nekocode/rxlifecycle)
+Material Design 版 BiliBili Android 客户端
 
-
----
-
-342 |    ✰ 497 ✰    |    androidclient
-
-Kontalk official Android client
-
-[https://github.com/kontalk/androidclient](https://github.com/kontalk/androidclient)
+[https://github.com/qixingchen/md-bilibili](https://github.com/qixingchen/md-bilibili)
 
 
 ---
 
-343 |    ✰ 494 ✰    |    RibbonMenu
+383 |    custom-touch-examples
 
-Navigation menu for Android (based off Google+ app)
+✰✰✰ 625
 
-[https://github.com/darvds/ribbonmenu](https://github.com/darvds/ribbonmenu)
+Collection of example applications to highlight doing custom touch event handling and using GestureDetectors in Android applications.
 
-
----
-
-344 |    ✰ 493 ✰    |    android-segmentedradiobutton
-
-Android implementation of iPhone's segmented control
-
-[https://github.com/vinc3m1/android-segmentedradiobutton](https://github.com/vinc3m1/android-segmentedradiobutton)
+[https://github.com/devunwired/custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
 
 
 ---
 
-345 |    ✰ 492 ✰    |    MaterialRecents
+384 |    flickerprogressbar
 
-Lollipop's Recents container
+✰✰✰ 621
 
-[https://github.com/zieiony/materialrecents](https://github.com/zieiony/materialrecents)
+Android 仿应用宝下载进度条 
 
-
----
-
-346 |    ✰ 490 ✰    |    what_the_thing
-
-:camera: Point your camera at things to learn how to say them in a different language. Android app built with React Native.
-
-[https://github.com/vigzmv/what_the_thing](https://github.com/vigzmv/what_the_thing)
+[https://github.com/linechen/flickerprogressbar](https://github.com/linechen/flickerprogressbar)
 
 
 ---
 
-347 |    ✰ 486 ✰    |    CookieBar
+385 |    android-collapse-calendar-view
 
-CookieBar is a lightweight library for showing a brief message at the top or bottom of the screen.
+✰✰✰ 619
 
-[https://github.com/liuguangqiang/cookiebar](https://github.com/liuguangqiang/cookiebar)
+Android calendar view that can be toggled between week and month view.
 
-
----
-
-348 |    ✰ 486 ✰    |    direct-select-android
-
-:octocat: ≡ DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. - https://github.com/Ramotion/android-ui-animation-components-and-libraries
-
-[https://github.com/ramotion/direct-select-android](https://github.com/ramotion/direct-select-android)
+[https://github.com/blazsolar/android-collapse-calendar-view](https://github.com/blazsolar/android-collapse-calendar-view)
 
 
 ---
 
-349 |    ✰ 484 ✰    |    PasscodeView
+386 |    FabFilter
 
-Material Design PasscodeView for  Android.
+✰✰✰ 618
 
-[https://github.com/hanks-zyh/passcodeview](https://github.com/hanks-zyh/passcodeview)
+Android app to showcase complex UI/Animations with and without MotionLayout
 
-
----
-
-350 |    ✰ 484 ✰    |    cornerlabelview
-
-角标(corner label)
-
-[https://github.com/czy1121/cornerlabelview](https://github.com/czy1121/cornerlabelview)
+[https://github.com/nikhilpanju/FabFilter](https://github.com/nikhilpanju/FabFilter)
 
 
 ---
 
-351 |    ✰ 482 ✰    |    AndroidFloatLabel
+387 |    allangleexpandablebutton
 
-Library project with a custom view that implements the Float Label pattern
+✰✰✰ 617
 
-[https://github.com/iangclifton/androidfloatlabel](https://github.com/iangclifton/androidfloatlabel)
+An expandable button menu that you can define expand angle and button count and so on
 
-
----
-
-352 |    ✰ 480 ✰    |    RxDogTag
-
-Automatic tagging of RxJava 2 originating subscribe points for onError() investigation.
-
-[https://github.com/uber/rxdogtag](https://github.com/uber/rxdogtag)
+[https://github.com/uin3566/allangleexpandablebutton](https://github.com/uin3566/allangleexpandablebutton)
 
 
 ---
 
-353 |    ✰ 480 ✰    |    RxRedux
+388 |    from-design-to-android-part1
 
-Redux implementation based on RxJava
+✰✰✰ 616
 
-[https://github.com/freeletics/rxredux](https://github.com/freeletics/rxredux)
+First part of 'from design to android' series
 
-
----
-
-354 |    ✰ 477 ✰    |    transition-x
-
-Declarative Kotlin DSL for choreographing Android transitions
-
-[https://github.com/arunkumar9t2/transition-x](https://github.com/arunkumar9t2/transition-x)
+[https://github.com/saulmm/from-design-to-android-part1](https://github.com/saulmm/from-design-to-android-part1)
 
 
 ---
 
-355 |    ✰ 477 ✰    |    android-blogs
+389 |    ubercaranimation
 
-Blogs about Android
+✰✰✰ 613
 
-[https://github.com/vbauer/android-blogs](https://github.com/vbauer/android-blogs)
+A demo app showing movement of car on map like in Uber.
 
-
----
-
-356 |    ✰ 476 ✰    |    TinyDB--Android-Shared-Preferences-Turbo
-
-This class simplifies calls to SharedPreferences in a line of code. It can also do more like: saving a list of Strings, ints, and saving images. All in 1 line of code!
-
-[https://github.com/kcochibili/tinydb--android-shared-preferences-turbo](https://github.com/kcochibili/tinydb--android-shared-preferences-turbo)
+[https://github.com/amanjeetsingh150/ubercaranimation](https://github.com/amanjeetsingh150/ubercaranimation)
 
 
 ---
 
-357 |    ✰ 472 ✰    |    Flutter-for-Android-developers
+390 |    ringprogress
 
-Compilation of Flutter materials for Android developers
+✰✰✰ 608
 
-[https://github.com/m3sv/flutter-for-android-developers](https://github.com/m3sv/flutter-for-android-developers)
+a circle progress bar with effect
 
-
----
-
-358 |    ✰ 471 ✰    |    ThreeDLayout
-
-A 3D Layout for Android,When you use it warp other view,it can became a 3D view,一秒让你的view拥有3D效果！
-
-[https://github.com/githubwing/threedlayout](https://github.com/githubwing/threedlayout)
+[https://github.com/ldoublem/ringprogress](https://github.com/ldoublem/ringprogress)
 
 
 ---
 
-359 |    ✰ 466 ✰    |    salvage
+391 |    countries
 
-Generic view recycler and ViewPager PagerAdapter implementation.
+✰✰✰ 607
 
-[https://github.com/jakewharton/salvage](https://github.com/jakewharton/salvage)
+An example Android app using Retrofit, Realm, Parceler, Dagger and the MVVM pattern with the data binding lib.
 
-
----
-
-360 |    ✰ 466 ✰    |    AndroidAudit
-
-Your Android app as a crime scene!!!
-
-[https://github.com/karumi/androidaudit](https://github.com/karumi/androidaudit)
+[https://github.com/patloew/countries](https://github.com/patloew/countries)
 
 
 ---
 
-361 |    ✰ 460 ✰    |    cwac-saferoom
+392 |    android-tensorflow-lite-example
 
-CWAC-SafeRoom: A Room<->SQLCipher for Android Bridge
+✰✰✰ 605
 
-[https://github.com/commonsguy/cwac-saferoom](https://github.com/commonsguy/cwac-saferoom)
+Android TensorFlow Lite Machine Learning Example
 
-
----
-
-362 |    ✰ 458 ✰    |    lockwise-android
-
-Firefox's Lockwise app for Android
-
-[https://github.com/mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android)
+[https://github.com/amitshekhariitbhu/android-tensorflow-lite-example](https://github.com/amitshekhariitbhu/android-tensorflow-lite-example)
 
 
 ---
 
-363 |    ✰ 458 ✰    |    MentionEditText
+393 |    materialup
 
-MentionEditText adds some useful features for mention string(@xxxx), such as highlight, intelligent deletion, intelligent selection and '@' input detection, etc.
+✰✰✰ 604
 
-[https://github.com/luckyandyzhang/mentionedittext](https://github.com/luckyandyzhang/mentionedittext)
+MaterialUp Android App
 
-
----
-
-364 |    ✰ 456 ✰    |    domic
-
-Reactive Virtual DOM for Android.
-
-[https://github.com/lyft/domic](https://github.com/lyft/domic)
+[https://github.com/jariz/materialup](https://github.com/jariz/materialup)
 
 
 ---
 
-365 |    ✰ 456 ✰    |    android-pulltorefresh-and-loadmore
+394 |    android-studio-material-template
 
- android custom listview,with interaction pattern load more and pull to refresh to load data  dinamically
+✰✰✰ 600
 
-[https://github.com/shontauro/android-pulltorefresh-and-loadmore](https://github.com/shontauro/android-pulltorefresh-and-loadmore)
+A template for Android Studio to create applications with material design and Navigation Drawer.
 
-
----
-
-366 |    ✰ 455 ✰    |    AndroidFaceCropper
-
-Android bitmap Face Cropper
-
-[https://github.com/lafosca/androidfacecropper](https://github.com/lafosca/androidfacecropper)
+[https://github.com/kanytu/android-studio-material-template](https://github.com/kanytu/android-studio-material-template)
 
 
 ---
 
-367 |    ✰ 455 ✰    |    vvalidator
+395 |    wormhole
 
-🤖 An easy to use form validator for Kotlin & Android.
+✰✰✰ 600
 
-[https://github.com/afollestad/vvalidator](https://github.com/afollestad/vvalidator)
+A time-traveling bytecode rewriter which adds future APIs to android.jar
 
-
----
-
-368 |    ✰ 453 ✰    |    RecyclerView-FastScroller
-
-A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin
-
-[https://github.com/quiph/recyclerview-fastscroller](https://github.com/quiph/recyclerview-fastscroller)
+[https://github.com/JakeWharton/wormhole](https://github.com/JakeWharton/wormhole)
 
 
 ---
 
-369 |    ✰ 451 ✰    |    Android-Lollipop-Pencil-Stencils
+396 |    thinrplugin
 
-Pencil stencil collection for Android 5.0 (Lollipop) UI components
+✰✰✰ 599
 
-[https://github.com/nathanielw/android-lollipop-pencil-stencils](https://github.com/nathanielw/android-lollipop-pencil-stencils)
+去除android中的R.class
 
-
----
-
-370 |    ✰ 450 ✰    |    Reaktive
-
-Kotlin multi-platform implementation of Reactive Extensions
-
-[https://github.com/badoo/reaktive](https://github.com/badoo/reaktive)
+[https://github.com/meili/thinrplugin](https://github.com/meili/thinrplugin)
 
 
 ---
 
-371 |    ✰ 450 ✰    |    memory-game
+397 |    recyclerviewcardgallery
 
-Simple and beautiful memory game for kids
+✰✰✰ 596
 
-[https://github.com/sromku/memory-game](https://github.com/sromku/memory-game)
+RecyclerView实现循环banner，替代ViewPager方案。能够快速滑动并最终定位到居中位置(相比于原库支持了循环滑动)
 
-
----
-
-372 |    ✰ 449 ✰    |    dante
-
-A sane rich text parsing and styling library.
-
-[https://github.com/fourlastor/dante](https://github.com/fourlastor/dante)
+[https://github.com/zjw-swun/recyclerviewcardgallery](https://github.com/zjw-swun/recyclerviewcardgallery)
 
 
 ---
 
-373 |    ✰ 447 ✰    |    Amphitheatre
+398 |    activityoptionsics
 
-Amphitheatre is an Android TV app that connects with network shares, organizes and serves videos to any Android capable media player app.
+✰✰✰ 593
 
-[https://github.com/jerrellmardis/amphitheatre](https://github.com/jerrellmardis/amphitheatre)
+The lib can make the ActivityOptions animations use in Android api3.1+
 
-
----
-
-374 |    ✰ 447 ✰    |    ActionsContentView
-
-ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu).  The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up.
-
-[https://github.com/stevenrudenko/actionscontentview](https://github.com/stevenrudenko/actionscontentview)
+[https://github.com/tianzhijiexian/activityoptionsics](https://github.com/tianzhijiexian/activityoptionsics)
 
 
 ---
 
-375 |    ✰ 444 ✰    |    ModularizationExample
+399 |    LEGO-Catalog
 
-Easy to understand real-life example of a modularized Android app
+✰✰✰ 590
 
-[https://github.com/jeroenmols/modularizationexample](https://github.com/jeroenmols/modularizationexample)
+A LEGO® Catalog app illustrating current Android Architecture state using Android development best practices.
 
-
----
-
-376 |    ✰ 443 ✰    |    RetailMeNotList
-
-
-
-[https://github.com/iielse/retailmenotlist](https://github.com/iielse/retailmenotlist)
+[https://github.com/Eli-Fox/LEGO-Catalog](https://github.com/Eli-Fox/LEGO-Catalog)
 
 
 ---
 
-377 |    ✰ 441 ✰    |    android-unsplash
+400 |    cardview
 
-Deprecated:
+✰✰✰ 585
 
-[https://github.com/android/android-unsplash](https://github.com/android/android-unsplash)
+None
 
-
----
-
-378 |    ✰ 440 ✰    |    AndroidDigest
-
-[DEPRECATED]android相关的干货(文摘，名博，github等等)
-
-[https://github.com/openproject/androiddigest](https://github.com/openproject/androiddigest)
+[https://github.com/chiemy/cardview](https://github.com/chiemy/cardview)
 
 
 ---
 
-379 |    ✰ 439 ✰    |    IndicatorFastScroll
+401 |    spika
 
-Android library providing a simple UI control for scrolling through RecyclerViews
+✰✰✰ 581
 
-[https://github.com/reddit/indicatorfastscroll](https://github.com/reddit/indicatorfastscroll)
+Spika is universal chat module with backend, web, ios and Android client.
 
-
----
-
-380 |    ✰ 438 ✰    |    unidbg
-
-Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS ARM32 emulation
-
-[https://github.com/zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
+[https://github.com/cloverstudio/spika](https://github.com/cloverstudio/spika)
 
 
 ---
 
-381 |    ✰ 437 ✰    |    RecyclerTreeView
+402 |    undobar
 
-TreeView implement in Android with RecyclerView.
+✰✰✰ 581
 
-[https://github.com/tellh/recyclertreeview](https://github.com/tellh/recyclertreeview)
+[Deprecated] Android Library that implements Snackbars (former known as Undobar) from Google's Material Design documentation.
 
-
----
-
-382 |    ✰ 437 ✰    |    EmojiSlider
-
-🤯 A slider widget rich in emoji and highly customisable.
-
-[https://github.com/bernaferrari/emojislider](https://github.com/bernaferrari/emojislider)
+[https://github.com/soarcn/undobar](https://github.com/soarcn/undobar)
 
 
 ---
 
-383 |    ✰ 434 ✰    |    AndroidFloatLabel
+403 |    animatedexpandablelistview
 
-Float Label Edit Texts for Android
+✰✰✰ 578
 
-[https://github.com/weddingparty/androidfloatlabel](https://github.com/weddingparty/androidfloatlabel)
+An extendable, flexible ExpandableListView widget that supports animations.
+
+[https://github.com/idunnololz/animatedexpandablelistview](https://github.com/idunnololz/animatedexpandablelistview)
 
 
 ---
 
-384 |    ✰ 433 ✰    |    deep-clean
+404 |    chips-input-layout
+
+✰✰✰ 574
+
+A customizable Android ViewGroup for displaying Chips (specified in the Material Design Guide). 
+
+[https://github.com/tylersuehr7/chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)
+
+
+---
+
+405 |    posts
+
+✰✰✰ 572
+
+A sample Android app using Kotlin, Dagger 2, RxJava, RxAndroid, Retrofit and Android Architecture Components with a modular setup & effective networking
+
+[https://github.com/karntrehan/posts](https://github.com/karntrehan/posts)
+
+
+---
+
+406 |    notify
+
+✰✰✰ 572
+
+Simplified notification construction and delivery for Android.
+
+[https://github.com/Karn/notify](https://github.com/Karn/notify)
+
+
+---
+
+407 |    materialdoc-web
+
+✰✰✰ 570
+
+Material Design - The development documentation
+
+[https://github.com/materialdoc/materialdoc-web](https://github.com/materialdoc/materialdoc-web)
+
+
+---
+
+408 |    draggablegridview
+
+✰✰✰ 565
+
+A drag-and-drop scrolling grid view for Android
+
+[https://github.com/thquinn/draggablegridview](https://github.com/thquinn/draggablegridview)
+
+
+---
+
+409 |    sprayscape
+
+✰✰✰ 564
+
+Sprayscape is a perfectly imperfect VR-ish camera. It is an open source Android app released on the Android Experiments platform.
+
+[https://github.com/googlecreativelab/sprayscape](https://github.com/googlecreativelab/sprayscape)
+
+
+---
+
+410 |    effective-rxjava
+
+✰✰✰ 558
+
+Effective RxJava
+
+[https://github.com/mgp/effective-rxjava](https://github.com/mgp/effective-rxjava)
+
+
+---
+
+411 |    piranha
+
+✰✰✰ 558
+
+A tool for refactoring code related to feature flag APIs
+
+[https://github.com/uber/piranha](https://github.com/uber/piranha)
+
+
+---
+
+412 |    htmlcompat
+
+✰✰✰ 557
+
+Compatibility library for Android's Html class. [DEPRECATED]
+
+[https://github.com/pixplicity/htmlcompat](https://github.com/pixplicity/htmlcompat)
+
+
+---
+
+413 |    apk2gold
+
+✰✰✰ 554
+
+CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
+
+[https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
+
+
+---
+
+414 |    layoutswitch
+
+✰✰✰ 553
+
+A sample showing an easy way to make switch animation from list layout to grid layout with RecyclerView.
+
+[https://github.com/gjiazhe/layoutswitch](https://github.com/gjiazhe/layoutswitch)
+
+
+---
+
+415 |    deep-clean
+
+✰✰✰ 553
 
 A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔
 
@@ -3461,232 +4572,449 @@ A Kotlin script that nukes all build caches from Gradle/Android projects. Useful
 
 ---
 
-385 |    ✰ 432 ✰    |    badgebutton
+416 |    search-samples
 
-带有徽标(数字，小红点)的按钮
+✰✰✰ 542
 
-[https://github.com/czy1121/badgebutton](https://github.com/czy1121/badgebutton)
+Sample code for integrating with Search.
 
-
----
-
-386 |    ✰ 431 ✰    |    Lives
-
-Lives - Android LiveData Extensions for Kotlin and Java
-
-[https://github.com/adibfara/lives](https://github.com/adibfara/lives)
+[https://github.com/google/search-samples](https://github.com/google/search-samples)
 
 
 ---
 
-387 |    ✰ 428 ✰    |    reactive-grpc
+417 |    flipsidecamera
 
-Reactive stubs for gRPC
+✰✰✰ 537
 
-[https://github.com/salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc)
+The camera app that takes pictures from both sides of your world ! :camera:
 
-
----
-
-388 |    ✰ 428 ✰    |    material-motion-android
-
-Reactive motion for Android. In development.
-
-[https://github.com/material-motion/material-motion-android](https://github.com/material-motion/material-motion-android)
+[https://github.com/andyb129/flipsidecamera](https://github.com/andyb129/flipsidecamera)
 
 
 ---
 
-389 |    ✰ 426 ✰    |    wqgallery
+418 |    parallaxscrollview
 
-android 相册支持单选模式和多选模式
+✰✰✰ 537
 
-[https://github.com/wqandroid/wqgallery](https://github.com/wqandroid/wqgallery)
+A Parallax ScrollView which takes a background and foreground views - DEPRECATED
 
-
----
-
-390 |    ✰ 425 ✰    |    ticTacToe
-
-A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.
-
-[https://github.com/ericmaxwell2003/tictactoe](https://github.com/ericmaxwell2003/tictactoe)
+[https://github.com/chrisjenx/parallaxscrollview](https://github.com/chrisjenx/parallaxscrollview)
 
 
 ---
 
-391 |    ✰ 423 ✰    |    IndicatorBox
+419 |    light
 
+✰✰✰ 536
 
+🍭 The usual Snackbar, but elegant
 
-[https://github.com/wusp/indicatorbox](https://github.com/wusp/indicatorbox)
-
-
----
-
-392 |    ✰ 423 ✰    |    StateLayout
-
-A custom layout that can easily switch different states(like empty,error,progress,content) with animations.
-
-[https://github.com/lufficc/statelayout](https://github.com/lufficc/statelayout)
+[https://github.com/tonnyl/light](https://github.com/tonnyl/light)
 
 
 ---
 
-393 |    ✰ 422 ✰    |    Android-Network-Intents
+420 |    card.io-android-source
 
-Android Network Intents (ANI) is a library to send Android Intent objects to listening apps/devices via multicast (UDP).
+✰✰✰ 535
 
-[https://github.com/pocmo/android-network-intents](https://github.com/pocmo/android-network-intents)
+The open-source code for the card.io-Android-SDK: provides fast, easy credit card scanning in mobile apps
 
-
----
-
-394 |    ✰ 421 ✰    |    bitmapMesh
-
-bitmapMesh demo
-
-[https://github.com/7heaven/bitmapmesh](https://github.com/7heaven/bitmapmesh)
+[https://github.com/card-io/card.io-android-source](https://github.com/card-io/card.io-android-source)
 
 
 ---
 
-395 |    ✰ 421 ✰    |    AndroidEagleEye
+421 |    android_volley_examples
 
-An Xposed and adbi based module which is capable of hooking both Java and Native methods targeting Android OS.
+✰✰✰ 534
 
-[https://github.com/mindmac/androideagleeye](https://github.com/mindmac/androideagleeye)
+Project with examples how to use the new Volley networking framework
 
-
----
-
-396 |    ✰ 420 ✰    |    messenger-app-android
-
-Open Source Messenger App For Android - Real-time Messaging, Voice and Video Calls
-
-[https://github.com/mesibo/messenger-app-android](https://github.com/mesibo/messenger-app-android)
+[https://github.com/ogrebgr/android_volley_examples](https://github.com/ogrebgr/android_volley_examples)
 
 
 ---
 
-397 |    ✰ 420 ✰    |    LEGO-Catalog
+422 |    spikes
 
-A LEGO® Catalog app illustrating current Android Architecture state using Android development best practices.
+✰✰✰ 530
 
-[https://github.com/eli-fox/lego-catalog](https://github.com/eli-fox/lego-catalog)
+Where ideas & concepts are born & incubated
 
-
----
-
-398 |    ✰ 419 ✰    |    CrunchyCalendar
-
-A beautiful material calendar with endless scroll, range selection and a lot more!
-
-[https://github.com/cleverpumpkin/crunchycalendar](https://github.com/cleverpumpkin/crunchycalendar)
+[https://github.com/novoda/spikes](https://github.com/novoda/spikes)
 
 
 ---
 
-399 |    ✰ 418 ✰    |    DashboardView
+423 |    cyclemenu
 
-Android 自定义View 仪表盘
+✰✰✰ 529
 
-[https://github.com/superkung/dashboardview](https://github.com/superkung/dashboardview)
+Custom LayoutManager for the inner RecyclerView
 
-
----
-
-400 |    ✰ 418 ✰    |    VerticalBannerView
-
-a vertical banner view in android.you can find it in 淘宝app、京东app...
-
-[https://github.com/guojunustb/verticalbannerview](https://github.com/guojunustb/verticalbannerview)
+[https://github.com/cleveroad/cyclemenu](https://github.com/cleveroad/cyclemenu)
 
 
 ---
 
-401 |    ✰ 416 ✰    |    buildSrcVersions
+424 |    picnic
 
-Gradle dependencies with IDE integration and lookup for available updates
+✰✰✰ 529
 
-[https://github.com/jmfayard/buildsrcversions](https://github.com/jmfayard/buildsrcversions)
+A Kotlin DSL and Java/Kotlin builder API for constructing HTML-like tables which can be rendered to text
 
-
----
-
-402 |    ✰ 413 ✰    |    motif
-
-A simple DI API for Android / Java
-
-[https://github.com/uber/motif](https://github.com/uber/motif)
+[https://github.com/JakeWharton/picnic](https://github.com/JakeWharton/picnic)
 
 
 ---
 
-403 |    ✰ 411 ✰    |    red-moon
+425 |    android-smsmms
 
-An android screen filter app for night time phone use
+✰✰✰ 527
 
-[https://github.com/libreshift/red-moon](https://github.com/libreshift/red-moon)
+Library for easily sending SMS and MMS for Android devices
 
-
----
-
-404 |    ✰ 409 ✰    |    PagedDragDropGrid
-
-An Android ViewGroup that implements a paged grid with drag'n'drop moveable items
-
-[https://github.com/mrklar/pageddragdropgrid](https://github.com/mrklar/pageddragdropgrid)
+[https://github.com/klinker41/android-smsmms](https://github.com/klinker41/android-smsmms)
 
 
 ---
 
-405 |    ✰ 406 ✰    |    FlipImageView
+426 |    rxandroidlibs
 
-DEPRECATED. Use API14+ and make your animations easier! Small android lib allowing you to make a flip imageview easily, by extending FlipImageView.
+✰✰✰ 525
 
-[https://github.com/castorflex/flipimageview](https://github.com/castorflex/flipimageview)
+A curated list of libraries to aid reactive development on Android
 
-
----
-
-406 |    ✰ 406 ✰    |    ShareLoginLib
-
-第三方登录、分享封装库，几行代码即可完成集成，无需配置混淆。
-
-[https://github.com/tianzhijiexian/shareloginlib](https://github.com/tianzhijiexian/shareloginlib)
+[https://github.com/zsoltk/rxandroidlibs](https://github.com/zsoltk/rxandroidlibs)
 
 
 ---
 
-407 |    ✰ 404 ✰    |    Android-AOPExample
+427 |    android-recyclerview
 
-This is a simple example of Aspect Oriented Programming in Android
+✰✰✰ 524
 
-[https://github.com/android10/android-aopexample](https://github.com/android10/android-aopexample)
+Android RecyclerView
 
-
----
-
-408 |    ✰ 404 ✰    |    android-junit5
-
-Testing with JUnit 5 for Android.
-
-[https://github.com/aurae/android-junit5](https://github.com/aurae/android-junit5)
+[https://github.com/chiuki/android-recyclerview](https://github.com/chiuki/android-recyclerview)
 
 
 ---
 
-409 |    ✰ 403 ✰    |    ParallaxSwipeBack
+428 |    codeview
 
-带视觉差的侧滑返回，类似于新版微信和lofter的侧滑返回效果。核心代码小于50行
+✰✰✰ 524
 
-[https://github.com/bushijie/parallaxswipeback](https://github.com/bushijie/parallaxswipeback)
+android code highlight
+
+[https://github.com/thereisnospon/codeview](https://github.com/thereisnospon/codeview)
 
 
 ---
 
-410 |    ✰ 397 ✰    |    insetter
+429 |    remindly
+
+✰✰✰ 522
+
+Remindly is a simple and user friendly Android application to create reminders.
+
+[https://github.com/blanyal/remindly](https://github.com/blanyal/remindly)
+
+
+---
+
+430 |    KotlinMultiPlatform
+
+✰✰✰ 522
+
+Kotlin MultiPlatform App (Android, iOS, JVM & JS). MVVM/MVP - Kotlin MultiPlatform
+
+[https://github.com/jarroyoesp/KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform)
+
+
+---
+
+431 |    java-diff-utils
+
+✰✰✰ 517
+
+Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
+
+[https://github.com/java-diff-utils/java-diff-utils](https://github.com/java-diff-utils/java-diff-utils)
+
+
+---
+
+432 |    androiddrawablefactory
+
+✰✰✰ 513
+
+A Java Application to create appropriate Drawable resources for your Android application
+
+[https://github.com/tizionario/androiddrawablefactory](https://github.com/tizionario/androiddrawablefactory)
+
+
+---
+
+433 |    wanikani-for-android
+
+✰✰✰ 511
+
+An android client application for the awesome kanji learning website wanikani.com
+
+[https://github.com/xiprox/wanikani-for-android](https://github.com/xiprox/wanikani-for-android)
+
+
+---
+
+434 |    androidclient
+
+✰✰✰ 510
+
+Kontalk official Android client
+
+[https://github.com/kontalk/androidclient](https://github.com/kontalk/androidclient)
+
+
+---
+
+435 |    what_the_thing
+
+✰✰✰ 509
+
+:camera: Point your camera at things to learn how to say them in a different language. Android app built with React Native.
+
+[https://github.com/vigzmv/what_the_thing](https://github.com/vigzmv/what_the_thing)
+
+
+---
+
+436 |    cwac-saferoom
+
+✰✰✰ 504
+
+CWAC-SafeRoom: A Room<->SQLCipher for Android Bridge
+
+[https://github.com/commonsguy/cwac-saferoom](https://github.com/commonsguy/cwac-saferoom)
+
+
+---
+
+437 |    rxlifecycle
+
+✰✰✰ 503
+
+Bind observables to the lifecycle of Activity or Fragment in a non-invasive way.
+
+[https://github.com/nekocode/rxlifecycle](https://github.com/nekocode/rxlifecycle)
+
+
+---
+
+438 |    refreshVersions
+
+✰✰✰ 503
+
+Life is too short to google for dependencies and versions
+
+[https://github.com/jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions)
+
+
+---
+
+439 |    ployfun
+
+✰✰✰ 502
+
+LowPoly image processing./导入图片生成Low Poly风格图片的app
+
+[https://github.com/hugeterry/ployfun](https://github.com/hugeterry/ployfun)
+
+
+---
+
+440 |    rxjavademoapp
+
+✰✰✰ 502
+
+This repository contains 100+ examples using RxJava for Android
+
+[https://github.com/joaomotondon/rxjavademoapp](https://github.com/joaomotondon/rxjavademoapp)
+
+
+---
+
+441 |    kotlin-koi
+
+✰✰✰ 502
+
+Koi, a lightweight kotlin library for Android Development.
+
+[https://github.com/mcxiaoke/kotlin-koi](https://github.com/mcxiaoke/kotlin-koi)
+
+
+---
+
+442 |    recyclertreeview
+
+✰✰✰ 500
+
+TreeView implement in Android with RecyclerView.
+
+[https://github.com/tellh/recyclertreeview](https://github.com/tellh/recyclertreeview)
+
+
+---
+
+443 |    ribbonmenu
+
+✰✰✰ 495
+
+Navigation menu for Android (based off Google+ app)
+
+[https://github.com/darvds/ribbonmenu](https://github.com/darvds/ribbonmenu)
+
+
+---
+
+444 |    rxidler
+
+✰✰✰ 495
+
+An IdlingResource for Espresso which wraps an RxJava Scheduler.
+
+[https://github.com/square/rxidler](https://github.com/square/rxidler)
+
+
+---
+
+445 |    android-segmentedradiobutton
+
+✰✰✰ 495
+
+Android implementation of iPhone's segmented control
+
+[https://github.com/vinc3m1/android-segmentedradiobutton](https://github.com/vinc3m1/android-segmentedradiobutton)
+
+
+---
+
+446 |    tinydb--android-shared-preferences-turbo
+
+✰✰✰ 494
+
+This class simplifies calls to SharedPreferences in a line of code. It can also do more like: saving a list of Strings, ints, and saving images. All in 1 line of code!
+
+[https://github.com/kcochibili/tinydb--android-shared-preferences-turbo](https://github.com/kcochibili/tinydb--android-shared-preferences-turbo)
+
+
+---
+
+447 |    passcodeview
+
+✰✰✰ 493
+
+Material Design PasscodeView for  Android.
+
+[https://github.com/hanks-zyh/passcodeview](https://github.com/hanks-zyh/passcodeview)
+
+
+---
+
+448 |    cycler
+
+✰✰✰ 491
+
+None
+
+[https://github.com/square/cycler](https://github.com/square/cycler)
+
+
+---
+
+449 |    materialrecents
+
+✰✰✰ 490
+
+Lollipop's Recents container
+
+[https://github.com/zieiony/materialrecents](https://github.com/zieiony/materialrecents)
+
+
+---
+
+450 |    cookiebar
+
+✰✰✰ 488
+
+CookieBar is a lightweight library for showing a brief message at the top or bottom of the screen.
+
+[https://github.com/liuguangqiang/cookiebar](https://github.com/liuguangqiang/cookiebar)
+
+
+---
+
+451 |    cornerlabelview
+
+✰✰✰ 487
+
+角标(corner label)
+
+[https://github.com/czy1121/cornerlabelview](https://github.com/czy1121/cornerlabelview)
+
+
+---
+
+452 |    rxfirebase
+
+✰✰✰ 485
+
+Rxjava 2.0 wrapper on Google's Android Firebase library.
+
+[https://github.com/frangsierra/rxfirebase](https://github.com/frangsierra/rxfirebase)
+
+
+---
+
+453 |    android-blogs
+
+✰✰✰ 485
+
+Blogs about Android
+
+[https://github.com/vbauer/android-blogs](https://github.com/vbauer/android-blogs)
+
+
+---
+
+454 |    androidfloatlabel
+
+✰✰✰ 482
+
+Library project with a custom view that implements the Float Label pattern
+
+[https://github.com/iangclifton/androidfloatlabel](https://github.com/iangclifton/androidfloatlabel)
+
+
+---
+
+455 |    KaMPKit
+
+✰✰✰ 482
+
+KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
+
+[https://github.com/touchlab/KaMPKit](https://github.com/touchlab/KaMPKit)
+
+
+---
+
+456 |    insetter
+
+✰✰✰ 477
 
 Insetter is a library to help apps handle WindowInsets more easily
 
@@ -3695,79 +5023,581 @@ Insetter is a library to help apps handle WindowInsets more easily
 
 ---
 
-411 |    ✰ 396 ✰    |    ArchApp
+457 |    threedlayout
 
-Simple Android app to show how to design a multi-modules MVVM Android app (fully tested)
+✰✰✰ 475
 
-[https://github.com/philippeboisney/archapp](https://github.com/philippeboisney/archapp)
+A 3D Layout for Android,When you use it warp other view,it can became a 3D view,一秒让你的view拥有3D效果！
 
-
----
-
-412 |    ✰ 393 ✰    |    KotlinMultiPlatform
-
-Kotlin MultiPlatform App (Android, iOS, JVM & JS). MVVM/MVP - Kotlin MultiPlatform
-
-[https://github.com/jarroyoesp/kotlinmultiplatform](https://github.com/jarroyoesp/kotlinmultiplatform)
+[https://github.com/githubwing/threedlayout](https://github.com/githubwing/threedlayout)
 
 
 ---
 
-413 |    ✰ 391 ✰    |    Android-RTEditor
+458 |    salvage
 
-The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText
+✰✰✰ 470
 
-[https://github.com/1gravity/android-rteditor](https://github.com/1gravity/android-rteditor)
+Generic view recycler and ViewPager PagerAdapter implementation.
 
-
----
-
-414 |    ✰ 388 ✰    |    FileBrowserView
-
-A flexible Android view library for file/folder browsing.
-
-[https://github.com/psaravan/filebrowserview](https://github.com/psaravan/filebrowserview)
+[https://github.com/jakewharton/salvage](https://github.com/jakewharton/salvage)
 
 
 ---
 
-415 |    ✰ 387 ✰    |    MotionLayoutCarousel
+459 |    androidaudit
 
-Simple Carousel built with Android MotionLayout
+✰✰✰ 470
 
-[https://github.com/faob-dev/motionlayoutcarousel](https://github.com/faob-dev/motionlayoutcarousel)
+Your Android app as a crime scene!!!
 
-
----
-
-416 |    ✰ 385 ✰    |    Firebucket
-
-Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase.
-
-[https://github.com/remychantenay/firebucket](https://github.com/remychantenay/firebucket)
+[https://github.com/karumi/androidaudit](https://github.com/karumi/androidaudit)
 
 
 ---
 
-417 |    ✰ 384 ✰    |    FaceOffToggleButton
+460 |    lives
 
-Toggle button which shows a happy face for checked or unhappy for unchecked.
+✰✰✰ 467
 
-[https://github.com/nightonke/faceofftogglebutton](https://github.com/nightonke/faceofftogglebutton)
+Lives - Android LiveData Extensions for Kotlin and Java
 
-
----
-
-418 |    ✰ 383 ✰    |    RevealLayout
-
-A layout which can make some reveal animation which is introduced in material design guideline.
-
-[https://github.com/kyze8439690/reveallayout](https://github.com/kyze8439690/reveallayout)
+[https://github.com/adibfara/lives](https://github.com/adibfara/lives)
 
 
 ---
 
-419 |    ✰ 382 ✰    |    archive-patcher
+461 |    mentionedittext
+
+✰✰✰ 467
+
+MentionEditText adds some useful features for mention string(@xxxx), such as highlight, intelligent deletion, intelligent selection and '@' input detection, etc.
+
+[https://github.com/luckyandyzhang/mentionedittext](https://github.com/luckyandyzhang/mentionedittext)
+
+
+---
+
+462 |    domic
+
+✰✰✰ 466
+
+Reactive Virtual DOM for Android.
+
+[https://github.com/lyft/domic](https://github.com/lyft/domic)
+
+
+---
+
+463 |    battery-metrics
+
+✰✰✰ 461
+
+Library that helps in instrumenting battery related system metrics.
+
+[https://github.com/facebookincubator/battery-metrics](https://github.com/facebookincubator/battery-metrics)
+
+
+---
+
+464 |    Croppy
+
+✰✰✰ 461
+
+Image Cropping Library for Android
+
+[https://github.com/lyrebirdstudio/Croppy](https://github.com/lyrebirdstudio/Croppy)
+
+
+---
+
+465 |    androidfacecropper
+
+✰✰✰ 457
+
+Android bitmap Face Cropper
+
+[https://github.com/lafosca/androidfacecropper](https://github.com/lafosca/androidfacecropper)
+
+
+---
+
+466 |    android-junit5
+
+✰✰✰ 454
+
+Testing with JUnit 5 for Android.
+
+[https://github.com/aurae/android-junit5](https://github.com/aurae/android-junit5)
+
+
+---
+
+467 |    android-junit5
+
+✰✰✰ 454
+
+Testing with JUnit 5 for Android.
+
+[https://github.com/mannodermaus/android-junit5](https://github.com/mannodermaus/android-junit5)
+
+
+---
+
+468 |    android-pulltorefresh-and-loadmore
+
+✰✰✰ 454
+
+ android custom listview,with interaction pattern load more and pull to refresh to load data  dinamically
+
+[https://github.com/shontauro/android-pulltorefresh-and-loadmore](https://github.com/shontauro/android-pulltorefresh-and-loadmore)
+
+
+---
+
+469 |    rxbasicskata
+
+✰✰✰ 453
+
+Practical challenges for RxJava learners
+
+[https://github.com/sergiiz/rxbasicskata](https://github.com/sergiiz/rxbasicskata)
+
+
+---
+
+470 |    android-dev-readme
+
+✰✰✰ 450
+
+Collection of links for every Android developer
+
+[https://github.com/anirudh24seven/android-dev-readme](https://github.com/anirudh24seven/android-dev-readme)
+
+
+---
+
+471 |    dante
+
+✰✰✰ 450
+
+A sane rich text parsing and styling library.
+
+[https://github.com/fourlastor/dante](https://github.com/fourlastor/dante)
+
+
+---
+
+472 |    android-lollipop-pencil-stencils
+
+✰✰✰ 450
+
+Pencil stencil collection for Android 5.0 (Lollipop) UI components
+
+[https://github.com/nathanielw/android-lollipop-pencil-stencils](https://github.com/nathanielw/android-lollipop-pencil-stencils)
+
+
+---
+
+473 |    fairy
+
+✰✰✰ 450
+
+Android system log viewer on Android phone without root.
+
+[https://github.com/zane96/fairy](https://github.com/zane96/fairy)
+
+
+---
+
+474 |    amphitheatre
+
+✰✰✰ 447
+
+Amphitheatre is an Android TV app that connects with network shares, organizes and serves videos to any Android capable media player app.
+
+[https://github.com/jerrellmardis/amphitheatre](https://github.com/jerrellmardis/amphitheatre)
+
+
+---
+
+475 |    actionscontentview
+
+✰✰✰ 447
+
+ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu).  The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up.
+
+[https://github.com/stevenrudenko/actionscontentview](https://github.com/stevenrudenko/actionscontentview)
+
+
+---
+
+476 |    tictactoe
+
+✰✰✰ 443
+
+A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.
+
+[https://github.com/ericmaxwell2003/tictactoe](https://github.com/ericmaxwell2003/tictactoe)
+
+
+---
+
+477 |    retailmenotlist
+
+✰✰✰ 443
+
+None
+
+[https://github.com/iielse/retailmenotlist](https://github.com/iielse/retailmenotlist)
+
+
+---
+
+478 |    material-motion-android
+
+✰✰✰ 442
+
+Reactive motion for Android. Deprecated; please use the Motion library in Material Components for Android instead: https://material.io/develop/android/theming/motion/.
+
+[https://github.com/material-motion/material-motion-android](https://github.com/material-motion/material-motion-android)
+
+
+---
+
+479 |    androiddigest
+
+✰✰✰ 441
+
+[DEPRECATED]android相关的干货(文摘，名博，github等等)
+
+[https://github.com/openproject/androiddigest](https://github.com/openproject/androiddigest)
+
+
+---
+
+480 |    sample-googleassistant
+
+✰✰✰ 440
+
+Google Assistant API sample for Android Things
+
+[https://github.com/androidthings/sample-googleassistant](https://github.com/androidthings/sample-googleassistant)
+
+
+---
+
+481 |    android-unsplash
+
+✰✰✰ 439
+
+Deprecated:
+
+[https://github.com/googlesamples/android-unsplash](https://github.com/googlesamples/android-unsplash)
+
+
+---
+
+482 |    expandablecardview
+
+✰✰✰ 436
+
+Simple expandable CardView for Android.
+
+[https://github.com/alespero/expandablecardview](https://github.com/alespero/expandablecardview)
+
+
+---
+
+483 |    memechat
+
+✰✰✰ 434
+
+a meme-based chat application
+
+[https://github.com/efortuna/memechat](https://github.com/efortuna/memechat)
+
+
+---
+
+484 |    kotlinextensions.com
+
+✰✰✰ 434
+
+A handy collection of most commonly used Kotlin extensions to boost your productivity.
+
+[https://github.com/ravidsrk/kotlinextensions.com](https://github.com/ravidsrk/kotlinextensions.com)
+
+
+---
+
+485 |    androidfloatlabel
+
+✰✰✰ 434
+
+Float Label Edit Texts for Android
+
+[https://github.com/weddingparty/androidfloatlabel](https://github.com/weddingparty/androidfloatlabel)
+
+
+---
+
+486 |    azteceditor-android
+
+✰✰✰ 433
+
+A reusable native Android rich text editor component.
+
+[https://github.com/wordpress-mobile/azteceditor-android](https://github.com/wordpress-mobile/azteceditor-android)
+
+
+---
+
+487 |    badgebutton
+
+✰✰✰ 432
+
+带有徽标(数字，小红点)的按钮
+
+[https://github.com/czy1121/badgebutton](https://github.com/czy1121/badgebutton)
+
+
+---
+
+488 |    androideagleeye
+
+✰✰✰ 432
+
+An Xposed and adbi based module which is capable of hooking both Java and Native methods targeting Android OS.
+
+[https://github.com/mindmac/androideagleeye](https://github.com/mindmac/androideagleeye)
+
+
+---
+
+489 |    capillary
+
+✰✰✰ 430
+
+Capillary is a library to simplify the sending of end-to-end encrypted push messages from Java-based application servers to Android clients.
+
+[https://github.com/google/capillary](https://github.com/google/capillary)
+
+
+---
+
+490 |    wqgallery
+
+✰✰✰ 427
+
+android 相册支持单选模式和多选模式
+
+[https://github.com/wqandroid/wqgallery](https://github.com/wqandroid/wqgallery)
+
+
+---
+
+491 |    verticalbannerview
+
+✰✰✰ 426
+
+a vertical banner view in android.you can find it in 淘宝app、京东app...
+
+[https://github.com/guojunustb/verticalbannerview](https://github.com/guojunustb/verticalbannerview)
+
+
+---
+
+492 |    statelayout
+
+✰✰✰ 424
+
+A custom layout that can easily switch different states(like empty,error,progress,content) with animations.
+
+[https://github.com/lufficc/statelayout](https://github.com/lufficc/statelayout)
+
+
+---
+
+493 |    dashboardview
+
+✰✰✰ 422
+
+Android 自定义View 仪表盘
+
+[https://github.com/superkung/dashboardview](https://github.com/superkung/dashboardview)
+
+
+---
+
+494 |    indicatorbox
+
+✰✰✰ 422
+
+None
+
+[https://github.com/wusp/indicatorbox](https://github.com/wusp/indicatorbox)
+
+
+---
+
+495 |    bitmapmesh
+
+✰✰✰ 419
+
+bitmapMesh demo
+
+[https://github.com/7heaven/bitmapmesh](https://github.com/7heaven/bitmapmesh)
+
+
+---
+
+496 |    android-network-intents
+
+✰✰✰ 419
+
+Android Network Intents (ANI) is a library to send Android Intent objects to listening apps/devices via multicast (UDP).
+
+[https://github.com/pocmo/android-network-intents](https://github.com/pocmo/android-network-intents)
+
+
+---
+
+497 |    from-design-to-android-part2
+
+✰✰✰ 419
+
+None
+
+[https://github.com/saulmm/from-design-to-android-part2](https://github.com/saulmm/from-design-to-android-part2)
+
+
+---
+
+498 |    mvvmarms
+
+✰✰✰ 419
+
+Android MVVM Architecture Components based on MVPArms and Android Architecture Components.
+
+[https://github.com/xiaobailong24/mvvmarms](https://github.com/xiaobailong24/mvvmarms)
+
+
+---
+
+499 |    shareloginlib
+
+✰✰✰ 416
+
+第三方登录、分享封装库，几行代码即可完成集成，无需配置混淆。
+
+[https://github.com/tianzhijiexian/shareloginlib](https://github.com/tianzhijiexian/shareloginlib)
+
+
+---
+
+500 |    cleanarchitecturemanifest
+
+✰✰✰ 412
+
+Description of the main principles and rules for building an Android application using Clean Architecture approach
+
+[https://github.com/imangazalievm/cleanarchitecturemanifest](https://github.com/imangazalievm/cleanarchitecturemanifest)
+
+
+---
+
+501 |    pageddragdropgrid
+
+✰✰✰ 412
+
+An Android ViewGroup that implements a paged grid with drag'n'drop moveable items
+
+[https://github.com/mrklar/pageddragdropgrid](https://github.com/mrklar/pageddragdropgrid)
+
+
+---
+
+502 |    quickpermissions
+
+✰✰✰ 412
+
+The most easiest way to handle Android Runtime Permissions
+
+[https://github.com/quickpermissions/quickpermissions](https://github.com/quickpermissions/quickpermissions)
+
+
+---
+
+503 |    radiustransition
+
+✰✰✰ 409
+
+Transition between a circle to a square.  ⚪️→ ⬜️
+
+[https://github.com/alexstyl/radiustransition](https://github.com/alexstyl/radiustransition)
+
+
+---
+
+504 |    android-aopexample
+
+✰✰✰ 409
+
+This is a simple example of Aspect Oriented Programming in Android
+
+[https://github.com/android10/android-aopexample](https://github.com/android10/android-aopexample)
+
+
+---
+
+505 |    flipimageview
+
+✰✰✰ 406
+
+DEPRECATED. Use API14+ and make your animations easier! Small android lib allowing you to make a flip imageview easily, by extending FlipImageView.
+
+[https://github.com/castorflex/flipimageview](https://github.com/castorflex/flipimageview)
+
+
+---
+
+506 |    rtmppublisher
+
+✰✰✰ 404
+
+Rtmp client on Android. Live Video Streaming.
+
+[https://github.com/takusemba/rtmppublisher](https://github.com/takusemba/rtmppublisher)
+
+
+---
+
+507 |    rxriddles
+
+✰✰✰ 404
+
+Riddling your way to master RxJava
+
+[https://github.com/vanniktech/rxriddles](https://github.com/vanniktech/rxriddles)
+
+
+---
+
+508 |    parallaxswipeback
+
+✰✰✰ 401
+
+带视觉差的侧滑返回，类似于新版微信和lofter的侧滑返回效果。核心代码小于50行
+
+[https://github.com/bushijie/parallaxswipeback](https://github.com/bushijie/parallaxswipeback)
+
+
+---
+
+509 |    archive-patcher
+
+✰✰✰ 397
 
 Automatically exported from code.google.com/p/archive-patcher
 
@@ -3776,52 +5606,9 @@ Automatically exported from code.google.com/p/archive-patcher
 
 ---
 
-420 |    ✰ 377 ✰    |    klaster
+510 |    candybar-library
 
-Declare RecyclerView adapters in a functional way, without boilerplate and subclassing. No compromises on flexibility. If it's possible to do something by subclassing, it's possible to do it with this library. 
-
-[https://github.com/rongi/klaster](https://github.com/rongi/klaster)
-
-
----
-
-421 |    ✰ 377 ✰    |    AnoleFix
-
-Another hotfix  另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似
-
-[https://github.com/dodola/anolefix](https://github.com/dodola/anolefix)
-
-
----
-
-422 |    ✰ 376 ✰    |    android-XYZTouristAttractions
-
-Migrated:
-
-[https://github.com/android/android-xyztouristattractions](https://github.com/android/android-xyztouristattractions)
-
-
----
-
-423 |    ✰ 375 ✰    |    file-downloader
-
-FileDownloader, powerful http/https file download tool on Android
-
-[https://github.com/wlfcolin/file-downloader](https://github.com/wlfcolin/file-downloader)
-
-
----
-
-424 |    ✰ 374 ✰    |    FloatingGroupExpandableListView
-
-An open source Android library that provides a floating group view at the top of the ExpandableListView
-
-[https://github.com/diegocarloslima/floatinggroupexpandablelistview](https://github.com/diegocarloslima/floatinggroupexpandablelistview)
-
-
----
-
-425 |    ✰ 373 ✰    |    candybar-library
+✰✰✰ 395
 
 Android icon pack material dashboard
 
@@ -3830,25 +5617,75 @@ Android icon pack material dashboard
 
 ---
 
-426 |    ✰ 371 ✰    |    android-face-detector
+511 |    android-rteditor
 
-A real-time face detection Android library
+✰✰✰ 394
 
-[https://github.com/husaynhakeem/android-face-detector](https://github.com/husaynhakeem/android-face-detector)
+The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText
 
-
----
-
-427 |    ✰ 370 ✰    |    MaterialSettings
-
-MaterialSettings - small library to create settings activity
-
-[https://github.com/kenumir/materialsettings](https://github.com/kenumir/materialsettings)
+[https://github.com/1gravity/android-rteditor](https://github.com/1gravity/android-rteditor)
 
 
 ---
 
-428 |    ✰ 369 ✰    |    DroidPersianCalendar
+512 |    jacoco-android-gradle-plugin
+
+✰✰✰ 394
+
+Gradle plugin that creates JaCoCo test reports for Android unit tests
+
+[https://github.com/arturdm/jacoco-android-gradle-plugin](https://github.com/arturdm/jacoco-android-gradle-plugin)
+
+
+---
+
+513 |    filebrowserview
+
+✰✰✰ 391
+
+A flexible Android view library for file/folder browsing.
+
+[https://github.com/psaravan/filebrowserview](https://github.com/psaravan/filebrowserview)
+
+
+---
+
+514 |    firebucket
+
+✰✰✰ 387
+
+Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase.
+
+[https://github.com/remychantenay/firebucket](https://github.com/remychantenay/firebucket)
+
+
+---
+
+515 |    faceofftogglebutton
+
+✰✰✰ 385
+
+Toggle button which shows a happy face for checked or unhappy for unchecked.
+
+[https://github.com/nightonke/faceofftogglebutton](https://github.com/nightonke/faceofftogglebutton)
+
+
+---
+
+516 |    android-io18
+
+✰✰✰ 382
+
+A summary of all the important Android related launches, talks, discussions at the Google I/O 2018
+
+[https://github.com/karntrehan/android-io18](https://github.com/karntrehan/android-io18)
+
+
+---
+
+517 |    droidpersiancalendar
+
+✰✰✰ 381
 
 Android Persian Calendar / تقویم فارسی اندروید 
 
@@ -3857,34 +5694,42 @@ Android Persian Calendar / تقویم فارسی اندروید
 
 ---
 
-429 |    ✰ 367 ✰    |    Uninstall_Statics
+518 |    reveallayout
 
-Android 统计 应用 自身被 卸载 Android Statistics application is uninstalled
+✰✰✰ 381
 
-[https://github.com/sevenler/uninstall_statics](https://github.com/sevenler/uninstall_statics)
+A layout which can make some reveal animation which is introduced in material design guideline.
 
-
----
-
-430 |    ✰ 366 ✰    |    OpenLibra-Material
-
-OpenLibra client on Material Design
-
-[https://github.com/saulmm/openlibra-material](https://github.com/saulmm/openlibra-material)
+[https://github.com/kyze8439690/reveallayout](https://github.com/kyze8439690/reveallayout)
 
 
 ---
 
-431 |    ✰ 365 ✰    |    MultiItemRowListAdapter
+519 |    scabbard
 
-MultiItemRowListAdapter
+✰✰✰ 380
 
-[https://github.com/umano/multiitemrowlistadapter](https://github.com/umano/multiitemrowlistadapter)
+🗡 A tool to visualize Dagger 2 dependency graphs
+
+[https://github.com/arunkumar9t2/scabbard](https://github.com/arunkumar9t2/scabbard)
 
 
 ---
 
-432 |    ✰ 361 ✰    |    QuickLyric
+520 |    anolefix
+
+✰✰✰ 379
+
+Another hotfix  另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似
+
+[https://github.com/dodola/anolefix](https://github.com/dodola/anolefix)
+
+
+---
+
+521 |    quicklyric
+
+✰✰✰ 378
 
 Android app that instantly fetches your lyrics for you.
 
@@ -3893,25 +5738,141 @@ Android app that instantly fetches your lyrics for you.
 
 ---
 
-433 |    ✰ 361 ✰    |    retrofit2-kotlinx-serialization-converter
+522 |    android-xyztouristattractions
 
-A Retrofit 2 Converter.Factory for Kotlin serialization.
+✰✰✰ 376
 
-[https://github.com/jakewharton/retrofit2-kotlinx-serialization-converter](https://github.com/jakewharton/retrofit2-kotlinx-serialization-converter)
+Migrated:
 
-
----
-
-434 |    ✰ 361 ✰    |    kohttp
-
-Kotlin DSL http client
-
-[https://github.com/rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp)
+[https://github.com/googlesamples/android-xyztouristattractions](https://github.com/googlesamples/android-xyztouristattractions)
 
 
 ---
 
-435 |    ✰ 360 ✰    |    custom-view-examples
+523 |    file-downloader
+
+✰✰✰ 376
+
+FileDownloader, powerful http/https file download tool on Android
+
+[https://github.com/wlfcolin/file-downloader](https://github.com/wlfcolin/file-downloader)
+
+
+---
+
+524 |    floatinggroupexpandablelistview
+
+✰✰✰ 375
+
+An open source Android library that provides a floating group view at the top of the ExpandableListView
+
+[https://github.com/diegocarloslima/floatinggroupexpandablelistview](https://github.com/diegocarloslima/floatinggroupexpandablelistview)
+
+
+---
+
+525 |    Jetpack-Compose-Playground
+
+✰✰✰ 375
+
+Collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose
+
+[https://github.com/Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)
+
+
+---
+
+526 |    android-mvp-interactor-architecture
+
+✰✰✰ 374
+
+Extension of the android-mvp-architecture for very large projects.
+
+[https://github.com/mindorksopensource/android-mvp-interactor-architecture](https://github.com/mindorksopensource/android-mvp-interactor-architecture)
+
+
+---
+
+527 |    flank
+
+✰✰✰ 370
+
+:speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
+
+[https://github.com/Flank/flank](https://github.com/Flank/flank)
+
+
+---
+
+528 |    materialsettings
+
+✰✰✰ 368
+
+MaterialSettings - small library to create settings activity
+
+[https://github.com/kenumir/materialsettings](https://github.com/kenumir/materialsettings)
+
+
+---
+
+529 |    uninstall_statics
+
+✰✰✰ 368
+
+Android 统计 应用 自身被 卸载 Android Statistics application is uninstalled
+
+[https://github.com/sevenler/uninstall_statics](https://github.com/sevenler/uninstall_statics)
+
+
+---
+
+530 |    openlibra-material
+
+✰✰✰ 367
+
+OpenLibra client on Material Design
+
+[https://github.com/saulmm/openlibra-material](https://github.com/saulmm/openlibra-material)
+
+
+---
+
+531 |    reagent
+
+✰✰✰ 365
+
+Experiments for future reactive libraries.
+
+[https://github.com/jakewharton/reagent](https://github.com/jakewharton/reagent)
+
+
+---
+
+532 |    multiitemrowlistadapter
+
+✰✰✰ 364
+
+MultiItemRowListAdapter
+
+[https://github.com/umano/multiitemrowlistadapter](https://github.com/umano/multiitemrowlistadapter)
+
+
+---
+
+533 |    hiroaki
+
+✰✰✰ 363
+
+Write idiomatic API integration tests using Kotlin (Unit and Instrumentation)
+
+[https://github.com/jorgecastilloprz/hiroaki](https://github.com/jorgecastilloprz/hiroaki)
+
+
+---
+
+534 |    custom-view-examples
+
+✰✰✰ 362
 
 Collection of example applications to highlight creating custom Views and ViewGroups within the Android framework.
 
@@ -3920,16 +5881,42 @@ Collection of example applications to highlight creating custom Views and ViewGr
 
 ---
 
-436 |    ✰ 358 ✰    |    adp-path-morph-play-to-pause
+535 |    register
 
-Play-to-pause path morphing example
+✰✰✰ 361
 
-[https://github.com/alexjlockwood/material-pause-play-animation](https://github.com/alexjlockwood/material-pause-play-animation)
+Android Library and App for testing Play Store billing
+
+[https://github.com/nytimes/register](https://github.com/nytimes/register)
 
 
 ---
 
-437 |    ✰ 357 ✰    |    transparent-over-animtabsview
+536 |    ZoomRecylerLayout
+
+✰✰✰ 361
+
+Zoom Recycler Layout Manager For Android Kotlin
+
+[https://github.com/Spikeysanju/ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)
+
+
+---
+
+537 |    learndagger
+
+✰✰✰ 359
+
+List of resources to learn about Dependency Injection and Dagger 2
+
+[https://github.com/abhiank/learndagger](https://github.com/abhiank/learndagger)
+
+
+---
+
+538 |    transparent-over-animtabsview
+
+✰✰✰ 359
 
 纯粹是抄袭网易云音乐,然后开源的.
 
@@ -3938,34 +5925,53 @@ Play-to-pause path morphing example
 
 ---
 
-438 |    ✰ 356 ✰    |    TrebleShot
+539 |    material-pause-play-animation
 
-An Open-Source Android application that allows you to send and receive files over available connections, and pause and resume transfer process even after something went wrong.
+✰✰✰ 357
 
-[https://github.com/genonbeta/trebleshot](https://github.com/genonbeta/trebleshot)
+Play-to-pause path morphing example
+
+[https://github.com/alexjlockwood/material-pause-play-animation](https://github.com/alexjlockwood/material-pause-play-animation)
 
 
 ---
 
-439 |    ✰ 355 ✰    |    MaterialDesignSample
+540 |    modalbottomsheetdialogfragment
+
+✰✰✰ 356
+
+Modal bottom sheet dialog based on the Material Guidelines
+
+[https://github.com/commit451/modalbottomsheetdialogfragment](https://github.com/commit451/modalbottomsheetdialogfragment)
 
 
+---
+
+541 |    materialdesignsample
+
+✰✰✰ 356
+
+None
 
 [https://github.com/rejasupotaro/materialdesignsample](https://github.com/rejasupotaro/materialdesignsample)
 
 
 ---
 
-440 |    ✰ 348 ✰    |    FlipCards
+542 |    coroutine-recipes
 
-A 3D Flip Card for Android
+✰✰✰ 354
 
-[https://github.com/zhangke3016/flipcards](https://github.com/zhangke3016/flipcards)
+Android Coroutine Recipes
+
+[https://github.com/dmytrodanylyk/coroutine-recipes](https://github.com/dmytrodanylyk/coroutine-recipes)
 
 
 ---
 
-441 |    ✰ 346 ✰    |    android-gesture-detectors
+543 |    android-gesture-detectors
+
+✰✰✰ 354
 
 Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector
 
@@ -3974,88 +5980,64 @@ Gesture detector framework for multitouch handling on Android, based on Android'
 
 ---
 
-442 |    ✰ 340 ✰    |    stylist
+544 |    flipcards
 
-A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
+✰✰✰ 353
 
-[https://github.com/uber/stylist](https://github.com/uber/stylist)
+A 3D Flip Card for Android
 
-
----
-
-443 |    ✰ 336 ✰    |    DroidconKotlin
-
-Kotlin Multiplatfom app for Droidcon Events
-
-[https://github.com/touchlab/droidconkotlin](https://github.com/touchlab/droidconkotlin)
+[https://github.com/zhangke3016/flipcards](https://github.com/zhangke3016/flipcards)
 
 
 ---
 
-444 |    ✰ 334 ✰    |    PlayNewsStandDemo
+545 |    snackprogressbar
 
-Demo app for achieving UI like the one used in latest Google Play Newsstand app.
+✰✰✰ 352
 
-[https://github.com/naman14/playnewsstanddemo](https://github.com/naman14/playnewsstanddemo)
+Enhanced Snackbar with ProgressBar for Android.
 
-
----
-
-445 |    ✰ 334 ✰    |    Constraints
-
-Sample application for the new Android ConstraintLayout
-
-[https://github.com/hitherejoe/constraints](https://github.com/hitherejoe/constraints)
+[https://github.com/tingyik90/snackprogressbar](https://github.com/tingyik90/snackprogressbar)
 
 
 ---
 
-446 |    ✰ 332 ✰    |    grox
+546 |    theglowingloader
 
-Grox helps to maintain the state of Java / Android apps.
+✰✰✰ 352
 
-[https://github.com/groupon/grox](https://github.com/groupon/grox)
+TheGlowingLoader is the highly configurable library to indicate progress and is natively created for Android Platform. It is an implementation of a design composed by Shashank Sahay.
 
-
----
-
-447 |    ✰ 331 ✰    |    Croppy
-
-Image Cropping Library for Android
-
-[https://github.com/lyrebirdstudio/croppy](https://github.com/lyrebirdstudio/croppy)
+[https://github.com/varunest/theglowingloader](https://github.com/varunest/theglowingloader)
 
 
 ---
 
-448 |    ✰ 329 ✰    |    Android-GoldenEye
+547 |    rally
 
-A wrapper for Camera1 and Camera2 API that exposes a simple to use interface.
+✰✰✰ 341
 
-[https://github.com/infinum/android-goldeneye](https://github.com/infinum/android-goldeneye)
+Unofficial Implementation of Material Studies https://material.io/design/material-studies/rally.html
 
-
----
-
-449 |    ✰ 327 ✰    |    GradleKotlinConverter
-
-Convert from Groovy to Kotlin DSL for Gradle, focused on Android.
-
-[https://github.com/bernaferrari/gradlekotlinconverter](https://github.com/bernaferrari/gradlekotlinconverter)
+[https://github.com/hashlin/rally](https://github.com/hashlin/rally)
 
 
 ---
 
-450 |    ✰ 326 ✰    |    GradientDrawableTuner
+548 |    lunary-ethereum-wallet
 
-🕹️ See how the properties of Android's "shape" affect the Drawable's appearance, intuitively.
+✰✰✰ 340
 
-[https://github.com/duanhong169/gradientdrawabletuner](https://github.com/duanhong169/gradientdrawabletuner)
+A beautiful, secure and native Ethereum Wallet for Android
+
+[https://github.com/manuelsc/lunary-ethereum-wallet](https://github.com/manuelsc/lunary-ethereum-wallet)
 
 
 ---
 
-451 |    ✰ 323 ✰    |    gradle-kotlin-dsl-migration-guide
+549 |    gradle-kotlin-dsl-migration-guide
+
+✰✰✰ 339
 
 The missing migration guide to the Gradle Kotlin DSL
 
@@ -4064,151 +6046,108 @@ The missing migration guide to the Gradle Kotlin DSL
 
 ---
 
-452 |    ✰ 323 ✰    |    WJMagicCurveView
+550 |    bubbleseekbar
 
-Fancy magic curve.
+✰✰✰ 339
 
-[https://github.com/wingjay/wjmagiccurveview](https://github.com/wingjay/wjmagiccurveview)
+A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking SeekBar
 
-
----
-
-453 |    ✰ 323 ✰    |    roxie
-
-Lightweight Android library for building reactive apps.
-
-[https://github.com/ww-tech/roxie](https://github.com/ww-tech/roxie)
+[https://github.com/sathishmscict/bubbleseekbar](https://github.com/sathishmscict/bubbleseekbar)
 
 
 ---
 
-454 |    ✰ 323 ✰    |    animated-vector-drawable
+551 |    fruit
 
-Android AnimatedVectorDrawable examples
+✰✰✰ 338
 
-[https://github.com/chiuki/animated-vector-drawable](https://github.com/chiuki/animated-vector-drawable)
+Fruit for Html just like Gson for Json.
 
-
----
-
-455 |    ✰ 320 ✰    |    flank
-
-:speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab
-
-[https://github.com/testarmada/flank](https://github.com/testarmada/flank)
+[https://github.com/ghuiii/fruit](https://github.com/ghuiii/fruit)
 
 
 ---
 
-456 |    ✰ 318 ✰    |    FloatingAction
+552 |    frames
 
-A basic implementation of Floating Action pattern
+✰✰✰ 335
 
-[https://github.com/telly/floatingaction](https://github.com/telly/floatingaction)
+Free, feature-rich, easily customizable Android dashboard for wallpapers apps
 
-
----
-
-457 |    ✰ 317 ✰    |    here-be-dragons
-
-An Intellij/Android Studio plugin to help visualise side effects in your code.
-
-[https://github.com/anupcowkur/here-be-dragons](https://github.com/anupcowkur/here-be-dragons)
+[https://github.com/jahirfiquitiva/frames](https://github.com/jahirfiquitiva/frames)
 
 
 ---
 
-458 |    ✰ 316 ✰    |    Material-Design-Login
+553 |    constraints
 
-The Demo of Material-Design-login. And maybe you can use the CatchScrollLayout at other place.
+✰✰✰ 334
 
-[https://github.com/yellow5a5/material-design-login](https://github.com/yellow5a5/material-design-login)
+Sample application for the new Android ConstraintLayout
 
-
----
-
-459 |    ✰ 313 ✰    |    spans
-
-Spans, a powerful concept
-
-[https://github.com/flavienlaurent/spans](https://github.com/flavienlaurent/spans)
+[https://github.com/hitherejoe/constraints](https://github.com/hitherejoe/constraints)
 
 
 ---
 
-460 |    ✰ 310 ✰    |    ProgressButton
+554 |    grox
 
-Android Progress Button
+✰✰✰ 333
 
-[https://github.com/razir/progressbutton](https://github.com/razir/progressbutton)
+Grox helps to maintain the state of Java / Android apps.
 
-
----
-
-461 |    ✰ 310 ✰    |    ViewPagerHeaderScrollDemo
-
-
-
-[https://github.com/ongakuer/viewpagerheaderscrolldemo](https://github.com/ongakuer/viewpagerheaderscrolldemo)
+[https://github.com/groupon/grox](https://github.com/groupon/grox)
 
 
 ---
 
-462 |    ✰ 309 ✰    |    slide
+555 |    playnewsstanddemo
 
-Minimal presentation tool for Android, perfect for using Takahashi method
+✰✰✰ 333
 
-[https://github.com/trikita/slide](https://github.com/trikita/slide)
+Demo app for achieving UI like the one used in latest Google Play Newsstand app.
 
-
----
-
-463 |    ✰ 309 ✰    |    Blur-LIB-Android
-
-
-
-[https://github.com/danielzeller/blur-lib-android](https://github.com/danielzeller/blur-lib-android)
+[https://github.com/naman14/playnewsstanddemo](https://github.com/naman14/playnewsstanddemo)
 
 
 ---
 
-464 |    ✰ 307 ✰    |    nopen
+556 |    android-school
 
-An error-prone checker which requires that classes be final, abstract or annotated with @ Open.
+✰✰✰ 333
 
-[https://github.com/jakewharton/nopen](https://github.com/jakewharton/nopen)
+The best videos from the Android community and beyond
 
-
----
-
-465 |    ✰ 307 ✰    |    DiscreteSlider
-
-A slider (SeekBar) with amazing value label.
-
-[https://github.com/hearsilent/discreteslider](https://github.com/hearsilent/discreteslider)
+[https://github.com/yelp/android-school](https://github.com/yelp/android-school)
 
 
 ---
 
-466 |    ✰ 305 ✰    |    ACEMusicPlayer
+557 |    ridesharing-uber-lyft-app
 
-A material music player for the android platform, git it here : https://play.google.com/store/apps/details?id=com.aniruddhc.acemusic.player&hl=en
+✰✰✰ 330
 
-[https://github.com/c-aniruddh/acemusicplayer](https://github.com/c-aniruddh/acemusicplayer)
+Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 
-
----
-
-467 |    ✰ 304 ✰    |    ByakuGallery
-
-An open source Android library that allows the visualization of large images with gesture capabilities
-
-[https://github.com/diegocarloslima/byakugallery](https://github.com/diegocarloslima/byakugallery)
+[https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
 
 
 ---
 
-468 |    ✰ 304 ✰    |    card-printer
+558 |    crweather
+
+✰✰✰ 326
+
+Android demo app with kotlin coroutines and architecture components library
+
+[https://github.com/elpassion/crweather](https://github.com/elpassion/crweather)
+
+
+---
+
+559 |    card-printer
+
+✰✰✰ 326
 
 Pull down to refresh - card printer
 
@@ -4217,43 +6156,141 @@ Pull down to refresh - card printer
 
 ---
 
-469 |    ✰ 301 ✰    |    Talaiot
+560 |    animated-vector-drawable
 
-Simple and extensible plugin to track task times in your Gradle Project.
+✰✰✰ 324
 
-[https://github.com/cdsap/talaiot](https://github.com/cdsap/talaiot)
+Android AnimatedVectorDrawable examples
 
-
----
-
-470 |    ✰ 299 ✰    |    FastAccess
-
-A tiny launcher or as Samsung likes to call it Floating Toolbox.
-
-[https://github.com/k0shk0sh/fastaccess](https://github.com/k0shk0sh/fastaccess)
+[https://github.com/chiuki/animated-vector-drawable](https://github.com/chiuki/animated-vector-drawable)
 
 
 ---
 
-471 |    ✰ 297 ✰    |    easyloadingbtn
+561 |    wjmagiccurveview
 
-This is a Material Design loading button
+✰✰✰ 322
 
-[https://github.com/devinshine/easyloadingbtn](https://github.com/devinshine/easyloadingbtn)
+Fancy magic curve.
 
-
----
-
-472 |    ✰ 296 ✰    |    MagicFloatView
-
-一个可配置及自定义拓展漂浮路径的迷你版轻量级 MagicFlyLinearLayout 漂浮控件。
-
-[https://github.com/yanbober/magicfloatview](https://github.com/yanbober/magicfloatview)
+[https://github.com/wingjay/wjmagiccurveview](https://github.com/wingjay/wjmagiccurveview)
 
 
 ---
 
-473 |    ✰ 295 ✰    |    android-collage-views
+562 |    here-be-dragons
+
+✰✰✰ 321
+
+An Intellij/Android Studio plugin to help visualise side effects in your code.
+
+[https://github.com/anupcowkur/here-be-dragons](https://github.com/anupcowkur/here-be-dragons)
+
+
+---
+
+563 |    scrolltextview
+
+✰✰✰ 321
+
+Android 弹幕，滚动字幕，跑马灯，如新闻联播下面的滚动字幕，可以使用在广告机，机顶盒，TV App等各种信息发布系统。
+
+[https://github.com/anylifezlb/scrolltextview](https://github.com/anylifezlb/scrolltextview)
+
+
+---
+
+564 |    slide
+
+✰✰✰ 319
+
+Minimal presentation tool for Android, perfect for using Takahashi method
+
+[https://github.com/trikita/slide](https://github.com/trikita/slide)
+
+
+---
+
+565 |    floatingaction
+
+✰✰✰ 318
+
+A basic implementation of Floating Action pattern
+
+[https://github.com/telly/floatingaction](https://github.com/telly/floatingaction)
+
+
+---
+
+566 |    material-design-login
+
+✰✰✰ 318
+
+The Demo of Material-Design-login. And maybe you can use the CatchScrollLayout at other place.
+
+[https://github.com/yellow5a5/material-design-login](https://github.com/yellow5a5/material-design-login)
+
+
+---
+
+567 |    Weatherapp
+
+✰✰✰ 316
+
+5 Day Forecast app that works on Android and uses latest tools (Kotlin, Navigation, Room, LiveData, Databinding, Dagger 2)
+
+[https://github.com/furkanaskin/Weatherapp](https://github.com/furkanaskin/Weatherapp)
+
+
+---
+
+568 |    byakugallery
+
+✰✰✰ 313
+
+An open source Android library that allows the visualization of large images with gesture capabilities
+
+[https://github.com/diegocarloslima/byakugallery](https://github.com/diegocarloslima/byakugallery)
+
+
+---
+
+569 |    spans
+
+✰✰✰ 313
+
+Spans, a powerful concept
+
+[https://github.com/flavienlaurent/spans](https://github.com/flavienlaurent/spans)
+
+
+---
+
+570 |    viewpagerheaderscrolldemo
+
+✰✰✰ 311
+
+None
+
+[https://github.com/ongakuer/viewpagerheaderscrolldemo](https://github.com/ongakuer/viewpagerheaderscrolldemo)
+
+
+---
+
+571 |    acemusicplayer
+
+✰✰✰ 307
+
+A material music player for the android platform, git it here : https://play.google.com/store/apps/details?id=com.aniruddhc.acemusic.player&hl=en
+
+[https://github.com/c-aniruddh/acemusicplayer](https://github.com/c-aniruddh/acemusicplayer)
+
+
+---
+
+572 |    android-collage-views
+
+✰✰✰ 307
 
 Draggable, rotatable, and scalable views for Android
 
@@ -4262,43 +6299,9 @@ Draggable, rotatable, and scalable views for Android
 
 ---
 
-474 |    ✰ 295 ✰    |    OpenFlappyBird
+573 |    android-calculatorpp
 
-An open source clone of a famous flappy bird game for Android using AndEngine
-
-[https://github.com/deano2390/openflappybird](https://github.com/deano2390/openflappybird)
-
-
----
-
-475 |    ✰ 295 ✰    |    kotlin-android-workshop
-
-A Kotlin Workshop for engineers familiar with Java and Android development.
-
-[https://github.com/yelp/kotlin-android-workshop](https://github.com/yelp/kotlin-android-workshop)
-
-
----
-
-476 |    ✰ 295 ✰    |    CourseraDemoApp
-
-Demo app to demonstrate creating Android app based on VIPER + MVVM
-
-[https://github.com/richk/courserademoapp](https://github.com/richk/courserademoapp)
-
-
----
-
-477 |    ✰ 293 ✰    |    Android-CircleMenu
-
-Menu with items on a rotating circle
-
-[https://github.com/szugyi/android-circlemenu](https://github.com/szugyi/android-circlemenu)
-
-
----
-
-478 |    ✰ 293 ✰    |    android-calculatorpp
+✰✰✰ 305
 
 Android Calculator
 
@@ -4307,16 +6310,130 @@ Android Calculator
 
 ---
 
-479 |    ✰ 293 ✰    |    FunDapter
+574 |    compose-pokedex
 
-Simplify Adapter creation for your Android ListViews.
+✰✰✰ 303
 
-[https://github.com/amigold/fundapter](https://github.com/amigold/fundapter)
+Pokedex on Jetpack Compose
+
+[https://github.com/zsoltk/compose-pokedex](https://github.com/zsoltk/compose-pokedex)
 
 
 ---
 
-480 |    ✰ 290 ✰    |    ClearScreenHelper
+575 |    fastaccess
+
+✰✰✰ 301
+
+A tiny launcher or as Samsung likes to call it Floating Toolbox.
+
+[https://github.com/k0shk0sh/fastaccess](https://github.com/k0shk0sh/fastaccess)
+
+
+---
+
+576 |    openflappybird
+
+✰✰✰ 299
+
+An open source clone of a famous flappy bird game for Android using AndEngine
+
+[https://github.com/deano2390/openflappybird](https://github.com/deano2390/openflappybird)
+
+
+---
+
+577 |    easyloadingbtn
+
+✰✰✰ 299
+
+This is a Material Design loading button
+
+[https://github.com/devinshine/easyloadingbtn](https://github.com/devinshine/easyloadingbtn)
+
+
+---
+
+578 |    magicfloatview
+
+✰✰✰ 299
+
+一个可配置及自定义拓展漂浮路径的迷你版轻量级 MagicFlyLinearLayout 漂浮控件。
+
+[https://github.com/yanbober/magicfloatview](https://github.com/yanbober/magicfloatview)
+
+
+---
+
+579 |    kompass
+
+✰✰✰ 298
+
+Kotlin Multiplatform Router for Android and iOS
+
+[https://github.com/sellmair/kompass](https://github.com/sellmair/kompass)
+
+
+---
+
+580 |    FlowBinding
+
+✰✰✰ 298
+
+Kotlin Coroutines Flow binding APIs for Android's platform and unbundled UI widgets, inspired by RxBinding.
+
+[https://github.com/ReactiveCircus/FlowBinding](https://github.com/ReactiveCircus/FlowBinding)
+
+
+---
+
+581 |    karchitec
+
+✰✰✰ 297
+
+Kotlin RSS reader using Google android architecture components libraries
+
+[https://github.com/msesma/karchitec](https://github.com/msesma/karchitec)
+
+
+---
+
+582 |    courserademoapp
+
+✰✰✰ 296
+
+Demo app to demonstrate creating Android app based on VIPER + MVVM
+
+[https://github.com/richk/courserademoapp](https://github.com/richk/courserademoapp)
+
+
+---
+
+583 |    kotlin-flow-extensions
+
+✰✰✰ 296
+
+Extensions to the Kotlin Flow library.
+
+[https://github.com/akarnokd/kotlin-flow-extensions](https://github.com/akarnokd/kotlin-flow-extensions)
+
+
+---
+
+584 |    AdoBot
+
+✰✰✰ 295
+
+Open-source android spyware
+
+[https://github.com/adonespitogo/AdoBot](https://github.com/adonespitogo/AdoBot)
+
+
+---
+
+585 |    clearscreenhelper
+
+✰✰✰ 293
 
 The ClearScreenHelper can help you clear screen by sliding mode easily.
 
@@ -4325,7 +6442,9 @@ The ClearScreenHelper can help you clear screen by sliding mode easily.
 
 ---
 
-481 |    ✰ 290 ✰    |    KakaCache
+586 |    kakacache
+
+✰✰✰ 291
 
 咔咔一声，缓存搞定。这是一个专用于解决Android中网络请求及图片加载的缓存处理框架
 
@@ -4334,7 +6453,31 @@ The ClearScreenHelper can help you clear screen by sliding mode easily.
 
 ---
 
-482 |    ✰ 285 ✰    |    stencil
+587 |    androidre
+
+✰✰✰ 289
+
+Reverse engineering Android
+
+[https://github.com/cryptax/androidre](https://github.com/cryptax/androidre)
+
+
+---
+
+588 |    breadcrumbsview
+
+✰✰✰ 288
+
+Material Design Breadcrumbs Navigation Widget on Android
+
+[https://github.com/fython/breadcrumbsview](https://github.com/fython/breadcrumbsview)
+
+
+---
+
+589 |    stencil
+
+✰✰✰ 288
 
 Android library, written exclusively in kotlin, for animating the path created from text
 
@@ -4343,25 +6486,9 @@ Android library, written exclusively in kotlin, for animating the path created f
 
 ---
 
-483 |    ✰ 284 ✰    |    Carousel-Browsing-Example
+590 |    popular-movies-app
 
-It's just an example of carousel browsing.
-
-[https://github.com/jaouan/carousel-browsing-example](https://github.com/jaouan/carousel-browsing-example)
-
-
----
-
-484 |    ✰ 282 ✰    |    fb-android-dagger
-
-A set of helper classes for using dagger 1 with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services.
-
-[https://github.com/adennie/fb-android-dagger](https://github.com/adennie/fb-android-dagger)
-
-
----
-
-485 |    ✰ 282 ✰    |    Popular-Movies-App
+✰✰✰ 286
 
 A simple Android app, that helps user to discover movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
 
@@ -4370,7 +6497,9 @@ A simple Android app, that helps user to discover movies. Project 1 & 2 of Udaci
 
 ---
 
-486 |    ✰ 282 ✰    |    EasyPickerView
+591 |    easypickerview
+
+✰✰✰ 285
 
 A light Wheel Picker View for Android.
 
@@ -4379,43 +6508,20 @@ A light Wheel Picker View for Android.
 
 ---
 
-487 |    ✰ 280 ✰    |    TimerView
+592 |    carousel-browsing-example
 
-an android open source timer
+✰✰✰ 284
 
-[https://github.com/pheynix/timerview](https://github.com/pheynix/timerview)
+It's just an example of carousel browsing.
 
-
----
-
-488 |    ✰ 278 ✰    |    VerticalViewPager
-
-Vertical implementation of Android ViewPager
-
-[https://github.com/lambergar/verticalviewpager](https://github.com/lambergar/verticalviewpager)
+[https://github.com/jaouan/carousel-browsing-example](https://github.com/jaouan/carousel-browsing-example)
 
 
 ---
 
-489 |    ✰ 278 ✰    |    MotionLayoutExamples
+593 |    sqliteonweb-android
 
-:cool: Motion layout animation examples 
-
-[https://github.com/mtcn/motionlayoutexamples](https://github.com/mtcn/motionlayoutexamples)
-
-
----
-
-490 |    ✰ 277 ✰    |    android-NavigationDrawer
-
-This sample has been deprecated/archived. Check this repo for related samples:
-
-[https://github.com/android/android-navigationdrawer](https://github.com/android/android-navigationdrawer)
-
-
----
-
-491 |    ✰ 276 ✰    |    SQLiteOnWeb-Android
+✰✰✰ 284
 
 Manage you Sqlite Database in browser
 
@@ -4424,34 +6530,97 @@ Manage you Sqlite Database in browser
 
 ---
 
-492 |    ✰ 275 ✰    |    fast-list
+594 |    fb-android-dagger
 
-Create fast, dynamic recycler views. No adapter, no view holders
+✰✰✰ 283
 
-[https://github.com/dev-labs-bg/fast-list](https://github.com/dev-labs-bg/fast-list)
+A set of helper classes for using dagger 1 with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services.
 
-
----
-
-493 |    ✰ 273 ✰    |    ScrollingPagerIndicator
-
-Pager indicator inspired by Instagram. Lightweight and easy to set up.
-
-[https://github.com/tinkoffcreditsystems/scrollingpagerindicator](https://github.com/tinkoffcreditsystems/scrollingpagerindicator)
+[https://github.com/adennie/fb-android-dagger](https://github.com/adennie/fb-android-dagger)
 
 
 ---
 
-494 |    ✰ 272 ✰    |    FlickLauncher
+595 |    android-navigationdrawer
 
-Pixel Launcher for everyone! 
+✰✰✰ 281
 
-[https://github.com/michelelacorte/universallauncher](https://github.com/michelelacorte/universallauncher)
+This sample has been deprecated/archived. Check this repo for related samples:
+
+[https://github.com/googlesamples/android-navigationdrawer](https://github.com/googlesamples/android-navigationdrawer)
 
 
 ---
 
-495 |    ✰ 272 ✰    |    FlickLauncher
+596 |    persianmaterialdatetimepicker
+
+✰✰✰ 281
+
+An Android library containing a shamsi (persian calendar) date picker and a time picker with Material Design style
+
+[https://github.com/mohamad-amin/persianmaterialdatetimepicker](https://github.com/mohamad-amin/persianmaterialdatetimepicker)
+
+
+---
+
+597 |    alligator
+
+✰✰✰ 280
+
+Alligator is a modern Android navigation library that will help to organize your navigation code in clean and testable way.
+
+[https://github.com/aartikov/alligator](https://github.com/aartikov/alligator)
+
+
+---
+
+598 |    timerview
+
+✰✰✰ 280
+
+an android open source timer
+
+[https://github.com/pheynix/timerview](https://github.com/pheynix/timerview)
+
+
+---
+
+599 |    Alligator
+
+✰✰✰ 280
+
+Alligator is a modern Android navigation library that will help to organize your navigation code in clean and testable way.
+
+[https://github.com/aartikov/Alligator](https://github.com/aartikov/Alligator)
+
+
+---
+
+600 |    verticalviewpager
+
+✰✰✰ 279
+
+Vertical implementation of Android ViewPager
+
+[https://github.com/lambergar/verticalviewpager](https://github.com/lambergar/verticalviewpager)
+
+
+---
+
+601 |    uniflow-kt
+
+✰✰✰ 279
+
+Uniflow 🦄 - Simple Unidirectionnel Data Flow for Android & Kotlin, using Kotlin coroutines and open to functional programming
+
+[https://github.com/uniflow-kt/uniflow-kt](https://github.com/uniflow-kt/uniflow-kt)
+
+
+---
+
+602 |    flicklauncher
+
+✰✰✰ 278
 
 Pixel Launcher for everyone! 
 
@@ -4460,16 +6629,31 @@ Pixel Launcher for everyone!
 
 ---
 
-496 |    ✰ 271 ✰    |    Rialto
+603 |    universallauncher
 
+✰✰✰ 278
 
+Pixel Launcher for everyone! 
 
-[https://github.com/stylingandroid/rialto](https://github.com/stylingandroid/rialto)
+[https://github.com/michelelacorte/universallauncher](https://github.com/michelelacorte/universallauncher)
 
 
 ---
 
-497 |    ✰ 271 ✰    |    touchdemo
+604 |    blueprint
+
+✰✰✰ 277
+
+Free, feature-rich, easily customizable Android dashboard for icon packs
+
+[https://github.com/jahirfiquitiva/blueprint](https://github.com/jahirfiquitiva/blueprint)
+
+
+---
+
+605 |    touchdemo
+
+✰✰✰ 274
 
 Custom touch handling in Android
 
@@ -4478,16 +6662,42 @@ Custom touch handling in Android
 
 ---
 
-498 |    ✰ 270 ✰    |    tickplusdrawable
+606 |    MarvelHeroes
 
-I'm not a Gif maker, I'm a developer
+✰✰✰ 274
 
-[https://github.com/flavienlaurent/tickplusdrawable](https://github.com/flavienlaurent/tickplusdrawable)
+❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin)  architecture.
+
+[https://github.com/skydoves/MarvelHeroes](https://github.com/skydoves/MarvelHeroes)
 
 
 ---
 
-499 |    ✰ 269 ✰    |    GoogleNavigationDrawerMenu
+607 |    android-keystore-password-recover
+
+✰✰✰ 273
+
+Automatically exported from code.google.com/p/android-keystore-password-recover
+
+[https://github.com/maxcamillo/android-keystore-password-recover](https://github.com/maxcamillo/android-keystore-password-recover)
+
+
+---
+
+608 |    gradle-maven-publish-plugin
+
+✰✰✰ 273
+
+Gradle plugin that configures an uploadArchives task to automatically upload all of your Java, Kotlin or Android libraries to any Maven instance.
+
+[https://github.com/vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
+
+---
+
+609 |    googlenavigationdrawermenu
+
+✰✰✰ 270
 
 Android Library for a DrawerLayout similar to the one in Google Apps
 
@@ -4496,34 +6706,9 @@ Android Library for a DrawerLayout similar to the one in Google Apps
 
 ---
 
-500 |    ✰ 269 ✰    |    translate-bubble-android
+610 |    anchorimageview
 
-Translations without interruptions
-
-[https://github.com/47deg/translate-bubble-android](https://github.com/47deg/translate-bubble-android)
-
-
----
-
-501 |    ✰ 268 ✰    |    apkgrabber
-
-APKGrabber is a tool that simplifies the process of finding updates for your installed apps.
-
-[https://github.com/hemker/apkgrabber](https://github.com/hemker/apkgrabber)
-
-
----
-
-502 |    ✰ 266 ✰    |    ScrollTextView
-
-Android 弹幕，滚动字幕，如新闻联播下面的滚动字幕，可以使用在广告机，机顶盒，TV App等各种信息发布系统。
-
-[https://github.com/anylifezlb/scrolltextview](https://github.com/anylifezlb/scrolltextview)
-
-
----
-
-503 |    ✰ 266 ✰    |    AnchorImageView
+✰✰✰ 270
 
 An ImageView that anchors points according to the pixels, locates the anchored area.
 
@@ -4532,7 +6717,42 @@ An ImageView that anchors points according to the pixels, locates the anchored a
 
 ---
 
-504 |    ✰ 263 ✰    |    KataScreenshotAndroid
+611 |    translate-bubble-android
+
+✰✰✰ 269
+
+Translations without interruptions
+
+[https://github.com/47deg/translate-bubble-android](https://github.com/47deg/translate-bubble-android)
+
+
+---
+
+612 |    tickplusdrawable
+
+✰✰✰ 269
+
+I'm not a Gif maker, I'm a developer
+
+[https://github.com/flavienlaurent/tickplusdrawable](https://github.com/flavienlaurent/tickplusdrawable)
+
+
+---
+
+613 |    dnnlibrary
+
+✰✰✰ 265
+
+Daquexian's NNAPI Library. ONNX + Android NNAPI
+
+[https://github.com/daquexian/dnnlibrary](https://github.com/daquexian/dnnlibrary)
+
+
+---
+
+614 |    katascreenshotandroid
+
+✰✰✰ 264
 
 Screenshot Kata for Android Developers. The main goal is to practice UI Testing.
 
@@ -4541,7 +6761,20 @@ Screenshot Kata for Android Developers. The main goal is to practice UI Testing.
 
 ---
 
-505 |    ✰ 263 ✰    |    ActivityTransition
+615 |    kotlinx.atomicfu
+
+✰✰✰ 264
+
+The idiomatic way to use atomic operations in Kotlin
+
+[https://github.com/kotlin/kotlinx.atomicfu](https://github.com/kotlin/kotlinx.atomicfu)
+
+
+---
+
+616 |    activitytransition
+
+✰✰✰ 264
 
 An android project presenting some transitions you can use between activities
 
@@ -4550,25 +6783,20 @@ An android project presenting some transitions you can use between activities
 
 ---
 
-506 |    ✰ 261 ✰    |    bento
+617 |    koptional
 
-A delicious framework for building modularized Android user interfaces, by Yelp.
+✰✰✰ 263
 
-[https://github.com/yelp/bento](https://github.com/yelp/bento)
+Minimalistic Optional type for Kotlin that tries to fit its null-safe type system as smooth as possible.
 
-
----
-
-507 |    ✰ 259 ✰    |    AutoFillEmailEditText
-
-Auto Fill the custom email to EditText
-
-[https://github.com/wangshaolei/autofillemailedittext](https://github.com/wangshaolei/autofillemailedittext)
+[https://github.com/gojuno/koptional](https://github.com/gojuno/koptional)
 
 
 ---
 
-508 |    ✰ 259 ✰    |    android-gif-encoder
+618 |    android-gif-encoder
+
+✰✰✰ 263
 
 An animated GIF encoder for Android, without any native code required. Based on the J2ME encoder posted here: http://www.jappit.com/blog/2008/12/04/j2me-animated-gif-encoder/, with the addition of dirty rectangle support.
 
@@ -4577,7 +6805,20 @@ An animated GIF encoder for Android, without any native code required. Based on 
 
 ---
 
-509 |    ✰ 259 ✰    |    android-samples
+619 |    autofillemailedittext
+
+✰✰✰ 262
+
+Auto Fill the custom email to EditText
+
+[https://github.com/wangshaolei/autofillemailedittext](https://github.com/wangshaolei/autofillemailedittext)
+
+
+---
+
+620 |    android-samples
+
+✰✰✰ 261
 
 Sample Android code for the tutorials.
 
@@ -4586,7 +6827,9 @@ Sample Android code for the tutorials.
 
 ---
 
-510 |    ✰ 258 ✰    |    rox-android
+621 |    rox-android
+
+✰✰✰ 260
 
 Android app for Tourism Recommendations
 
@@ -4595,70 +6838,31 @@ Android app for Tourism Recommendations
 
 ---
 
-511 |    ✰ 258 ✰    |    Protein
+622 |    triangulationdrawable
 
-💊 Protein is an IntelliJ Plugin to generate Kotlin code for Retrofit 2 and RxJava 2 based on a Swagger definition
+✰✰✰ 260
 
-[https://github.com/adevintaspain/protein](https://github.com/adevintaspain/protein)
+Low Ploy Triangulation Animation on Android.
 
-
----
-
-512 |    ✰ 256 ✰    |    can-i-drop-jetifier
-
-Gradle plugin that checks if there are dependencies using support library instead of AndroidX.
-
-[https://github.com/plnice/can-i-drop-jetifier](https://github.com/plnice/can-i-drop-jetifier)
+[https://github.com/nekocode/triangulationdrawable](https://github.com/nekocode/triangulationdrawable)
 
 
 ---
 
-513 |    ✰ 254 ✰    |    OwlView
+623 |    android-week-view
 
+✰✰✰ 260
 
+Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
 
-[https://github.com/binglingziyu/owlview](https://github.com/binglingziyu/owlview)
-
-
----
-
-514 |    ✰ 253 ✰    |    rtl-viewpager
-
-ViewPager with RTL support :arrows_counterclockwise:
-
-[https://github.com/duolingo/rtl-viewpager](https://github.com/duolingo/rtl-viewpager)
+[https://github.com/quivr/android-week-view](https://github.com/quivr/android-week-view)
 
 
 ---
 
-515 |    ✰ 253 ✰    |    Gander
+624 |    workcation
 
-Gander is a simple in-app HTTP inspector for Android OkHttp clients. Gander intercepts and persists all HTTP requests and responses inside your application, and provides a UI for inspecting their content.
-
-[https://github.com/ashok-varma/gander](https://github.com/ashok-varma/gander)
-
-
----
-
-516 |    ✰ 253 ✰    |    RxAnime
-
-Visualizer to understand RxJava operators
-
-[https://github.com/amanjeetsingh150/rxanime](https://github.com/amanjeetsingh150/rxanime)
-
-
----
-
-517 |    ✰ 252 ✰    |    MaterialDesignColorPalette
-
-
-
-[https://github.com/hozakan/materialdesigncolorpalette](https://github.com/hozakan/materialdesigncolorpalette)
-
-
----
-
-518 |    ✰ 251 ✰    |    Workcation
+✰✰✰ 259
 
 My Research & Development project I've done at Droids on Roids. 
 
@@ -4667,25 +6871,42 @@ My Research & Development project I've done at Droids on Roids.
 
 ---
 
-519 |    ✰ 250 ✰    |    TitanRecyclerView
+625 |    revolution-irc
 
-A handy RecyclerView can deal with all headers, footers, and loading shit.
+✰✰✰ 257
 
-[https://github.com/youzan/titanrecyclerview](https://github.com/youzan/titanrecyclerview)
+A modern Android IRC client. #revolutionirc on Freenode.
 
-
----
-
-520 |    ✰ 249 ✰    |    ListItemFold
-
-ListView and RecyclerView item fold and expand
-
-[https://github.com/dodola/listitemfold](https://github.com/dodola/listitemfold)
+[https://github.com/mcmrarm/revolution-irc](https://github.com/mcmrarm/revolution-irc)
 
 
 ---
 
-521 |    ✰ 249 ✰    |    Material-Icons-for-Pencil
+626 |    owlview
+
+✰✰✰ 254
+
+None
+
+[https://github.com/binglingziyu/owlview](https://github.com/binglingziyu/owlview)
+
+
+---
+
+627 |    simpleast
+
+✰✰✰ 254
+
+Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
+
+[https://github.com/discordapp/simpleast](https://github.com/discordapp/simpleast)
+
+
+---
+
+628 |    material-icons-for-pencil
+
+✰✰✰ 253
 
 Google's Material icons for Pencil
 
@@ -4694,88 +6915,86 @@ Google's Material icons for Pencil
 
 ---
 
-522 |    ✰ 248 ✰    |    KMedia
+629 |    materialdesigncolorpalette
 
-An application level media framework for Android. (RTFSC)
+✰✰✰ 252
 
-[https://github.com/jcodeing/kmedia](https://github.com/jcodeing/kmedia)
+None
+
+[https://github.com/hozakan/materialdesigncolorpalette](https://github.com/hozakan/materialdesigncolorpalette)
 
 
 ---
 
-523 |    ✰ 244 ✰    |    FoldingNavigationDrawer-Android
+630 |    titanrecyclerview
+
+✰✰✰ 251
+
+A handy RecyclerView can deal with all headers, footers, and loading shit.
+
+[https://github.com/youzan/titanrecyclerview](https://github.com/youzan/titanrecyclerview)
 
 
+---
+
+631 |    MusicPlayer
+
+✰✰✰ 250
+
+Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer
+
+[https://github.com/ZahraHeydari/MusicPlayer](https://github.com/ZahraHeydari/MusicPlayer)
+
+
+---
+
+632 |    listitemfold
+
+✰✰✰ 248
+
+ListView and RecyclerView item fold and expand
+
+[https://github.com/dodola/listitemfold](https://github.com/dodola/listitemfold)
+
+
+---
+
+633 |    hauler
+
+✰✰✰ 248
+
+Library with swipe to dismiss Activity gesture implementation
+
+[https://github.com/futuredapp/hauler](https://github.com/futuredapp/hauler)
+
+
+---
+
+634 |    filebox
+
+✰✰✰ 248
+
+Async file downloader for Android
+
+[https://github.com/lyrebirdstudio/filebox](https://github.com/lyrebirdstudio/filebox)
+
+
+---
+
+635 |    foldingnavigationdrawer-android
+
+✰✰✰ 246
+
+None
 
 [https://github.com/tibi1712/foldingnavigationdrawer-android](https://github.com/tibi1712/foldingnavigationdrawer-android)
 
 
 ---
 
-524 |    ✰ 243 ✰    |    EditDrawableText
+636 |    snaphelperexample
 
-EditDrawableText - An EditText which makes your Drawable Clickable
-
-[https://github.com/mindorksopensource/editdrawabletext](https://github.com/mindorksopensource/editdrawabletext)
-
-
----
-
-525 |    ✰ 242 ✰    |    android-BluetoothAdvertisements
-
-Migrated:
-
-[https://github.com/android/android-bluetoothadvertisements](https://github.com/android/android-bluetoothadvertisements)
-
-
----
-
-526 |    ✰ 239 ✰    |    raccoon4
-
-APK Downloader for Google Play
-
-[https://github.com/onyxbits/raccoon4](https://github.com/onyxbits/raccoon4)
-
-
----
-
-527 |    ✰ 239 ✰    |    SmartisanTime
-
-仿锤子时间View
-
-[https://github.com/spiritman/smartisantime](https://github.com/spiritman/smartisantime)
-
-
----
-
-528 |    ✰ 238 ✰    |    DynamicShareActionProvider
-
-Custom implementation of the ShareActionProvider by Google which allows sharing of dynamically generated data.
-
-[https://github.com/nikwen/dynamicshareactionprovider](https://github.com/nikwen/dynamicshareactionprovider)
-
-
----
-
-529 |    ✰ 236 ✰    |    android-swipe-to-dismiss-undo
-
-Android swipe-to-dismiss-undo library and sample code
-
-[https://github.com/hudomju/android-swipe-to-dismiss-undo](https://github.com/hudomju/android-swipe-to-dismiss-undo)
-
-
----
-
-530 |    ✰ 235 ✰    |    FlappyCow
-
-Android game in "Flappy Bird" Style
-
-[https://github.com/cubei/flappycow](https://github.com/cubei/flappycow)
-
-
----
-
-531 |    ✰ 233 ✰    |    SnapHelperExample
+✰✰✰ 244
 
 SnapHelper Example for Android Application
 
@@ -4784,97 +7003,53 @@ SnapHelper Example for Android Application
 
 ---
 
-532 |    ✰ 233 ✰    |    swagger-gradle-codegen
+637 |    android-stepsview
 
-💫 A Gradle Plugin to generate your networking code from Swagger 
+✰✰✰ 243
 
-[https://github.com/yelp/swagger-gradle-codegen](https://github.com/yelp/swagger-gradle-codegen)
+A more complete version of stepsViews in android
 
-
----
-
-533 |    ✰ 232 ✰    |    android-market-api-php
-
-PHP implementation of the java Android Market API
-
-[https://github.com/koconder/android-market-api-php](https://github.com/koconder/android-market-api-php)
+[https://github.com/chilijung/android-stepsview](https://github.com/chilijung/android-stepsview)
 
 
 ---
 
-534 |    ✰ 231 ✰    |    LabCoat
+638 |    flappycow
 
-GitLab client for Android. Mirror of project on GitLab
+✰✰✰ 241
 
-[https://github.com/commit451/labcoat](https://github.com/commit451/labcoat)
+Android game in "Flappy Bird" Style
 
-
----
-
-535 |    ✰ 230 ✰    |    BezierSeekBar
-
-Beautiful custom View, SeekBar selector, easy to use, and rich in customization.漂亮的区间选择器，贝塞尔曲线优雅实现
-
-[https://github.com/fairytale110/bezierseekbar](https://github.com/fairytale110/bezierseekbar)
+[https://github.com/cubei/flappycow](https://github.com/cubei/flappycow)
 
 
 ---
 
-536 |    ✰ 228 ✰    |    cwac-netsecurity
+639 |    android-bluetoothadvertisements
 
-CWAC-NetSecurity: Simplifying Secure Internet Access
+✰✰✰ 241
 
-[https://github.com/commonsguy/cwac-netsecurity](https://github.com/commonsguy/cwac-netsecurity)
+Migrated:
 
-
----
-
-537 |    ✰ 227 ✰    |    dynamic-load-view
-
-A library to dynamic load view in online apk, can be used for hotfix dynamic update .
-
-[https://github.com/kot32go/dynamic-load-view](https://github.com/kot32go/dynamic-load-view)
+[https://github.com/googlesamples/android-bluetoothadvertisements](https://github.com/googlesamples/android-bluetoothadvertisements)
 
 
 ---
 
-538 |    ✰ 226 ✰    |    MultiLamp
+640 |    smartisantime
 
-Android library to showcase/highlight the multiple views on same overlay
+✰✰✰ 240
 
-[https://github.com/ujwalthote/multilamp](https://github.com/ujwalthote/multilamp)
+仿锤子时间View
 
-
----
-
-539 |    ✰ 225 ✰    |    Flopsy
-
-A cute little bunny animation that responds to text field interactions.
-
-[https://github.com/omar753sahl/flopsy](https://github.com/omar753sahl/flopsy)
+[https://github.com/spiritman/smartisantime](https://github.com/spiritman/smartisantime)
 
 
 ---
 
-540 |    ✰ 224 ✰    |    multiplatform-settings
+641 |    android-expandabletextview
 
-A Kotlin Multiplatform library for saving simple key-value data
-
-[https://github.com/russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings)
-
-
----
-
-541 |    ✰ 224 ✰    |    ImageViewEx
-
-[DEPRECATED] - Extension of Android's ImageView that supports animated GIFs and includes a better density management.
-
-[https://github.com/frapontillo/imageviewex](https://github.com/frapontillo/imageviewex)
-
-
----
-
-542 |    ✰ 223 ✰    |    Android-ExpandableTextView
+✰✰✰ 239
 
 An expandable TextView for Android applications
 
@@ -4883,259 +7058,218 @@ An expandable TextView for Android applications
 
 ---
 
-543 |    ✰ 223 ✰    |    QuickPermissions-Kotlin
+642 |    PeopleInSpace
 
-The most easiest way to handle Android Runtime Permissions in Kotlin
+✰✰✰ 239
 
-[https://github.com/quickpermissions/quickpermissions-kotlin](https://github.com/quickpermissions/quickpermissions-kotlin)
+Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
 
-
----
-
-544 |    ✰ 220 ✰    |    circular_bottom_navigation
-
-
-
-[https://github.com/imanneofight/circular_bottom_navigation](https://github.com/imanneofight/circular_bottom_navigation)
+[https://github.com/joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)
 
 
 ---
 
-545 |    ✰ 216 ✰    |    Material-Onboarding
+643 |    android-swipe-to-dismiss-undo
 
-A simple library which allows easy replication of several* app onboarding techniques.
+✰✰✰ 238
 
-[https://github.com/vexigon/material-onboarding](https://github.com/vexigon/material-onboarding)
+Android swipe-to-dismiss-undo library and sample code
 
-
----
-
-546 |    ✰ 215 ✰    |    SpritzerTextView
-
-SpritzerTextView
-
-[https://github.com/andrewgiang/spritzertextview](https://github.com/andrewgiang/spritzertextview)
+[https://github.com/hudomju/android-swipe-to-dismiss-undo](https://github.com/hudomju/android-swipe-to-dismiss-undo)
 
 
 ---
 
-547 |    ✰ 214 ✰    |    PanningView
+644 |    helium
 
-PanningView is a library which implements the animated background in the now playing screen of the Play Music app.
+✰✰✰ 238
 
-[https://github.com/flavienlaurent/panningview](https://github.com/flavienlaurent/panningview)
+Lightweight, Intuitive Framework for Android
 
-
----
-
-548 |    ✰ 214 ✰    |    ChromeOverflowMenu
-
-Overflow Menu animation similar to Chrome For Android
-
-[https://github.com/rahulrj/chromeoverflowmenu](https://github.com/rahulrj/chromeoverflowmenu)
+[https://github.com/joaquim-verges/helium](https://github.com/joaquim-verges/helium)
 
 
 ---
 
-549 |    ✰ 213 ✰    |    PinEntryView
+645 |    dynamicshareactionprovider
 
-A pin entry view widget for Android.
+✰✰✰ 238
 
-[https://github.com/philio/pinentryview](https://github.com/philio/pinentryview)
+Custom implementation of the ShareActionProvider by Google which allows sharing of dynamically generated data.
 
-
----
-
-550 |    ✰ 213 ✰    |    android_download_manager
-
-multi-thread, broken-point-resume download library for Android
-
-[https://github.com/umeng/android_download_manager](https://github.com/umeng/android_download_manager)
+[https://github.com/nikwen/dynamicshareactionprovider](https://github.com/nikwen/dynamicshareactionprovider)
 
 
 ---
 
-551 |    ✰ 213 ✰    |    droidar
+646 |    cwac-netsecurity
 
-DroidAR Mobile Locationbased Augmented Reality Framework for Android
+✰✰✰ 237
 
-[https://github.com/simon-heinen/droidar](https://github.com/simon-heinen/droidar)
+CWAC-NetSecurity: Simplifying Secure Internet Access
 
-
----
-
-552 |    ✰ 210 ✰    |    TinyPngPlugin
-
-TinyPng gradle plugin for android
-
-[https://github.com/waynell/tinypngplugin](https://github.com/waynell/tinypngplugin)
+[https://github.com/commonsguy/cwac-netsecurity](https://github.com/commonsguy/cwac-netsecurity)
 
 
 ---
 
-553 |    ✰ 209 ✰    |    MenuAnimation
+647 |    kotlin-in-action
 
-An easy generator of Floating Action Button (FAB) for Android based on Material Design
+✰✰✰ 237
 
-[https://github.com/onivas/menuanimation](https://github.com/onivas/menuanimation)
+《kotlin实战》翻译
 
-
----
-
-554 |    ✰ 209 ✰    |    SunDatePicker
-
-Date picker for Iranian calendar
-
-[https://github.com/alirezaafkar/sundatepicker](https://github.com/alirezaafkar/sundatepicker)
+[https://github.com/panxl6/kotlin-in-action](https://github.com/panxl6/kotlin-in-action)
 
 
 ---
 
-555 |    ✰ 209 ✰    |    CollapsingHeader
+648 |    android-architecture-resources
 
-It's like an Android ToolBar reacting to a scroll listener, but not quite.
+✰✰✰ 237
 
-[https://github.com/lynfogeek/collapsingheader](https://github.com/lynfogeek/collapsingheader)
+None
 
-
----
-
-556 |    ✰ 209 ✰    |    Lin
-
-Lin is an Android Lint tool made simple
-
-[https://github.com/serchinastico/lin](https://github.com/serchinastico/lin)
+[https://github.com/ziem/android-architecture-resources](https://github.com/ziem/android-architecture-resources)
 
 
 ---
 
-557 |    ✰ 208 ✰    |    DropDownLayout
+649 |    labcoat
 
-DropDownLayout 
+✰✰✰ 235
 
-[https://github.com/sungerk/dropdownlayout](https://github.com/sungerk/dropdownlayout)
+GitLab client for Android. Mirror of project on GitLab
 
-
----
-
-558 |    ✰ 207 ✰    |    android-slideshow-widget
-
-A set of widgets to create smooth slideshows with ease.
-
-[https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
+[https://github.com/commit451/labcoat](https://github.com/commit451/labcoat)
 
 
 ---
 
-559 |    ✰ 206 ✰    |    ViewPager3D
+650 |    android-market-api-php
 
-Extension of Android ViewPager with a 3D swipe effect
+✰✰✰ 233
 
-[https://github.com/inovex/viewpager3d](https://github.com/inovex/viewpager3d)
+PHP implementation of the java Android Market API
 
-
----
-
-560 |    ✰ 206 ✰    |    Android-Router
-
-An android componentization protocol framework, used for decoupling complex project. Android高性能轻量级路由框架
-
-[https://github.com/tangxiaolv/android-router](https://github.com/tangxiaolv/android-router)
+[https://github.com/koconder/android-market-api-php](https://github.com/koconder/android-market-api-php)
 
 
 ---
 
-561 |    ✰ 204 ✰    |    StepDialog
+651 |    ulfberht
 
-一行代码实现ofo app首次注册时的步骤控件
+✰✰✰ 233
 
-[https://github.com/guangzq/stepdialog](https://github.com/guangzq/stepdialog)
+🗡️ A small but powerful & opinionated DI library. Written in Kotlin, and powered by annotation processing.
 
-
----
-
-562 |    ✰ 204 ✰    |    autodsl
-
-Auto-generate Kotlin DSL
-
-[https://github.com/juanchosaravia/autodsl](https://github.com/juanchosaravia/autodsl)
+[https://github.com/afollestad/ulfberht](https://github.com/afollestad/ulfberht)
 
 
 ---
 
-563 |    ✰ 203 ✰    |    FindViewByMe
+652 |    newandroidarchitecture-component-github
 
-A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
+✰✰✰ 232
 
-[https://github.com/laobie/findviewbyme](https://github.com/laobie/findviewbyme)
+Sample project based on the new Android Component Architecture 
 
-
----
-
-564 |    ✰ 200 ✰    |    GigaGet
-
-(DISCONTINUED) A multi-thread & lightweight downloader designed for Android
-
-[https://github.com/paperairplane-dev-team/gigaget](https://github.com/paperairplane-dev-team/gigaget)
+[https://github.com/florent37/newandroidarchitecture-component-github](https://github.com/florent37/newandroidarchitecture-component-github)
 
 
 ---
 
-565 |    ✰ 199 ✰    |    android_ProcessBar
+653 |    videochatguru-android
 
-An android process bar library associated with ViewPager through single method
+✰✰✰ 231
 
-[https://github.com/hzw1199/android_processbar](https://github.com/hzw1199/android_processbar)
+Open source library to create fast and beautiful video chats over WebRTC
 
-
----
-
-566 |    ✰ 197 ✰    |    CameraColorPicker
-
-Camera Color Picker is an Android application that lets you capture, in real time, the colors around you using the camera of your device
-
-[https://github.com/tvbarthel/cameracolorpicker](https://github.com/tvbarthel/cameracolorpicker)
+[https://github.com/netguru/videochatguru-android](https://github.com/netguru/videochatguru-android)
 
 
 ---
 
-567 |    ✰ 196 ✰    |    bottomsheet-imagepicker
+654 |    paranoid
 
-Modern image picker for Android
+✰✰✰ 230
 
-[https://github.com/kroegerama/bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)
+String obfuscator for Android applications.
 
-
----
-
-568 |    ✰ 195 ✰    |    DaggerAndroidInjector
-
-Dagger Sample Project on how to use the new dagger-android module for Dagger v2.11
-
-[https://github.com/rakshakhegde/daggerandroidinjector](https://github.com/rakshakhegde/daggerandroidinjector)
+[https://github.com/michaelrocks/paranoid](https://github.com/michaelrocks/paranoid)
 
 
 ---
 
-569 |    ✰ 195 ✰    |    android-colorthief
+655 |    transport-eta
 
+✰✰✰ 228
 
+Twitch streamed 🎥playground repo, README speaks to you.
 
-[https://github.com/henriquerocha/android-colorthief](https://github.com/henriquerocha/android-colorthief)
-
-
----
-
-570 |    ✰ 195 ✰    |    AndroidImageMap
-
-An HTML map like widget in an Android view
-
-[https://github.com/catchthecows/androidimagemap](https://github.com/catchthecows/androidimagemap)
+[https://github.com/joaquimley/transport-eta](https://github.com/joaquimley/transport-eta)
 
 
 ---
 
-571 |    ✰ 195 ✰    |    StickyScrollView
+656 |    dynamic-load-view
+
+✰✰✰ 227
+
+A library to dynamic load view in online apk, can be used for hotfix dynamic update .
+
+[https://github.com/kot32go/dynamic-load-view](https://github.com/kot32go/dynamic-load-view)
+
+
+---
+
+657 |    android-camera2-secret-picture-taker
+
+✰✰✰ 226
+
+Take pictures 📷 secretly (without preview or launching device's camera app) using Android CAMERA2 API
+
+[https://github.com/botyourbusiness/android-camera2-secret-picture-taker](https://github.com/botyourbusiness/android-camera2-secret-picture-taker)
+
+
+---
+
+658 |    wallpaperboard
+
+✰✰✰ 225
+
+Android Json based wallpaper dashboard library
+
+[https://github.com/danimahardhika/wallpaperboard](https://github.com/danimahardhika/wallpaperboard)
+
+
+---
+
+659 |    imageviewex
+
+✰✰✰ 224
+
+[DEPRECATED] - Extension of Android's ImageView that supports animated GIFs and includes a better density management.
+
+[https://github.com/frapontillo/imageviewex](https://github.com/frapontillo/imageviewex)
+
+
+---
+
+660 |    Prism
+
+✰✰✰ 224
+
+Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
+
+[https://github.com/GettEngineering/Prism](https://github.com/GettEngineering/Prism)
+
+
+---
+
+661 |    stickyscrollview
+
+✰✰✰ 222
 
 Sticky header and footer for android ScrollView.
 
@@ -5144,7 +7278,185 @@ Sticky header and footer for android ScrollView.
 
 ---
 
-572 |    ✰ 195 ✰    |    adbGUI
+662 |    cryptoshadow
+
+✰✰✰ 221
+
+CryptoCurrency Tracker for Android & iOS built with @flutter
+
+[https://github.com/huextrat/cryptoshadow](https://github.com/huextrat/cryptoshadow)
+
+
+---
+
+663 |    chromeoverflowmenu
+
+✰✰✰ 221
+
+Overflow Menu animation similar to Chrome For Android
+
+[https://github.com/rahulrj/chromeoverflowmenu](https://github.com/rahulrj/chromeoverflowmenu)
+
+
+---
+
+664 |    BottomNavigator
+
+✰✰✰ 220
+
+Android Bottom Navigation multiple stack manager
+
+[https://github.com/PandoraMedia/BottomNavigator](https://github.com/PandoraMedia/BottomNavigator)
+
+
+---
+
+665 |    ChiliPhotoPicker
+
+✰✰✰ 220
+
+Photo picker library for android. Let's you pick photos directly from files, or navigate to camera or gallery.
+
+[https://github.com/ChiliLabs/ChiliPhotoPicker](https://github.com/ChiliLabs/ChiliPhotoPicker)
+
+
+---
+
+666 |    spritzertextview
+
+✰✰✰ 218
+
+SpritzerTextView
+
+[https://github.com/andrewgiang/spritzertextview](https://github.com/andrewgiang/spritzertextview)
+
+
+---
+
+667 |    expenses
+
+✰✰✰ 218
+
+App written in Kotlin for budget tracking.
+
+[https://github.com/nominalista/expenses](https://github.com/nominalista/expenses)
+
+
+---
+
+668 |    droidar
+
+✰✰✰ 215
+
+DroidAR Mobile Locationbased Augmented Reality Framework for Android
+
+[https://github.com/simon-heinen/droidar](https://github.com/simon-heinen/droidar)
+
+
+---
+
+669 |    android-jetpack-playground
+
+✰✰✰ 215
+
+Pet project for cutting edge Android development with Jetpack
+
+[https://github.com/jeppeman/android-jetpack-playground](https://github.com/jeppeman/android-jetpack-playground)
+
+
+---
+
+670 |    pinentryview
+
+✰✰✰ 214
+
+A pin entry view widget for Android.
+
+[https://github.com/philio/pinentryview](https://github.com/philio/pinentryview)
+
+
+---
+
+671 |    android_download_manager
+
+✰✰✰ 214
+
+multi-thread, broken-point-resume download library for Android
+
+[https://github.com/umeng/android_download_manager](https://github.com/umeng/android_download_manager)
+
+
+---
+
+672 |    tinypngplugin
+
+✰✰✰ 214
+
+TinyPng gradle plugin for android
+
+[https://github.com/waynell/tinypngplugin](https://github.com/waynell/tinypngplugin)
+
+
+---
+
+673 |    panningview
+
+✰✰✰ 213
+
+PanningView is a library which implements the animated background in the now playing screen of the Play Music app.
+
+[https://github.com/flavienlaurent/panningview](https://github.com/flavienlaurent/panningview)
+
+
+---
+
+674 |    newscatchr
+
+✰✰✰ 213
+
+FOSS Android News Reader App
+
+[https://github.com/newscatchr/newscatchr](https://github.com/newscatchr/newscatchr)
+
+
+---
+
+675 |    confundus
+
+✰✰✰ 213
+
+Kotlin compiler plugin which brings Kotlin/JS's unsafeCast to Kotlin/JVM
+
+[https://github.com/JakeWharton/confundus](https://github.com/JakeWharton/confundus)
+
+
+---
+
+676 |    menuanimation
+
+✰✰✰ 212
+
+An easy generator of Floating Action Button (FAB) for Android based on Material Design
+
+[https://github.com/onivas/menuanimation](https://github.com/onivas/menuanimation)
+
+
+---
+
+677 |    viewpager3d
+
+✰✰✰ 209
+
+Extension of Android ViewPager with a 3D swipe effect
+
+[https://github.com/inovex/viewpager3d](https://github.com/inovex/viewpager3d)
+
+
+---
+
+678 |    adbgui
+
+✰✰✰ 209
 
 Wrapper for Android Debug Bridge (ADB) written in C#
 
@@ -5153,16 +7465,108 @@ Wrapper for Android Debug Bridge (ADB) written in C#
 
 ---
 
-573 |    ✰ 195 ✰    |    mr-clean
+679 |    collapsingheader
 
-Don't leak sensitive data.
+✰✰✰ 209
 
-[https://github.com/trello/mr-clean](https://github.com/trello/mr-clean)
+It's like an Android ToolBar reacting to a scroll listener, but not quite.
+
+[https://github.com/lynfogeek/collapsingheader](https://github.com/lynfogeek/collapsingheader)
 
 
 ---
 
-574 |    ✰ 194 ✰    |    ink-android
+680 |    dropdownlayout
+
+✰✰✰ 209
+
+DropDownLayout 
+
+[https://github.com/sungerk/dropdownlayout](https://github.com/sungerk/dropdownlayout)
+
+
+---
+
+681 |    kotlin-power-assert
+
+✰✰✰ 209
+
+Kotlin compiler plugin to enable power assertions in the Kotlin programming language
+
+[https://github.com/bnorm/kotlin-power-assert](https://github.com/bnorm/kotlin-power-assert)
+
+
+---
+
+682 |    findviewbyme
+
+✰✰✰ 207
+
+A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
+
+[https://github.com/laobie/findviewbyme](https://github.com/laobie/findviewbyme)
+
+
+---
+
+683 |    android-router
+
+✰✰✰ 207
+
+An android componentization protocol framework, used for decoupling complex project. Android高性能轻量级路由框架
+
+[https://github.com/tangxiaolv/android-router](https://github.com/tangxiaolv/android-router)
+
+
+---
+
+684 |    stepdialog
+
+✰✰✰ 206
+
+一行代码实现ofo app首次注册时的步骤控件
+
+[https://github.com/guangzq/stepdialog](https://github.com/guangzq/stepdialog)
+
+
+---
+
+685 |    artist
+
+✰✰✰ 206
+
+An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views.
+
+[https://github.com/uber/artist](https://github.com/uber/artist)
+
+
+---
+
+686 |    prefekt
+
+✰✰✰ 204
+
+None
+
+[https://github.com/stylingandroid/prefekt](https://github.com/stylingandroid/prefekt)
+
+
+---
+
+687 |    MathCoroutinesFlow
+
+✰✰✰ 203
+
+Usage of Flow and Channels
+
+[https://github.com/manuelvicnt/MathCoroutinesFlow](https://github.com/manuelvicnt/MathCoroutinesFlow)
+
+
+---
+
+688 |    ink-android
+
+✰✰✰ 202
 
 A light-weight, customizable Android signature / drawing library.
 
@@ -5171,79 +7575,42 @@ A light-weight, customizable Android signature / drawing library.
 
 ---
 
-575 |    ✰ 194 ✰    |    Android-DraggableGridViewPager
+689 |    simple-mvp
 
-Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen.
+✰✰✰ 201
 
-[https://github.com/zzhouj/android-draggablegridviewpager](https://github.com/zzhouj/android-draggablegridviewpager)
+Framework canônico para aplicação do padrão Model View Presenter no Android
 
-
----
-
-576 |    ✰ 194 ✰    |    ImmortalPlayer
-
-Free audio/video player component for Android with cache, FTP, peering, hw accel, background play, pseudo-streaming and more...
-
-[https://github.com/master255/immortalplayer](https://github.com/master255/immortalplayer)
+[https://github.com/tinmegali/simple-mvp](https://github.com/tinmegali/simple-mvp)
 
 
 ---
 
-577 |    ✰ 194 ✰    |    AndroidDemoIn4Languages
+690 |    cronet-sample
 
-Comparison among Java, Groovy, Scala, Kotlin in Android Development.
+✰✰✰ 200
 
-[https://github.com/sidneyxu/androiddemoin4languages](https://github.com/sidneyxu/androiddemoin4languages)
+A sample for the Cronet library
 
-
----
-
-578 |    ✰ 194 ✰    |    GitLabAndroid
-
-Unofficial GitLab client for Android
-
-[https://github.com/ekx/gitlabandroid](https://github.com/ekx/gitlabandroid)
+[https://github.com/googlechromelabs/cronet-sample](https://github.com/googlechromelabs/cronet-sample)
 
 
 ---
 
-579 |    ✰ 194 ✰    |    Kaskade
+691 |    TheMovies2
 
-Simplifying state management
+✰✰✰ 200
 
-[https://github.com/gumil/kaskade](https://github.com/gumil/kaskade)
+🎬 A demo project using The Movie DB based on Kotlin MVVM architecture and material design & animations.
 
-
----
-
-580 |    ✰ 193 ✰    |    BottomNavigator
-
-Android Bottom Navigation multiple stack manager
-
-[https://github.com/pandoramedia/bottomnavigator](https://github.com/pandoramedia/bottomnavigator)
+[https://github.com/skydoves/TheMovies2](https://github.com/skydoves/TheMovies2)
 
 
 ---
 
-581 |    ✰ 192 ✰    |    notes
+692 |    material-design-components-showcase
 
-:notebook_with_decorative_cover: Notes app for ownCloud
-
-[https://github.com/owncloud/notes](https://github.com/owncloud/notes)
-
-
----
-
-582 |    ✰ 190 ✰    |    MathCoroutinesFlow
-
-Usage of Flow and Channels
-
-[https://github.com/manuelvicnt/mathcoroutinesflow](https://github.com/manuelvicnt/mathcoroutinesflow)
-
-
----
-
-583 |    ✰ 189 ✰    |    material-design-components-showcase
+✰✰✰ 199
 
 A glorified layout file to which you can apply your Android theme
 
@@ -5252,16 +7619,141 @@ A glorified layout file to which you can apply your Android theme
 
 ---
 
-584 |    ✰ 188 ✰    |    ssp
+693 |    dagger-browser
 
-Variant of sdp project based on the sp size unit.
+✰✰✰ 199
 
-[https://github.com/intuit/ssp](https://github.com/intuit/ssp)
+Simple tool for browsing Dagger graphs generated via an SPI plugin
+
+[https://github.com/Snapchat/dagger-browser](https://github.com/Snapchat/dagger-browser)
 
 
 ---
 
-585 |    ✰ 187 ✰    |    classyshark-user-guide
+694 |    android_processbar
+
+✰✰✰ 198
+
+An android process bar library associated with ViewPager through single method
+
+[https://github.com/hzw1199/android_processbar](https://github.com/hzw1199/android_processbar)
+
+
+---
+
+695 |    immortalplayer
+
+✰✰✰ 198
+
+Free audio/video player component for Android with cache, FTP, peering, hw accel, background play, pseudo-streaming and more...
+
+[https://github.com/master255/immortalplayer](https://github.com/master255/immortalplayer)
+
+
+---
+
+696 |    cameracolorpicker
+
+✰✰✰ 198
+
+Camera Color Picker is an Android application that lets you capture, in real time, the colors around you using the camera of your device
+
+[https://github.com/tvbarthel/cameracolorpicker](https://github.com/tvbarthel/cameracolorpicker)
+
+
+---
+
+697 |    android-colorthief
+
+✰✰✰ 197
+
+None
+
+[https://github.com/henriquerocha/android-colorthief](https://github.com/henriquerocha/android-colorthief)
+
+
+---
+
+698 |    daggerandroidinjector
+
+✰✰✰ 197
+
+Dagger Sample Project on how to use the new dagger-android module for Dagger v2.11
+
+[https://github.com/rakshakhegde/daggerandroidinjector](https://github.com/rakshakhegde/daggerandroidinjector)
+
+
+---
+
+699 |    android-draggablegridviewpager
+
+✰✰✰ 197
+
+Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen.
+
+[https://github.com/zzhouj/android-draggablegridviewpager](https://github.com/zzhouj/android-draggablegridviewpager)
+
+
+---
+
+700 |    androiddemoin4languages
+
+✰✰✰ 195
+
+Comparison among Java, Groovy, Scala, Kotlin in Android Development.
+
+[https://github.com/sidneyxu/androiddemoin4languages](https://github.com/sidneyxu/androiddemoin4languages)
+
+
+---
+
+701 |    androidimagemap
+
+✰✰✰ 194
+
+An HTML map like widget in an Android view
+
+[https://github.com/catchthecows/androidimagemap](https://github.com/catchthecows/androidimagemap)
+
+
+---
+
+702 |    gitlabandroid
+
+✰✰✰ 194
+
+Unofficial GitLab client for Android
+
+[https://github.com/ekx/gitlabandroid](https://github.com/ekx/gitlabandroid)
+
+
+---
+
+703 |    classyshark-bytecode-viewer
+
+✰✰✰ 190
+
+Browse your Java/Kotlin compiled code
+
+[https://github.com/borisf/classyshark-bytecode-viewer](https://github.com/borisf/classyshark-bytecode-viewer)
+
+
+---
+
+704 |    notes
+
+✰✰✰ 190
+
+:notebook_with_decorative_cover: Notes app for ownCloud
+
+[https://github.com/owncloud/notes](https://github.com/owncloud/notes)
+
+
+---
+
+705 |    classyshark-user-guide
+
+✰✰✰ 189
 
 Everything you want to know how to use ClassyShark
 
@@ -5270,34 +7762,31 @@ Everything you want to know how to use ClassyShark
 
 ---
 
-586 |    ✰ 186 ✰    |    android-dependency-injection-performance
+706 |    orbit-mvi
 
-Measure the performance of several Dependency Injection frameworks in different devices
+✰✰✰ 189
 
-[https://github.com/sloy/android-dependency-injection-performance](https://github.com/sloy/android-dependency-injection-performance)
+An MVI framework for Kotlin and Android
 
-
----
-
-587 |    ✰ 185 ✰    |    matlog
-
-Material Logcat reader based on CatLog
-
-[https://github.com/pluscubed/matlog](https://github.com/pluscubed/matlog)
+[https://github.com/babylonhealth/orbit-mvi](https://github.com/babylonhealth/orbit-mvi)
 
 
 ---
 
-588 |    ✰ 185 ✰    |    S-Tools
+707 |    constraint-layout-animations
 
-Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information
+✰✰✰ 188
 
-[https://github.com/naman14/s-tools](https://github.com/naman14/s-tools)
+None
+
+[https://github.com/ibhavikmakwana/constraint-layout-animations](https://github.com/ibhavikmakwana/constraint-layout-animations)
 
 
 ---
 
-589 |    ✰ 184 ✰    |    onesignal-php-api
+708 |    onesignal-php-api
+
+✰✰✰ 188
 
 OneSignal API for PHP
 
@@ -5306,88 +7795,53 @@ OneSignal API for PHP
 
 ---
 
-590 |    ✰ 181 ✰    |    NoBullshit
+709 |    s-tools
 
-A sample project entirely written in Kotlin. Backend/Frontend with Ktor and Android app.
+✰✰✰ 185
 
-[https://github.com/philippeboisney/nobullshit](https://github.com/philippeboisney/nobullshit)
+Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information
 
-
----
-
-591 |    ✰ 180 ✰    |    markers
-
-Sample app demonstrating use of Android touch APIs for pressure-sensitive drawing.
-
-[https://github.com/dsandler/markers](https://github.com/dsandler/markers)
+[https://github.com/naman14/s-tools](https://github.com/naman14/s-tools)
 
 
 ---
 
-592 |    ✰ 177 ✰    |    io2014-codelabs
+710 |    purrge
 
-Google I/O 2014 Codelabs
+✰✰✰ 183
 
-[https://github.com/android/io2014-codelabs](https://github.com/android/io2014-codelabs)
+:cat: Quickly purrge android apps from your phone
 
-
----
-
-593 |    ✰ 177 ✰    |    ExpandableBottomBar
-
-A new way to implement navigation in your app 🏎
-
-[https://github.com/st235/expandablebottombar](https://github.com/st235/expandablebottombar)
+[https://github.com/cesarferreira/purrge](https://github.com/cesarferreira/purrge)
 
 
 ---
 
-594 |    ✰ 176 ✰    |    rxjava-walkthrough
+711 |    rxpermission
 
-RxJava playground
+✰✰✰ 183
 
-[https://github.com/balamaci/rxjava-walkthrough](https://github.com/balamaci/rxjava-walkthrough)
+Reactive permissions for Android
 
-
----
-
-595 |    ✰ 176 ✰    |    material-notes
-
-Note-taking app with Material Design for Android
-
-[https://github.com/dan-zx/material-notes](https://github.com/dan-zx/material-notes)
+[https://github.com/vanniktech/rxpermission](https://github.com/vanniktech/rxpermission)
 
 
 ---
 
-596 |    ✰ 174 ✰    |    view-effects
+712 |    Open-API-Android-App
 
-Apply custom effects on view backgrounds
+✰✰✰ 183
 
-[https://github.com/mirrajabi/view-effects](https://github.com/mirrajabi/view-effects)
+Kotlin, MVI Architecture, Dagger2, Retrofit2, Coroutines, Room Persistence, REST API, Token Authentication
 
-
----
-
-597 |    ✰ 173 ✰    |    Biometric-Auth-Sample
-
-Add Biometric Authentication to any Android app
-
-[https://github.com/anitaa1990/biometric-auth-sample](https://github.com/anitaa1990/biometric-auth-sample)
+[https://github.com/mitchtabian/Open-API-Android-App](https://github.com/mitchtabian/Open-API-Android-App)
 
 
 ---
 
-598 |    ✰ 173 ✰    |    Android-RadarView
+713 |    t-sne-java
 
-:dart:雷达图，类似支付宝芝麻分解读，王者荣耀对战资料图。
-
-[https://github.com/jeanboydev/android-radarview](https://github.com/jeanboydev/android-radarview)
-
-
----
-
-599 |    ✰ 168 ✰    |    T-SNE-Java
+✰✰✰ 180
 
 Pure Java implementation of Van Der Maaten and Hinton's t-sne clustering algorithm
 
@@ -5396,34 +7850,108 @@ Pure Java implementation of Van Der Maaten and Hinton's t-sne clustering algorit
 
 ---
 
-600 |    ✰ 168 ✰    |    Dir
+714 |    kotlogram
 
-A modern File Manager for Android
+✰✰✰ 178
 
-[https://github.com/veniosg/dir](https://github.com/veniosg/dir)
+Telegram API for Java/Kotlin easy to use and straightforward
 
-
----
-
-601 |    ✰ 167 ✰    |    Meizitu
-
-一个美图软件
-
-[https://github.com/sangmingming/meizitu](https://github.com/sangmingming/meizitu)
+[https://github.com/badoualy/kotlogram](https://github.com/badoualy/kotlogram)
 
 
 ---
 
-602 |    ✰ 166 ✰    |    TimeAgo
+715 |    shimo
 
-This will help to get how much time have passed. Useful in showing messages, notifications time and etc.
+✰✰✰ 178
 
-[https://github.com/chathurahettiarachchi/timeago](https://github.com/chathurahettiarachchi/timeago)
+Shimo is an adapter for Moshi which randomizes the order of keys when serializing and deserializing
+
+[https://github.com/JakeWharton/shimo](https://github.com/JakeWharton/shimo)
 
 
 ---
 
-603 |    ✰ 164 ✰    |    NewsApp
+716 |    material-notes
+
+✰✰✰ 177
+
+Note-taking app with Material Design for Android
+
+[https://github.com/dan-zx/material-notes](https://github.com/dan-zx/material-notes)
+
+
+---
+
+717 |    io2014-codelabs
+
+✰✰✰ 177
+
+Google I/O 2014 Codelabs
+
+[https://github.com/googlesamples/io2014-codelabs](https://github.com/googlesamples/io2014-codelabs)
+
+
+---
+
+718 |    android-radarview
+
+✰✰✰ 177
+
+:dart:雷达图，类似支付宝芝麻分解读，王者荣耀对战资料图。
+
+[https://github.com/jeanboydev/android-radarview](https://github.com/jeanboydev/android-radarview)
+
+
+---
+
+719 |    chat21-android-sdk
+
+✰✰✰ 175
+
+Android Chat SDK built on Firebase
+
+[https://github.com/chat21/chat21-android-sdk](https://github.com/chat21/chat21-android-sdk)
+
+
+---
+
+720 |    ktflite
+
+✰✰✰ 172
+
+Computer Vision on Android with Kotlin and Tensorflow Lite
+
+[https://github.com/eddywm/ktflite](https://github.com/eddywm/ktflite)
+
+
+---
+
+721 |    springy_facebook_rebound
+
+✰✰✰ 172
+
+Springy makes Android Property animation easy to use. 
+
+[https://github.com/salmanzach/springy_facebook_rebound](https://github.com/salmanzach/springy_facebook_rebound)
+
+
+---
+
+722 |    counterview
+
+✰✰✰ 171
+
+A simple Android counter view for showing edittext character counts
+
+[https://github.com/bufferapp/counterview](https://github.com/bufferapp/counterview)
+
+
+---
+
+723 |    newsapp
+
+✰✰✰ 170
 
 A Sample News App written in Kotlin using Android Architecture Components, MVVM
 
@@ -5432,7 +7960,20 @@ A Sample News App written in Kotlin using Android Architecture Components, MVVM
 
 ---
 
-604 |    ✰ 164 ✰    |    Android-MuPDF
+724 |    fcm-push-plugin
+
+✰✰✰ 170
+
+IntelliJ IDEA plugin to send pushes using Firebase Cloud Messaging (FCM)
+
+[https://github.com/abeade/fcm-push-plugin](https://github.com/abeade/fcm-push-plugin)
+
+
+---
+
+725 |    android-mupdf
+
+✰✰✰ 169
 
 MuPDF usage for magazine reading
 
@@ -5441,16 +7982,86 @@ MuPDF usage for magazine reading
 
 ---
 
-605 |    ✰ 163 ✰    |    YourAppIdea
+726 |    validator
 
-Project template for android and demo app for tutorials on www.michenux.net
+✰✰✰ 169
 
-[https://github.com/michenux/yourappidea](https://github.com/michenux/yourappidea)
+A tiny library for easily validating TextInputLayouts in Android
+
+[https://github.com/jpetitto/validator](https://github.com/jpetitto/validator)
 
 
 ---
 
-606 |    ✰ 163 ✰    |    samples
+727 |    dir
+
+✰✰✰ 169
+
+A modern File Manager for Android
+
+[https://github.com/veniosg/dir](https://github.com/veniosg/dir)
+
+
+---
+
+728 |    RxCentralBle
+
+✰✰✰ 169
+
+A reactive, interface-driven central role Bluetooth LE library for Android
+
+[https://github.com/uber/RxCentralBle](https://github.com/uber/RxCentralBle)
+
+
+---
+
+729 |    billingx
+
+✰✰✰ 168
+
+Extension to the Billing Support library to support debug builds.
+
+[https://github.com/pixiteapps/billingx](https://github.com/pixiteapps/billingx)
+
+
+---
+
+730 |    Android-Extensions
+
+✰✰✰ 168
+
+An Android library with modules to quickly bootstrap an Android application.
+
+[https://github.com/tunjid/Android-Extensions](https://github.com/tunjid/Android-Extensions)
+
+
+---
+
+731 |    timeago
+
+✰✰✰ 167
+
+This will help to get how much time have passed. Useful in showing messages, notifications time and etc.
+
+[https://github.com/chathurahettiarachchi/timeago](https://github.com/chathurahettiarachchi/timeago)
+
+
+---
+
+732 |    meizitu
+
+✰✰✰ 166
+
+一个美图软件
+
+[https://github.com/sangmingming/meizitu](https://github.com/sangmingming/meizitu)
+
+
+---
+
+733 |    samples
+
+✰✰✰ 165
 
 samples
 
@@ -5459,43 +8070,64 @@ samples
 
 ---
 
-607 |    ✰ 163 ✰    |    ChiliPhotoPicker
+734 |    SpannableStringParser
 
-Photo picker library for android. Let's you pick photos directly from files, or navigate to camera or gallery.
+✰✰✰ 165
 
-[https://github.com/chililabs/chiliphotopicker](https://github.com/chililabs/chiliphotopicker)
+:scroll::mag: [LIBRARY] A SpannableString Parser for Android
 
-
----
-
-608 |    ✰ 162 ✰    |    SwipeSpinnerWidget
-
-[Android] A helper class to create recyclerview-based fast-scrolling spinner
-
-[https://github.com/darkionavey/swipespinnerwidget](https://github.com/darkionavey/swipespinnerwidget)
+[https://github.com/hitanshu-dhawan/SpannableStringParser](https://github.com/hitanshu-dhawan/SpannableStringParser)
 
 
 ---
 
-609 |    ✰ 162 ✰    |    AirLocation
+735 |    retrofit2-reactor-adapter
 
-An android library which takes care of adding permission in manifest, asking permission at runtime, turning on location from settings if user allows, optimizing location settings if user allows, and finally gives the dev user's location via Location object. All this from a simple callback!
+✰✰✰ 164
 
-[https://github.com/mumayank/airlocation](https://github.com/mumayank/airlocation)
+A Project Reactor CallAdapter.Factory implementation for Retrofit 2.
 
-
----
-
-610 |    ✰ 161 ✰    |    TheMovies2
-
-🎬 A demo project using The Movie DB based on Kotlin MVVM architecture and material design & animations.
-
-[https://github.com/skydoves/themovies2](https://github.com/skydoves/themovies2)
+[https://github.com/jakewharton/retrofit2-reactor-adapter](https://github.com/jakewharton/retrofit2-reactor-adapter)
 
 
 ---
 
-611 |    ✰ 160 ✰    |    DevDrawer
+736 |    beagle
+
+✰✰✰ 164
+
+A smart and reliable companion library for debugging your Android apps.
+
+[https://github.com/pandulapeter/beagle](https://github.com/pandulapeter/beagle)
+
+
+---
+
+737 |    yourappidea
+
+✰✰✰ 162
+
+Project template for android and demo app for tutorials on www.michenux.net
+
+[https://github.com/michenux/yourappidea](https://github.com/michenux/yourappidea)
+
+
+---
+
+738 |    androidmaterialdialog
+
+✰✰✰ 161
+
+Provides builders, which allow to create various "Material Design"-styled dialogs
+
+[https://github.com/michael-rapp/androidmaterialdialog](https://github.com/michael-rapp/androidmaterialdialog)
+
+
+---
+
+739 |    devdrawer
+
+✰✰✰ 161
 
 Dev Drawer Android App
 
@@ -5504,7 +8136,20 @@ Dev Drawer Android App
 
 ---
 
-612 |    ✰ 159 ✰    |    RefreshNow
+740 |    Mockinizer
+
+✰✰✰ 161
+
+An okhttp / retrofit api call mocking library
+
+[https://github.com/donfuxx/Mockinizer](https://github.com/donfuxx/Mockinizer)
+
+
+---
+
+741 |    refreshnow
+
+✰✰✰ 158
 
 Google Now style pull to refresh
 
@@ -5513,43 +8158,9 @@ Google Now style pull to refresh
 
 ---
 
-613 |    ✰ 158 ✰    |    HackDroid
+742 |    raised-center-tab-in-android
 
-Penetration Testing Apps for Android
-
-[https://github.com/thehackingsage/hackdroid](https://github.com/thehackingsage/hackdroid)
-
-
----
-
-614 |    ✰ 157 ✰    |    AdvancedRecycleView
-
-♻ RecycleView with multiple view types, inner horizontal RecycleView and layout animation
-
-[https://github.com/pavelpoley/advancedrecycleview](https://github.com/pavelpoley/advancedrecycleview)
-
-
----
-
-615 |    ✰ 156 ✰    |    EasyPullLayout
-
-A light Pull to Refresh Layout that support both VERTICAL and HORIZONTAL.
-
-[https://github.com/huzenan/easypulllayout](https://github.com/huzenan/easypulllayout)
-
-
----
-
-616 |    ✰ 156 ✰    |    Eiffel
-
-Kotlin Android architecture library for view state handling with Jetpack Architecture Components.
-
-[https://github.com/etiennelenhart/eiffel](https://github.com/etiennelenhart/eiffel)
-
-
----
-
-617 |    ✰ 154 ✰    |    Raised-Center-Tab-in-Android
+✰✰✰ 157
 
 Customized tabhost having raised center tab.
 
@@ -5558,25 +8169,20 @@ Customized tabhost having raised center tab.
 
 ---
 
-618 |    ✰ 153 ✰    |    android-play-games-in-motion
+743 |    android-play-games-in-motion
 
+✰✰✰ 155
 
+None
 
-[https://github.com/android/android-play-games-in-motion](https://github.com/android/android-play-games-in-motion)
-
-
----
-
-619 |    ✰ 153 ✰    |    SuspendButtonLayout
-
-一个带浮动按钮的布局，按钮可以随意拖动和展开
-
-[https://github.com/laocaixw/suspendbuttonlayout](https://github.com/laocaixw/suspendbuttonlayout)
+[https://github.com/googlesamples/android-play-games-in-motion](https://github.com/googlesamples/android-play-games-in-motion)
 
 
 ---
 
-620 |    ✰ 153 ✰    |    RandomData
+744 |    randomdata
+
+✰✰✰ 155
 
 Random data generator
 
@@ -5585,16 +8191,20 @@ Random data generator
 
 ---
 
-621 |    ✰ 153 ✰    |    Mockinizer
+745 |    Adebar
 
-An okhttp / retrofit api call mocking library
+✰✰✰ 155
 
-[https://github.com/donfuxx/mockinizer](https://github.com/donfuxx/mockinizer)
+Android DEvice Backup And Report, using Bash and ADB
+
+[https://github.com/IzzySoft/Adebar](https://github.com/IzzySoft/Adebar)
 
 
 ---
 
-622 |    ✰ 150 ✰    |    DateSelecter
+746 |    dateselecter
+
+✰✰✰ 154
 
 基于第三方WheelView 实现的一个时间选择器
 
@@ -5603,16 +8213,53 @@ An okhttp / retrofit api call mocking library
 
 ---
 
-623 |    ✰ 149 ✰    |    CrossBow
+747 |    micromodule
 
-Wrapper Around the Volley library from Google to make it easier to manage and handle image loading
+✰✰✰ 153
 
-[https://github.com/twistedequations/crossbow](https://github.com/twistedequations/crossbow)
+Rebuild multiple complete module structures within the module.
+
+[https://github.com/eastwoodyang/micromodule](https://github.com/eastwoodyang/micromodule)
 
 
 ---
 
-624 |    ✰ 149 ✰    |    Typesetter
+748 |    suspendbuttonlayout
+
+✰✰✰ 153
+
+一个带浮动按钮的布局，按钮可以随意拖动和展开
+
+[https://github.com/laocaixw/suspendbuttonlayout](https://github.com/laocaixw/suspendbuttonlayout)
+
+
+---
+
+749 |    idea-gradle-dependencies-formatter
+
+✰✰✰ 152
+
+Gradle dependencies formatter for IntelliJ IDEA
+
+[https://github.com/platan/idea-gradle-dependencies-formatter](https://github.com/platan/idea-gradle-dependencies-formatter)
+
+
+---
+
+750 |    multiple-media-picker
+
+✰✰✰ 151
+
+An android library to pick multiple images and/or videos from built-in gallery. :camera: :gem: :boom:
+
+[https://github.com/erikagtierrez/multiple-media-picker](https://github.com/erikagtierrez/multiple-media-picker)
+
+
+---
+
+751 |    typesetter
+
+✰✰✰ 150
 
 Android tool to help display changes to text positioning.
 
@@ -5621,97 +8268,20 @@ Android tool to help display changes to text positioning.
 
 ---
 
-625 |    ✰ 148 ✰    |    AndroidDatabaseLibraryComparison
+752 |    androiddatabaselibrarycomparison
 
+✰✰✰ 149
 
+None
 
 [https://github.com/raizlabs/androiddatabaselibrarycomparison](https://github.com/raizlabs/androiddatabaselibrarycomparison)
 
 
 ---
 
-626 |    ✰ 146 ✰    |    congress-android
+753 |    jpegkit-android
 
-Congress for Android, an app for tracking Congress.
-
-[https://github.com/konklone/congress-android](https://github.com/konklone/congress-android)
-
-
----
-
-627 |    ✰ 145 ✰    |    watchlist
-
-Keep track of which movies you've watched on your Android devices
-
-[https://github.com/ronak-lm/watchlist](https://github.com/ronak-lm/watchlist)
-
-
----
-
-628 |    ✰ 145 ✰    |    ussdinterceptor
-
-USSD Interceptor is an Android service that allows intercepting and receiving USSD calls text results and re-broadcasting them for any listeners.
-
-[https://github.com/alaasalman/ussdinterceptor](https://github.com/alaasalman/ussdinterceptor)
-
-
----
-
-629 |    ✰ 144 ✰    |    SlideLayout
-
-An Open Source Android library that allows developers to easily add SlideMenu feature. It supports 4 menu at each side of content view concurrently.
-
-[https://github.com/rey5137/slidelayout](https://github.com/rey5137/slidelayout)
-
-
----
-
-630 |    ✰ 143 ✰    |    Stately
-
-Kotlin Multiplatform State Library
-
-[https://github.com/touchlab/stately](https://github.com/touchlab/stately)
-
-
----
-
-631 |    ✰ 142 ✰    |    VillageDSL
-
-Examples of Kotlin DSL design
-
-[https://github.com/zsmb13/villagedsl](https://github.com/zsmb13/villagedsl)
-
-
----
-
-632 |    ✰ 142 ✰    |    coroutineworker
-
-Kotlin Coroutine-based workers for native
-
-[https://github.com/autodesk/coroutineworker](https://github.com/autodesk/coroutineworker)
-
-
----
-
-633 |    ✰ 142 ✰    |    FloatingExample
-
-A floating icon above any screen
-
-[https://github.com/eatheat/floatingexample](https://github.com/eatheat/floatingexample)
-
-
----
-
-634 |    ✰ 142 ✰    |    DobSliding
-
-
-
-[https://github.com/startappz/dobsliding](https://github.com/startappz/dobsliding)
-
-
----
-
-635 |    ✰ 141 ✰    |    jpegkit-android
+✰✰✰ 148
 
 Efficient JPEG operations for Android without the risk of an OutOfMemoryException.
 
@@ -5720,79 +8290,141 @@ Efficient JPEG operations for Android without the risk of an OutOfMemoryExceptio
 
 ---
 
-636 |    ✰ 141 ✰    |    uniflow-kt
+754 |    sensor-data-logger
 
-Uniflow 🦄 - Simple Unidirectionnel Data Flow for Android & Kotlin, using Kotlin coroutines and open to functional programming
+✰✰✰ 148
 
-[https://github.com/arnaudgiuliani/uniflow-kt](https://github.com/arnaudgiuliani/uniflow-kt)
+Android Wear sensor data plotter
 
-
----
-
-637 |    ✰ 141 ✰    |    katana
-
-Lightweight, minimalistic dependency injection library for Kotlin & Android
-
-[https://github.com/rewe-digital/katana](https://github.com/rewe-digital/katana)
+[https://github.com/steppschuh/sensor-data-logger](https://github.com/steppschuh/sensor-data-logger)
 
 
 ---
 
-638 |    ✰ 141 ✰    |    Retrofit-Android-Basic
+755 |    foredroid
 
-This is a simple retrofit android example for github api.
+✰✰✰ 148
 
-[https://github.com/basil2style/retrofit-android-basic](https://github.com/basil2style/retrofit-android-basic)
+Utility for detecting and notifying when your Android app goes background / becomes foreground
 
-
----
-
-639 |    ✰ 139 ✰    |    helios
-
-A purely functional JSON library for Kotlin built on Λrrow
-
-[https://github.com/47deg/helios](https://github.com/47deg/helios)
+[https://github.com/steveliles/foredroid](https://github.com/steveliles/foredroid)
 
 
 ---
 
-640 |    ✰ 139 ✰    |    AndroidRippleDemo
+756 |    crossbow
 
-Simple demo describing how to implement Ripple, Reveal and Elevation effects
+✰✰✰ 148
 
-[https://github.com/paveldudka/androidrippledemo](https://github.com/paveldudka/androidrippledemo)
+Wrapper Around the Volley library from Google to make it easier to manage and handle image loading
 
-
----
-
-641 |    ✰ 139 ✰    |    android-common
-
-Common Android Utils, Views etc
-
-[https://github.com/serso/android-common](https://github.com/serso/android-common)
+[https://github.com/twistedequations/crossbow](https://github.com/twistedequations/crossbow)
 
 
 ---
 
-642 |    ✰ 138 ✰    |    textdrawable
+757 |    runtimepermissionsextended
 
-TextDrawable implementation and sample use project
+✰✰✰ 148
 
-[https://github.com/devunwired/textdrawable](https://github.com/devunwired/textdrawable)
+Kotlin extension functions for easier and more concise Android permission handling.
 
-
----
-
-643 |    ✰ 138 ✰    |    Mondroid
-
-A simple Mondo client for Android
-
-[https://github.com/hitherejoe/mondroid](https://github.com/hitherejoe/mondroid)
+[https://github.com/vuksa/runtimepermissionsextended](https://github.com/vuksa/runtimepermissionsextended)
 
 
 ---
 
-644 |    ✰ 138 ✰    |    JustifiedTextView
+758 |    ComposeClock
+
+✰✰✰ 148
+
+Particle clock created with Jetpack Compose framework
+
+[https://github.com/adibfara/ComposeClock](https://github.com/adibfara/ComposeClock)
+
+
+---
+
+759 |    ussdinterceptor
+
+✰✰✰ 147
+
+USSD Interceptor is an Android service that allows intercepting and receiving USSD calls text results and re-broadcasting them for any listeners.
+
+[https://github.com/alaasalman/ussdinterceptor](https://github.com/alaasalman/ussdinterceptor)
+
+
+---
+
+760 |    kotlin-weather
+
+✰✰✰ 147
+
+Simple android weather app developed in kotlin, demonstrating the use of RxJava, Retrofit and implementing MVP.
+
+[https://github.com/gurleensethi/kotlin-weather](https://github.com/gurleensethi/kotlin-weather)
+
+
+---
+
+761 |    slidelayout
+
+✰✰✰ 147
+
+An Open Source Android library that allows developers to easily add SlideMenu feature. It supports 4 menu at each side of content view concurrently.
+
+[https://github.com/rey5137/slidelayout](https://github.com/rey5137/slidelayout)
+
+
+---
+
+762 |    androidtutorialcontentprovider
+
+✰✰✰ 147
+
+A tutorial on content providers, sql and list views in Android
+
+[https://github.com/spacecowboy/androidtutorialcontentprovider](https://github.com/spacecowboy/androidtutorialcontentprovider)
+
+
+---
+
+763 |    json-2-kotlin
+
+✰✰✰ 146
+
+Convert JSON to Kotlin Data Classes
+
+[https://github.com/fractalwrench/json-2-kotlin](https://github.com/fractalwrench/json-2-kotlin)
+
+
+---
+
+764 |    watchlist
+
+✰✰✰ 146
+
+Keep track of which movies you've watched on your Android devices
+
+[https://github.com/ronak-lm/watchlist](https://github.com/ronak-lm/watchlist)
+
+
+---
+
+765 |    physics-playground
+
+✰✰✰ 145
+
+A playground demonstrating Android's physics-based animations.
+
+[https://github.com/lisawray/physics-playground](https://github.com/lisawray/physics-playground)
+
+
+---
+
+766 |    justifiedtextview
+
+✰✰✰ 143
 
 a custom view that simulate justified text for you
 
@@ -5801,70 +8433,64 @@ a custom view that simulate justified text for you
 
 ---
 
-645 |    ✰ 137 ✰    |    UniversalPickerDialog
+767 |    mvp-architecture-components
 
-Android dialog with auto generated pickers inside, which depends on count of datasets provided. Made by Stfalcon
+✰✰✰ 142
 
-[https://github.com/stfalcon-studio/universalpickerdialog](https://github.com/stfalcon-studio/universalpickerdialog)
+This is a sample project, showing the connection between Android Architecture Components and MVP pattern. 
 
-
----
-
-646 |    ✰ 137 ✰    |    colorpicker
-
-ColorPicker is a library which contains the beautiful ColorPicker that can be seen in the new Google Agenda app
-
-[https://github.com/flavienlaurent/colorpicker](https://github.com/flavienlaurent/colorpicker)
+[https://github.com/armcha/mvp-architecture-components](https://github.com/armcha/mvp-architecture-components)
 
 
 ---
 
-647 |    ✰ 136 ✰    |    Intro-To-RxJava
+768 |    retrofit-android-basic
 
-An extensive tutorial on RxJava
+✰✰✰ 142
 
-[https://github.com/pareshmayani/intro-to-rxjava](https://github.com/pareshmayani/intro-to-rxjava)
+This is a simple retrofit android example for github api.
 
-
----
-
-648 |    ✰ 136 ✰    |    AndroidDemo
-
-Demo app to show how to start an Android App
-
-[https://github.com/nicolasjafelle/androiddemo](https://github.com/nicolasjafelle/androiddemo)
+[https://github.com/basil2style/retrofit-android-basic](https://github.com/basil2style/retrofit-android-basic)
 
 
 ---
 
-649 |    ✰ 135 ✰    |    android-segmented-control-view
+769 |    floatingexample
 
-An implementation of the UISegmentedControl for Android
+✰✰✰ 142
 
-[https://github.com/klongmitre/android-segmented-control-view](https://github.com/klongmitre/android-segmented-control-view)
+A floating icon above any screen
 
-
----
-
-650 |    ✰ 135 ✰    |    Review-Reporter
-
-Bot for reporting Google Play Reviews on Slack with possibility to fast reply and creating Jira issues from low rating reviews.
-
-[https://github.com/azimolabs/review-reporter](https://github.com/azimolabs/review-reporter)
+[https://github.com/eatheat/floatingexample](https://github.com/eatheat/floatingexample)
 
 
 ---
 
-651 |    ✰ 134 ✰    |    MaterialDesignSupport
+770 |    viewprinter
 
-Duplicate project to MaterialDesign, BUT meant for non Android L devices.
+✰✰✰ 142
 
-[https://github.com/shawwinbin/materialdesignsupport](https://github.com/shawwinbin/materialdesignsupport)
+Live preview, edit and print functionality for View hierarchies. Supports PDF, PNG, JPEG.
+
+[https://github.com/natario1/viewprinter](https://github.com/natario1/viewprinter)
 
 
 ---
 
-652 |    ✰ 134 ✰    |    Dictionary
+771 |    dobsliding
+
+✰✰✰ 142
+
+None
+
+[https://github.com/startappz/dobsliding](https://github.com/startappz/dobsliding)
+
+
+---
+
+772 |    dictionary
+
+✰✰✰ 141
 
 "QuickDic" offline Dictionary App for Android. Provided downloadable dictionaries are based on Wiktionaries but can also be created from other sources (see DictionaryPC). Remember to use --recursive when cloning! Fork of project that used to be hosted at code.google.com/p/quickdic-dictionary.
 
@@ -5873,331 +8499,53 @@ Duplicate project to MaterialDesign, BUT meant for non Android L devices.
 
 ---
 
-653 |    ✰ 134 ✰    |    Android-EditText-Validations
+773 |    MVIKotlin
 
-Easily Validate EditTexts
+✰✰✰ 141
 
-[https://github.com/thomhurst/android-edittext-validations](https://github.com/thomhurst/android-edittext-validations)
+MVI framework for Kotlin Multiplatform
 
-
----
-
-654 |    ✰ 133 ✰    |    cafebar
-
-An upgraded Snackbar for Android that provides more options and easy to use
-
-[https://github.com/danimahardhika/cafebar](https://github.com/danimahardhika/cafebar)
+[https://github.com/arkivanov/MVIKotlin](https://github.com/arkivanov/MVIKotlin)
 
 
 ---
 
-655 |    ✰ 132 ✰    |    QuickKV
+774 |    compose-router
 
-Lightweight & Easy-to-use Key-Value Library for Android Projects.
+✰✰✰ 141
 
-[https://github.com/sumimakito/quickkv](https://github.com/sumimakito/quickkv)
+Routing functionality for Jetpack Compose with back stack
 
-
----
-
-656 |    ✰ 132 ✰    |    AndroidSliderPreference
-
-Android library that allows applications to add dialog-based slider widgets to their settings
-
-[https://github.com/jayschwa/androidsliderpreference](https://github.com/jayschwa/androidsliderpreference)
+[https://github.com/zsoltk/compose-router](https://github.com/zsoltk/compose-router)
 
 
 ---
 
-657 |    ✰ 131 ✰    |    AndroidMalware_2019
+775 |    name-that-color-intellij-plugin
 
-Popular Android threats in 2019
+✰✰✰ 140
 
-[https://github.com/sk3ptre/androidmalware_2019](https://github.com/sk3ptre/androidmalware_2019)
+This plugin lets you insert a name for a color you copy-paste or type in an android resource file.
 
-
----
-
-658 |    ✰ 131 ✰    |    ExtractWordView
-
-Extract Word Demo For Android
-
-[https://github.com/jcodeing/extractwordview](https://github.com/jcodeing/extractwordview)
+[https://github.com/galex/name-that-color-intellij-plugin](https://github.com/galex/name-that-color-intellij-plugin)
 
 
 ---
 
-659 |    ✰ 131 ✰    |    SmallExamples
+776 |    androidrippledemo
 
-A collection of small examples from my blog
+✰✰✰ 140
 
-[https://github.com/udinic/smallexamples](https://github.com/udinic/smallexamples)
+Simple demo describing how to implement Ripple, Reveal and Elevation effects
 
-
----
-
-660 |    ✰ 131 ✰    |    android-DeviceOwner
-
-Migrated:
-
-[https://github.com/android/android-deviceowner](https://github.com/android/android-deviceowner)
+[https://github.com/paveldudka/androidrippledemo](https://github.com/paveldudka/androidrippledemo)
 
 
 ---
 
-661 |    ✰ 129 ✰    |    Thumby
+777 |    certificate-transparency-android
 
-An Android video thumbnail picker
-
-[https://github.com/bufferapp/thumby](https://github.com/bufferapp/thumby)
-
-
----
-
-662 |    ✰ 129 ✰    |    HeadsUp
-
-Simple implementation of floating notifications.
-
-[https://github.com/achep/headsup](https://github.com/achep/headsup)
-
-
----
-
-663 |    ✰ 127 ✰    |    IBackdrop
-
-A library to simply use Backdrop in your project (make it easy). Read more ->
-
-[https://github.com/pedromassango/ibackdrop](https://github.com/pedromassango/ibackdrop)
-
-
----
-
-664 |    ✰ 127 ✰    |    generator-android-mvp-starter
-
-[Yeoman Generator] Generate MVP Architecture for Android App using https://git.io/v9Ujz
-
-[https://github.com/ravidsrk/generator-android-mvp-starter](https://github.com/ravidsrk/generator-android-mvp-starter)
-
-
----
-
-665 |    ✰ 127 ✰    |    PaintView
-
-An Android View with Gesture Supported for Painting
-
-[https://github.com/liuhongtao/paintview](https://github.com/liuhongtao/paintview)
-
-
----
-
-666 |    ✰ 126 ✰    |    tropos-android
-
-Weather and Forecasts for Humans
-
-[https://github.com/thoughtbot/tropos-android](https://github.com/thoughtbot/tropos-android)
-
-
----
-
-667 |    ✰ 126 ✰    |    Thermometer
-
-Android Thermometer Widget.
-
-[https://github.com/kofigyan/thermometer](https://github.com/kofigyan/thermometer)
-
-
----
-
-668 |    ✰ 125 ✰    |    pulkovo
-
-Kotlin friendly library to measure elapsed time for methods, code blocks, RxJava chains
-
-[https://github.com/vanatka/pulkovo](https://github.com/vanatka/pulkovo)
-
-
----
-
-669 |    ✰ 124 ✰    |    ChatHeads
-
-
-
-[https://github.com/mollyiv/chatheads](https://github.com/mollyiv/chatheads)
-
-
----
-
-670 |    ✰ 124 ✰    |    FlexiImageView
-
-FlexiImageView is a feature-packed extension of Android's default ImageView.
-
-[https://github.com/psaravan/flexiimageview](https://github.com/psaravan/flexiimageview)
-
-
----
-
-671 |    ✰ 124 ✰    |    filthy-rich-clients
-
-Samples for the book Filthy Rich Clients
-
-[https://github.com/romainguy/filthy-rich-clients](https://github.com/romainguy/filthy-rich-clients)
-
-
----
-
-672 |    ✰ 124 ✰    |    VerticalSeekBar
-
-[AndroidLib] A nicer, redesigned and vertical SeekBar for Android 🎛
-
-[https://github.com/lukelorusso/verticalseekbar](https://github.com/lukelorusso/verticalseekbar)
-
-
----
-
-673 |    ✰ 123 ✰    |    Memento
-
-Memento is a simple note taking app for Android
-
-[https://github.com/yaa110/memento](https://github.com/yaa110/memento)
-
-
----
-
-674 |    ✰ 123 ✰    |    Vector
-
-Kotlin Coroutines based MVI architecture library for Android 
-
-[https://github.com/haroldadmin/vector](https://github.com/haroldadmin/vector)
-
-
----
-
-675 |    ✰ 122 ✰    |    KotlinSnapshot
-
-Snapshot Testing framework for Kotlin.
-
-[https://github.com/karumi/kotlinsnapshot](https://github.com/karumi/kotlinsnapshot)
-
-
----
-
-676 |    ✰ 122 ✰    |    Android-MarqueeView
-
-Custom MarqueeView container
-
-[https://github.com/ened/android-marqueeview](https://github.com/ened/android-marqueeview)
-
-
----
-
-677 |    ✰ 121 ✰    |    AndroidFontMetrics
-
-An Android app for measuring and testing FontMetrics
-
-[https://github.com/suragch/androidfontmetrics](https://github.com/suragch/androidfontmetrics)
-
-
----
-
-678 |    ✰ 120 ✰    |    Cockpit
-
-Easily define a set of parameters that can be accessed and changed by the developers via built-in compact UI at runtime.
-
-[https://github.com/polidea/cockpit](https://github.com/polidea/cockpit)
-
-
----
-
-679 |    ✰ 118 ✰    |    android-jigsaw-puzzle
-
-Android app that allows you to draw anything and turn it into a jigsaw puzzle.
-
-[https://github.com/julesbond007/android-jigsaw-puzzle](https://github.com/julesbond007/android-jigsaw-puzzle)
-
-
----
-
-680 |    ✰ 118 ✰    |    Radial-Menu-Widget-Android
-
-
-
-[https://github.com/strider2023/radial-menu-widget-android](https://github.com/strider2023/radial-menu-widget-android)
-
-
----
-
-681 |    ✰ 117 ✰    |    TiltEffect
-
-Beautiful tilt effect like on W8 but on Android
-
-[https://github.com/flavienlaurent/tilteffect](https://github.com/flavienlaurent/tilteffect)
-
-
----
-
-682 |    ✰ 117 ✰    |    AchievementUnlocked-library
-
-[Android] AchievementUnlocked is an open-source Android library that creates "XBOX Achievement Unlocked"-like alerts. 
-
-[https://github.com/darkionavey/achievementunlocked-library](https://github.com/darkionavey/achievementunlocked-library)
-
-
----
-
-683 |    ✰ 117 ✰    |    github-multiplatform-example
-
-Kotlin Multiplaform example app for iOS and Android
-
-[https://github.com/adrianbukros/github-multiplatform-example](https://github.com/adrianbukros/github-multiplatform-example)
-
-
----
-
-684 |    ✰ 116 ✰    |    renderthread
-
-Android's RenderThread wrapper
-
-[https://github.com/takhion/renderthread](https://github.com/takhion/renderthread)
-
-
----
-
-685 |    ✰ 116 ✰    |    RootHelper
-
-An extension to use libsuperuser library more easily
-
-[https://github.com/androiddeveloperlb/roothelper](https://github.com/androiddeveloperlb/roothelper)
-
-
----
-
-686 |    ✰ 116 ✰    |    TwoPanels
-
-Two panels layout fully customizable with a draggable divider.
-
-[https://github.com/desarrolloantonio/twopanels](https://github.com/desarrolloantonio/twopanels)
-
-
----
-
-687 |    ✰ 115 ✰    |    nuntius-android
-
-Nuntius delivers notifications from your phone or tablet to your computer
-
-[https://github.com/holylobster/nuntius-android](https://github.com/holylobster/nuntius-android)
-
-
----
-
-688 |    ✰ 114 ✰    |    HFunc
-
-java implement Higher-order function ，support map，filter , reduce with parallel, android
-
-[https://github.com/tangxiaolv/hfunc](https://github.com/tangxiaolv/hfunc)
-
-
----
-
-689 |    ✰ 114 ✰    |    certificate-transparency-android
+✰✰✰ 140
 
 Certificate transparency for Android and Java
 
@@ -6206,70 +8554,603 @@ Certificate transparency for Android and Java
 
 ---
 
-690 |    ✰ 114 ✰    |    Carousel-Notification
+778 |    colorpicker
 
-Carousel-Notification lets you make carousel type notification where user can navigate within the notification. Selected item can be obtained using a broadcast receiver.
+✰✰✰ 139
 
-[https://github.com/shaileshmamgain5/carousel-notification](https://github.com/shaileshmamgain5/carousel-notification)
+ColorPicker is a library which contains the beautiful ColorPicker that can be seen in the new Google Agenda app
 
-
----
-
-691 |    ✰ 112 ✰    |    FeatureAdapter
-
-FeatureAdapter (FA) is an Android Library providing an optimized way to display complex screens on Android.
-
-[https://github.com/groupon/featureadapter](https://github.com/groupon/featureadapter)
+[https://github.com/flavienlaurent/colorpicker](https://github.com/flavienlaurent/colorpicker)
 
 
 ---
 
-692 |    ✰ 112 ✰    |    RetrofitKotlinDeferred
+779 |    android-common
 
-Android Networking using Retrofit2, Kotlin and its Deferred Type
+✰✰✰ 139
 
-[https://github.com/navi25/retrofitkotlindeferred](https://github.com/navi25/retrofitkotlindeferred)
+Common Android Utils, Views etc
 
-
----
-
-693 |    ✰ 111 ✰    |    Notifications4EveryWhere
-
-android Notifications style
-
-[https://github.com/youxiachai/notifications4everywhere](https://github.com/youxiachai/notifications4everywhere)
+[https://github.com/serso/android-common](https://github.com/serso/android-common)
 
 
 ---
 
-694 |    ✰ 110 ✰    |    L-Navigation-Drawer
+780 |    PaintableVectorView
 
-Library allowing you to easily replicate the new style of navigation drawer from Android L.
+✰✰✰ 139
 
-[https://github.com/lewisjdeane/l-navigation-drawer](https://github.com/lewisjdeane/l-navigation-drawer)
+PaintableVectorView enables to change color of paths/groups in Vector Drawable (SVG)
 
-
----
-
-695 |    ✰ 108 ✰    |    ListView3d
-
-Simple example showing the use of android.graphics.Camera to make an 3D-ListView
-
-[https://github.com/renard314/listview3d](https://github.com/renard314/listview3d)
+[https://github.com/bardss/PaintableVectorView](https://github.com/bardss/PaintableVectorView)
 
 
 ---
 
-696 |    ✰ 108 ✰    |    Android-MultiStateView
+781 |    textdrawable
 
-Handles multiple display states for data-centric views
+✰✰✰ 138
 
-[https://github.com/meetme/android-multistateview](https://github.com/meetme/android-multistateview)
+TextDrawable implementation and sample use project
+
+[https://github.com/devunwired/textdrawable](https://github.com/devunwired/textdrawable)
 
 
 ---
 
-697 |    ✰ 108 ✰    |    Android-Applications-Info
+782 |    mondroid
+
+✰✰✰ 138
+
+A simple Mondo client for Android
+
+[https://github.com/hitherejoe/mondroid](https://github.com/hitherejoe/mondroid)
+
+
+---
+
+783 |    geojsonify
+
+✰✰✰ 138
+
+Easily add GeoJson layers to your Maps
+
+[https://github.com/nextome/geojsonify](https://github.com/nextome/geojsonify)
+
+
+---
+
+784 |    universalpickerdialog
+
+✰✰✰ 138
+
+Android dialog with auto generated pickers inside, which depends on count of datasets provided. Made by Stfalcon
+
+[https://github.com/stfalcon-studio/universalpickerdialog](https://github.com/stfalcon-studio/universalpickerdialog)
+
+
+---
+
+785 |    chicago-roboto
+
+✰✰✰ 137
+
+Web and Android app for Chicago Roboto conference
+
+[https://github.com/rharter/chicago-roboto](https://github.com/rharter/chicago-roboto)
+
+
+---
+
+786 |    cafebar
+
+✰✰✰ 136
+
+An upgraded Snackbar for Android that provides more options and easy to use
+
+[https://github.com/danimahardhika/cafebar](https://github.com/danimahardhika/cafebar)
+
+
+---
+
+787 |    android-segmented-control-view
+
+✰✰✰ 136
+
+An implementation of the UISegmentedControl for Android
+
+[https://github.com/klongmitre/android-segmented-control-view](https://github.com/klongmitre/android-segmented-control-view)
+
+
+---
+
+788 |    androiddemo
+
+✰✰✰ 136
+
+Demo app to show how to start an Android App
+
+[https://github.com/nicolasjafelle/androiddemo](https://github.com/nicolasjafelle/androiddemo)
+
+
+---
+
+789 |    kotlin-koans-android
+
+✰✰✰ 136
+
+:books: Learn Kotlin programming right on your phone 📱 through a series of 40+ short coding challenges.
+
+[https://github.com/vickychijwani/kotlin-koans-android](https://github.com/vickychijwani/kotlin-koans-android)
+
+
+---
+
+790 |    VerticalSeekBar
+
+✰✰✰ 136
+
+[AndroidLib] A nicer, redesigned and vertical SeekBar for Android 🎛
+
+[https://github.com/lukelorusso/VerticalSeekBar](https://github.com/lukelorusso/VerticalSeekBar)
+
+
+---
+
+791 |    intro-to-rxjava
+
+✰✰✰ 135
+
+An extensive tutorial on RxJava
+
+[https://github.com/pareshmayani/intro-to-rxjava](https://github.com/pareshmayani/intro-to-rxjava)
+
+
+---
+
+792 |    materialdesignsupport
+
+✰✰✰ 135
+
+Duplicate project to MaterialDesign, BUT meant for non Android L devices.
+
+[https://github.com/shawwinbin/materialdesignsupport](https://github.com/shawwinbin/materialdesignsupport)
+
+
+---
+
+793 |    flow-preferences
+
+✰✰✰ 135
+
+Kotlin Flow version of rx-preferences -- Coroutines support for Android SharedPreferences
+
+[https://github.com/tfcporciuncula/flow-preferences](https://github.com/tfcporciuncula/flow-preferences)
+
+
+---
+
+794 |    review-reporter
+
+✰✰✰ 134
+
+Bot for reporting Google Play Reviews on Slack with possibility to fast reply and creating Jira issues from low rating reviews.
+
+[https://github.com/azimolabs/review-reporter](https://github.com/azimolabs/review-reporter)
+
+
+---
+
+795 |    androidsliderpreference
+
+✰✰✰ 134
+
+Android library that allows applications to add dialog-based slider widgets to their settings
+
+[https://github.com/jayschwa/androidsliderpreference](https://github.com/jayschwa/androidsliderpreference)
+
+
+---
+
+796 |    paintview
+
+✰✰✰ 134
+
+An Android View with Gesture Supported for Painting
+
+[https://github.com/liuhongtao/paintview](https://github.com/liuhongtao/paintview)
+
+
+---
+
+797 |    toggleedittextview
+
+✰✰✰ 133
+
+Easily switch between EditText and TextView seamlessly.
+
+[https://github.com/camerash/toggleedittextview](https://github.com/camerash/toggleedittextview)
+
+
+---
+
+798 |    android-deviceowner
+
+✰✰✰ 133
+
+Migrated:
+
+[https://github.com/googlesamples/android-deviceowner](https://github.com/googlesamples/android-deviceowner)
+
+
+---
+
+799 |    quickkv
+
+✰✰✰ 133
+
+Lightweight & Easy-to-use Key-Value Library for Android Projects.
+
+[https://github.com/sumimakito/quickkv](https://github.com/sumimakito/quickkv)
+
+
+---
+
+800 |    statelin
+
+✰✰✰ 132
+
+A finite state machine for Kotlin and Android
+
+[https://github.com/anupcowkur/statelin](https://github.com/anupcowkur/statelin)
+
+
+---
+
+801 |    friendlypix-android
+
+✰✰✰ 132
+
+None
+
+[https://github.com/firebase/friendlypix-android](https://github.com/firebase/friendlypix-android)
+
+
+---
+
+802 |    extractwordview
+
+✰✰✰ 132
+
+Extract Word Demo For Android
+
+[https://github.com/jcodeing/extractwordview](https://github.com/jcodeing/extractwordview)
+
+
+---
+
+803 |    constraintlayoutanimations
+
+✰✰✰ 132
+
+A quick example that shows-off how to create awesome animations with ConstraintLayout and ConstraintSet
+
+[https://github.com/lpirro/constraintlayoutanimations](https://github.com/lpirro/constraintlayoutanimations)
+
+
+---
+
+804 |    roomrxjava
+
+✰✰✰ 132
+
+Room with Rxjava Example
+
+[https://github.com/srinurp/roomrxjava](https://github.com/srinurp/roomrxjava)
+
+
+---
+
+805 |    smallexamples
+
+✰✰✰ 131
+
+A collection of small examples from my blog
+
+[https://github.com/udinic/smallexamples](https://github.com/udinic/smallexamples)
+
+
+---
+
+806 |    kotlin-numpy
+
+✰✰✰ 130
+
+Kotlin bindings for NumPy
+
+[https://github.com/Kotlin/kotlin-numpy](https://github.com/Kotlin/kotlin-numpy)
+
+
+---
+
+807 |    androidspeech
+
+✰✰✰ 130
+
+An Android library module to Mozilla's Speech-To-Text services
+
+[https://github.com/mozilla/androidspeech](https://github.com/mozilla/androidspeech)
+
+
+---
+
+808 |    generator-android-mvp-starter
+
+✰✰✰ 129
+
+[Yeoman Generator] Generate MVP Architecture for Android App using https://git.io/v9Ujz
+
+[https://github.com/ravidsrk/generator-android-mvp-starter](https://github.com/ravidsrk/generator-android-mvp-starter)
+
+
+---
+
+809 |    tropos-android
+
+✰✰✰ 129
+
+Weather and Forecasts for Humans
+
+[https://github.com/thoughtbot/tropos-android](https://github.com/thoughtbot/tropos-android)
+
+
+---
+
+810 |    headsup
+
+✰✰✰ 127
+
+Simple implementation of floating notifications.
+
+[https://github.com/achep/headsup](https://github.com/achep/headsup)
+
+
+---
+
+811 |    adp-nested-scrolling
+
+✰✰✰ 127
+
+Sample app for the Android Design Patterns blog post on nested scrolling.
+
+[https://github.com/alexjlockwood/adp-nested-scrolling](https://github.com/alexjlockwood/adp-nested-scrolling)
+
+
+---
+
+812 |    thermometer
+
+✰✰✰ 127
+
+Android Thermometer Widget.
+
+[https://github.com/kofigyan/thermometer](https://github.com/kofigyan/thermometer)
+
+
+---
+
+813 |    droid-snippet
+
+✰✰✰ 126
+
+Android Utils Live Code Template for Android Studio
+
+[https://github.com/kingsmentor/droid-snippet](https://github.com/kingsmentor/droid-snippet)
+
+
+---
+
+814 |    memento
+
+✰✰✰ 126
+
+Memento is a simple note taking app for Android
+
+[https://github.com/yaa110/memento](https://github.com/yaa110/memento)
+
+
+---
+
+815 |    flexiimageview
+
+✰✰✰ 125
+
+FlexiImageView is a feature-packed extension of Android's default ImageView.
+
+[https://github.com/psaravan/flexiimageview](https://github.com/psaravan/flexiimageview)
+
+
+---
+
+816 |    espresso-helper
+
+✰✰✰ 125
+
+[STAGNANT] Collection of Kotlin helpers for Espresso.
+
+[https://github.com/zhuinden/espresso-helper](https://github.com/zhuinden/espresso-helper)
+
+
+---
+
+817 |    kotlinx-knit
+
+✰✰✰ 125
+
+Kotlin source code documentation management tool
+
+[https://github.com/Kotlin/kotlinx-knit](https://github.com/Kotlin/kotlinx-knit)
+
+
+---
+
+818 |    chatheads
+
+✰✰✰ 124
+
+None
+
+[https://github.com/mollyiv/chatheads](https://github.com/mollyiv/chatheads)
+
+
+---
+
+819 |    filthy-rich-clients
+
+✰✰✰ 124
+
+Samples for the book Filthy Rich Clients
+
+[https://github.com/romainguy/filthy-rich-clients](https://github.com/romainguy/filthy-rich-clients)
+
+
+---
+
+820 |    fullrecyclerview
+
+✰✰✰ 123
+
+This is a compilation of different kinds and actions in recyclerView
+
+[https://github.com/thedeveloperworldisyours/fullrecyclerview](https://github.com/thedeveloperworldisyours/fullrecyclerview)
+
+
+---
+
+821 |    android-marqueeview
+
+✰✰✰ 122
+
+Custom MarqueeView container
+
+[https://github.com/ened/android-marqueeview](https://github.com/ened/android-marqueeview)
+
+
+---
+
+822 |    RoomExplorer
+
+✰✰✰ 121
+
+🔎 A quick and easy in-app database viewer and manager library for your Room databases. 
+
+[https://github.com/wajahatkarim3/RoomExplorer](https://github.com/wajahatkarim3/RoomExplorer)
+
+
+---
+
+823 |    agp-java-support
+
+✰✰✰ 120
+
+Tracking your ability to use new Java language features and APIs in an Android app
+
+[https://github.com/JakeWharton/agp-java-support](https://github.com/JakeWharton/agp-java-support)
+
+
+---
+
+824 |    radial-menu-widget-android
+
+✰✰✰ 119
+
+None
+
+[https://github.com/strider2023/radial-menu-widget-android](https://github.com/strider2023/radial-menu-widget-android)
+
+
+---
+
+825 |    renderthread
+
+✰✰✰ 119
+
+Android's RenderThread wrapper
+
+[https://github.com/takhion/renderthread](https://github.com/takhion/renderthread)
+
+
+---
+
+826 |    roothelper
+
+✰✰✰ 118
+
+An extension to use libsuperuser library more easily
+
+[https://github.com/androiddeveloperlb/roothelper](https://github.com/androiddeveloperlb/roothelper)
+
+
+---
+
+827 |    tilteffect
+
+✰✰✰ 118
+
+Beautiful tilt effect like on W8 but on Android
+
+[https://github.com/flavienlaurent/tilteffect](https://github.com/flavienlaurent/tilteffect)
+
+
+---
+
+828 |    nuntius-android
+
+✰✰✰ 118
+
+Nuntius delivers notifications from your phone or tablet to your computer
+
+[https://github.com/holylobster/nuntius-android](https://github.com/holylobster/nuntius-android)
+
+
+---
+
+829 |    twopanels
+
+✰✰✰ 117
+
+Two panels layout fully customizable with a draggable divider.
+
+[https://github.com/desarrolloantonio/twopanels](https://github.com/desarrolloantonio/twopanels)
+
+
+---
+
+830 |    actions-on-google-kotlin
+
+✰✰✰ 117
+
+Unofficial Actions on Google SDK for Kotlin and Java
+
+[https://github.com/ticketmaster/actions-on-google-kotlin](https://github.com/ticketmaster/actions-on-google-kotlin)
+
+
+---
+
+831 |    reactiveplaybilling
+
+✰✰✰ 116
+
+An RxJava wrapper for the Google Play Billing Library
+
+[https://github.com/bufferapp/reactiveplaybilling](https://github.com/bufferapp/reactiveplaybilling)
+
+
+---
+
+832 |    android-applications-info
+
+✰✰✰ 115
 
 Simple android application that provides all information about all applications installed on an android phone
 
@@ -6278,106 +9159,20 @@ Simple android application that provides all information about all applications 
 
 ---
 
-698 |    ✰ 108 ✰    |    prayer-times-android
+833 |    carousel-notification
 
-A useful Application with a set of tools needed by any muslim.
+✰✰✰ 115
 
-[https://github.com/metinkale38/prayer-times-android](https://github.com/metinkale38/prayer-times-android)
+Carousel-Notification lets you make carousel type notification where user can navigate within the notification. Selected item can be obtained using a broadcast receiver.
 
-
----
-
-699 |    ✰ 107 ✰    |    ribot-app-android-workflow
-
-A guide which visually describes incorporating: Model View Presenter architecture, Dependency Injection, Reactive frameworks, in the form of an Android App.
-
-[https://github.com/teeeeeegz/ribot-app-android-workflow](https://github.com/teeeeeegz/ribot-app-android-workflow)
+[https://github.com/shaileshmamgain5/carousel-notification](https://github.com/shaileshmamgain5/carousel-notification)
 
 
 ---
 
-700 |    ✰ 107 ✰    |    fastlane-plugin-automated-test-emulator-run
+834 |    httpmocker
 
-Plugin dedicated for Android platform. Wraps gradle task/shell command used for launching instrumented tests. Provides start of as many AVDs with various configs as needed before test run, waits for boot, kills emulators and deletes them from hdd after tests are finished or disturbed.
-
-[https://github.com/azimolabs/fastlane-plugin-automated-test-emulator-run](https://github.com/azimolabs/fastlane-plugin-automated-test-emulator-run)
-
-
----
-
-701 |    ✰ 106 ✰    |    LiveSmashBar
-
-An elegant looking and easy to use informative library with LiveData integration for Android.
-
-[https://github.com/yuvraj24/livesmashbar](https://github.com/yuvraj24/livesmashbar)
-
-
----
-
-702 |    ✰ 106 ✰    |    notecipher
-
-a simple notepad with all stored encrypted using SQLCipher and Cacheword
-
-[https://github.com/guardianproject/notecipher](https://github.com/guardianproject/notecipher)
-
-
----
-
-703 |    ✰ 106 ✰    |    LibRadar
-
-LibRadar - A detecting tool for 3rd-party libraries in Android apps.
-
-[https://github.com/pkumza/libradar](https://github.com/pkumza/libradar)
-
-
----
-
-704 |    ✰ 105 ✰    |    SlideSideMenu
-
-A layout widget for a sliding side menu for Android.
-
-[https://github.com/lemonade-hq/slidesidemenu](https://github.com/lemonade-hq/slidesidemenu)
-
-
----
-
-705 |    ✰ 105 ✰    |    Krate
-
-A Kotlin SharedPreferences wrapper
-
-[https://github.com/autsoft/krate](https://github.com/autsoft/krate)
-
-
----
-
-706 |    ✰ 105 ✰    |    ormlite-android-gradle-plugin
-
-A Gradle plugin for Android to generate an ORMLite configuration file and boost DAOs creations.
-
-[https://github.com/stephanenicolas/ormlite-android-gradle-plugin](https://github.com/stephanenicolas/ormlite-android-gradle-plugin)
-
-
----
-
-707 |    ✰ 103 ✰    |    WindRoseDiagramView
-
-a view widget of WindRoseDiagram in android platform
-
-[https://github.com/timqi/windrosediagramview](https://github.com/timqi/windrosediagramview)
-
-
----
-
-708 |    ✰ 103 ✰    |    formula
-
-A functional reactive framework for managing state and side effects based on RxJava.
-
-[https://github.com/instacart/formula](https://github.com/instacart/formula)
-
-
----
-
-709 |    ✰ 103 ✰    |    httpmocker
+✰✰✰ 115
 
 HttpMocker is a simple HTTP mocking library written in Kotlin to quickly and easily handle offline modes in your apps
 
@@ -6386,70 +9181,218 @@ HttpMocker is a simple HTTP mocking library written in Kotlin to quickly and eas
 
 ---
 
-710 |    ✰ 103 ✰    |    state-delegator
+835 |    prayer-times-android
 
-Collection of classes that helps you to manage a screen state.
+✰✰✰ 113
 
-[https://github.com/redmadrobot/state-delegator](https://github.com/redmadrobot/state-delegator)
+A useful Application with a set of tools needed by any muslim.
 
-
----
-
-711 |    ✰ 103 ✰    |    ViewPagerParallax
-
-
-
-[https://github.com/matthieulj/viewpagerparallax](https://github.com/matthieulj/viewpagerparallax)
+[https://github.com/metinkale38/prayer-times-android](https://github.com/metinkale38/prayer-times-android)
 
 
 ---
 
-712 |    ✰ 103 ✰    |    calendar_view
+836 |    annotation-processing-example
 
-an android widget to show calendar
+✰✰✰ 112
 
-[https://github.com/laserwave/calendarview](https://github.com/laserwave/calendarview)
+It is the example project for the annotation processing tutorial. 
 
-
----
-
-713 |    ✰ 102 ✰    |    Navigation-Drawer-ActionBarCompat
-
-Navigation Drawer - Live-O
-
-[https://github.com/rudsonlive/navigation-drawer-actionbarcompat](https://github.com/rudsonlive/navigation-drawer-actionbarcompat)
+[https://github.com/mindorksopensource/annotation-processing-example](https://github.com/mindorksopensource/annotation-processing-example)
 
 
 ---
 
-714 |    ✰ 102 ✰    |    PathEffectTextView
+837 |    hfunc
 
-Path effect for text.
+✰✰✰ 112
 
-[https://github.com/dkmeteor/patheffecttextview](https://github.com/dkmeteor/patheffecttextview)
+java implement Higher-order function ，support map，filter , reduce with parallel, android
 
-
----
-
-715 |    ✰ 101 ✰    |    RadialProgressBar
-
-Radial ProgressBar inspired by Apple Watch OS. It is highly Customisable
-
-[https://github.com/mindorksopensource/radialprogressbar](https://github.com/mindorksopensource/radialprogressbar)
+[https://github.com/tangxiaolv/hfunc](https://github.com/tangxiaolv/hfunc)
 
 
 ---
 
-716 |    ✰ 100 ✰    |    ApkRename
+838 |    notifications4everywhere
 
-rename android app package name(just a identity of app, not java package name) without source, without changing code.  No need apktool, no need aapt.
+✰✰✰ 112
 
-[https://github.com/sjitech/apkrename](https://github.com/sjitech/apkrename)
+android Notifications style
+
+[https://github.com/youxiachai/notifications4everywhere](https://github.com/youxiachai/notifications4everywhere)
 
 
 ---
 
-717 |    ✰ 99 ✰    |    CountDownAnimation
+839 |    Kotlin-Flow-Android-Examples
+
+✰✰✰ 112
+
+Kotlin Flow Android Examples - How to use it in Android Project
+
+[https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples](https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples)
+
+
+---
+
+840 |    l-navigation-drawer
+
+✰✰✰ 111
+
+Library allowing you to easily replicate the new style of navigation drawer from Android L.
+
+[https://github.com/lewisjdeane/l-navigation-drawer](https://github.com/lewisjdeane/l-navigation-drawer)
+
+
+---
+
+841 |    formula
+
+✰✰✰ 111
+
+A functional reactive framework for managing state and side effects based on RxJava.
+
+[https://github.com/instacart/formula](https://github.com/instacart/formula)
+
+
+---
+
+842 |    fastlane-plugin-automated-test-emulator-run
+
+✰✰✰ 110
+
+Plugin dedicated for Android platform. Wraps gradle task/shell command used for launching instrumented tests. Provides start of as many AVDs with various configs as needed before test run, waits for boot, kills emulators and deletes them from hdd after tests are finished or disturbed.
+
+[https://github.com/azimolabs/fastlane-plugin-automated-test-emulator-run](https://github.com/azimolabs/fastlane-plugin-automated-test-emulator-run)
+
+
+---
+
+843 |    listview3d
+
+✰✰✰ 110
+
+Simple example showing the use of android.graphics.Camera to make an 3D-ListView
+
+[https://github.com/renard314/listview3d](https://github.com/renard314/listview3d)
+
+
+---
+
+844 |    restaurantapp
+
+✰✰✰ 110
+
+Android Restaurant Application with QR Code Reader
+
+[https://github.com/yusufcakal/restaurantapp](https://github.com/yusufcakal/restaurantapp)
+
+
+---
+
+845 |    android-multistateview
+
+✰✰✰ 109
+
+Handles multiple display states for data-centric views
+
+[https://github.com/meetme/android-multistateview](https://github.com/meetme/android-multistateview)
+
+
+---
+
+846 |    liquidrefreshlayout
+
+✰✰✰ 109
+
+Liquid Refresh Layout is a simple SwipeToRefresh library that helps you easily integrate SwipeToRefresh and performs simple clean liquid animation
+
+[https://github.com/mukeshsolanki/liquidrefreshlayout](https://github.com/mukeshsolanki/liquidrefreshlayout)
+
+
+---
+
+847 |    slidesidemenu
+
+✰✰✰ 108
+
+A layout widget for a sliding side menu for Android.
+
+[https://github.com/lemonade-hq/slidesidemenu](https://github.com/lemonade-hq/slidesidemenu)
+
+
+---
+
+848 |    ribot-app-android-workflow
+
+✰✰✰ 108
+
+A guide which visually describes incorporating: Model View Presenter architecture, Dependency Injection, Reactive frameworks, in the form of an Android App.
+
+[https://github.com/teeeeeegz/ribot-app-android-workflow](https://github.com/teeeeeegz/ribot-app-android-workflow)
+
+
+---
+
+849 |    Kronos-Android
+
+✰✰✰ 108
+
+An Open Source Kotlin SNTP library
+
+[https://github.com/lyft/Kronos-Android](https://github.com/lyft/Kronos-Android)
+
+
+---
+
+850 |    notecipher
+
+✰✰✰ 107
+
+a simple notepad with all stored encrypted using SQLCipher and Cacheword
+
+[https://github.com/guardianproject/notecipher](https://github.com/guardianproject/notecipher)
+
+
+---
+
+851 |    ktsrunner
+
+✰✰✰ 106
+
+Library for executing .kts files from regular Kotlin code
+
+[https://github.com/s1monw1/ktsrunner](https://github.com/s1monw1/ktsrunner)
+
+
+---
+
+852 |    ormlite-android-gradle-plugin
+
+✰✰✰ 106
+
+A Gradle plugin for Android to generate an ORMLite configuration file and boost DAOs creations.
+
+[https://github.com/stephanenicolas/ormlite-android-gradle-plugin](https://github.com/stephanenicolas/ormlite-android-gradle-plugin)
+
+
+---
+
+853 |    windrosediagramview
+
+✰✰✰ 106
+
+a view widget of WindRoseDiagram in android platform
+
+[https://github.com/timqi/windrosediagramview](https://github.com/timqi/windrosediagramview)
+
+
+---
+
+854 |    countdownanimation
+
+✰✰✰ 104
 
 Simple count down animation for Android
 
@@ -6458,565 +9401,31 @@ Simple count down animation for Android
 
 ---
 
-718 |    ✰ 98 ✰    |    blocker
+855 |    viewpagerparallax
 
-An useful tools that controls android components
+✰✰✰ 104
 
-[https://github.com/lihenggui/blocker](https://github.com/lihenggui/blocker)
+None
 
-
----
-
-719 |    ✰ 98 ✰    |    kotlin-sublime-package
-
-Sublime Text 2 Package for Kotlin Programming Language
-
-[https://github.com/vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package)
+[https://github.com/matthieulj/viewpagerparallax](https://github.com/matthieulj/viewpagerparallax)
 
 
 ---
 
-720 |    ✰ 98 ✰    |    android-unlocker-library
+856 |    recordablesurfaceview
 
-A library to ease implementation of unlock application for your freemium apps
+✰✰✰ 104
 
-[https://github.com/marvinlabs/android-unlocker-library](https://github.com/marvinlabs/android-unlocker-library)
+A drop-in replacement for GLSurfaceView that can be used to record to an mp4 movie.
 
-
----
-
-721 |    ✰ 98 ✰    |    AlpayRing
-
-类似支付宝芝麻信用仪表盘
-
-[https://github.com/ldoublem/alpayring](https://github.com/ldoublem/alpayring)
+[https://github.com/uncorkedstudios/recordablesurfaceview](https://github.com/uncorkedstudios/recordablesurfaceview)
 
 
 ---
 
-722 |    ✰ 96 ✰    |    Arcade
+857 |    android-lint-checks-demo
 
-Neural style in Android
-
-[https://github.com/naman14/arcade](https://github.com/naman14/arcade)
-
-
----
-
-723 |    ✰ 96 ✰    |    teammate-android
-
-A Team Management app for creating tournaments and games for various sports
-
-[https://github.com/tunjid/teammate-android](https://github.com/tunjid/teammate-android)
-
-
----
-
-724 |    ✰ 94 ✰    |    headless-wifi-manager
-
-Remotely connect to WiFi an headless device using Nearby API
-
-[https://github.com/wideverse/headless-wifi-manager](https://github.com/wideverse/headless-wifi-manager)
-
-
----
-
-725 |    ✰ 94 ✰    |    K-Sonic
-
-Based on Sonic (speed , pitch and rate) , the demo for Android.  [ Deprecated See - https://github.com/jcodeing/KMedia An application level media framework for Android.]
-
-[https://github.com/jcodeing/k-sonic](https://github.com/jcodeing/k-sonic)
-
-
----
-
-726 |    ✰ 94 ✰    |    simple-vlc-player
-
-An Android media player library powered by LibVLC and Open Subtitles.
-
-[https://github.com/masterwok/simple-vlc-player](https://github.com/masterwok/simple-vlc-player)
-
-
----
-
-727 |    ✰ 93 ✰    |    AndroidTVExplorer
-
-A sample project which can be used as a base in order to develop Media Library applications for Android TV.  Follow the series of blogs starting at http://www.malmstein.com/blog/2014/10/21/building-applications-for-android-tv/ in order to keep up to date with the process
-
-[https://github.com/malmstein/androidtvexplorer](https://github.com/malmstein/androidtvexplorer)
-
-
----
-
-728 |    ✰ 93 ✰    |    Feeder
-
-Mirror of Gitlab repo
-
-[https://github.com/spacecowboy/feeder](https://github.com/spacecowboy/feeder)
-
-
----
-
-729 |    ✰ 93 ✰    |    ApexNLP
-
-A natural language event parser for java and android.
-
-[https://github.com/6thsolution/apexnlp](https://github.com/6thsolution/apexnlp)
-
-
----
-
-730 |    ✰ 93 ✰    |    PomoPomoAndroid
-
-Yet Another Android Pomodoro Client
-
-[https://github.com/vngrs/pomopomoandroid](https://github.com/vngrs/pomopomoandroid)
-
-
----
-
-731 |    ✰ 92 ✰    |    jcodecollector
-
-jCodeCollector is a simple snippets manager for Mac OS X, Windows and Linux developed by me in my free time. Latest stable version (2.5) has been released in January 2011. I have no time to continue the development of jCodeCollector so I released it as open source (September 2012).  Thanks you all for your interest! 
-
-[https://github.com/alessandrococco/jcodecollector](https://github.com/alessandrococco/jcodecollector)
-
-
----
-
-732 |    ✰ 92 ✰    |    XuanImageView
-
-XuanImageView extends ImageView with scaling function, rotating function, ect. Particularly, its auto-rotate-back-to-initial-state behavior mimics that in Google Photo.
-
-[https://github.com/allenxuan/xuanimageview](https://github.com/allenxuan/xuanimageview)
-
-
----
-
-733 |    ✰ 92 ✰    |    SocialAuthHelper
-
-Easy social network authorization for Android. Supports Facebook, Twitter, Instagram, Google+, Vkontakte. Made by Stfalcon
-
-[https://github.com/stfalcon-studio/socialauthhelper](https://github.com/stfalcon-studio/socialauthhelper)
-
-
----
-
-734 |    ✰ 92 ✰    |    moneywallet
-
-An android application that let you track your expenses
-
-[https://github.com/andreale94/moneywallet](https://github.com/andreale94/moneywallet)
-
-
----
-
-735 |    ✰ 89 ✰    |    process-explorer-app
-
-The Android app containing the Process Explorer
-
-[https://github.com/opersys/process-explorer-app](https://github.com/opersys/process-explorer-app)
-
-
----
-
-736 |    ✰ 89 ✰    |    FAST
-
-FAST App Search Tool
-
-[https://github.com/ligi/fast](https://github.com/ligi/fast)
-
-
----
-
-737 |    ✰ 89 ✰    |    MaxLock
-
-Powerful app locker for Android, with a root and no-root implementation
-
-[https://github.com/maxr1998/maxlock](https://github.com/maxr1998/maxlock)
-
-
----
-
-738 |    ✰ 89 ✰    |    PixelSlide
-
-A up/down expand arrow anim sample likes Pixel Launcher.
-
-[https://github.com/hearsilent/pixelslide](https://github.com/hearsilent/pixelslide)
-
-
----
-
-739 |    ✰ 88 ✰    |    kboard
-
-Android keyboard for fast responses
-
-[https://github.com/adgad/kboard](https://github.com/adgad/kboard)
-
-
----
-
-740 |    ✰ 88 ✰    |    LandscapeView
-
-Animated landscape generator
-
-[https://github.com/zieiony/landscapeview](https://github.com/zieiony/landscapeview)
-
-
----
-
-741 |    ✰ 88 ✰    |    LoadFrameLayout
-
-Android loading FrameLayout
-
-[https://github.com/aspsine/loadframelayout](https://github.com/aspsine/loadframelayout)
-
-
----
-
-742 |    ✰ 87 ✰    |    ViewStateSaveDemo
-
-Simple Demo of how do you save View's state in Android
-
-[https://github.com/paveldudka/viewstatesavedemo](https://github.com/paveldudka/viewstatesavedemo)
-
-
----
-
-743 |    ✰ 87 ✰    |    fetch
-
-Fluent API to query data in ContentResolver and SQLiteDatabase
-
-[https://github.com/evernote/fetch](https://github.com/evernote/fetch)
-
-
----
-
-744 |    ✰ 87 ✰    |    MetaBalls-LIB-Android
-
-A library that simulates a liquid effect for various UI widgets.
-
-[https://github.com/danielzeller/metaballs-lib-android](https://github.com/danielzeller/metaballs-lib-android)
-
-
----
-
-745 |    ✰ 86 ✰    |    ninjato
-
-Flexible and type-safe inline HTTP client for Android and Kotlin
-
-[https://github.com/agoda-com/ninjato](https://github.com/agoda-com/ninjato)
-
-
----
-
-746 |    ✰ 86 ✰    |    Gradle-Repo
-
-统一管理Git多仓库及模块依赖 / Manage multiple Git repositories and dependencies between modules.
-
-[https://github.com/eastwoodyang/gradle-repo](https://github.com/eastwoodyang/gradle-repo)
-
-
----
-
-747 |    ✰ 86 ✰    |    android-lifecycle
-
-A diagram of the Android Activity / Fragment lifecycle
-
-[https://github.com/oleksandrkucherenko/android-lifecycle](https://github.com/oleksandrkucherenko/android-lifecycle)
-
-
----
-
-748 |    ✰ 84 ✰    |    Rey-MusicPlayer
-
-This is a android music player with features like mp3 tag editor and etc.
-
-[https://github.com/reyanshmishra/rey-musicplayer](https://github.com/reyanshmishra/rey-musicplayer)
-
-
----
-
-749 |    ✰ 84 ✰    |    RxAndroidEventsSample
-
-BusEvents implementation base RxJava/RxAndroid
-
-[https://github.com/wangjiegulu/rxandroideventssample](https://github.com/wangjiegulu/rxandroideventssample)
-
-
----
-
-750 |    ✰ 83 ✰    |    PhoneTutorial
-
-Make simple and beautiful tutorials start for your applications
-
-[https://github.com/navasmdc/phonetutorial](https://github.com/navasmdc/phonetutorial)
-
-
----
-
-751 |    ✰ 83 ✰    |    FillingEffect
-
-How to create a filling effect for an ImageView
-
-[https://github.com/fedestyla/fillingeffect](https://github.com/fedestyla/fillingeffect)
-
-
----
-
-752 |    ✰ 83 ✰    |    SimpleAlertDialog-for-Android
-
-Library for Android DialogFragment.
-
-[https://github.com/ksoichiro/simplealertdialog-for-android](https://github.com/ksoichiro/simplealertdialog-for-android)
-
-
----
-
-753 |    ✰ 82 ✰    |    Hijckr
-
-Android Library Routing XML Tags from one tag to another when inflating Layout Files 
-
-[https://github.com/justinangel/hijckr](https://github.com/justinangel/hijckr)
-
-
----
-
-754 |    ✰ 82 ✰    |    watchface-template
-
-
-
-[https://github.com/twotoasters/watchface-template](https://github.com/twotoasters/watchface-template)
-
-
----
-
-755 |    ✰ 82 ✰    |    MaterialPagerIndicator
-
-
-
-[https://github.com/amlcurran/materialpagerindicator](https://github.com/amlcurran/materialpagerindicator)
-
-
----
-
-756 |    ✰ 82 ✰    |    BirthdayBuddy
-
-A simple material-design orientated app to handle your friends' birthdays and other special events
-
-[https://github.com/procrastimax/birthdaybuddy](https://github.com/procrastimax/birthdaybuddy)
-
-
----
-
-757 |    ✰ 82 ✰    |    Spanomatic
-
-Automatically add spans to text from Android resources strings
-
-[https://github.com/grivos/spanomatic](https://github.com/grivos/spanomatic)
-
-
----
-
-758 |    ✰ 82 ✰    |    getid
-
-Get Device ID,SIM SerialNumber,IMEI,IMSI,Google Service Key,WiFi Mac address for Android
-
-[https://github.com/basil2style/getid](https://github.com/basil2style/getid)
-
-
----
-
-759 |    ✰ 82 ✰    |    AndroidLiveTemplates
-
- :rocket: A curated android templates to make android development more easy and fast :battery: !
-
-[https://github.com/pranaypatel512/androidlivetemplates](https://github.com/pranaypatel512/androidlivetemplates)
-
-
----
-
-760 |    ✰ 81 ✰    |    AIDLService-sample
-
-This is the source code related to this blog: http://www.race604.com/communicate-with-remote-service-1
-
-[https://github.com/race604/aidlservice-sample](https://github.com/race604/aidlservice-sample)
-
-
----
-
-761 |    ✰ 81 ✰    |    dex-test-parser
-
-Find all test methods in an Android instrumentation APK
-
-[https://github.com/linkedin/dex-test-parser](https://github.com/linkedin/dex-test-parser)
-
-
----
-
-762 |    ✰ 81 ✰    |    secrecy
-
-
-
-[https://github.com/secrecysupportteam/secrecy](https://github.com/secrecysupportteam/secrecy)
-
-
----
-
-763 |    ✰ 80 ✰    |    RxStarter
-
-Showcase Project using RxJava and RxDAO pattern
-
-[https://github.com/digitalbuddha/rxstarter](https://github.com/digitalbuddha/rxstarter)
-
-
----
-
-764 |    ✰ 79 ✰    |    EspressoDescendantActions
-
-Custom espresso actions for operating on descendant views such as children of a RecyclerView
-
-[https://github.com/joerogers/espressodescendantactions](https://github.com/joerogers/espressodescendantactions)
-
-
----
-
-765 |    ✰ 79 ✰    |    AsynKio
-
-Write your asynchronous Network / IO call painlessly in Kotlin !!
-
-[https://github.com/curiousnikhil/asynkio](https://github.com/curiousnikhil/asynkio)
-
-
----
-
-766 |    ✰ 79 ✰    |    ketro
-
-Simple and sane Retrofit request library for Kotlin supports LiveData request and also Coroutines functionality.Easily propagate errors to the parent fragment/activity without losing your sanity🔥 https://smilecs.github.io/ketro/
-
-[https://github.com/smilecs/ketro](https://github.com/smilecs/ketro)
-
-
----
-
-767 |    ✰ 77 ✰    |    kdb
-
-Kotlin Databind library 
-
-[https://github.com/paulocns/kdb](https://github.com/paulocns/kdb)
-
-
----
-
-768 |    ✰ 77 ✰    |    android-ps-tools
-
-Some small tools for Photoshop to help creating Android mock-ups
-
-[https://github.com/timroes/android-ps-tools](https://github.com/timroes/android-ps-tools)
-
-
----
-
-769 |    ✰ 76 ✰    |    android-consent-sdk
-
-Configurable consent SDK for Android
-
-[https://github.com/smartlook/android-consent-sdk](https://github.com/smartlook/android-consent-sdk)
-
-
----
-
-770 |    ✰ 76 ✰    |    Hexagon-Recyclerview
-
-
-
-[https://github.com/xresco/hexagon-recyclerview](https://github.com/xresco/hexagon-recyclerview)
-
-
----
-
-771 |    ✰ 76 ✰    |    Android-Prince-of-Versions
-
-Android library for handling app update notifications
-
-[https://github.com/infinum/android-prince-of-versions](https://github.com/infinum/android-prince-of-versions)
-
-
----
-
-772 |    ✰ 76 ✰    |    Widgets
-
-Custom Android UI widgets with samples
-
-[https://github.com/mostafagazar/widgets](https://github.com/mostafagazar/widgets)
-
-
----
-
-773 |    ✰ 76 ✰    |    Android-Extensions
-
-An Android library with modules to quickly bootstrap an Android application.
-
-[https://github.com/tunjid/android-extensions](https://github.com/tunjid/android-extensions)
-
-
----
-
-774 |    ✰ 76 ✰    |    recyclerViewToTheRescue
-
-Examples of how to use RecyclerView to achieve complex list UIs
-
-[https://github.com/bduncavage/recyclerviewtotherescue](https://github.com/bduncavage/recyclerviewtotherescue)
-
-
----
-
-775 |    ✰ 76 ✰    |    generator-android-architecture
-
-[Yeoman Generator] Create android app using android/android-architecture.
-
-[https://github.com/ravidsrk/generator-android-architecture](https://github.com/ravidsrk/generator-android-architecture)
-
-
----
-
-776 |    ✰ 76 ✰    |    Language-Switcher-Tile
-
-An android plugin that allows you to easily change your device language.
-
-[https://github.com/azimolabs/language-switcher-tile](https://github.com/azimolabs/language-switcher-tile)
-
-
----
-
-777 |    ✰ 75 ✰    |    StringPacks
-
-Extracts localized strings from an Android app and stores it in a much more efficient format.
-
-[https://github.com/whatsapp/stringpacks](https://github.com/whatsapp/stringpacks)
-
-
----
-
-778 |    ✰ 75 ✰    |    RxWorkManagerObservers
-
-
-
-[https://github.com/paulinasadowska/rxworkmanagerobservers](https://github.com/paulinasadowska/rxworkmanagerobservers)
-
-
----
-
-779 |    ✰ 74 ✰    |    PopularMovies
-
-:movie_camera: Movie discovery app showcasing Android best practices with Google's recommended architecture: MVVM + Repository + Offline support + Android Architecture Components + Paging library & Retrofit2. 
-
-[https://github.com/yassinajdi/popularmovies](https://github.com/yassinajdi/popularmovies)
-
-
----
-
-780 |    ✰ 74 ✰    |    android-lint-checks-demo
+✰✰✰ 104
 
 A demo project that shows how to setup and write some basic custom lint checks.
 
@@ -7025,97 +9434,86 @@ A demo project that shows how to setup and write some basic custom lint checks.
 
 ---
 
-781 |    ✰ 74 ✰    |    android-repository
+858 |    calendarview
 
-Make a mirror of Android SDK Update Sites - works for both standalone and Android Studio built-in SDK Managers
+✰✰✰ 103
 
-[https://github.com/renfeng/android-repository](https://github.com/renfeng/android-repository)
+an android widget to show calendar
 
-
----
-
-782 |    ✰ 73 ✰    |    EasySP
-
-A SharedPreferences wrapper that has a fluent interface to store data
-
-[https://github.com/whitedg/easysp](https://github.com/whitedg/easysp)
+[https://github.com/laserwave/calendarview](https://github.com/laserwave/calendarview)
 
 
 ---
 
-783 |    ✰ 73 ✰    |    Molebox
+859 |    patheffecttextview
 
-MoleBox lets you convert your application into an all-sufficient stand-alone executable, containing everything needed: components, media assets, registry entries.
+✰✰✰ 102
 
-[https://github.com/sudachen/molebox](https://github.com/sudachen/molebox)
+Path effect for text.
 
-
----
-
-784 |    ✰ 73 ✰    |    screen-generator-plugin
-
-
-
-[https://github.com/gmatyszczak/screen-generator-plugin](https://github.com/gmatyszczak/screen-generator-plugin)
+[https://github.com/dkmeteor/patheffecttextview](https://github.com/dkmeteor/patheffecttextview)
 
 
 ---
 
-785 |    ✰ 73 ✰    |    Mzip-Android
+860 |    navigation-drawer-actionbarcompat
 
-An Android compress and extract library support popular compression format such as rar, zip
+✰✰✰ 102
 
-[https://github.com/ghost1372/mzip-android](https://github.com/ghost1372/mzip-android)
+Navigation Drawer - Live-O
 
-
----
-
-786 |    ✰ 73 ✰    |    fragment-navigation-2.0
-
-A fragment navigation library
-
-[https://github.com/gyorgygabor/fragment-navigation-2.0](https://github.com/gyorgygabor/fragment-navigation-2.0)
+[https://github.com/rudsonlive/navigation-drawer-actionbarcompat](https://github.com/rudsonlive/navigation-drawer-actionbarcompat)
 
 
 ---
 
-787 |    ✰ 73 ✰    |    ReminderDatePicker
+861 |    apkrename
 
-A Google Keep-like Date and Time Picker for reminders
+✰✰✰ 102
 
-[https://github.com/simplicityapks/reminderdatepicker](https://github.com/simplicityapks/reminderdatepicker)
+rename android app package name(just a identity of app, not java package name) without source, without changing code.  No need apktool, no need aapt.
 
-
----
-
-788 |    ✰ 72 ✰    |    persian-calendar-view
-
-Persian calendar view for android - تقویم فارسی / شمسی اندروید
-
-[https://github.com/roojin/persian-calendar-view](https://github.com/roojin/persian-calendar-view)
+[https://github.com/sjitech/apkrename](https://github.com/sjitech/apkrename)
 
 
 ---
 
-789 |    ✰ 72 ✰    |    MultiNavHost
+862 |    dexopener
 
-Separate back stack history for each tab in Bottom Navigation View using Android Navigation Architecture Component 
+✰✰✰ 102
 
-[https://github.com/moallemi/multinavhost](https://github.com/moallemi/multinavhost)
+An Android library that provides the ability to mock your final classes on Android devices.
 
-
----
-
-790 |    ✰ 72 ✰    |    shareviahttp
-
-Share Via Http - Android
-
-[https://github.com/marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp)
+[https://github.com/tmurakami/dexopener](https://github.com/tmurakami/dexopener)
 
 
 ---
 
-791 |    ✰ 71 ✰    |    delect
+863 |    maxlock
+
+✰✰✰ 100
+
+Powerful app locker for Android, with a root and no-root implementation
+
+[https://github.com/maxr1998/maxlock](https://github.com/maxr1998/maxlock)
+
+
+---
+
+864 |    feeder
+
+✰✰✰ 99
+
+Mirror of Gitlab repo
+
+[https://github.com/spacecowboy/feeder](https://github.com/spacecowboy/feeder)
+
+
+---
+
+865 |    delect
+
+✰✰✰ 99
 
 The Gradle Plugin for Dagger Reflect.
 
@@ -7124,79 +9522,746 @@ The Gradle Plugin for Dagger Reflect.
 
 ---
 
-792 |    ✰ 71 ✰    |    Kuronometer
+866 |    dependency-injection-checks
 
-Gradle plugin to measure build times. Let's measure how long developers around the world are compiling software.
+✰✰✰ 98
 
-[https://github.com/pedrovgs/kuronometer](https://github.com/pedrovgs/kuronometer)
+Dependency Injection Usage Checks
 
-
----
-
-793 |    ✰ 71 ✰    |    tomorrow-mvp
-
-Android MVP library
-
-[https://github.com/michal-luszczuk/tomorrow-mvp](https://github.com/michal-luszczuk/tomorrow-mvp)
+[https://github.com/groupon/dependency-injection-checks](https://github.com/groupon/dependency-injection-checks)
 
 
 ---
 
-794 |    ✰ 71 ✰    |    WelcomeToL
+867 |    k-sonic
 
+✰✰✰ 98
 
+Based on Sonic (speed , pitch and rate) , the demo for Android.  [ Deprecated See - https://github.com/jcodeing/KMedia An application level media framework for Android.]
 
-[https://github.com/rdrobinson3/welcometol](https://github.com/rdrobinson3/welcometol)
-
-
----
-
-795 |    ✰ 70 ✰    |    AndroidFormEnhancer
-
-Form validation library for Android applications.
-
-[https://github.com/ksoichiro/androidformenhancer](https://github.com/ksoichiro/androidformenhancer)
+[https://github.com/jcodeing/k-sonic](https://github.com/jcodeing/k-sonic)
 
 
 ---
 
-796 |    ✰ 69 ✰    |    SmartPack-Kernel-Manager
+868 |    alpayring
 
-Source code of SmartPack-Kernel-Manager which is a modified version of KernelAdiutor by Grarak
+✰✰✰ 98
 
-[https://github.com/smartpack/smartpack-kernel-manager](https://github.com/smartpack/smartpack-kernel-manager)
+类似支付宝芝麻信用仪表盘
 
-
----
-
-797 |    ✰ 69 ✰    |    android-drawing-app
-
-Source code from Tuts+ tutorial - Android SDK: Create a Drawing App
-
-[https://github.com/suesmith/android-drawing-app](https://github.com/suesmith/android-drawing-app)
+[https://github.com/ldoublem/alpayring](https://github.com/ldoublem/alpayring)
 
 
 ---
 
-798 |    ✰ 69 ✰    |    Picasso-RecyclerView-StaggeredGridLayoutManager
+869 |    arcade
 
-StaggeredGridView + Picasso/Glide + RecyclerView Android
+✰✰✰ 98
 
-[https://github.com/yuvaraj119/picasso-recyclerview-staggeredgridlayoutmanager](https://github.com/yuvaraj119/picasso-recyclerview-staggeredgridlayoutmanager)
+Neural style in Android
 
-
----
-
-799 |    ✰ 68 ✰    |    valigator
-
-Validation tools for EditText fields
-
-[https://github.com/radoslavyankov/valigator](https://github.com/radoslavyankov/valigator)
+[https://github.com/naman14/arcade](https://github.com/naman14/arcade)
 
 
 ---
 
-800 |    ✰ 68 ✰    |    LollyDemo
+870 |    fragmenttestrule
+
+✰✰✰ 96
+
+JUnit Rule to test a Fragment in isolation
+
+[https://github.com/21buttons/fragmenttestrule](https://github.com/21buttons/fragmenttestrule)
+
+
+---
+
+871 |    android-unlocker-library
+
+✰✰✰ 96
+
+A library to ease implementation of unlock application for your freemium apps
+
+[https://github.com/marvinlabs/android-unlocker-library](https://github.com/marvinlabs/android-unlocker-library)
+
+
+---
+
+872 |    vangogh
+
+✰✰✰ 96
+
+💥 Android view animations powered by RxJava 2
+
+[https://github.com/pspdfkit-labs/vangogh](https://github.com/pspdfkit-labs/vangogh)
+
+
+---
+
+873 |    Komprehensions
+
+✰✰✰ 95
+
+Do comprehensions for Kotlin and 3rd party libraries [STABLE]
+
+[https://github.com/pakoito/Komprehensions](https://github.com/pakoito/Komprehensions)
+
+
+---
+
+874 |    androiddigitclassifier
+
+✰✰✰ 94
+
+Android digit classifier that works with a python http server
+
+[https://github.com/harjot-oberai/androiddigitclassifier](https://github.com/harjot-oberai/androiddigitclassifier)
+
+
+---
+
+875 |    androidtvexplorer
+
+✰✰✰ 94
+
+A sample project which can be used as a base in order to develop Media Library applications for Android TV.  Follow the series of blogs starting at http://www.malmstein.com/blog/2014/10/21/building-applications-for-android-tv/ in order to keep up to date with the process
+
+[https://github.com/malmstein/androidtvexplorer](https://github.com/malmstein/androidtvexplorer)
+
+
+---
+
+876 |    pomopomoandroid
+
+✰✰✰ 94
+
+Yet Another Android Pomodoro Client
+
+[https://github.com/vngrs/pomopomoandroid](https://github.com/vngrs/pomopomoandroid)
+
+
+---
+
+877 |    apexnlp
+
+✰✰✰ 93
+
+A natural language event parser for java and android.
+
+[https://github.com/6thsolution/apexnlp](https://github.com/6thsolution/apexnlp)
+
+
+---
+
+878 |    jcodecollector
+
+✰✰✰ 93
+
+jCodeCollector is a simple snippets manager for Mac OS X, Windows and Linux developed by me in my free time. Latest stable version (2.5) has been released in January 2011. I have no time to continue the development of jCodeCollector so I released it as open source (September 2012).  Thanks you all for your interest! 
+
+[https://github.com/alessandrococco/jcodecollector](https://github.com/alessandrococco/jcodecollector)
+
+
+---
+
+879 |    socialauthhelper
+
+✰✰✰ 93
+
+Easy social network authorization for Android. Supports Facebook, Twitter, Instagram, Google+, Vkontakte. Made by Stfalcon
+
+[https://github.com/stfalcon-studio/socialauthhelper](https://github.com/stfalcon-studio/socialauthhelper)
+
+
+---
+
+880 |    xuanimageview
+
+✰✰✰ 92
+
+XuanImageView extends ImageView with scaling function, rotating function, ect. Particularly, its auto-rotate-back-to-initial-state behavior mimics that in Google Photo.
+
+[https://github.com/allenxuan/xuanimageview](https://github.com/allenxuan/xuanimageview)
+
+
+---
+
+881 |    pixelslide
+
+✰✰✰ 92
+
+A up/down expand arrow anim sample likes Pixel Launcher.
+
+[https://github.com/hearsilent/pixelslide](https://github.com/hearsilent/pixelslide)
+
+
+---
+
+882 |    black-mirror
+
+✰✰✰ 91
+
+A voice controlled smart mirror powered by Raspberry Pi3 and AndroidThings.
+
+[https://github.com/hypeapps/black-mirror](https://github.com/hypeapps/black-mirror)
+
+
+---
+
+883 |    process-explorer-app
+
+✰✰✰ 91
+
+The Android app containing the Process Explorer
+
+[https://github.com/opersys/process-explorer-app](https://github.com/opersys/process-explorer-app)
+
+
+---
+
+884 |    landscapeview
+
+✰✰✰ 90
+
+Animated landscape generator
+
+[https://github.com/zieiony/landscapeview](https://github.com/zieiony/landscapeview)
+
+
+---
+
+885 |    epg_magic_carousel
+
+✰✰✰ 89
+
+Awesome RecyclerView with custom LayoutManager
+
+[https://github.com/alexeykovalev/epg_magic_carousel](https://github.com/alexeykovalev/epg_magic_carousel)
+
+
+---
+
+886 |    loadframelayout
+
+✰✰✰ 89
+
+Android loading FrameLayout
+
+[https://github.com/aspsine/loadframelayout](https://github.com/aspsine/loadframelayout)
+
+
+---
+
+887 |    pixelbot
+
+✰✰✰ 89
+
+None
+
+[https://github.com/daveyburke/pixelbot](https://github.com/daveyburke/pixelbot)
+
+
+---
+
+888 |    viewstatesavedemo
+
+✰✰✰ 89
+
+Simple Demo of how do you save View's state in Android
+
+[https://github.com/paveldudka/viewstatesavedemo](https://github.com/paveldudka/viewstatesavedemo)
+
+
+---
+
+889 |    uce-handler
+
+✰✰✰ 89
+
+Convenient Uncaught-Exception Handler Library For Testers and Developers. Copy, Share, Email, Save crash logs easily.
+
+[https://github.com/rohitsurwase/uce-handler](https://github.com/rohitsurwase/uce-handler)
+
+
+---
+
+890 |    C2MStoryViewer
+
+✰✰✰ 89
+
+This repository contains a detailed sample app for displaying stories like Instagram.
+
+[https://github.com/c2mInc/C2MStoryViewer](https://github.com/c2mInc/C2MStoryViewer)
+
+
+---
+
+891 |    fast
+
+✰✰✰ 88
+
+FAST App Search Tool
+
+[https://github.com/ligi/fast](https://github.com/ligi/fast)
+
+
+---
+
+892 |    android-lifecycle
+
+✰✰✰ 88
+
+A diagram of the Android Activity / Fragment lifecycle
+
+[https://github.com/oleksandrkucherenko/android-lifecycle](https://github.com/oleksandrkucherenko/android-lifecycle)
+
+
+---
+
+893 |    fetch
+
+✰✰✰ 87
+
+Fluent API to query data in ContentResolver and SQLiteDatabase
+
+[https://github.com/evernote/fetch](https://github.com/evernote/fetch)
+
+
+---
+
+894 |    minimise
+
+✰✰✰ 87
+
+Minimise app built using kotlin multiplatform
+
+[https://github.com/hitherejoe/minimise](https://github.com/hitherejoe/minimise)
+
+
+---
+
+895 |    fluentappbar
+
+✰✰✰ 86
+
+Fluent App Bar: An Android bottom-sheet-based navigation bar based on Microsoft's Fluent Design System
+
+[https://github.com/byvlstr/fluentappbar](https://github.com/byvlstr/fluentappbar)
+
+
+---
+
+896 |    options
+
+✰✰✰ 86
+
+Option type for Android Java projects
+
+[https://github.com/tomaszpolanski/options](https://github.com/tomaszpolanski/options)
+
+
+---
+
+897 |    instantappsample
+
+✰✰✰ 85
+
+A sample showing how to build an instant app from an existing project.
+
+[https://github.com/jbvincey/instantappsample](https://github.com/jbvincey/instantappsample)
+
+
+---
+
+898 |    rxandroideventssample
+
+✰✰✰ 85
+
+BusEvents implementation base RxJava/RxAndroid
+
+[https://github.com/wangjiegulu/rxandroideventssample](https://github.com/wangjiegulu/rxandroideventssample)
+
+
+---
+
+899 |    LiveStream-kt
+
+✰✰✰ 85
+
+LiveStream is a simple class which makes communication easy among different modules of your application.
+
+[https://github.com/PatilShreyas/LiveStream-kt](https://github.com/PatilShreyas/LiveStream-kt)
+
+
+---
+
+900 |    FlowNav
+
+✰✰✰ 85
+
+Annotation processor that provides better navigation on android multi-modules projects.
+
+[https://github.com/jeziellago/FlowNav](https://github.com/jeziellago/FlowNav)
+
+
+---
+
+901 |    getid
+
+✰✰✰ 84
+
+Get Device ID,SIM SerialNumber,IMEI,IMSI,Google Service Key,WiFi Mac address for Android
+
+[https://github.com/basil2style/getid](https://github.com/basil2style/getid)
+
+
+---
+
+902 |    dex-test-parser
+
+✰✰✰ 84
+
+Find all test methods in an Android instrumentation APK
+
+[https://github.com/linkedin/dex-test-parser](https://github.com/linkedin/dex-test-parser)
+
+
+---
+
+903 |    phonetutorial
+
+✰✰✰ 84
+
+Make simple and beautiful tutorials start for your applications
+
+[https://github.com/navasmdc/phonetutorial](https://github.com/navasmdc/phonetutorial)
+
+
+---
+
+904 |    StringPacks
+
+✰✰✰ 84
+
+Extracts localized strings from an Android app and stores it in a much more efficient format.
+
+[https://github.com/WhatsApp/StringPacks](https://github.com/WhatsApp/StringPacks)
+
+
+---
+
+905 |    unearthed
+
+✰✰✰ 84
+
+Track process deaths in Android apps
+
+[https://github.com/hannesstruss/unearthed](https://github.com/hannesstruss/unearthed)
+
+
+---
+
+906 |    materialpagerindicator
+
+✰✰✰ 83
+
+None
+
+[https://github.com/amlcurran/materialpagerindicator](https://github.com/amlcurran/materialpagerindicator)
+
+
+---
+
+907 |    fillingeffect
+
+✰✰✰ 83
+
+How to create a filling effect for an ImageView
+
+[https://github.com/fedestyla/fillingeffect](https://github.com/fedestyla/fillingeffect)
+
+
+---
+
+908 |    simplealertdialog-for-android
+
+✰✰✰ 83
+
+Library for Android DialogFragment.
+
+[https://github.com/ksoichiro/simplealertdialog-for-android](https://github.com/ksoichiro/simplealertdialog-for-android)
+
+
+---
+
+909 |    watchface-template
+
+✰✰✰ 82
+
+None
+
+[https://github.com/twotoasters/watchface-template](https://github.com/twotoasters/watchface-template)
+
+
+---
+
+910 |    android-prince-of-versions
+
+✰✰✰ 81
+
+Android library for handling app update notifications
+
+[https://github.com/infinum/android-prince-of-versions](https://github.com/infinum/android-prince-of-versions)
+
+
+---
+
+911 |    aidlservice-sample
+
+✰✰✰ 81
+
+This is the source code related to this blog: http://www.race604.com/communicate-with-remote-service-1
+
+[https://github.com/race604/aidlservice-sample](https://github.com/race604/aidlservice-sample)
+
+
+---
+
+912 |    secrecy
+
+✰✰✰ 81
+
+None
+
+[https://github.com/secrecysupportteam/secrecy](https://github.com/secrecysupportteam/secrecy)
+
+
+---
+
+913 |    dependency-analysis-android-gradle-plugin
+
+✰✰✰ 81
+
+Analyze dependency usage in Android and Java/Kotlin projects, with a Gradle plugin
+
+[https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+
+---
+
+914 |    rxstarter
+
+✰✰✰ 80
+
+Showcase Project using RxJava and RxDAO pattern
+
+[https://github.com/digitalbuddha/rxstarter](https://github.com/digitalbuddha/rxstarter)
+
+
+---
+
+915 |    generator-android-architecture
+
+✰✰✰ 80
+
+[Yeoman Generator] Create android app using googlesamples/android-architecture.
+
+[https://github.com/ravidsrk/generator-android-architecture](https://github.com/ravidsrk/generator-android-architecture)
+
+
+---
+
+916 |    kamera
+
+✰✰✰ 80
+
+Sample Android app for showcasing custom implementation of OpenGL camera preview display, written in Kotlin.
+
+[https://github.com/trent-dev/kamera](https://github.com/trent-dev/kamera)
+
+
+---
+
+917 |    marinator
+
+✰✰✰ 79
+
+Delicious Dependency Injection
+
+[https://github.com/blueapron/marinator](https://github.com/blueapron/marinator)
+
+
+---
+
+918 |    mzip-android
+
+✰✰✰ 79
+
+An Android compress and extract library support popular compression format such as rar, zip
+
+[https://github.com/ghost1372/mzip-android](https://github.com/ghost1372/mzip-android)
+
+
+---
+
+919 |    espressodescendantactions
+
+✰✰✰ 79
+
+Custom espresso actions for operating on descendant views such as children of a RecyclerView
+
+[https://github.com/joerogers/espressodescendantactions](https://github.com/joerogers/espressodescendantactions)
+
+
+---
+
+920 |    android-vertical-stepper-view
+
+✰✰✰ 79
+
+A vertical stepper implementation of the material design specification
+
+[https://github.com/liefery/android-vertical-stepper-view](https://github.com/liefery/android-vertical-stepper-view)
+
+
+---
+
+921 |    android-repository
+
+✰✰✰ 78
+
+Make a mirror of Android SDK Update Sites - works for both standalone and Android Studio built-in SDK Managers
+
+[https://github.com/renfeng/android-repository](https://github.com/renfeng/android-repository)
+
+
+---
+
+922 |    android-ps-tools
+
+✰✰✰ 78
+
+Some small tools for Photoshop to help creating Android mock-ups
+
+[https://github.com/timroes/android-ps-tools](https://github.com/timroes/android-ps-tools)
+
+
+---
+
+923 |    kdb
+
+✰✰✰ 78
+
+Kotlin Databind library 
+
+[https://github.com/paulocns/kdb](https://github.com/paulocns/kdb)
+
+
+---
+
+924 |    urllib
+
+✰✰✰ 77
+
+A modern URL toolset for Java. Compliant with RFC 3986.
+
+[https://github.com/ericedens/urllib](https://github.com/ericedens/urllib)
+
+
+---
+
+925 |    widgets
+
+✰✰✰ 77
+
+Custom Android UI widgets with samples
+
+[https://github.com/mostafagazar/widgets](https://github.com/mostafagazar/widgets)
+
+
+---
+
+926 |    recyclerviewtotherescue
+
+✰✰✰ 76
+
+Examples of how to use RecyclerView to achieve complex list UIs
+
+[https://github.com/bduncavage/recyclerviewtotherescue](https://github.com/bduncavage/recyclerviewtotherescue)
+
+
+---
+
+927 |    highlite
+
+✰✰✰ 76
+
+An SQLite ORM for Android with automatic database migrations built with annotation processing
+
+[https://github.com/jeppeman/highlite](https://github.com/jeppeman/highlite)
+
+
+---
+
+928 |    androidmvparchitecture
+
+✰✰✰ 76
+
+Android MVP architecture sample project with or without RxJava and Dagger2 and Kotlin
+
+[https://github.com/nawinkhatiwada/androidmvparchitecture](https://github.com/nawinkhatiwada/androidmvparchitecture)
+
+
+---
+
+929 |    easysp
+
+✰✰✰ 76
+
+A SharedPreferences wrapper that has a fluent interface to store data
+
+[https://github.com/whitedg/easysp](https://github.com/whitedg/easysp)
+
+
+---
+
+930 |    hexagon-recyclerview
+
+✰✰✰ 76
+
+None
+
+[https://github.com/xresco/hexagon-recyclerview](https://github.com/xresco/hexagon-recyclerview)
+
+
+---
+
+931 |    fragment-navigation-2.0
+
+✰✰✰ 74
+
+A fragment navigation library
+
+[https://github.com/gyorgygabor/fragment-navigation-2.0](https://github.com/gyorgygabor/fragment-navigation-2.0)
+
+
+---
+
+932 |    green-build
+
+✰✰✰ 74
+
+An android app for managing your CI builds.
+
+[https://github.com/kevalpatel2106/green-build](https://github.com/kevalpatel2106/green-build)
+
+
+---
+
+933 |    lollydemo
+
+✰✰✰ 74
 
 A new way to observe android app log in real time.
 
@@ -7205,34 +10270,119 @@ A new way to observe android app log in real time.
 
 ---
 
-801 |    ✰ 68 ✰    |    livepalette
+934 |    easytableview
 
-Playing with the Palette's API and TextureView to build a live palette.
+✰✰✰ 73
 
-[https://github.com/flavienlaurent/livepalette](https://github.com/flavienlaurent/livepalette)
+A light table view for Android.
 
-
----
-
-802 |    ✰ 67 ✰    |    stock-hawk-app
-
-Stock Hawk is the fourth project in Udacity's Android Developer Nanodegree.
-
-[https://github.com/dmitrymalkovich/stock-hawk-app](https://github.com/dmitrymalkovich/stock-hawk-app)
+[https://github.com/huzenan/easytableview](https://github.com/huzenan/easytableview)
 
 
 ---
 
-803 |    ✰ 67 ✰    |    kotlin-std-fun
+935 |    reminderdatepicker
 
-Repo to permalink Kotlin cheatsheets
+✰✰✰ 73
 
-[https://github.com/josealcerreca/kotlin-std-fun](https://github.com/josealcerreca/kotlin-std-fun)
+A Google Keep-like Date and Time Picker for reminders
+
+[https://github.com/simplicityapks/reminderdatepicker](https://github.com/simplicityapks/reminderdatepicker)
 
 
 ---
 
-804 |    ✰ 67 ✰    |    hypershard-android
+936 |    binary-compatibility-validator
+
+✰✰✰ 73
+
+Public API management tool
+
+[https://github.com/Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
+
+---
+
+937 |    asynclistutil-example
+
+✰✰✰ 72
+
+Example implementation of AsyncListUtil for moving SQLite access off the UI thread with a RecyclerView.
+
+[https://github.com/jasonwyatt/asynclistutil-example](https://github.com/jasonwyatt/asynclistutil-example)
+
+
+---
+
+938 |    kuronometer
+
+✰✰✰ 72
+
+Gradle plugin to measure build times. Let's measure how long developers around the world are compiling software.
+
+[https://github.com/pedrovgs/kuronometer](https://github.com/pedrovgs/kuronometer)
+
+
+---
+
+939 |    androidformenhancer
+
+✰✰✰ 71
+
+Form validation library for Android applications.
+
+[https://github.com/ksoichiro/androidformenhancer](https://github.com/ksoichiro/androidformenhancer)
+
+
+---
+
+940 |    tomorrow-mvp
+
+✰✰✰ 71
+
+Android MVP library
+
+[https://github.com/michal-luszczuk/tomorrow-mvp](https://github.com/michal-luszczuk/tomorrow-mvp)
+
+
+---
+
+941 |    welcometol
+
+✰✰✰ 71
+
+None
+
+[https://github.com/rdrobinson3/welcometol](https://github.com/rdrobinson3/welcometol)
+
+
+---
+
+942 |    otpreader
+
+✰✰✰ 71
+
+OTP Reading for Android - Automatically reades SMS for verification purpose in Android , read otp from sms android
+
+[https://github.com/swarajsaaj/otpreader](https://github.com/swarajsaaj/otpreader)
+
+
+---
+
+943 |    rxjava-for-android-developers
+
+✰✰✰ 71
+
+Repository for code examples used in the book RxJava for Android Developers
+
+[https://github.com/tehmou/rxjava-for-android-developers](https://github.com/tehmou/rxjava-for-android-developers)
+
+
+---
+
+944 |    hypershard-android
+
+✰✰✰ 71
 
 CLI tool for collecting tests
 
@@ -7241,7 +10391,75 @@ CLI tool for collecting tests
 
 ---
 
-805 |    ✰ 66 ✰    |    JalaliCalendar
+945 |    android-drawing-app
+
+✰✰✰ 70
+
+Source code from Tuts+ tutorial - Android SDK: Create a Drawing App
+
+[https://github.com/suesmith/android-drawing-app](https://github.com/suesmith/android-drawing-app)
+
+
+---
+
+946 |    stock-hawk-app
+
+✰✰✰ 69
+
+Stock Hawk is the fourth project in Udacity's Android Developer Nanodegree.
+
+[https://github.com/dmitrymalkovich/stock-hawk-app](https://github.com/dmitrymalkovich/stock-hawk-app)
+
+
+---
+
+947 |    calendarview2
+
+✰✰✰ 69
+
+Calendar view for Android. Pretty.
+
+[https://github.com/ptrstovka/calendarview2](https://github.com/ptrstovka/calendarview2)
+
+
+---
+
+948 |    picasso-recyclerview-staggeredgridlayoutmanager
+
+✰✰✰ 69
+
+StaggeredGridView + Picasso/Glide + RecyclerView Android
+
+[https://github.com/yuvaraj119/picasso-recyclerview-staggeredgridlayoutmanager](https://github.com/yuvaraj119/picasso-recyclerview-staggeredgridlayoutmanager)
+
+
+---
+
+949 |    moshi-sealed
+
+✰✰✰ 69
+
+Reflective and code gen implementations for serializing Kotlin sealed classes via Moshi polymorphic adapters.
+
+[https://github.com/ZacSweers/moshi-sealed](https://github.com/ZacSweers/moshi-sealed)
+
+
+---
+
+950 |    livepalette
+
+✰✰✰ 68
+
+Playing with the Palette's API and TextureView to build a live palette.
+
+[https://github.com/flavienlaurent/livepalette](https://github.com/flavienlaurent/livepalette)
+
+
+---
+
+951 |    jalalicalendar
+
+✰✰✰ 68
 
 Jalali Calendar for java
 
@@ -7250,43 +10468,31 @@ Jalali Calendar for java
 
 ---
 
-806 |    ✰ 66 ✰    |    FlipTabs
+952 |    hacktoberfest-android
 
-Android Flip Tabs Library
+✰✰✰ 67
 
-[https://github.com/chrisvin/fliptabs](https://github.com/chrisvin/fliptabs)
+Android app to check Hacktoberfest status and explore projects and issues 
 
-
----
-
-807 |    ✰ 65 ✰    |    android-cheat
-
-Dozens of minimal Android demo apps, each a example of one single Android API concept. Tested on Ubuntu 17.10 host, Android Studio 3, Android SDK 26, and an Android 6.0.1 device.
-
-[https://github.com/cirosantilli/android-cheat](https://github.com/cirosantilli/android-cheat)
+[https://github.com/naman14/hacktoberfest-android](https://github.com/naman14/hacktoberfest-android)
 
 
 ---
 
-808 |    ✰ 65 ✰    |    droidcon-Berlin-2019-unofficial
+953 |    MobidMask
 
-Unofficial app for droidcon Berlin 2019
+✰✰✰ 67
 
-[https://github.com/thellmund/droidcon-berlin-2019-unofficial](https://github.com/thellmund/droidcon-berlin-2019-unofficial)
+A library for fast and safe delivery of parameters for Activities and Fragments.
 
-
----
-
-809 |    ✰ 65 ✰    |    layercache
-
-Caching made simple for Android and Java.
-
-[https://github.com/appmattus/layercache](https://github.com/appmattus/layercache)
+[https://github.com/ssseasonnn/MobidMask](https://github.com/ssseasonnn/MobidMask)
 
 
 ---
 
-810 |    ✰ 65 ✰    |    android-concurrent-database
+954 |    android-concurrent-database
+
+✰✰✰ 65
 
 Sample of concurrent safe access to Android SQLite Database
 
@@ -7295,88 +10501,31 @@ Sample of concurrent safe access to Android SQLite Database
 
 ---
 
-811 |    ✰ 65 ✰    |    Api-Error-Handler
+955 |    splashloginsignup
 
-Declare expected errors of your API and generate implementing code automatically.
+✰✰✰ 65
 
-[https://github.com/azimolabs/api-error-handler](https://github.com/azimolabs/api-error-handler)
+Source code for the Splash, Login and Signup Screen for Android | UI to Code - Timelapse YouTube Video
 
-
----
-
-812 |    ✰ 65 ✰    |    Android-Stocks
-
-Experimental Android app with MVVM architecture. Purpose of this project is to explore different architectural approaches.
-
-[https://github.com/petrnohejl/android-stocks](https://github.com/petrnohejl/android-stocks)
+[https://github.com/mddanishansari/splashloginsignup](https://github.com/mddanishansari/splashloginsignup)
 
 
 ---
 
-813 |    ✰ 65 ✰    |    Material-Action-Bar-Sample
+956 |    tlslibrary
 
-A sample android app demonstrating how to achieve a material style action bar on older android versions — DEPRECATED
+✰✰✰ 65
 
-[https://github.com/xiprox/material-action-bar-sample](https://github.com/xiprox/material-action-bar-sample)
+Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
 
-
----
-
-814 |    ✰ 65 ✰    |    PasswordView
-
-Android View for showing password at user's request
-
-[https://github.com/tiwiz/passwordview](https://github.com/tiwiz/passwordview)
+[https://github.com/s1monw1/tlslibrary](https://github.com/s1monw1/tlslibrary)
 
 
 ---
 
-815 |    ✰ 64 ✰    |    SampleAndroidSlice
+957 |    realtextview
 
-Sample of Android Slice
-
-[https://github.com/saurabhkpatel/sampleandroidslice](https://github.com/saurabhkpatel/sampleandroidslice)
-
-
----
-
-816 |    ✰ 64 ✰    |    iran-states-and-cities-json-and-sql-including-area-coordinations
-
-iran states and cities in json and sql formats including area coordinations.
-
-[https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations](https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations)
-
-
----
-
-817 |    ✰ 64 ✰    |    android-money
-
-Simple money and currency converter library for android.
-
-[https://github.com/tobiasschuerg/android-money](https://github.com/tobiasschuerg/android-money)
-
-
----
-
-818 |    ✰ 63 ✰    |    selectView
-
-类似刻度尺的选择控件
-
-[https://github.com/ldoublem/selectview](https://github.com/ldoublem/selectview)
-
-
----
-
-819 |    ✰ 63 ✰    |    faded
-
-Client did not pay? Add opacity to UI components and decrease it every day until their app completely fades away. Inspired from https://github.com/kleampa/not-paid
-
-[https://github.com/theapache64/faded](https://github.com/theapache64/faded)
-
-
----
-
-820 |    ✰ 63 ✰    |    RealTextView
+✰✰✰ 65
 
 A new textview for Android that includes a compilation of libaries to make a real TextView
 
@@ -7385,7 +10534,119 @@ A new textview for Android that includes a compilation of libaries to make a rea
 
 ---
 
-821 |    ✰ 63 ✰    |    AndroidImageLoader
+958 |    passwordview
+
+✰✰✰ 65
+
+Android View for showing password at user's request
+
+[https://github.com/tiwiz/passwordview](https://github.com/tiwiz/passwordview)
+
+
+---
+
+959 |    material-action-bar-sample
+
+✰✰✰ 65
+
+A sample android app demonstrating how to achieve a material style action bar on older android versions — DEPRECATED
+
+[https://github.com/xiprox/material-action-bar-sample](https://github.com/xiprox/material-action-bar-sample)
+
+
+---
+
+960 |    selectview
+
+✰✰✰ 64
+
+类似刻度尺的选择控件
+
+[https://github.com/ldoublem/selectview](https://github.com/ldoublem/selectview)
+
+
+---
+
+961 |    kotlinmvp
+
+✰✰✰ 64
+
+Simple Android app created using Kotlin and MVP pattern. Tested with JUnit, Robolectric and Mockito.
+
+[https://github.com/michaldrabik/kotlinmvp](https://github.com/michaldrabik/kotlinmvp)
+
+
+---
+
+962 |    iran-states-and-cities-json-and-sql-including-area-coordinations
+
+✰✰✰ 64
+
+iran states and cities in json and sql formats including area coordinations.
+
+[https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations](https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations)
+
+
+---
+
+963 |    android-stocks
+
+✰✰✰ 64
+
+Experimental Android app with MVVM architecture. Purpose of this project is to explore different architectural approaches.
+
+[https://github.com/petrnohejl/android-stocks](https://github.com/petrnohejl/android-stocks)
+
+
+---
+
+964 |    ssl-pin-generator
+
+✰✰✰ 64
+
+Simple jar to generate SSL pins based on a certificate's public key. Pins are base-64 SHA-1 hashes by default. 
+
+[https://github.com/scottyab/ssl-pin-generator](https://github.com/scottyab/ssl-pin-generator)
+
+
+---
+
+965 |    android-money
+
+✰✰✰ 64
+
+Simple money and currency converter library for android.
+
+[https://github.com/tobiasschuerg/android-money](https://github.com/tobiasschuerg/android-money)
+
+
+---
+
+966 |    generator-kotlin-android
+
+✰✰✰ 63
+
+[Yeoman Generator] Generate Kotlin MVP Architecture for Android App using https://git.io/vQsAC
+
+[https://github.com/androidstarters/generator-kotlin-android](https://github.com/androidstarters/generator-kotlin-android)
+
+
+---
+
+967 |    android-okgraphql
+
+✰✰✰ 63
+
+Reactive GraphQl client for Android
+
+[https://github.com/florent37/android-okgraphql](https://github.com/florent37/android-okgraphql)
+
+
+---
+
+968 |    androidimageloader
+
+✰✰✰ 63
 
 Andorid library that loads images asynchronously into cache using a thread pool
 
@@ -7394,61 +10655,53 @@ Andorid library that loads images asynchronously into cache using a thread pool
 
 ---
 
-822 |    ✰ 62 ✰    |    classyshark-calculate-size
+969 |    googleads-consent-sdk-android
 
-Calculate the size of any Android dependency in your Android app
+✰✰✰ 62
 
-[https://github.com/borisf/classyshark-calculate-size](https://github.com/borisf/classyshark-calculate-size)
+Consent SDK
 
-
----
-
-823 |    ✰ 62 ✰    |    moshi-sealed
-
-Reflective and code gen implementations for serializing Kotlin sealed classes via Moshi polymorphic adapters.
-
-[https://github.com/zacsweers/moshi-sealed](https://github.com/zacsweers/moshi-sealed)
+[https://github.com/googleads/googleads-consent-sdk-android](https://github.com/googleads/googleads-consent-sdk-android)
 
 
 ---
 
-824 |    ✰ 62 ✰    |    Pager
+970 |    keeper
 
-🔥 An android library to get simple menu options on steroids 💪
+✰✰✰ 62
 
-[https://github.com/pradyuman7/pager](https://github.com/pradyuman7/pager)
+A Gradle plugin that infers Proguard/R8 keep rules for androidTest sources.
 
-
----
-
-825 |    ✰ 62 ✰    |    NiceBottomBar
-
-A lightweight Android material bottom navigation bar library
-
-[https://github.com/ibrahimsn98/nicebottombar](https://github.com/ibrahimsn98/nicebottombar)
+[https://github.com/slackhq/keeper](https://github.com/slackhq/keeper)
 
 
 ---
 
-826 |    ✰ 61 ✰    |    MoonShot
+971 |    rxsse
 
-A SpaceX companion app for Android
+✰✰✰ 61
 
-[https://github.com/haroldadmin/moonshot](https://github.com/haroldadmin/moonshot)
+Server-Sent Events client for Android and Java applications
 
-
----
-
-827 |    ✰ 61 ✰    |    Stringer
-
-Generate Android & iOS localized strings from a csv.
-
-[https://github.com/gurpreetsk95/stringer](https://github.com/gurpreetsk95/stringer)
+[https://github.com/enricsala/rxsse](https://github.com/enricsala/rxsse)
 
 
 ---
 
-828 |    ✰ 61 ✰    |    lantern
+972 |    kuper
+
+✰✰✰ 61
+
+Free, feature-rich, easily customizable Android dashboard for widgets apps with Zooper widgets and/or Kustom assets (Widgets, Wallpapers and Komponents)
+
+[https://github.com/jahirfiquitiva/kuper](https://github.com/jahirfiquitiva/kuper)
+
+
+---
+
+973 |    lantern
+
+✰✰✰ 61
 
 A simple app to light your way (written in Kotlin)
 
@@ -7457,7 +10710,42 @@ A simple app to light your way (written in Kotlin)
 
 ---
 
-829 |    ✰ 60 ✰    |    gradle-android-javafmt-plugin
+974 |    social-text-view
+
+✰✰✰ 61
+
+A custom Android TextView that highlights social media lingo (#hashtags, @mentions, phone, emails, and urls).
+
+[https://github.com/tylersuehr7/social-text-view](https://github.com/tylersuehr7/social-text-view)
+
+
+---
+
+975 |    watbot
+
+✰✰✰ 61
+
+An Android ChatBot powered by IBM Watson Services (Assistant V1, Text-to-Speech, and Speech-to-Text with Speaker Recognition) on IBM Cloud.
+
+[https://github.com/vidyasagarmsc/watbot](https://github.com/vidyasagarmsc/watbot)
+
+
+---
+
+976 |    springbasedsplash
+
+✰✰✰ 60
+
+A splash screen made from inspiration of ShowBox app using Physics Based Animation
+
+[https://github.com/amanjeetsingh150/springbasedsplash](https://github.com/amanjeetsingh150/springbasedsplash)
+
+
+---
+
+977 |    gradle-android-javafmt-plugin
+
+✰✰✰ 60
 
 Augomagically format Java files (deprecated)
 
@@ -7466,79 +10754,31 @@ Augomagically format Java files (deprecated)
 
 ---
 
-830 |    ✰ 59 ✰    |    deblibs-gradle-plugin
+978 |    RxRequester
 
-A Gradle plugin that creates Github issue and Slack message for outdated dependencies so they can easily be tracked and manually upgraded.
+✰✰✰ 60
 
-[https://github.com/hellofresh/deblibs-gradle-plugin](https://github.com/hellofresh/deblibs-gradle-plugin)
+Simple & Clean RxJava requester for Android
 
-
----
-
-831 |    ✰ 59 ✰    |    EventBus
-
-[DEPRECATED] 使用EventBus-Apt优化实现，不过用法类似，项目地址：https://github.com/LuckyJayce/EventBus-Apt
-
-[https://github.com/luckyjayce/eventbus](https://github.com/luckyjayce/eventbus)
+[https://github.com/ShabanKamell/RxRequester](https://github.com/ShabanKamell/RxRequester)
 
 
 ---
 
-832 |    ✰ 59 ✰    |    Android-CropView
+979 |    KotlinMultiplatformTemplate
 
-Android兼容行很强很方便的图片裁切库，几行代码就可实现拍照裁切，选择图片裁切，支持旋转，自定义比例。
+✰✰✰ 60
 
-[https://github.com/jeanboydev/android-cropview](https://github.com/jeanboydev/android-cropview)
+None
 
-
----
-
-833 |    ✰ 58 ✰    |    AndroidStudioSuperPlugin
-
-
-
-[https://github.com/b2b2244424/androidstudiosuperplugin](https://github.com/b2b2244424/androidstudiosuperplugin)
+[https://github.com/StefMa/KotlinMultiplatformTemplate](https://github.com/StefMa/KotlinMultiplatformTemplate)
 
 
 ---
 
-834 |    ✰ 58 ✰    |    kotlin-inline-logger
+980 |    itl-java
 
-A logger facilitating lazily-evaluated log calls via Kotlin's inline classes & functions.
-
-[https://github.com/michaelbull/kotlin-inline-logger](https://github.com/michaelbull/kotlin-inline-logger)
-
-
----
-
-835 |    ✰ 58 ✰    |    android-aosp-mms
-
-Sms application from AOSP
-
-[https://github.com/slvn/android-aosp-mms](https://github.com/slvn/android-aosp-mms)
-
-
----
-
-836 |    ✰ 58 ✰    |    scratch
-
-Easy app data clearing and relaunching
-
-[https://github.com/willowtreeapps/scratch](https://github.com/willowtreeapps/scratch)
-
-
----
-
-837 |    ✰ 57 ✰    |    selfie
-
-A simple library to make taking screenshots of your apps a breeze.
-
-[https://github.com/mplacona/selfie](https://github.com/mplacona/selfie)
-
-
----
-
-838 |    ✰ 57 ✰    |    itl-java
+✰✰✰ 59
 
 A Java library for calculating prayer (salat) times, Hijri date, and qibla direction, based on ITL (Islamic Tools and Libraries)
 
@@ -7547,7 +10787,64 @@ A Java library for calculating prayer (salat) times, Hijri date, and qibla direc
 
 ---
 
-839 |    ✰ 57 ✰    |    BobEngine
+981 |    android-playbook
+
+✰✰✰ 59
+
+Babylon Health Android Team Playbook
+
+[https://github.com/babylonhealth/android-playbook](https://github.com/babylonhealth/android-playbook)
+
+
+---
+
+982 |    android-cropview
+
+✰✰✰ 58
+
+Android兼容行很强很方便的图片裁切库，几行代码就可实现拍照裁切，选择图片裁切，支持旋转，自定义比例。
+
+[https://github.com/jeanboydev/android-cropview](https://github.com/jeanboydev/android-cropview)
+
+
+---
+
+983 |    eventbus
+
+✰✰✰ 58
+
+[DEPRECATED] 使用EventBus-Apt优化实现，不过用法类似，项目地址：https://github.com/LuckyJayce/EventBus-Apt
+
+[https://github.com/luckyjayce/eventbus](https://github.com/luckyjayce/eventbus)
+
+
+---
+
+984 |    scratch
+
+✰✰✰ 58
+
+Easy app data clearing and relaunching
+
+[https://github.com/willowtreeapps/scratch](https://github.com/willowtreeapps/scratch)
+
+
+---
+
+985 |    androidstudiosuperplugin
+
+✰✰✰ 57
+
+None
+
+[https://github.com/b2b2244424/androidstudiosuperplugin](https://github.com/b2b2244424/androidstudiosuperplugin)
+
+
+---
+
+986 |    bobengine
+
+✰✰✰ 57
 
 A 2D game engine for Android
 
@@ -7556,52 +10853,9 @@ A 2D game engine for Android
 
 ---
 
-840 |    ✰ 57 ✰    |    Loco-MotionLayout
+987 |    pubnub-android-lolli-chat
 
-Demo app for the talk "Do the Loco-MotionLayout" presented at droidcon Italy, droidcon Boston, 360AnDev & droidcon London 2019 along with examples using MotionLayout
-
-[https://github.com/mikescamell/loco-motionlayout](https://github.com/mikescamell/loco-motionlayout)
-
-
----
-
-841 |    ✰ 56 ✰    |    MobidMask
-
-A library for fast and safe delivery of parameters for Activities and Fragments.
-
-[https://github.com/ssseasonnn/mobidmask](https://github.com/ssseasonnn/mobidmask)
-
-
----
-
-842 |    ✰ 56 ✰    |    recyclerview_image_gallery
-
-Project source code for the how to create an image gallery using recyclerview
-
-[https://github.com/mobapptuts/recyclerview_image_gallery](https://github.com/mobapptuts/recyclerview_image_gallery)
-
-
----
-
-843 |    ✰ 56 ✰    |    koshry
-
-Run on CI, Apply Rules on the Build and Get the Result back to the Pull Request.
-
-[https://github.com/tarek360/koshry](https://github.com/tarek360/koshry)
-
-
----
-
-844 |    ✰ 56 ✰    |    ProGuard
-
-Java class file shrinker, optimizer, obfuscator, and preverifier
-
-[https://github.com/johnjohndoe/proguard](https://github.com/johnjohndoe/proguard)
-
-
----
-
-845 |    ✰ 56 ✰    |    pubnub-android-lolli-chat
+✰✰✰ 57
 
 An android chatting application that makes use of many PubNub features.
 
@@ -7610,25 +10864,75 @@ An android chatting application that makes use of many PubNub features.
 
 ---
 
-846 |    ✰ 55 ✰    |    RxPager
+988 |    android-aosp-mms
 
-RxPager is an Android library that helps handling paginated results in a reactive way
+✰✰✰ 57
 
-[https://github.com/adevintaspain/rxpager](https://github.com/adevintaspain/rxpager)
+Sms application from AOSP
 
-
----
-
-847 |    ✰ 55 ✰    |    android-guide-overlay
-
-new feature guide overlay view
-
-[https://github.com/qluan/android-guide-overlay](https://github.com/qluan/android-guide-overlay)
+[https://github.com/slvn/android-aosp-mms](https://github.com/slvn/android-aosp-mms)
 
 
 ---
 
-848 |    ✰ 54 ✰    |    android-app-contactless-vital-signs
+989 |    flipper
+
+✰✰✰ 57
+
+Flipper is a simple and useful tool to deal with feature toggles
+
+[https://github.com/RedMadRobot/flipper](https://github.com/RedMadRobot/flipper)
+
+
+---
+
+990 |    android-mvi
+
+✰✰✰ 56
+
+Android MVI design pattern in Kotlin
+
+[https://github.com/memtrip/android-mvi](https://github.com/memtrip/android-mvi)
+
+
+---
+
+991 |    recyclerview_image_gallery
+
+✰✰✰ 56
+
+Project source code for the how to create an image gallery using recyclerview
+
+[https://github.com/mobapptuts/recyclerview_image_gallery](https://github.com/mobapptuts/recyclerview_image_gallery)
+
+
+---
+
+992 |    TV-EPG-Android-Recyclerview
+
+✰✰✰ 56
+
+twowayrecyclerview
+
+[https://github.com/Duna/TV-EPG-Android-Recyclerview](https://github.com/Duna/TV-EPG-Android-Recyclerview)
+
+
+---
+
+993 |    sociallinkify
+
+✰✰✰ 55
+
+An Android library for linking @ mentions & Hashtags to their corresponding social network
+
+[https://github.com/bufferapp/sociallinkify](https://github.com/bufferapp/sociallinkify)
+
+
+---
+
+994 |    android-app-contactless-vital-signs
+
+✰✰✰ 55
 
 Using the Android camera, the app detects faces and starts to calculate heart rate, blood pressure, and body temperature.
 
@@ -7637,97 +10941,42 @@ Using the Android camera, the app detects faces and starts to calculate heart ra
 
 ---
 
-849 |    ✰ 54 ✰    |    OnViewTouchHoldListener
+995 |    proguard
 
-Android View.OnTouchListener implementation to get continuous asynchronous callbacks while touch being held down with desired polling rate.
+✰✰✰ 55
 
-[https://github.com/keciciler/onviewtouchholdlistener](https://github.com/keciciler/onviewtouchholdlistener)
+Java class file shrinker, optimizer, obfuscator, and preverifier
 
-
----
-
-850 |    ✰ 54 ✰    |    DragTopLayout
-
-Drag down to show a view on the top.
-
-[https://github.com/sockeqwe/dragtoplayout](https://github.com/sockeqwe/dragtoplayout)
+[https://github.com/johnjohndoe/proguard](https://github.com/johnjohndoe/proguard)
 
 
 ---
 
-851 |    ✰ 54 ✰    |    twinkle
+996 |    Android-CertKiller
 
-Twinkle Android view elements in Kotlin
+✰✰✰ 55
 
-[https://github.com/dev-labs-bg/twinkle](https://github.com/dev-labs-bg/twinkle)
+Script to Bypass SSL/Certificate Pinning in Android
 
-
----
-
-852 |    ✰ 53 ✰    |    TV-EPG-Android-Recyclerview
-
-twowayrecyclerview
-
-[https://github.com/duna/tv-epg-android-recyclerview](https://github.com/duna/tv-epg-android-recyclerview)
+[https://github.com/51j0/Android-CertKiller](https://github.com/51j0/Android-CertKiller)
 
 
 ---
 
-853 |    ✰ 53 ✰    |    GuildWars2_APIViewer
+997 |    keepsafenew
 
-Guild Wars 2 API Viewer: An Android application used for viewing various Guild Wars 2 API endpoint responses. Developed utilizing MVVM architecture, in conjunction with Databinding, Dagger 2, Retrofit 2, and RxJava 2.
+✰✰✰ 54
 
-[https://github.com/huhx0015/guildwars2_apiviewer](https://github.com/huhx0015/guildwars2_apiviewer)
+Sample app to demonstrate MVP (Model - View - Presenter), Android Architecture Components (Room Persistence, LiveData), RxJava2, ButterKnife in Android.
 
-
----
-
-854 |    ✰ 53 ✰    |    RxAccountManager
-
-
-
-[https://github.com/scm-spain/rxaccountmanager](https://github.com/scm-spain/rxaccountmanager)
+[https://github.com/abhinav272/keepsafenew](https://github.com/abhinav272/keepsafenew)
 
 
 ---
 
-855 |    ✰ 53 ✰    |    Android-LoadX
+998 |    verifycodeview
 
-Show ProgressBar on every view by calling an extension function
-
-[https://github.com/saied89/android-loadx](https://github.com/saied89/android-loadx)
-
-
----
-
-856 |    ✰ 52 ✰    |    GestureTutorial
-
-Android library to show user gestures that are to be used in their app.
-
-[https://github.com/justinmwarner/gesturetutorial](https://github.com/justinmwarner/gesturetutorial)
-
-
----
-
-857 |    ✰ 52 ✰    |    Dagger2-Sample
-
-A sample app to demo how to implement dagger in Android using Dagger Android Support library
-
-[https://github.com/anitaa1990/dagger2-sample](https://github.com/anitaa1990/dagger2-sample)
-
-
----
-
-858 |    ✰ 52 ✰    |    pickle
-
-A code generating implementation of Cucumber for Android
-
-[https://github.com/fourlastor/pickle](https://github.com/fourlastor/pickle)
-
-
----
-
-859 |    ✰ 52 ✰    |    VerifyCodeView
+✰✰✰ 54
 
 An Android custom view which is used for inputting OTP code
 
@@ -7736,115 +10985,108 @@ An Android custom view which is used for inputting OTP code
 
 ---
 
-860 |    ✰ 52 ✰    |    Android-Clean-Arch-Coroutines-Koin
+999 |    andle
 
-Implemented by Clean Architecture, MVVM, Koin, Coroutines, Moshi, Mockk, LiveData & DataBinding
+✰✰✰ 54
 
-[https://github.com/zahraheydari/android-clean-arch-coroutines-koin](https://github.com/zahraheydari/android-clean-arch-coroutines-koin)
+andle is an Android tool help you sync dependencies, sdk or build tool version.
 
-
----
-
-861 |    ✰ 51 ✰    |    flipper
-
-Flipper is a simple and useful tool to deal with feature toggles
-
-[https://github.com/redmadrobot/flipper](https://github.com/redmadrobot/flipper)
+[https://github.com/jintin/andle](https://github.com/jintin/andle)
 
 
 ---
 
-862 |    ✰ 51 ✰    |    Calendar-Day-View
+1000 |    android-guide-overlay
 
-Calendar Day View is an android library to display calendars day view within the app. It supports custom styling.
+✰✰✰ 54
 
-[https://github.com/khacpv/calendar-day-view](https://github.com/khacpv/calendar-day-view)
+new feature guide overlay view
 
-
----
-
-863 |    ✰ 51 ✰    |    Navigation-Drawer-With-Navigation-Component
-
-Navigation Drawer with New JetPacks Navigation Component
-
-[https://github.com/umangburman/navigation-drawer-with-navigation-component](https://github.com/umangburman/navigation-drawer-with-navigation-component)
+[https://github.com/qluan/android-guide-overlay](https://github.com/qluan/android-guide-overlay)
 
 
 ---
 
-864 |    ✰ 50 ✰    |    custom-analog-clock-view
+1001 |    dragtoplayout
 
-A customizable analog clock widget for Android
+✰✰✰ 54
 
-[https://github.com/rosenpin/custom-analog-clock-view](https://github.com/rosenpin/custom-analog-clock-view)
+Drag down to show a view on the top.
 
-
----
-
-865 |    ✰ 50 ✰    |    android-cards-ui-example
-
-A simple implementation of Cards UI using ListView and Adapter logic.
-
-[https://github.com/vudin/android-cards-ui-example](https://github.com/vudin/android-cards-ui-example)
+[https://github.com/sockeqwe/dragtoplayout](https://github.com/sockeqwe/dragtoplayout)
 
 
 ---
 
-866 |    ✰ 50 ✰    |    RxRequester
+1002 |    couplescalendar
 
-Simple & Clean RxJava requester for Android
+✰✰✰ 54
 
-[https://github.com/shabankamell/rxrequester](https://github.com/shabankamell/rxrequester)
+🗓Functional calendar library for Android
 
-
----
-
-867 |    ✰ 50 ✰    |    LSearchView
-
-Android L design circle wave animation search view
-
-[https://github.com/onlynight/lsearchview](https://github.com/onlynight/lsearchview)
+[https://github.com/yuyakaido/couplescalendar](https://github.com/yuyakaido/couplescalendar)
 
 
 ---
 
-868 |    ✰ 50 ✰    |    android-analyzer
+1003 |    OnViewTouchHoldListener
 
-Android Gradle plugin for faster Sonarqube integration in Android projects. Supports Detekt and Jacoco out of the box.
+✰✰✰ 54
 
-[https://github.com/pinchbv/android-analyzer](https://github.com/pinchbv/android-analyzer)
+Android View.OnTouchListener implementation to get continuous asynchronous callbacks while touch being held down with desired polling rate.
 
-
----
-
-869 |    ✰ 50 ✰    |    AndroidViewUtils
-
-AndroidViewUtils
-
-[https://github.com/sage42/androidviewutils](https://github.com/sage42/androidviewutils)
+[https://github.com/keciciler/OnViewTouchHoldListener](https://github.com/keciciler/OnViewTouchHoldListener)
 
 
 ---
 
-870 |    ✰ 49 ✰    |    android-MaterialNavigationDrawer
+1004 |    MVVM-Architecture-Android-Beginners
 
-Android Navigation Drawer Sample
+✰✰✰ 54
 
-[https://github.com/dan-zx/android-materialnavigationdrawer](https://github.com/dan-zx/android-materialnavigationdrawer)
+This repository contains a sample app that implements MVVM architecture using Kotlin, ViewModel, LiveData, and etc.
 
-
----
-
-871 |    ✰ 49 ✰    |    pull-layout
-
-android pull-layout,include 'pull to zoom header' etc.
-
-[https://github.com/john990/pull-layout](https://github.com/john990/pull-layout)
+[https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners](https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners)
 
 
 ---
 
-872 |    ✰ 49 ✰    |    android-global-touchevent
+1005 |    xbanner
+
+✰✰✰ 53
+
+支持无限轮播的安卓广告控件，提供gif动图支持。支持加载网络图片和显示标题，可以自定轮播间隔。 A banner for android supports infinite play,provides gif support. 
+
+[https://github.com/abbyjm/xbanner](https://github.com/abbyjm/xbanner)
+
+
+---
+
+1006 |    aoc-2017
+
+✰✰✰ 53
+
+Advent of Code 2017
+
+[https://github.com/dlew/aoc-2017](https://github.com/dlew/aoc-2017)
+
+
+---
+
+1007 |    guildwars2_apiviewer
+
+✰✰✰ 53
+
+Guild Wars 2 API Viewer: An Android application used for viewing various Guild Wars 2 API endpoint responses. Developed utilizing MVVM architecture, in conjunction with Databinding, Dagger 2, Retrofit 2, and RxJava 2.
+
+[https://github.com/huhx0015/guildwars2_apiviewer](https://github.com/huhx0015/guildwars2_apiviewer)
+
+
+---
+
+1008 |    android-global-touchevent
+
+✰✰✰ 53
 
 Android Detect Global Touch Event
 
@@ -7853,7 +11095,130 @@ Android Detect Global Touch Event
 
 ---
 
-873 |    ✰ 49 ✰    |    wATL
+1009 |    rxaccountmanager
+
+✰✰✰ 53
+
+None
+
+[https://github.com/scm-spain/rxaccountmanager](https://github.com/scm-spain/rxaccountmanager)
+
+
+---
+
+1010 |    privacy-friendly-todo-list
+
+✰✰✰ 53
+
+Privacy Friendly App to manage To-Do lists on Android.
+
+[https://github.com/secuso/privacy-friendly-todo-list](https://github.com/secuso/privacy-friendly-todo-list)
+
+
+---
+
+1011 |    recycleradapter-generator
+
+✰✰✰ 53
+
+Make displaying RecyclerViews easier by generating it's adapter with simple annotations.
+
+[https://github.com/PsHegger/recycleradapter-generator](https://github.com/PsHegger/recycleradapter-generator)
+
+
+---
+
+1012 |    calendar-day-view
+
+✰✰✰ 52
+
+Calendar Day View is an android library to display calendars day view within the app. It supports custom styling.
+
+[https://github.com/khacpv/calendar-day-view](https://github.com/khacpv/calendar-day-view)
+
+
+---
+
+1013 |    gesturetutorial
+
+✰✰✰ 51
+
+Android library to show user gestures that are to be used in their app.
+
+[https://github.com/justinmwarner/gesturetutorial](https://github.com/justinmwarner/gesturetutorial)
+
+
+---
+
+1014 |    lsearchview
+
+✰✰✰ 51
+
+Android L design circle wave animation search view
+
+[https://github.com/onlynight/lsearchview](https://github.com/onlynight/lsearchview)
+
+
+---
+
+1015 |    gauge
+
+✰✰✰ 51
+
+A Gauge View for Android
+
+[https://github.com/pygmalion69/gauge](https://github.com/pygmalion69/gauge)
+
+
+---
+
+1016 |    androidviewutils
+
+✰✰✰ 50
+
+AndroidViewUtils
+
+[https://github.com/sage42/androidviewutils](https://github.com/sage42/androidviewutils)
+
+
+---
+
+1017 |    android-cards-ui-example
+
+✰✰✰ 50
+
+A simple implementation of Cards UI using ListView and Adapter logic.
+
+[https://github.com/vudin/android-cards-ui-example](https://github.com/vudin/android-cards-ui-example)
+
+
+---
+
+1018 |    android-materialnavigationdrawer
+
+✰✰✰ 49
+
+Android Navigation Drawer Sample
+
+[https://github.com/dan-zx/android-materialnavigationdrawer](https://github.com/dan-zx/android-materialnavigationdrawer)
+
+
+---
+
+1019 |    pull-layout
+
+✰✰✰ 49
+
+android pull-layout,include 'pull to zoom header' etc.
+
+[https://github.com/john990/pull-layout](https://github.com/john990/pull-layout)
+
+
+---
+
+1020 |    watl
+
+✰✰✰ 49
 
 full text justification, hyphenation support for android
 
@@ -7862,61 +11227,20 @@ full text justification, hyphenation support for android
 
 ---
 
-874 |    ✰ 49 ✰    |    Awesome-Android-Persistence
+1021 |    ledview
 
-A curated list of awesome android persistence libraries about SQLite, ORM, Mobile Database, SharedPreferences, etc.
+✰✰✰ 49
 
-[https://github.com/skydoves/awesome-android-persistence](https://github.com/skydoves/awesome-android-persistence)
+None
 
-
----
-
-875 |    ✰ 47 ✰    |    Myapplications
-
-My Tutorials 
-
-[https://github.com/wasimmemon/myapplications](https://github.com/wasimmemon/myapplications)
+[https://github.com/zhangqinglian/ledview](https://github.com/zhangqinglian/ledview)
 
 
 ---
 
-876 |    ✰ 47 ✰    |    CustomTabs-Kotlin
+1022 |    indiasatelliteweather
 
-Helpers of the Chrome Custom tabs re-written in Kotlin and with Architecture Components to offer a simpler API
-
-[https://github.com/saurabharora90/customtabs-kotlin](https://github.com/saurabharora90/customtabs-kotlin)
-
-
----
-
-877 |    ✰ 47 ✰    |    Hagu
-
-Gradle plugin to enable Kotlin build configuration secrets for Kotlin, Kotlin-Native / Multiplatform.
-
-[https://github.com/karumi/hagu](https://github.com/karumi/hagu)
-
-
----
-
-878 |    ✰ 47 ✰    |    github-oauth
-
-Android library to add oauth login flow for github , minimum api 14
-
-[https://github.com/geniushkg/github-oauth](https://github.com/geniushkg/github-oauth)
-
-
----
-
-879 |    ✰ 47 ✰    |    android-clock-livewallpaper
-
-Android Clock Live Wallpaper
-
-[https://github.com/ssaurel/android-clock-livewallpaper](https://github.com/ssaurel/android-clock-livewallpaper)
-
-
----
-
-880 |    ✰ 47 ✰    |    IndiaSatelliteWeather
+✰✰✰ 48
 
 An Android application to track weather visually!
 
@@ -7925,7 +11249,42 @@ An Android application to track weather visually!
 
 ---
 
-881 |    ✰ 46 ✰    |    lazy-data-loading
+1023 |    myapplications
+
+✰✰✰ 48
+
+My Tutorials 
+
+[https://github.com/wasimmemon/myapplications](https://github.com/wasimmemon/myapplications)
+
+
+---
+
+1024 |    github-oauth
+
+✰✰✰ 47
+
+Android library to add oauth login flow for github , minimum api 14
+
+[https://github.com/geniushkg/github-oauth](https://github.com/geniushkg/github-oauth)
+
+
+---
+
+1025 |    Hagu
+
+✰✰✰ 47
+
+Gradle plugin to enable Kotlin build configuration secrets for Kotlin, Kotlin-Native / Multiplatform.
+
+[https://github.com/Karumi/Hagu](https://github.com/Karumi/Hagu)
+
+
+---
+
+1026 |    lazy-data-loading
+
+✰✰✰ 46
 
 Sample demonstrate hot to load data from SQLite and parse it from Cursor on the fly when you need it.
 
@@ -7934,52 +11293,9 @@ Sample demonstrate hot to load data from SQLite and parse it from Cursor on the 
 
 ---
 
-882 |    ✰ 46 ✰    |    iGap-Android
+1027 |    meterview
 
-iGap Client for Android Source Code
-
-[https://github.com/rooyekhat-media/igap-android](https://github.com/rooyekhat-media/igap-android)
-
-
----
-
-883 |    ✰ 45 ✰    |    espresso-animations-disabled-test
-
-
-
-[https://github.com/ghostbuster91/espresso-animations-disabled-test](https://github.com/ghostbuster91/espresso-animations-disabled-test)
-
-
----
-
-884 |    ✰ 45 ✰    |    recycleradapter-generator
-
-Make displaying RecyclerViews easier by generating it's adapter with simple annotations.
-
-[https://github.com/pshegger/recycleradapter-generator](https://github.com/pshegger/recycleradapter-generator)
-
-
----
-
-885 |    ✰ 45 ✰    |    android-constrained-widgets
-
-Set of Android widgets that will respect a given aspect ratio
-
-[https://github.com/marvinlabs/android-constrained-widgets](https://github.com/marvinlabs/android-constrained-widgets)
-
-
----
-
-886 |    ✰ 45 ✰    |    FunnelView
-
-【自定义View】android 漏斗图
-
-[https://github.com/arisono/funnelview](https://github.com/arisono/funnelview)
-
-
----
-
-887 |    ✰ 45 ✰    |    MeterView
+✰✰✰ 45
 
 Android custom view to monitor progress as an arc as opposed to a straight line.
 
@@ -7988,43 +11304,20 @@ Android custom view to monitor progress as an arc as opposed to a straight line.
 
 ---
 
-888 |    ✰ 45 ✰    |    JsonHandleView
+1028 |    funnelview
 
-Android json viewer, to convert json strings to a friendly readable format, it supports expend&collapsed json strings.
+✰✰✰ 45
 
-[https://github.com/stven0king/jsonhandleview](https://github.com/stven0king/jsonhandleview)
+【自定义View】android 漏斗图
 
-
----
-
-889 |    ✰ 45 ✰    |    NomtekUtills
-
-Toolbar controller lib for android
-
-[https://github.com/nomtek/nomtekutills](https://github.com/nomtek/nomtekutills)
+[https://github.com/arisono/funnelview](https://github.com/arisono/funnelview)
 
 
 ---
 
-890 |    ✰ 45 ✰    |    aLibGlitch
+1029 |    android-slidingmenuimplementation
 
-A "glitch effect" library for Android.
-
-[https://github.com/bod/alibglitch](https://github.com/bod/alibglitch)
-
-
----
-
-891 |    ✰ 44 ✰    |    Android-Material-support-libraries-Samples
-
-
-
-[https://github.com/saleehk/android-material-support-libraries-samples](https://github.com/saleehk/android-material-support-libraries-samples)
-
-
----
-
-892 |    ✰ 44 ✰    |    Android-SlidingMenuImplementation
+✰✰✰ 45
 
 Android example app, which shows how to do dynamic implementation of a sliding out menu using Android library SlidingMenu.
 
@@ -8033,34 +11326,20 @@ Android example app, which shows how to do dynamic implementation of a sliding o
 
 ---
 
-893 |    ✰ 43 ✰    |    DotMatrixView
+1030 |    alibglitch
 
-An Android custom view to display digits rendered as dots in a grid, with a style like a 1970s LED clock.
+✰✰✰ 45
 
-[https://github.com/escapeindustries/dotmatrixview](https://github.com/escapeindustries/dotmatrixview)
+A "glitch effect" library for Android.
 
-
----
-
-894 |    ✰ 42 ✰    |    GroupButtonView
-
-Android 按钮组，简单将RadioButton封装了一下
-
-[https://github.com/gyw520gyw/groupbuttonview](https://github.com/gyw520gyw/groupbuttonview)
+[https://github.com/bod/alibglitch](https://github.com/bod/alibglitch)
 
 
 ---
 
-895 |    ✰ 42 ✰    |    CalendarLibrary
+1031 |    funcodetuts
 
-Android Calendar Library with customaizable month and year view
-
-[https://github.com/ik024/calendarlibrary](https://github.com/ik024/calendarlibrary)
-
-
----
-
-896 |    ✰ 42 ✰    |    funcodetuts
+✰✰✰ 45
 
 Funcode sample tutorials
 
@@ -8069,34 +11348,86 @@ Funcode sample tutorials
 
 ---
 
-897 |    ✰ 41 ✰    |    SearchMovies
+1032 |    android-clock-livewallpaper
 
-sample Android Application using MVP pattern
+✰✰✰ 45
 
-[https://github.com/abbas-oveissi/searchmovies](https://github.com/abbas-oveissi/searchmovies)
+Android Clock Live Wallpaper
 
-
----
-
-898 |    ✰ 41 ✰    |    MVIDroid
-
-MVI framework designed for Android
-
-[https://github.com/arkivanov/mvidroid](https://github.com/arkivanov/mvidroid)
+[https://github.com/ssaurel/android-clock-livewallpaper](https://github.com/ssaurel/android-clock-livewallpaper)
 
 
 ---
 
-899 |    ✰ 41 ✰    |    snapper
+1033 |    zaptap
 
-NoSQL fast-serializable storage with DataViews, Sorting, Filtering and more
+✰✰✰ 44
 
-[https://github.com/techery/snapper](https://github.com/techery/snapper)
+Cross Platform Game made in libGDX. Live on Google Play: https://play.google.com/store/apps/details?id=com.betterclever.zaptap
+
+[https://github.com/betterclever/zaptap](https://github.com/betterclever/zaptap)
 
 
 ---
 
-900 |    ✰ 41 ✰    |    RText
+1034 |    android-material-support-libraries-samples
+
+✰✰✰ 44
+
+None
+
+[https://github.com/saleehk/android-material-support-libraries-samples](https://github.com/saleehk/android-material-support-libraries-samples)
+
+
+---
+
+1035 |    auto-module
+
+✰✰✰ 44
+
+A Gradle plugin to generate a module graph and include them modules
+
+[https://github.com/pablisco/auto-module](https://github.com/pablisco/auto-module)
+
+
+---
+
+1036 |    mezzanine
+
+✰✰✰ 43
+
+An annotation processor that reads files at compile time
+
+[https://github.com/anthonycr/mezzanine](https://github.com/anthonycr/mezzanine)
+
+
+---
+
+1037 |    androidfunctionalvalidation
+
+✰✰✰ 43
+
+Simple form validation using Arrow
+
+[https://github.com/dcampogiani/androidfunctionalvalidation](https://github.com/dcampogiani/androidfunctionalvalidation)
+
+
+---
+
+1038 |    dotmatrixview
+
+✰✰✰ 43
+
+An Android custom view to display digits rendered as dots in a grid, with a style like a 1970s LED clock.
+
+[https://github.com/escapeindustries/dotmatrixview](https://github.com/escapeindustries/dotmatrixview)
+
+
+---
+
+1039 |    rtext
+
+✰✰✰ 42
 
 A syntax highlighting, code folding, programmer's text editor written in Swing.  http://bobbylight.github.io/RText/
 
@@ -8105,34 +11436,64 @@ A syntax highlighting, code folding, programmer's text editor written in Swing. 
 
 ---
 
-901 |    ✰ 41 ✰    |    dev-fun
+1040 |    calendarlibrary
 
-Annotation based developer targeted library. Call any function from anywhere from a nice UI or web interface.
+✰✰✰ 42
 
-[https://github.com/nextfaze/dev-fun](https://github.com/nextfaze/dev-fun)
+Android Calendar Library with customaizable month and year view
 
-
----
-
-902 |    ✰ 40 ✰    |    android_navigation_shared_elements
-
-
-
-[https://github.com/serbelga/android_navigation_shared_elements](https://github.com/serbelga/android_navigation_shared_elements)
+[https://github.com/ik024/calendarlibrary](https://github.com/ik024/calendarlibrary)
 
 
 ---
 
-903 |    ✰ 40 ✰    |    Playground
+1041 |    time4a
 
-A playground for android developers
+✰✰✰ 42
 
-[https://github.com/chiragjain/playground](https://github.com/chiragjain/playground)
+Advanced Date and Time Library for Android
+
+[https://github.com/menodata/time4a](https://github.com/menodata/time4a)
 
 
 ---
 
-904 |    ✰ 40 ✰    |    PictureChooser
+1042 |    searchmovies
+
+✰✰✰ 41
+
+sample Android Application using MVP pattern
+
+[https://github.com/abbas-oveissi/searchmovies](https://github.com/abbas-oveissi/searchmovies)
+
+
+---
+
+1043 |    groupbuttonview
+
+✰✰✰ 41
+
+Android 按钮组，简单将RadioButton封装了一下
+
+[https://github.com/gyw520gyw/groupbuttonview](https://github.com/gyw520gyw/groupbuttonview)
+
+
+---
+
+1044 |    snapper
+
+✰✰✰ 41
+
+NoSQL fast-serializable storage with DataViews, Sorting, Filtering and more
+
+[https://github.com/techery/snapper](https://github.com/techery/snapper)
+
+
+---
+
+1045 |    picturechooser
+
+✰✰✰ 40
 
 A simple picture chooser library for Android
 
@@ -8141,52 +11502,31 @@ A simple picture chooser library for Android
 
 ---
 
-905 |    ✰ 40 ✰    |    Dexter
+1046 |    android-text-styles
 
-Manage multidexing using simple annotations and gradle tasks.
+✰✰✰ 40
 
-[https://github.com/bobblekeyboard/dexter](https://github.com/bobblekeyboard/dexter)
+Zeplin extension for exporting text styles for Android that works with custom fonts
 
-
----
-
-906 |    ✰ 39 ✰    |    sugared-list-animations-sample
-
-Sugared List Animations Sample
-
-[https://github.com/cuub/sugared-list-animations-sample](https://github.com/cuub/sugared-list-animations-sample)
+[https://github.com/raveeshbhalla/android-text-styles](https://github.com/raveeshbhalla/android-text-styles)
 
 
 ---
 
-907 |    ✰ 39 ✰    |    XImageLoader
+1047 |    billing-android
 
-:fireworks:It's a custom image-loading repository for Android.
+✰✰✰ 40
 
-[https://github.com/xudeveloper/ximageloader](https://github.com/xudeveloper/ximageloader)
+RxJava wrapper for Android Play Billing Library
 
-
----
-
-908 |    ✰ 39 ✰    |    ActionBarToggle
-
-toggle anywhere
-
-[https://github.com/dworks/actionbartoggle](https://github.com/dworks/actionbartoggle)
+[https://github.com/vberezkin/billing-android](https://github.com/vberezkin/billing-android)
 
 
 ---
 
-909 |    ✰ 39 ✰    |    CardsTube
+1048 |    paperstylewidgets
 
-A youtube playlist inside CardsLib.
-
-[https://github.com/desarrolloantonio/cardstube](https://github.com/desarrolloantonio/cardstube)
-
-
----
-
-910 |    ✰ 39 ✰    |    PaperStyleWidgets
+✰✰✰ 39
 
 Android material-design widgets
 
@@ -8195,34 +11535,75 @@ Android material-design widgets
 
 ---
 
-911 |    ✰ 38 ✰    |    android-app-pause
+1049 |    persiandaterangepicker
 
-Detect an app-level pause in Android.
+✰✰✰ 39
 
-[https://github.com/curioustechizen/android-app-pause](https://github.com/curioustechizen/android-app-pause)
+Select range of date and time in the Persian 
 
-
----
-
-912 |    ✰ 38 ✰    |    Kinject
-
-KINJECT - Android/Java Dependency Injector.
-
-[https://github.com/wokdsem/kinject](https://github.com/wokdsem/kinject)
+[https://github.com/bkhezry/persiandaterangepicker](https://github.com/bkhezry/persiandaterangepicker)
 
 
 ---
 
-913 |    ✰ 38 ✰    |    NewsAppMVI
+1050 |    playground
 
-News app 🗞️ showcasing MVI architecture combined with Architecture Components 
+✰✰✰ 39
 
-[https://github.com/akshaychordiya/newsappmvi](https://github.com/akshaychordiya/newsappmvi)
+A playground for android developers
+
+[https://github.com/chiragjain/playground](https://github.com/chiragjain/playground)
 
 
 ---
 
-914 |    ✰ 38 ✰    |    RhythmSticks
+1051 |    cardstube
+
+✰✰✰ 39
+
+A youtube playlist inside CardsLib.
+
+[https://github.com/desarrolloantonio/cardstube](https://github.com/desarrolloantonio/cardstube)
+
+
+---
+
+1052 |    actionbartoggle
+
+✰✰✰ 39
+
+toggle anywhere
+
+[https://github.com/dworks/actionbartoggle](https://github.com/dworks/actionbartoggle)
+
+
+---
+
+1053 |    batch-uninstaller
+
+✰✰✰ 39
+
+Batch Uninstaller app for Android (works on rooted as well as non-rooted phones)
+
+[https://github.com/sarbajitsaha/batch-uninstaller](https://github.com/sarbajitsaha/batch-uninstaller)
+
+
+---
+
+1054 |    ximageloader
+
+✰✰✰ 39
+
+:fireworks:It's a custom image-loading repository for Android.
+
+[https://github.com/xudeveloper/ximageloader](https://github.com/xudeveloper/ximageloader)
+
+
+---
+
+1055 |    rhythmsticks
+
+✰✰✰ 38
 
 A debug Android View that overlays a grid to verify UI elements adhere to a visual rhythm.
 
@@ -8231,52 +11612,64 @@ A debug Android View that overlays a grid to verify UI elements adhere to a visu
 
 ---
 
-915 |    ✰ 37 ✰    |    RZAndroidBaseUtils
+1056 |    android-app-pause
 
-Base Utility set for Android applications
+✰✰✰ 38
 
-[https://github.com/raizlabs/rzandroidbaseutils](https://github.com/raizlabs/rzandroidbaseutils)
+Detect an app-level pause in Android.
 
-
----
-
-916 |    ✰ 37 ✰    |    android-secure-preferences
-
-Secure AES Encryiption decorated Android SharedPreferences implementation.
-
-[https://github.com/kovmarci86/android-secure-preferences](https://github.com/kovmarci86/android-secure-preferences)
+[https://github.com/curioustechizen/android-app-pause](https://github.com/curioustechizen/android-app-pause)
 
 
 ---
 
-917 |    ✰ 37 ✰    |    RecyclerViewApplication
+1057 |    sugared-list-animations-sample
 
-复杂界面实现，RecyclerView 嵌套 ViewPager、RecyclerView，多布局实现。
+✰✰✰ 38
 
-[https://github.com/chinavolvocars/recyclerviewapplication](https://github.com/chinavolvocars/recyclerviewapplication)
+Sugared List Animations Sample
 
-
----
-
-918 |    ✰ 37 ✰    |    SpockAdb
-
-Spock Adb Plugin Helps you to have full control of your project
-
-[https://github.com/wahdanz/spockadb](https://github.com/wahdanz/spockadb)
+[https://github.com/cuub/sugared-list-animations-sample](https://github.com/cuub/sugared-list-animations-sample)
 
 
 ---
 
-919 |    ✰ 37 ✰    |    FitnessChallenge
+1058 |    about-page-android
 
-Android animation showcase
+✰✰✰ 38
 
-[https://github.com/bitvale/fitnesschallenge](https://github.com/bitvale/fitnesschallenge)
+Android library for easily creating an about page for your Android apps.
+
+[https://github.com/husaynhakeem/about-page-android](https://github.com/husaynhakeem/about-page-android)
 
 
 ---
 
-920 |    ✰ 37 ✰    |    EasyGestureUnlock
+1059 |    kotlin-sudoku-solver
+
+✰✰✰ 38
+
+A suduko game solver written in Kotlin
+
+[https://github.com/thomasnield/kotlin-sudoku-solver](https://github.com/thomasnield/kotlin-sudoku-solver)
+
+
+---
+
+1060 |    collagemaker-android
+
+✰✰✰ 37
+
+None
+
+[https://github.com/azoft/collagemaker-android](https://github.com/azoft/collagemaker-android)
+
+
+---
+
+1061 |    easygestureunlock
+
+✰✰✰ 37
 
 A light gesture unlock view for Android.
 
@@ -8285,97 +11678,64 @@ A light gesture unlock view for Android.
 
 ---
 
-921 |    ✰ 36 ✰    |    CollageMaker-Android
+1062 |    android-secure-preferences
 
+✰✰✰ 37
 
+Secure AES Encryiption decorated Android SharedPreferences implementation.
 
-[https://github.com/azoft/collagemaker-android](https://github.com/azoft/collagemaker-android)
-
-
----
-
-922 |    ✰ 36 ✰    |    bottomsheetonboarding
-
-Android Bottom sheet onboarding hop animation sample project
-
-[https://github.com/efebudak/bottomsheetonboarding](https://github.com/efebudak/bottomsheetonboarding)
+[https://github.com/kovmarci86/android-secure-preferences](https://github.com/kovmarci86/android-secure-preferences)
 
 
 ---
 
-923 |    ✰ 36 ✰    |    upvote
+1063 |    rzandroidbaseutils
 
-Simplest possible demo MVI App
+✰✰✰ 37
 
-[https://github.com/kanawish/upvote](https://github.com/kanawish/upvote)
+Base Utility set for Android applications
+
+[https://github.com/raizlabs/rzandroidbaseutils](https://github.com/raizlabs/rzandroidbaseutils)
 
 
 ---
 
-924 |    ✰ 36 ✰    |    SlidingPaneLayoutWithSwipe
+1064 |    android-musicplayer-mvp
+
+✰✰✰ 37
+
+Android Music Player in MVP Pattern Kotlin
+
+[https://github.com/saisoftdev/android-musicplayer-mvp](https://github.com/saisoftdev/android-musicplayer-mvp)
 
 
+---
+
+1065 |    bubble-layout
+
+✰✰✰ 37
+
+An Android ViewGroup that displays avatar bubbles... similar to the chat bubbles on Facebook Messenger.
+
+[https://github.com/tylersuehr7/bubble-layout](https://github.com/tylersuehr7/bubble-layout)
+
+
+---
+
+1066 |    slidingpanelayoutwithswipe
+
+✰✰✰ 36
+
+None
 
 [https://github.com/gabrielemariotti/slidingpanelayoutwithswipe](https://github.com/gabrielemariotti/slidingpanelayoutwithswipe)
 
 
 ---
 
-925 |    ✰ 36 ✰    |    Android-Font-Library
+1067 |    transparenttexttextview
 
-
-
-[https://github.com/innovattic/android-font-library](https://github.com/innovattic/android-font-library)
-
-
----
-
-926 |    ✰ 36 ✰    |    SwipeCardEntry
-
-Android credit card entry widget inspired by Swipe's UI, including sample code.
-
-[https://github.com/rethought/swipecardentry](https://github.com/rethought/swipecardentry)
-
-
----
-
-927 |    ✰ 35 ✰    |    RxPlaceAutoComplete
-
-An Android Studio demo project using Retrofit & Google Places API to provide Places/ Cities with AutoCompleteTextField in Android.
-
-[https://github.com/venkatselva8/rxplaceautocomplete](https://github.com/venkatselva8/rxplaceautocomplete)
-
-
----
-
-928 |    ✰ 35 ✰    |    android-quick-setup
-
-Android base project that already setup Gradle, Dagger, Otto, Retrofit, Support Libraries, Junit support for AndroidStudio, Mockito and Robolectric
-
-[https://github.com/rontho/android-quick-setup](https://github.com/rontho/android-quick-setup)
-
-
----
-
-929 |    ✰ 35 ✰    |    SidePanel
-
-SidePanel Application for Android
-
-[https://github.com/sukso96100/sidepanel](https://github.com/sukso96100/sidepanel)
-
-
----
-
-930 |    ✰ 35 ✰    |    website-in-webview
-
-Android project that load website in a full screen webview
-
-[https://github.com/aliab/website-in-webview](https://github.com/aliab/website-in-webview)
-
-
----
-
-931 |    ✰ 35 ✰    |    TransparentTextTextView
+✰✰✰ 36
 
 TextView with transparent text.
 
@@ -8384,88 +11744,20 @@ TextView with transparent text.
 
 ---
 
-932 |    ✰ 35 ✰    |    CrimeTalk-Reader
+1068 |    navigationdrawer-waveanimation
 
+✰✰✰ 36
 
+WaveAnimation used in Zatrek app
 
-[https://github.com/johnpersano/crimetalk-reader](https://github.com/johnpersano/crimetalk-reader)
-
-
----
-
-933 |    ✰ 34 ✰    |    advanced-motionlayout-talk
-
-
-
-[https://github.com/kaeawc/advanced-motionlayout-talk](https://github.com/kaeawc/advanced-motionlayout-talk)
+[https://github.com/joseph27/navigationdrawer-waveanimation](https://github.com/joseph27/navigationdrawer-waveanimation)
 
 
 ---
 
-934 |    ✰ 34 ✰    |    ni-translate
+1069 |    shamsicalendar
 
-A translator for Linux, running at the background which wakes up with the translation of the last selected text after tapping the specific key twice.
-
-[https://github.com/yasirtug/ni-translate](https://github.com/yasirtug/ni-translate)
-
-
----
-
-935 |    ✰ 34 ✰    |    PigeonholeView
-
-Grid-based reorderable view like Android home screen
-
-[https://github.com/iizukanao/pigeonholeview](https://github.com/iizukanao/pigeonholeview)
-
-
----
-
-936 |    ✰ 34 ✰    |    FilteredIntent
-
-Android intent filter library
-
-[https://github.com/mcsong/filteredintent](https://github.com/mcsong/filteredintent)
-
-
----
-
-937 |    ✰ 34 ✰    |    ColoredVector-Android
-
-Change colors of your vector drawables easily from your code
-
-[https://github.com/balrampandey19/coloredvector-android](https://github.com/balrampandey19/coloredvector-android)
-
-
----
-
-938 |    ✰ 33 ✰    |    Benson
-
-
-
-[https://github.com/johnpersano/benson](https://github.com/johnpersano/benson)
-
-
----
-
-939 |    ✰ 33 ✰    |    android-fore
-
-android fore - thinner view layers (and rotation for free)
-
-[https://github.com/erdo/android-fore](https://github.com/erdo/android-fore)
-
-
----
-
-940 |    ✰ 33 ✰    |    Clean-MVVM-NewsApp
-
-Android News app developed using Clean + MVVM architecture
-
-[https://github.com/naveentp/clean-mvvm-newsapp](https://github.com/naveentp/clean-mvvm-newsapp)
-
-
----
-
-941 |    ✰ 33 ✰    |    ShamsiCalendar
+✰✰✰ 36
 
 تقویم فارسی و شمسی - Shamsi & Persian Calendar :calendar:
 
@@ -8474,70 +11766,108 @@ Android News app developed using Clean + MVVM architecture
 
 ---
 
-942 |    ✰ 33 ✰    |    photoviewer
+1070 |    swipecardentry
 
-This is the sample of Clean Architecture in Real Conditions
+✰✰✰ 36
 
-[https://github.com/lifedemons/photoviewer](https://github.com/lifedemons/photoviewer)
+Android credit card entry widget inspired by Swipe's UI, including sample code.
 
-
----
-
-943 |    ✰ 32 ✰    |    Material-Design-Color-Palette
-
-An XML file containing all the color palettes as shown in Google Design http://www.google.com/design/spec/style/color.html#
-
-[https://github.com/rohanraarora/material-design-color-palette](https://github.com/rohanraarora/material-design-color-palette)
+[https://github.com/rethought/swipecardentry](https://github.com/rethought/swipecardentry)
 
 
 ---
 
-944 |    ✰ 32 ✰    |    OpenSourceTutorials-Introduction
+1071 |    smartstickyheader
 
-Open Source Kotlin Tutorial
+✰✰✰ 36
 
-[https://github.com/kotlinfarsi/opensourcetutorials-introduction](https://github.com/kotlinfarsi/opensourcetutorials-introduction)
+A Custom Header View With Multiple Items to make selection from categories 
 
-
----
-
-945 |    ✰ 32 ✰    |    Terminightor
-
-Terminighor is a free NFC tag based alarm clock for android.
-
-[https://github.com/thescrabi/terminightor](https://github.com/thescrabi/terminightor)
+[https://github.com/salmanzach/smartstickyheader](https://github.com/salmanzach/smartstickyheader)
 
 
 ---
 
-946 |    ✰ 32 ✰    |    memoir
+1072 |    website-in-webview
 
-Digital diary application with rich text editing features and password protection
+✰✰✰ 35
 
-[https://github.com/ronak-lm/memoir](https://github.com/ronak-lm/memoir)
+Android project that load website in a full screen webview
 
-
----
-
-947 |    ✰ 32 ✰    |    Android-Snippets
-
-:pencil: Android snippets, demonstrating functionalities/libraries for android application development.
-
-[https://github.com/nikhilbhutani/android-snippets](https://github.com/nikhilbhutani/android-snippets)
+[https://github.com/aliab/website-in-webview](https://github.com/aliab/website-in-webview)
 
 
 ---
 
-948 |    ✰ 32 ✰    |    Retroswagger
+1073 |    android-font-library
 
-🧩 A library that generates kotlin code for Retrofit 2 based on a Swagger endpoint. Includes an Annotation Processor to configure and generate the code on build time.
+✰✰✰ 35
 
-[https://github.com/adevintaspain/retroswagger](https://github.com/adevintaspain/retroswagger)
+None
+
+[https://github.com/innovattic/android-font-library](https://github.com/innovattic/android-font-library)
 
 
 ---
 
-949 |    ✰ 32 ✰    |    metrica-sample-android
+1074 |    crimetalk-reader
+
+✰✰✰ 35
+
+None
+
+[https://github.com/johnpersano/crimetalk-reader](https://github.com/johnpersano/crimetalk-reader)
+
+
+---
+
+1075 |    filteredintent
+
+✰✰✰ 35
+
+Android intent filter library
+
+[https://github.com/mcsong/filteredintent](https://github.com/mcsong/filteredintent)
+
+
+---
+
+1076 |    android-quick-setup
+
+✰✰✰ 35
+
+Android base project that already setup Gradle, Dagger, Otto, Retrofit, Support Libraries, Junit support for AndroidStudio, Mockito and Robolectric
+
+[https://github.com/rontho/android-quick-setup](https://github.com/rontho/android-quick-setup)
+
+
+---
+
+1077 |    sidepanel
+
+✰✰✰ 35
+
+SidePanel Application for Android
+
+[https://github.com/sukso96100/sidepanel](https://github.com/sukso96100/sidepanel)
+
+
+---
+
+1078 |    rxplaceautocomplete
+
+✰✰✰ 35
+
+An Android Studio demo project using Retrofit & Google Places API to provide Places/ Cities with AutoCompleteTextField in Android.
+
+[https://github.com/venkatselva8/rxplaceautocomplete](https://github.com/venkatselva8/rxplaceautocomplete)
+
+
+---
+
+1079 |    metrica-sample-android
+
+✰✰✰ 35
 
 Yandex AppMetrica SDK Sample for Android
 
@@ -8546,7 +11876,152 @@ Yandex AppMetrica SDK Sample for Android
 
 ---
 
-950 |    ✰ 32 ✰    |    Weather-Lite
+1080 |    coloredvector-android
+
+✰✰✰ 34
+
+Change colors of your vector drawables easily from your code
+
+[https://github.com/balrampandey19/coloredvector-android](https://github.com/balrampandey19/coloredvector-android)
+
+
+---
+
+1081 |    tripplanner-mvp
+
+✰✰✰ 34
+
+Trip Planner - A demonstration project for showing use of MVP architecture with easy and reusable components. It demonstrates mainly the MVP pattern with different tools like data-binding, firebase, wear module etc. https://medium.com/@Harry91/mvp-redefined-the-modular-design-part2-d6282b3d581
+
+[https://github.com/harintrivedi/tripplanner-mvp](https://github.com/harintrivedi/tripplanner-mvp)
+
+
+---
+
+1082 |    pigeonholeview
+
+✰✰✰ 34
+
+Grid-based reorderable view like Android home screen
+
+[https://github.com/iizukanao/pigeonholeview](https://github.com/iizukanao/pigeonholeview)
+
+
+---
+
+1083 |    spreadsheetinput_feedback_tut
+
+✰✰✰ 34
+
+Demo App - Send Feedback From Android App To Spreadsheet
+
+[https://github.com/sadiqrazasyed/spreadsheetinput_feedback_tut](https://github.com/sadiqrazasyed/spreadsheetinput_feedback_tut)
+
+
+---
+
+1084 |    benson
+
+✰✰✰ 33
+
+None
+
+[https://github.com/johnpersano/benson](https://github.com/johnpersano/benson)
+
+
+---
+
+1085 |    detoxiom
+
+✰✰✰ 32
+
+✔️ Detoxiom is an Open source Android app that makes social media detox easy with some simple gamifacation mathods.
+
+[https://github.com/01sadra/detoxiom](https://github.com/01sadra/detoxiom)
+
+
+---
+
+1086 |    android-pos
+
+✰✰✰ 32
+
+Its customized version of Point of sale software
+
+[https://github.com/ashraf789/android-pos](https://github.com/ashraf789/android-pos)
+
+
+---
+
+1087 |    fsanimatedtextview
+
+✰✰✰ 32
+
+Animated Number Text View Library
+
+[https://github.com/danielceinos/fsanimatedtextview](https://github.com/danielceinos/fsanimatedtextview)
+
+
+---
+
+1088 |    sqlcipherhook
+
+✰✰✰ 32
+
+Xposed module for obtaining SQLCipher crypto keys
+
+[https://github.com/jakev/sqlcipherhook](https://github.com/jakev/sqlcipherhook)
+
+
+---
+
+1089 |    android-snippets
+
+✰✰✰ 32
+
+:pencil: Android snippets, demonstrating functionalities/libraries for android application development.
+
+[https://github.com/nikhilbhutani/android-snippets](https://github.com/nikhilbhutani/android-snippets)
+
+
+---
+
+1090 |    material-design-color-palette
+
+✰✰✰ 32
+
+An XML file containing all the color palettes as shown in Google Design http://www.google.com/design/spec/style/color.html#
+
+[https://github.com/rohanraarora/material-design-color-palette](https://github.com/rohanraarora/material-design-color-palette)
+
+
+---
+
+1091 |    memoir
+
+✰✰✰ 32
+
+Digital diary application with rich text editing features and password protection
+
+[https://github.com/ronak-lm/memoir](https://github.com/ronak-lm/memoir)
+
+
+---
+
+1092 |    terminightor
+
+✰✰✰ 32
+
+Terminighor is a free NFC tag based alarm clock for android.
+
+[https://github.com/thescrabi/terminightor](https://github.com/thescrabi/terminightor)
+
+
+---
+
+1093 |    weather-lite
+
+✰✰✰ 32
 
 Android Open Source App About Weather
 
@@ -8555,61 +12030,53 @@ Android Open Source App About Weather
 
 ---
 
-951 |    ✰ 31 ✰    |    mvrxpaged
+1094 |    amethyst
 
+✰✰✰ 32
 
+Simple multiplatform SEA (Systems, Entities, Attributes) library written in multiplatform Kotlin.
 
-[https://github.com/nlgtuankiet/mvrxpaged](https://github.com/nlgtuankiet/mvrxpaged)
-
-
----
-
-952 |    ✰ 31 ✰    |    Konclik
-
-Konclik: Kotlin/Native Command Line Interface Kit
-
-[https://github.com/dbaelz/konclik](https://github.com/dbaelz/konclik)
+[https://github.com/Hexworks/amethyst](https://github.com/Hexworks/amethyst)
 
 
 ---
 
-953 |    ✰ 31 ✰    |    InviZible
+1095 |    ConstraintFlowPlayground
 
-Android application for Internet privacy and security
+✰✰✰ 32
 
-[https://github.com/gedsh/invizible](https://github.com/gedsh/invizible)
+Playground app for Constraint Layout Flow
 
-
----
-
-954 |    ✰ 31 ✰    |    open-source-library-request-manager
-
-A place to share ideas for open source library with other developers.
-
-[https://github.com/heinrichreimer/open-source-library-request-manager](https://github.com/heinrichreimer/open-source-library-request-manager)
+[https://github.com/hashlin/ConstraintFlowPlayground](https://github.com/hashlin/ConstraintFlowPlayground)
 
 
 ---
 
-955 |    ✰ 31 ✰    |    Robopupu
+1096 |    MotionLayoutExamples
 
-Robopupu is an Android library for developing Android applications using Model-View-Presenter (MVP), Dependency Injection (DI), advanced inter-component communication, and feature driven component architecture.
+✰✰✰ 32
 
-[https://github.com/fuusio/robopupu](https://github.com/fuusio/robopupu)
+Android MotionLayout Examples
 
-
----
-
-956 |    ✰ 31 ✰    |    Android-YLScrollView
-
-A smart custom ScrollView for Android.
-
-[https://github.com/yinliwisdom/android-ylscrollview](https://github.com/yinliwisdom/android-ylscrollview)
+[https://github.com/faob-dev/MotionLayoutExamples](https://github.com/faob-dev/MotionLayoutExamples)
 
 
 ---
 
-957 |    ✰ 31 ✰    |    ADBKeyboard
+1097 |    kotlinrecyclerview
+
+✰✰✰ 31
+
+How to use RecyclerView with Kotlin, sample example
+
+[https://github.com/alebarreto/kotlinrecyclerview](https://github.com/alebarreto/kotlinrecyclerview)
+
+
+---
+
+1098 |    adbkeyboard
+
+✰✰✰ 31
 
 A useful Windows app for forwarding PC keyboard input to a connected Android device over ADB.
 
@@ -8618,34 +12085,9 @@ A useful Windows app for forwarding PC keyboard input to a connected Android dev
 
 ---
 
-958 |    ✰ 31 ✰    |    themr
+1099 |    smooth-expand-collaspe-recyclerview
 
-Android theme concatenation via gradle plugin
-
-[https://github.com/ouchadam/themr](https://github.com/ouchadam/themr)
-
-
----
-
-959 |    ✰ 30 ✰    |    androidMvvm
-
-Android MVVM , LiveData , ViewModel , Repository , Retrofit ,RecyclerView
-
-[https://github.com/kamydeep00178/androidmvvm](https://github.com/kamydeep00178/androidmvvm)
-
-
----
-
-960 |    ✰ 30 ✰    |    viewer
-
-Android SDK Library Repository Viewer
-
-[https://github.com/hariadi/viewer](https://github.com/hariadi/viewer)
-
-
----
-
-961 |    ✰ 30 ✰    |    Smooth-Expand-Collaspe-RecyclerView
+✰✰✰ 31
 
 RecyclerView with smooth expand/collapse animation in Android. Read my tutorial post at:
 
@@ -8654,88 +12096,20 @@ RecyclerView with smooth expand/collapse animation in Android. Read my tutorial 
 
 ---
 
-962 |    ✰ 30 ✰    |    obsidian-colors
+1100 |    robopupu
 
+✰✰✰ 31
 
+Robopupu is an Android library for developing Android applications using Model-View-Presenter (MVP), Dependency Injection (DI), advanced inter-component communication, and feature driven component architecture.
 
-[https://github.com/dmytrodanylyk/obsidian-colors](https://github.com/dmytrodanylyk/obsidian-colors)
-
-
----
-
-963 |    ✰ 30 ✰    |    generator-andy
-
-Andy helps you to quickly create a well configured, well behaved Android application (and project libraries too!). It's the spiritual successor to Android KickstartR project but updated to the modern times!
-
-[https://github.com/viewsforandroid/generator-andy](https://github.com/viewsforandroid/generator-andy)
+[https://github.com/fuusio/robopupu](https://github.com/fuusio/robopupu)
 
 
 ---
 
-964 |    ✰ 30 ✰    |    android-testing
+1101 |    notification-blocker
 
-Automatische Tests für Android mit Dagger, Mockito und Espresso.
-
-[https://github.com/andnexus/android-testing](https://github.com/andnexus/android-testing)
-
-
----
-
-965 |    ✰ 29 ✰    |    MNIST-TFLite
-
-MNIST classifier built for TensorFlow Lite - Android, iOS and other "lite" platforms
-
-[https://github.com/frogermcs/mnist-tflite](https://github.com/frogermcs/mnist-tflite)
-
-
----
-
-966 |    ✰ 29 ✰    |    MaterialComponents
-
-The purpose of this repository is to demonstrate newly added components in material design components and how to use them in your project. https://android.jlelse.eu/how-i-customised-bottom-app-bar-behaviour-943f2416cd7a
-
-[https://github.com/subirz/materialcomponents](https://github.com/subirz/materialcomponents)
-
-
----
-
-967 |    ✰ 29 ✰    |    glide-debug-indicator
-
-
-
-[https://github.com/technoir42/glide-debug-indicator](https://github.com/technoir42/glide-debug-indicator)
-
-
----
-
-968 |    ✰ 29 ✰    |    MultiColumnList
-
-A custom list view that has support for columns with items of varying heights.
-
-[https://github.com/andersericsson/multicolumnlist](https://github.com/andersericsson/multicolumnlist)
-
-
----
-
-969 |    ✰ 28 ✰    |    Vinci
-
-Vinci android library  :art:
-
-[https://github.com/abbashosseini/vinci](https://github.com/abbashosseini/vinci)
-
-
----
-
-970 |    ✰ 28 ✰    |    cold-reboot
-
-🤖 Rebooting Android Emulators with Cold Boot
-
-[https://github.com/blipinsk/cold-reboot](https://github.com/blipinsk/cold-reboot)
-
-
----
-
-971 |    ✰ 28 ✰    |    Notification-Blocker
+✰✰✰ 31
 
 Sample app of NotificationListenerService on Android
 
@@ -8744,115 +12118,130 @@ Sample app of NotificationListenerService on Android
 
 ---
 
-972 |    ✰ 28 ✰    |    KotlinQuickReference
+1102 |    crickotlin
 
-Source code and text for the Kotlin Quick Reference book
+✰✰✰ 31
 
-[https://github.com/alvinj/kotlinquickreference](https://github.com/alvinj/kotlinquickreference)
+This application showcases the usage of newly released android architecture components using kotlin/latest dagger/retrofit2
 
-
----
-
-973 |    ✰ 28 ✰    |    amethyst
-
-Simple multiplatform SEA (Systems, Entities, Attributes) library written in multiplatform Kotlin.
-
-[https://github.com/hexworks/amethyst](https://github.com/hexworks/amethyst)
+[https://github.com/vivekneel/crickotlin](https://github.com/vivekneel/crickotlin)
 
 
 ---
 
-974 |    ✰ 28 ✰    |    AndroidApkRename
+1103 |    android-ylscrollview
 
-A gradle plugin for Android development that renames an APK during the build process.
+✰✰✰ 31
 
-[https://github.com/sababado/androidapkrename](https://github.com/sababado/androidapkrename)
+A smart custom ScrollView for Android.
 
-
----
-
-975 |    ✰ 28 ✰    |    kin-ecosystem-android-sdk
-
-Home of the Kin Ecosystem mobile sdk for Android
-
-[https://github.com/kinecosystem/kin-ecosystem-android-sdk](https://github.com/kinecosystem/kin-ecosystem-android-sdk)
+[https://github.com/yinliwisdom/android-ylscrollview](https://github.com/yinliwisdom/android-ylscrollview)
 
 
 ---
 
-976 |    ✰ 28 ✰    |    ConstraintFlowPlayground
+1104 |    android-testing
 
-Playground app for Constraint Layout Flow
+✰✰✰ 30
 
-[https://github.com/hashlin/constraintflowplayground](https://github.com/hashlin/constraintflowplayground)
+Automatische Tests für Android mit Dagger, Mockito und Espresso.
 
-
----
-
-977 |    ✰ 28 ✰    |    CPUSpyReborn
-
-Redesign of cpu Spy
-
-[https://github.com/mirkoddd/cpuspyreborn](https://github.com/mirkoddd/cpuspyreborn)
+[https://github.com/andnexus/android-testing](https://github.com/andnexus/android-testing)
 
 
 ---
 
-978 |    ✰ 27 ✰    |    Folder-DrawerLayout
+1105 |    obsidian-colors
 
+✰✰✰ 30
 
+None
 
-[https://github.com/dkmeteor/folder-drawerlayout](https://github.com/dkmeteor/folder-drawerlayout)
-
-
----
-
-979 |    ✰ 27 ✰    |    SpeedySplash
-
-An example on how to implement a Speed- Splash Screen in Android
-
-[https://github.com/venkatselva8/speedysplash](https://github.com/venkatselva8/speedysplash)
+[https://github.com/dmytrodanylyk/obsidian-colors](https://github.com/dmytrodanylyk/obsidian-colors)
 
 
 ---
 
-980 |    ✰ 27 ✰    |    Android_accordion_view
+1106 |    viewer
 
-A very easy to use accordion component for android. 
+✰✰✰ 30
 
-[https://github.com/riyagayasen/android_accordion_view](https://github.com/riyagayasen/android_accordion_view)
+Android SDK Library Repository Viewer
 
-
----
-
-981 |    ✰ 27 ✰    |    persian-date-time
-
-Persian Date Time
-
-[https://github.com/mfathi91/persian-date-time](https://github.com/mfathi91/persian-date-time)
+[https://github.com/hariadi/viewer](https://github.com/hariadi/viewer)
 
 
 ---
 
-982 |    ✰ 27 ✰    |    java-design-patterns
+1107 |    open-source-library-request-manager
 
-Collection of Java Design Patterns
+✰✰✰ 30
 
-[https://github.com/saeidzebardast/java-design-patterns](https://github.com/saeidzebardast/java-design-patterns)
+A place to share ideas for open source library with other developers.
 
-
----
-
-983 |    ✰ 27 ✰    |    Android-Flight-Listings
-
-Demo application for JSON Parsing, Sorting and Material Design
-
-[https://github.com/shivam101/android-flight-listings](https://github.com/shivam101/android-flight-listings)
+[https://github.com/heinrichreimer/open-source-library-request-manager](https://github.com/heinrichreimer/open-source-library-request-manager)
 
 
 ---
 
-984 |    ✰ 27 ✰    |    StorePreview
+1108 |    generator-andy
+
+✰✰✰ 30
+
+Andy helps you to quickly create a well configured, well behaved Android application (and project libraries too!). It's the spiritual successor to Android KickstartR project but updated to the modern times!
+
+[https://github.com/viewsforandroid/generator-andy](https://github.com/viewsforandroid/generator-andy)
+
+
+---
+
+1109 |    inject
+
+✰✰✰ 30
+
+A simple Kotlin multi-platform abstraction around the javax.inject annotations.
+
+[https://github.com/chRyNaN/inject](https://github.com/chRyNaN/inject)
+
+
+---
+
+1110 |    RxJavaBridge
+
+✰✰✰ 29
+
+Bridge between RxJava 2 and RxJava 3
+
+[https://github.com/akarnokd/RxJavaBridge](https://github.com/akarnokd/RxJavaBridge)
+
+
+---
+
+1111 |    Dispatch
+
+✰✰✰ 29
+
+Utilities for kotlinx.coroutines
+
+[https://github.com/RBusarow/Dispatch](https://github.com/RBusarow/Dispatch)
+
+
+---
+
+1112 |    multicolumnlist
+
+✰✰✰ 28
+
+A custom list view that has support for columns with items of varying heights.
+
+[https://github.com/andersericsson/multicolumnlist](https://github.com/andersericsson/multicolumnlist)
+
+
+---
+
+1113 |    storepreview
+
+✰✰✰ 28
 
 This app helps your apps ASO(App Store Optimization) operation.
 
@@ -8861,79 +12250,53 @@ This app helps your apps ASO(App Store Optimization) operation.
 
 ---
 
-985 |    ✰ 27 ✰    |    ParallaxViewPagers
+1114 |    persian-date-time
 
-A POC to show how to have multiple ViewPagers work in Parallax effect with each other
+✰✰✰ 28
 
-[https://github.com/androiddeveloperlb/parallaxviewpagers](https://github.com/androiddeveloperlb/parallaxviewpagers)
+Persian Date Time
 
-
----
-
-986 |    ✰ 27 ✰    |    Stevia.kt
-
-:leaves: Healthy ConstraintLayout Sugar
-
-[https://github.com/yummypets/stevia.kt](https://github.com/yummypets/stevia.kt)
+[https://github.com/mfathi91/persian-date-time](https://github.com/mfathi91/persian-date-time)
 
 
 ---
 
-987 |    ✰ 26 ✰    |    CountriesMVI
+1115 |    database-backup-restore
 
+✰✰✰ 28
 
+A simple Android app that performs local and cloud backup/restore of a database
 
-[https://github.com/ywett02/countriesmvi](https://github.com/ywett02/countriesmvi)
-
-
----
-
-988 |    ✰ 26 ✰    |    SecuritySample
-
-(Android) Hide encrypted secret API keys in C/C++ code, retrieve and decrypt them via JNI. Google SafetyNet APIs example.
-
-[https://github.com/catherine22/securitysample](https://github.com/catherine22/securitysample)
+[https://github.com/prof18/database-backup-restore](https://github.com/prof18/database-backup-restore)
 
 
 ---
 
-989 |    ✰ 26 ✰    |    xPlodMusic
+1116 |    androidapkrename
 
-Source code for xPlodMusic
+✰✰✰ 28
 
-[https://github.com/c-aniruddh/xplodmusic](https://github.com/c-aniruddh/xplodmusic)
+A gradle plugin for Android development that renames an APK during the build process.
 
-
----
-
-990 |    ✰ 26 ✰    |    cache-lite
-
-An extremely lite-weight cache framework, demonstrating how cache works.
-
-[https://github.com/kezhenxu94/cache-lite](https://github.com/kezhenxu94/cache-lite)
+[https://github.com/sababado/androidapkrename](https://github.com/sababado/androidapkrename)
 
 
 ---
 
-991 |    ✰ 26 ✰    |    reactor
+1117 |    android-flight-listings
 
-Reactor is key value database and is a great alternative to Shared Preferences.
+✰✰✰ 28
 
-[https://github.com/oky2abbas/reactor](https://github.com/oky2abbas/reactor)
+Demo application for JSON Parsing, Sorting and Material Design
 
-
----
-
-992 |    ✰ 26 ✰    |    Interpolators
-
-Visualization of Android Animation Interpolators
-
-[https://github.com/vbohush/interpolators](https://github.com/vbohush/interpolators)
+[https://github.com/shivam101/android-flight-listings](https://github.com/shivam101/android-flight-listings)
 
 
 ---
 
-993 |    ✰ 26 ✰    |    easyproxy
+1118 |    easyproxy
+
+✰✰✰ 28
 
 Easy Http Proxy for android apps. For those days when you want proxy for your app only. Supports different proxy for different urls.
 
@@ -8942,7 +12305,108 @@ Easy Http Proxy for android apps. For those days when you want proxy for your ap
 
 ---
 
-994 |    ✰ 26 ✰    |    android-tao-rest-data-processor
+1119 |    parallaxviewpagers
+
+✰✰✰ 27
+
+A POC to show how to have multiple ViewPagers work in Parallax effect with each other
+
+[https://github.com/androiddeveloperlb/parallaxviewpagers](https://github.com/androiddeveloperlb/parallaxviewpagers)
+
+
+---
+
+1120 |    folder-drawerlayout
+
+✰✰✰ 27
+
+None
+
+[https://github.com/dkmeteor/folder-drawerlayout](https://github.com/dkmeteor/folder-drawerlayout)
+
+
+---
+
+1121 |    android_accordion_view
+
+✰✰✰ 27
+
+A very easy to use accordion component for android. 
+
+[https://github.com/riyagayasen/android_accordion_view](https://github.com/riyagayasen/android_accordion_view)
+
+
+---
+
+1122 |    java-design-patterns
+
+✰✰✰ 27
+
+Collection of Java Design Patterns
+
+[https://github.com/saeidzebardast/java-design-patterns](https://github.com/saeidzebardast/java-design-patterns)
+
+
+---
+
+1123 |    speedysplash
+
+✰✰✰ 27
+
+An example on how to implement a Speed- Splash Screen in Android
+
+[https://github.com/venkatselva8/speedysplash](https://github.com/venkatselva8/speedysplash)
+
+
+---
+
+1124 |    workshop-android-chatbot
+
+✰✰✰ 26
+
+Code scaffolding in order to build a Pizza Delivery Chatbot.  
+
+[https://github.com/android10/workshop-android-chatbot](https://github.com/android10/workshop-android-chatbot)
+
+
+---
+
+1125 |    xplodmusic
+
+✰✰✰ 26
+
+Source code for xPlodMusic
+
+[https://github.com/c-aniruddh/xplodmusic](https://github.com/c-aniruddh/xplodmusic)
+
+
+---
+
+1126 |    android_packages_apps_lockclock
+
+✰✰✰ 26
+
+None
+
+[https://github.com/cyanogenmod/android_packages_apps_lockclock](https://github.com/cyanogenmod/android_packages_apps_lockclock)
+
+
+---
+
+1127 |    maskededittext
+
+✰✰✰ 26
+
+Extension of EditText that enables masking user input.
+
+[https://github.com/dimitar-zabaznoski/maskededittext](https://github.com/dimitar-zabaznoski/maskededittext)
+
+
+---
+
+1128 |    android-tao-rest-data-processor
+
+✰✰✰ 26
 
 Android REST Data Processor library. Easy to build a REST request, to receive and processing data (XML, JSON, CSV and etc.) from REST requests, file system, assets.
 
@@ -8951,7 +12415,31 @@ Android REST Data Processor library. Easy to build a REST request, to receive an
 
 ---
 
-995 |    ✰ 26 ✰    |    Hoodang
+1129 |    cpuspyreborn
+
+✰✰✰ 26
+
+Redesign of cpu Spy
+
+[https://github.com/mirkoddd/cpuspyreborn](https://github.com/mirkoddd/cpuspyreborn)
+
+
+---
+
+1130 |    interpolators
+
+✰✰✰ 26
+
+Visualization of Android Animation Interpolators
+
+[https://github.com/vbohush/interpolators](https://github.com/vbohush/interpolators)
+
+
+---
+
+1131 |    hoodang
+
+✰✰✰ 26
 
 :video_game: Modified version of famous android game ping-pong
 
@@ -8960,25 +12448,9 @@ Android REST Data Processor library. Easy to build a REST request, to receive an
 
 ---
 
-996 |    ✰ 25 ✰    |    PatternLockView
+1132 |    blendedbackground
 
-Pattern Lock: A Simple Lock Pattern View for Android (手势锁)
-
-[https://github.com/xyxyliu/patternlockview](https://github.com/xyxyliu/patternlockview)
-
-
----
-
-997 |    ✰ 25 ✰    |    android_packages_apps_LockClock
-
-
-
-[https://github.com/cyanogenmod/android_packages_apps_lockclock](https://github.com/cyanogenmod/android_packages_apps_lockclock)
-
-
----
-
-998 |    ✰ 25 ✰    |    BlendedBackground
+✰✰✰ 25
 
 An Android UI component that generates a blended background for a referenced view.
 
@@ -8987,79 +12459,31 @@ An Android UI component that generates a blended background for a referenced vie
 
 ---
 
-999 |    ✰ 25 ✰    |    androidAutomate
+1133 |    mvpandroid
 
-This repo provides a command line interface and python API for recording and automating android tasks
+✰✰✰ 25
 
-[https://github.com/konradstanski/androidautomate](https://github.com/konradstanski/androidautomate)
+Android application with MVP architecture and usage of other advance libraries: RxJava, Dagger, Retrofit, Gson etc.
 
-
----
-
-1000 |    ✰ 25 ✰    |    DroidFM
-
-This application shows how you can integrate the RxJava, Realm, LastFM API, VK API for information on popular artists, their songs and albums. Additionally this app can stream and download any tracks that are available in VK.
-
-[https://github.com/mlsdev/droidfm](https://github.com/mlsdev/droidfm)
+[https://github.com/amanjeetsingh150/mvpandroid](https://github.com/amanjeetsingh150/mvpandroid)
 
 
 ---
 
-1001 |    ✰ 24 ✰    |    ktm
+1134 |    patternlockview
 
-Kotlin Tooling Manager
+✰✰✰ 25
 
-[https://github.com/ghostbuster91/ktm](https://github.com/ghostbuster91/ktm)
+Pattern Lock: A Simple Lock Pattern View for Android (手势锁)
 
-
----
-
-1002 |    ✰ 24 ✰    |    kotlin-extensions
-
-Set of Kotlin extensions and other useful functions
-
-[https://github.com/radoslavyankov/kotlin-extensions](https://github.com/radoslavyankov/kotlin-extensions)
+[https://github.com/xyxyliu/patternlockview](https://github.com/xyxyliu/patternlockview)
 
 
 ---
 
-1003 |    ✰ 24 ✰    |    Android-ImageViewPlus
+1135 |    anchorview
 
-ImageViewPlus is an extension of ImageView for Android to enhance its functionality
-
-[https://github.com/meetme/android-imageviewplus](https://github.com/meetme/android-imageviewplus)
-
-
----
-
-1004 |    ✰ 24 ✰    |    showroom-android
-
-https://dev.ramotion.com/gthbr
-
-[https://github.com/ramotion/showroom-android](https://github.com/ramotion/showroom-android)
-
-
----
-
-1005 |    ✰ 24 ✰    |    PicLoco
-
-Demo app to play with Loaders, Palette, and RecyclerView (and Jackson)
-
-[https://github.com/shmuelr/picloco](https://github.com/shmuelr/picloco)
-
-
----
-
-1006 |    ✰ 24 ✰    |    wearfaceutils
-
-Utility Class for Android Watch Face 
-
-[https://github.com/purposebakery/wearfaceutils](https://github.com/purposebakery/wearfaceutils)
-
-
----
-
-1007 |    ✰ 24 ✰    |    AnchorView
+✰✰✰ 24
 
 An example of an AnchorView that enables relative layouting in RelativeLayouts
 
@@ -9068,7 +12492,64 @@ An example of an AnchorView that enables relative layouting in RelativeLayouts
 
 ---
 
-1008 |    ✰ 23 ✰    |    adc
+1136 |    newspin
+
+✰✰✰ 24
+
+News app for android using Kotlin, coroutines, MVP architecture
+
+[https://github.com/himanshuhp/newspin](https://github.com/himanshuhp/newspin)
+
+
+---
+
+1137 |    android-imageviewplus
+
+✰✰✰ 24
+
+ImageViewPlus is an extension of ImageView for Android to enhance its functionality
+
+[https://github.com/meetme/android-imageviewplus](https://github.com/meetme/android-imageviewplus)
+
+
+---
+
+1138 |    droidfm
+
+✰✰✰ 24
+
+This application shows how you can integrate the RxJava, Realm, LastFM API, VK API for information on popular artists, their songs and albums. Additionally this app can stream and download any tracks that are available in VK.
+
+[https://github.com/mlsdev/droidfm](https://github.com/mlsdev/droidfm)
+
+
+---
+
+1139 |    picloco
+
+✰✰✰ 24
+
+Demo app to play with Loaders, Palette, and RecyclerView (and Jackson)
+
+[https://github.com/shmuelr/picloco](https://github.com/shmuelr/picloco)
+
+
+---
+
+1140 |    android-custom-navigation
+
+✰✰✰ 23
+
+Android left right(two side) custom navigation
+
+[https://github.com/ashraf789/android-custom-navigation](https://github.com/ashraf789/android-custom-navigation)
+
+
+---
+
+1141 |    adc
+
+✰✰✰ 23
 
 An Android Studio plugin to control your development devices and emulators. Currently you can do the following from within your IDE:
 
@@ -9077,70 +12558,20 @@ An Android Studio plugin to control your development devices and emulators. Curr
 
 ---
 
-1009 |    ✰ 23 ✰    |    CustomToolbar
+1142 |    recyclerview-selection-demo
 
-A mockup of the custom toolbar from Social Steps app on Google Play.
+✰✰✰ 23
 
-[https://github.com/mohamedelidrissi/customtoolbar](https://github.com/mohamedelidrissi/customtoolbar)
+A simple Android project that demonstrates the usage of the androidx.recyclerview.selection support library
 
-
----
-
-1010 |    ✰ 23 ✰    |    android-tween-animation
-
-Source code from Tuts+ tutorial - Android SDK: Creating a Simple Tween Animation
-
-[https://github.com/suesmith/android-tween-animation](https://github.com/suesmith/android-tween-animation)
+[https://github.com/guenodz/recyclerview-selection-demo](https://github.com/guenodz/recyclerview-selection-demo)
 
 
 ---
 
-1011 |    ✰ 22 ✰    |    fcm
+1143 |    arch
 
-An Android library that allows to show floating contextual menu like Google
-
-[https://github.com/stefanodp91/fcm](https://github.com/stefanodp91/fcm)
-
-
----
-
-1012 |    ✰ 22 ✰    |    PersianRangeDatePicker
-
-Persian range date picker for android
-
-[https://github.com/ali-sardari/persianrangedatepicker](https://github.com/ali-sardari/persianrangedatepicker)
-
-
----
-
-1013 |    ✰ 22 ✰    |    DrawerLayoutEdgeToggle
-
-DrawerLayoutEdgeToggle is library that adds visible handle to the DrawerLayout. It allows you to slide the handle to open/close the DrawerLayout, or use click event to open/close the DrawerLayout. It is independent of the ActionBar home indicator as it is seen in ActionBarDrawerToggle. 
-
-[https://github.com/nikoladespotoski/drawerlayoutedgetoggle](https://github.com/nikoladespotoski/drawerlayoutedgetoggle)
-
-
----
-
-1014 |    ✰ 22 ✰    |    Android
-
-Android Tutorial resources
-
-[https://github.com/tutorialindustry/android](https://github.com/tutorialindustry/android)
-
-
----
-
-1015 |    ✰ 22 ✰    |    MaterialNavigation
-
-Material Design UI app following the most current guidelines.
-
-[https://github.com/datallboy/materialnavigation](https://github.com/datallboy/materialnavigation)
-
-
----
-
-1016 |    ✰ 22 ✰    |    arch
+✰✰✰ 23
 
 A guide to use Android Architecture Components along side Clean Architecture, MVVM, Dagger2, Data Binding using Kotlin programming language
 
@@ -9149,16 +12580,108 @@ A guide to use Android Architecture Components along side Clean Architecture, MV
 
 ---
 
-1017 |    ✰ 22 ✰    |    dialog-helper
+1144 |    android-tween-animation
 
-Lightweight Android library that simplifies management of DialogFragments
+✰✰✰ 23
 
-[https://github.com/techyourchance/dialog-helper](https://github.com/techyourchance/dialog-helper)
+Source code from Tuts+ tutorial - Android SDK: Creating a Simple Tween Animation
+
+[https://github.com/suesmith/android-tween-animation](https://github.com/suesmith/android-tween-animation)
 
 
 ---
 
-1018 |    ✰ 22 ✰    |    mortar-flow-example-app
+1145 |    CarouselView
+
+✰✰✰ 23
+
+An android carousel library for RecyclerView
+
+[https://github.com/jama5262/CarouselView](https://github.com/jama5262/CarouselView)
+
+
+---
+
+1146 |    AnimatedIcons
+
+✰✰✰ 23
+
+None
+
+[https://github.com/StylingAndroid/AnimatedIcons](https://github.com/StylingAndroid/AnimatedIcons)
+
+
+---
+
+1147 |    dbweather
+
+✰✰✰ 22
+
+Android weather application with news feed and live tv
+
+[https://github.com/bitsydarel/dbweather](https://github.com/bitsydarel/dbweather)
+
+
+---
+
+1148 |    materialnavigation
+
+✰✰✰ 22
+
+Material Design UI app following the most current guidelines.
+
+[https://github.com/datallboy/materialnavigation](https://github.com/datallboy/materialnavigation)
+
+
+---
+
+1149 |    bottomsheetmenu
+
+✰✰✰ 22
+
+Library for Material Modal Bottom Sheets Menu https://material.io/guidelines/components/bottom-sheets.html#bottom-sheets-modal-bottom-sheets
+
+[https://github.com/krossovochkin/bottomsheetmenu](https://github.com/krossovochkin/bottomsheetmenu)
+
+
+---
+
+1150 |    drawerlayoutedgetoggle
+
+✰✰✰ 22
+
+DrawerLayoutEdgeToggle is library that adds visible handle to the DrawerLayout. It allows you to slide the handle to open/close the DrawerLayout, or use click event to open/close the DrawerLayout. It is independent of the ActionBar home indicator as it is seen in ActionBarDrawerToggle. 
+
+[https://github.com/nikoladespotoski/drawerlayoutedgetoggle](https://github.com/nikoladespotoski/drawerlayoutedgetoggle)
+
+
+---
+
+1151 |    imagepicker-android
+
+✰✰✰ 22
+
+ImagePicker-android working with Oreo(8.0) and below version.
+
+[https://github.com/patoliavishal/imagepicker-android](https://github.com/patoliavishal/imagepicker-android)
+
+
+---
+
+1152 |    fcm
+
+✰✰✰ 22
+
+An Android library that allows to show floating contextual menu like Google
+
+[https://github.com/stefanodp91/fcm](https://github.com/stefanodp91/fcm)
+
+
+---
+
+1153 |    mortar-flow-example-app
+
+✰✰✰ 22
 
 An example project that showcases Mortar and Flow
 
@@ -9167,43 +12690,20 @@ An example project that showcases Mortar and Flow
 
 ---
 
-1019 |    ✰ 21 ✰    |    LedTextView
+1154 |    android
 
-An sample of LedTextView on Android.
+✰✰✰ 22
 
-[https://github.com/vectoryi/ledtextview](https://github.com/vectoryi/ledtextview)
+Android Tutorial resources
 
-
----
-
-1020 |    ✰ 21 ✰    |    AsyncDiffUtil
-
-Async Diff Util using Coroutines
-
-[https://github.com/jsaund/asyncdiffutil](https://github.com/jsaund/asyncdiffutil)
+[https://github.com/tutorialindustry/android](https://github.com/tutorialindustry/android)
 
 
 ---
 
-1021 |    ✰ 21 ✰    |    android-app
+1155 |    nmsalphabetandroidapp
 
-اپلیکیشن اندروید فارسی‌یار: برنامه برچسب‌زنی پیکره‌های پردازش متن
-
-[https://github.com/text-mining/android-app](https://github.com/text-mining/android-app)
-
-
----
-
-1022 |    ✰ 21 ✰    |    android-spreadsheet
-
-Spreadsheet or Report page  Library for Android
-
-[https://github.com/basil2style/android-spreadsheet](https://github.com/basil2style/android-spreadsheet)
-
-
----
-
-1023 |    ✰ 21 ✰    |    NMSAlphabetAndroidApp
+✰✰✰ 21
 
 An unofficial translator app for No Man's Sky
 
@@ -9212,16 +12712,53 @@ An unofficial translator app for No Man's Sky
 
 ---
 
-1024 |    ✰ 21 ✰    |    FilterSpinner
+1156 |    newly
 
-Custom android view to replace spinner. It gives you filtering options.
+✰✰✰ 21
 
-[https://github.com/tomasz-m/filterspinner](https://github.com/tomasz-m/filterspinner)
+Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and other actions by just calling methods in kotlin or java
+
+[https://github.com/auto-droid/newly](https://github.com/auto-droid/newly)
 
 
 ---
 
-1025 |    ✰ 21 ✰    |    CutoutViewIndicator
+1157 |    android-spreadsheet
+
+✰✰✰ 21
+
+Spreadsheet or Report page  Library for Android
+
+[https://github.com/basil2style/android-spreadsheet](https://github.com/basil2style/android-spreadsheet)
+
+
+---
+
+1158 |    buildvariants
+
+✰✰✰ 21
+
+None
+
+[https://github.com/casterio/buildvariants](https://github.com/casterio/buildvariants)
+
+
+---
+
+1159 |    firestoreadapter
+
+✰✰✰ 21
+
+RecyclerView Adapter for Firebase Firestore
+
+[https://github.com/commit451/firestoreadapter](https://github.com/commit451/firestoreadapter)
+
+
+---
+
+1160 |    cutoutviewindicator
+
+✰✰✰ 21
 
 Android indicator for ViewPagers and so forth
 
@@ -9230,106 +12767,20 @@ Android indicator for ViewPagers and so forth
 
 ---
 
-1026 |    ✰ 21 ✰    |    BuildVariants
+1161 |    filterlibrary
 
+✰✰✰ 21
 
+Android filter library -This library has 16 filters which can be applied to image bitmaps.
 
-[https://github.com/casterio/buildvariants](https://github.com/casterio/buildvariants)
-
-
----
-
-1027 |    ✰ 21 ✰    |    RandomGenKt
-
-Kotlin port of RandomGen
-
-[https://github.com/eranboudjnah/randomgenkt](https://github.com/eranboudjnah/randomgenkt)
+[https://github.com/hgayan7/filterlibrary](https://github.com/hgayan7/filterlibrary)
 
 
 ---
 
-1028 |    ✰ 21 ✰    |    FlickOff
+1162 |    contacts-generator-android
 
-A lite movie guide app, with MVVM architecture, that lets you discover movies from TMDb. 
-
-[https://github.com/bapspatil/flickoff](https://github.com/bapspatil/flickoff)
-
-
----
-
-1029 |    ✰ 20 ✰    |    Android-Tamper-Detector
-
-A simple library that can help you detect if you app is modded or tampered with
-
-[https://github.com/mukeshsolanki/android-tamper-detector](https://github.com/mukeshsolanki/android-tamper-detector)
-
-
----
-
-1030 |    ✰ 20 ✰    |    SnapAndMatch
-
-
-
-[https://github.com/jaouan/snapandmatch](https://github.com/jaouan/snapandmatch)
-
-
----
-
-1031 |    ✰ 20 ✰    |    Space-Trivia
-
-:rocket: A space-themed trivia app for Android.
-
-[https://github.com/ruscoe/space-trivia](https://github.com/ruscoe/space-trivia)
-
-
----
-
-1032 |    ✰ 20 ✰    |    Kommander
-
-Kommander - Easy asynchronous programming
-
-[https://github.com/wokdsem/kommander](https://github.com/wokdsem/kommander)
-
-
----
-
-1033 |    ✰ 20 ✰    |    prayertimes
-
-prayertimes and auto silent mode for Android OS.
-
-[https://github.com/shefra/prayertimes](https://github.com/shefra/prayertimes)
-
-
----
-
-1034 |    ✰ 20 ✰    |    PersianSearchableSpinner
-
-Custom Spinner element with searchable
-
-[https://github.com/bkhezry/persiansearchablespinner](https://github.com/bkhezry/persiansearchablespinner)
-
-
----
-
-1035 |    ✰ 20 ✰    |    AndroidPdfViewer
-
-Lightweight PDF Renderer Android 
-
-[https://github.com/manishkummar21/androidpdfviewer](https://github.com/manishkummar21/androidpdfviewer)
-
-
----
-
-1036 |    ✰ 20 ✰    |    AutoQuickAdapter
-
-Make load-more easy for ListView and RecycleView.
-
-[https://github.com/eastwoodyang/autoquickadapter](https://github.com/eastwoodyang/autoquickadapter)
-
-
----
-
-1037 |    ✰ 20 ✰    |    contacts-generator-android
+✰✰✰ 21
 
 A simple contact generating app for people who like contact photos and real names.
 
@@ -9338,88 +12789,64 @@ A simple contact generating app for people who like contact photos and real name
 
 ---
 
-1038 |    ✰ 20 ✰    |    bettergram-android
+1163 |    filterspinner
 
-Bettergram Android Dev 
+✰✰✰ 21
 
-[https://github.com/bettergram/bettergram-android](https://github.com/bettergram/bettergram-android)
+Custom android view to replace spinner. It gives you filtering options.
 
-
----
-
-1039 |    ✰ 19 ✰    |    jcal
-
-Jalali Calendar Library
-
-[https://github.com/persiancal/jcal](https://github.com/persiancal/jcal)
+[https://github.com/tomasz-m/filterspinner](https://github.com/tomasz-m/filterspinner)
 
 
 ---
 
-1040 |    ✰ 19 ✰    |    RxJavaRetrofitAdapter
+1164 |    ledtextview
 
-RxJava 3 adapter for Retrofit 2
+✰✰✰ 21
 
-[https://github.com/akarnokd/rxjavaretrofitadapter](https://github.com/akarnokd/rxjavaretrofitadapter)
+An sample of LedTextView on Android.
 
-
----
-
-1041 |    ✰ 19 ✰    |    SmartKeyboardNgram-Android
-
-Keyboard using predictive words generated by an NPL model
-
-[https://github.com/mccorby/smartkeyboardngram-android](https://github.com/mccorby/smartkeyboardngram-android)
+[https://github.com/vectoryi/ledtextview](https://github.com/vectoryi/ledtextview)
 
 
 ---
 
-1042 |    ✰ 19 ✰    |    android-materialButton-behavior
+1165 |    androli
 
-Android Material Button(Extended FAB) Behavior on RecyclerView
+✰✰✰ 20
 
-[https://github.com/imanx/android-materialbutton-behavior](https://github.com/imanx/android-materialbutton-behavior)
+Explore the view layout of Android apps in 3D.
 
-
----
-
-1043 |    ✰ 19 ✰    |    tracker
-
-Tracking the user interaction before crash occurs and using that data in crash reporting.
-
-[https://github.com/android-infoedge/tracker](https://github.com/android-infoedge/tracker)
+[https://github.com/caviola/androli](https://github.com/caviola/androli)
 
 
 ---
 
-1044 |    ✰ 19 ✰    |    SingleDateAndTimePicker
+1166 |    snapandmatch
 
-You can now select a date and a time with only one widget !
+✰✰✰ 20
 
-[https://github.com/nomanr/singledateandtimepicker](https://github.com/nomanr/singledateandtimepicker)
+None
 
-
----
-
-1045 |    ✰ 19 ✰    |    hodor-keyboard
-
-An Android soft keyboard using Hodor code inspired on whymarrh/morse-code-keyboard
-
-[https://github.com/benoffi7/hodor-keyboard](https://github.com/benoffi7/hodor-keyboard)
+[https://github.com/jaouan/snapandmatch](https://github.com/jaouan/snapandmatch)
 
 
 ---
 
-1046 |    ✰ 19 ✰    |    fuzzywuzzy-kotlin
+1167 |    animatedtextview
 
-Fuzzy string matching for Kotlin (JVM, native, JS, Web Assembly) - port of Fuzzy Wuzzy Python lib
+✰✰✰ 20
 
-[https://github.com/willowtreeapps/fuzzywuzzy-kotlin](https://github.com/willowtreeapps/fuzzywuzzy-kotlin)
+Android textview modified to animate each letter
+
+[https://github.com/ksughosh/animatedtextview](https://github.com/ksughosh/animatedtextview)
 
 
 ---
 
-1047 |    ✰ 19 ✰    |    Kernel-Tuner
+1168 |    kernel-tuner
+
+✰✰✰ 20
 
 Take control of your device
 
@@ -9428,16 +12855,75 @@ Take control of your device
 
 ---
 
-1048 |    ✰ 19 ✰    |    Radial-Menu-Library-Source
+1169 |    space-trivia
 
+✰✰✰ 20
 
+:rocket: A space-themed trivia app for Android.
 
-[https://github.com/strider2023/radial-menu-library-source](https://github.com/strider2023/radial-menu-library-source)
+[https://github.com/ruscoe/space-trivia](https://github.com/ruscoe/space-trivia)
 
 
 ---
 
-1049 |    ✰ 19 ✰    |    SqlbriteWithAutoValue
+1170 |    prayertimes
+
+✰✰✰ 20
+
+prayertimes and auto silent mode for Android OS.
+
+[https://github.com/shefra/prayertimes](https://github.com/shefra/prayertimes)
+
+
+---
+
+1171 |    kommander
+
+✰✰✰ 20
+
+Kommander - Easy asynchronous programming
+
+[https://github.com/wokdsem/kommander](https://github.com/wokdsem/kommander)
+
+
+---
+
+1172 |    Balloon-SeekBar
+
+✰✰✰ 20
+
+Android SeekBar with Balloon style and interactive animation
+
+[https://github.com/mofakhrpour/Balloon-SeekBar](https://github.com/mofakhrpour/Balloon-SeekBar)
+
+
+---
+
+1173 |    tracker
+
+✰✰✰ 19
+
+Tracking the user interaction before crash occurs and using that data in crash reporting.
+
+[https://github.com/android-infoedge/tracker](https://github.com/android-infoedge/tracker)
+
+
+---
+
+1174 |    hodor-keyboard
+
+✰✰✰ 19
+
+An Android soft keyboard using Hodor code inspired on whymarrh/morse-code-keyboard
+
+[https://github.com/benoffi7/hodor-keyboard](https://github.com/benoffi7/hodor-keyboard)
+
+
+---
+
+1175 |    sqlbritewithautovalue
+
+✰✰✰ 19
 
 This project is example of Android app with sqlbrite and AutoValue and AutoValueExtensions and famous libraries. 
 
@@ -9446,79 +12932,9 @@ This project is example of Android app with sqlbrite and AutoValue and AutoValue
 
 ---
 
-1050 |    ✰ 18 ✰    |    lunch-in
+1176 |    doubleseekbar
 
-
-
-[https://github.com/androidatelier/lunch-in](https://github.com/androidatelier/lunch-in)
-
-
----
-
-1051 |    ✰ 18 ✰    |    sentry
-
-A lightweight (21KB) wrapper for inline Android permission checks/requests.
-
-[https://github.com/karn/sentry](https://github.com/karn/sentry)
-
-
----
-
-1052 |    ✰ 18 ✰    |    android-equiwidth-horizontal-layout
-
-DEPRECATED
-
-[https://github.com/curioustechizen/android-equiwidth-horizontal-layout](https://github.com/curioustechizen/android-equiwidth-horizontal-layout)
-
-
----
-
-1053 |    ✰ 18 ✰    |    TwitterLists
-
-An Android application to manage your Twitter lists.
-
-[https://github.com/mpieter/twitterlists](https://github.com/mpieter/twitterlists)
-
-
----
-
-1054 |    ✰ 18 ✰    |    motion-tab-layout
-
-MotionLayout example demonstrating collapsing header with TabLayout and ViewPager
-
-[https://github.com/kaeawc/motion-tab-layout](https://github.com/kaeawc/motion-tab-layout)
-
-
----
-
-1055 |    ✰ 18 ✰    |    android-gesture-sample
-
-Sample app demonstrating using simple GestureDetectors
-
-[https://github.com/rharter/android-gesture-sample](https://github.com/rharter/android-gesture-sample)
-
-
----
-
-1056 |    ✰ 18 ✰    |    MaterialSamples
-
-Samples for the Material library by Zielony
-
-[https://github.com/zieiony/materialsamples](https://github.com/zieiony/materialsamples)
-
-
----
-
-1057 |    ✰ 17 ✰    |    Cooper
-
-Cool User agent interceptor for Okhttp3
-
-[https://github.com/danielceinos/cooper](https://github.com/danielceinos/cooper)
-
-
----
-
-1058 |    ✰ 17 ✰    |    DoubleSeekBar
+✰✰✰ 19
 
 Android custom SeekBar. Allows easy use of two SeekBars. One to set a minimum value and an extra to set a maximum value.
 
@@ -9527,7 +12943,108 @@ Android custom SeekBar. Allows easy use of two SeekBars. One to set a minimum va
 
 ---
 
-1059 |    ✰ 17 ✰    |    fontawesome-to-android
+1177 |    remote-storage-android-things
+
+✰✰✰ 19
+
+Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.
+
+[https://github.com/kevalpatel2106/remote-storage-android-things](https://github.com/kevalpatel2106/remote-storage-android-things)
+
+
+---
+
+1178 |    radial-menu-library-source
+
+✰✰✰ 19
+
+None
+
+[https://github.com/strider2023/radial-menu-library-source](https://github.com/strider2023/radial-menu-library-source)
+
+
+---
+
+1179 |    rapidmavenpushplugin
+
+✰✰✰ 19
+
+A Gradle plugin : Upload Artifacts to Multi Maven Repository
+
+[https://github.com/wangjiegulu/rapidmavenpushplugin](https://github.com/wangjiegulu/rapidmavenpushplugin)
+
+
+---
+
+1180 |    lunch-in
+
+✰✰✰ 18
+
+None
+
+[https://github.com/androidatelier/lunch-in](https://github.com/androidatelier/lunch-in)
+
+
+---
+
+1181 |    android-equiwidth-horizontal-layout
+
+✰✰✰ 18
+
+DEPRECATED
+
+[https://github.com/curioustechizen/android-equiwidth-horizontal-layout](https://github.com/curioustechizen/android-equiwidth-horizontal-layout)
+
+
+---
+
+1182 |    twitterlists
+
+✰✰✰ 18
+
+An Android application to manage your Twitter lists.
+
+[https://github.com/mpieter/twitterlists](https://github.com/mpieter/twitterlists)
+
+
+---
+
+1183 |    singledateandtimepicker
+
+✰✰✰ 18
+
+You can now select a date and a time with only one widget !
+
+[https://github.com/nomanr/singledateandtimepicker](https://github.com/nomanr/singledateandtimepicker)
+
+
+---
+
+1184 |    android-gesture-sample
+
+✰✰✰ 18
+
+Sample app demonstrating using simple GestureDetectors
+
+[https://github.com/rharter/android-gesture-sample](https://github.com/rharter/android-gesture-sample)
+
+
+---
+
+1185 |    materialsamples
+
+✰✰✰ 18
+
+Samples for the Material library by Zielony
+
+[https://github.com/zieiony/materialsamples](https://github.com/zieiony/materialsamples)
+
+
+---
+
+1186 |    fontawesome-to-android
+
+✰✰✰ 17
 
 A python script to convert font awesome icons to png and place them in android density buckets
 
@@ -9536,34 +13053,9 @@ A python script to convert font awesome icons to png and place them in android d
 
 ---
 
-1060 |    ✰ 17 ✰    |    async-task
+1187 |    lifecounter
 
-Simple Android async task replacement
-
-[https://github.com/rongi/async-task](https://github.com/rongi/async-task)
-
-
----
-
-1061 |    ✰ 17 ✰    |    book-worm
-
-Explore bestselling books and manage your reading list
-
-[https://github.com/ronak-lm/book-worm](https://github.com/ronak-lm/book-worm)
-
-
----
-
-1062 |    ✰ 17 ✰    |    AndroidDesignLibraryDemo
-
-Android New Design Library Demo
-
-[https://github.com/pratikbutani/androiddesignlibrarydemo](https://github.com/pratikbutani/androiddesignlibrarydemo)
-
-
----
-
-1063 |    ✰ 17 ✰    |    LifeCounter
+✰✰✰ 17
 
 Android application to manage your life total in Magic The Gathering in a simple and easy way
 
@@ -9572,88 +13064,97 @@ Android application to manage your life total in Magic The Gathering in a simple
 
 ---
 
-1064 |    ✰ 17 ✰    |    WidgetDrawer
+1188 |    contact-room
 
+✰✰✰ 17
 
+A simple android project demonstrating use of Room with all CRUD operations.
 
-[https://github.com/zacharee/widgetdrawer](https://github.com/zacharee/widgetdrawer)
+[https://github.com/gurleensethi/contact-room](https://github.com/gurleensethi/contact-room)
 
 
 ---
 
-1065 |    ✰ 17 ✰    |    AndroidWebServiceManager
+1189 |    bottom-navigation-view-android
+
+✰✰✰ 17
+
+Custom Bottom-Navigation-View to prevent shifting icon/menu for Android
+
+[https://github.com/patoliavishal/bottom-navigation-view-android](https://github.com/patoliavishal/bottom-navigation-view-android)
 
 
+---
+
+1190 |    androiddesignlibrarydemo
+
+✰✰✰ 17
+
+Android New Design Library Demo
+
+[https://github.com/pratikbutani/androiddesignlibrarydemo](https://github.com/pratikbutani/androiddesignlibrarydemo)
+
+
+---
+
+1191 |    androidwebservicemanager
+
+✰✰✰ 17
+
+None
 
 [https://github.com/raizlabs/androidwebservicemanager](https://github.com/raizlabs/androidwebservicemanager)
 
 
 ---
 
-1066 |    ✰ 16 ✰    |    AutoSystemApp
+1192 |    book-worm
 
-This code contains a sample about how to make an app move itself to or remove itself from /system/priv-app/ folder in order to automatically grant privileged system app permissions, such as android.permission.MODIFY_PHONE_STATE
+✰✰✰ 17
 
-[https://github.com/bamsbamx/autosystemapp](https://github.com/bamsbamx/autosystemapp)
+Explore bestselling books and manage your reading list
 
-
----
-
-1067 |    ✰ 16 ✰    |    SearchPreference
-
-Search inside Android Preferences
-
-[https://github.com/bytehamster/searchpreference](https://github.com/bytehamster/searchpreference)
+[https://github.com/ronak-lm/book-worm](https://github.com/ronak-lm/book-worm)
 
 
 ---
 
-1068 |    ✰ 16 ✰    |    ChatServer
+1193 |    async-task
 
-ChatServer
+✰✰✰ 17
 
-[https://github.com/jasmine8gu/chatserver](https://github.com/jasmine8gu/chatserver)
+Simple Android async task replacement
 
-
----
-
-1069 |    ✰ 16 ✰    |    Prado
-
-Your images, your art gallery
-
-[https://github.com/adevintaspain/prado](https://github.com/adevintaspain/prado)
+[https://github.com/rongi/async-task](https://github.com/rongi/async-task)
 
 
 ---
 
-1070 |    ✰ 16 ✰    |    Android
+1194 |    kotlin-annotation-processor
 
-Step by step guide for various components in android
+✰✰✰ 17
 
-[https://github.com/bhavyakaria/android](https://github.com/bhavyakaria/android)
+Annotation Processor Sample in Kotlin 
 
-
----
-
-1071 |    ✰ 16 ✰    |    cardentry
-
-Android Credit/Debit Card Entry Fast and Fully Animated
-
-[https://github.com/talobin/cardentry](https://github.com/talobin/cardentry)
+[https://github.com/tarek360/kotlin-annotation-processor](https://github.com/tarek360/kotlin-annotation-processor)
 
 
 ---
 
-1072 |    ✰ 16 ✰    |    Calendor
+1195 |    elegantchatui
 
-Calendor is a simple material calendar designed with functionality and ease of use in mind
+✰✰✰ 17
 
-[https://github.com/tenkei/calendor](https://github.com/tenkei/calendor)
+kotlin chat ui
+
+[https://github.com/whuajian/elegantchatui](https://github.com/whuajian/elegantchatui)
 
 
 ---
 
-1073 |    ✰ 16 ✰    |    DBXDroid
+1196 |    dbxdroid
+
+✰✰✰ 16
 
 Simple ORM Library for Android SQLite Database 
 
@@ -9662,25 +13163,86 @@ Simple ORM Library for Android SQLite Database
 
 ---
 
-1074 |    ✰ 15 ✰    |    android-ocr-test
+1197 |    driftdrawer
 
-OCR (Optical Character Recognition) sample application for lazy programmers
+✰✰✰ 16
 
-[https://github.com/ismaeltoe/android-ocr-test](https://github.com/ismaeltoe/android-ocr-test)
+Easy and Unique implementation for Android Navigation Drawer
 
-
----
-
-1075 |    ✰ 15 ✰    |    AndroidGLKit
-
-AndroidGLKit provides OpenGL ES 2.0 boilerplate codes for Android.
-
-[https://github.com/skyfe79/androidglkit](https://github.com/skyfe79/androidglkit)
+[https://github.com/arihantjain456/driftdrawer](https://github.com/arihantjain456/driftdrawer)
 
 
 ---
 
-1076 |    ✰ 15 ✰    |    PersianDT
+1198 |    autosystemapp
+
+✰✰✰ 16
+
+This code contains a sample about how to make an app move itself to or remove itself from /system/priv-app/ folder in order to automatically grant privileged system app permissions, such as android.permission.MODIFY_PHONE_STATE
+
+[https://github.com/bamsbamx/autosystemapp](https://github.com/bamsbamx/autosystemapp)
+
+
+---
+
+1199 |    chatserver
+
+✰✰✰ 16
+
+ChatServer
+
+[https://github.com/jasmine8gu/chatserver](https://github.com/jasmine8gu/chatserver)
+
+
+---
+
+1200 |    viewpagerdsl
+
+✰✰✰ 16
+
+Kotlin DSL for ViewPager and FragmentPagerAdapter
+
+[https://github.com/mhashim6/viewpagerdsl](https://github.com/mhashim6/viewpagerdsl)
+
+
+---
+
+1201 |    cardentry
+
+✰✰✰ 16
+
+Android Credit/Debit Card Entry Fast and Fully Animated
+
+[https://github.com/talobin/cardentry](https://github.com/talobin/cardentry)
+
+
+---
+
+1202 |    LifecycleMusicPlayer
+
+✰✰✰ 16
+
+Sample music player app with lifecycle component to play/pause music when certain lifecycle events are triggered in Activity
+
+[https://github.com/AkshayChordiya/LifecycleMusicPlayer](https://github.com/AkshayChordiya/LifecycleMusicPlayer)
+
+
+---
+
+1203 |    Chaty
+
+✰✰✰ 16
+
+A Comet Chat Pro based Chatting Android App
+
+[https://github.com/cometchat-pro-tutorials/Chaty](https://github.com/cometchat-pro-tutorials/Chaty)
+
+
+---
+
+1204 |    persiandt
+
+✰✰✰ 15
 
 PesianDate for JAVA :date:
 
@@ -9689,7 +13251,20 @@ PesianDate for JAVA :date:
 
 ---
 
-1077 |    ✰ 15 ✰    |    android-double-take
+1205 |    easygrant
+
+✰✰✰ 15
+
+EasyGrant is yet another Android Library to ease the process of asking Runtime Permissions, written in Kotlin compatible with both Kotlin and Java
+
+[https://github.com/abhinav272/easygrant](https://github.com/abhinav272/easygrant)
+
+
+---
+
+1206 |    android-double-take
+
+✰✰✰ 15
 
 Simple animation helpers for Android [NO LONGER MAINTAINED]
 
@@ -9698,106 +13273,9 @@ Simple animation helpers for Android [NO LONGER MAINTAINED]
 
 ---
 
-1078 |    ✰ 15 ✰    |    AnimatedNavBar
+1207 |    autoinsertedittext
 
-Animated material bottom navigation bar
-
-[https://github.com/kadahlin/animatednavbar](https://github.com/kadahlin/animatednavbar)
-
-
----
-
-1079 |    ✰ 15 ✰    |    NavigationResult
-
-startActivityForResult but for fragments! (Addon for Jetpack's Navigation component)
-
-[https://github.com/phelat/navigationresult](https://github.com/phelat/navigationresult)
-
-
----
-
-1080 |    ✰ 14 ✰    |    open-source-android-apps
-
-Open-Source Android Apps
-
-[https://github.com/erpragatisingh/open-source-android-apps](https://github.com/erpragatisingh/open-source-android-apps)
-
-
----
-
-1081 |    ✰ 14 ✰    |    Daytripper
-
-Chatbot that learns and provides map, video, and Web searches.
-
-[https://github.com/datjandra/daytripper](https://github.com/datjandra/daytripper)
-
-
----
-
-1082 |    ✰ 14 ✰    |    QuickReminderWidget
-
-QuickReminderWidget Android App
-
-[https://github.com/sickmartian/quickreminderwidget](https://github.com/sickmartian/quickreminderwidget)
-
-
----
-
-1083 |    ✰ 14 ✰    |    SmartRingtoneMakerLTE
-
-Smart-Ringtone-Maker-LTE is an enhanced version of Ringdroid with Unique UX/UI experience
-
-[https://github.com/joseph27/smartringtonemakerlte](https://github.com/joseph27/smartringtonemakerlte)
-
-
----
-
-1084 |    ✰ 14 ✰    |    BigTextButton
-
-Android sample code showing how to size text to fit a view
-
-[https://github.com/catchthecows/bigtextbutton](https://github.com/catchthecows/bigtextbutton)
-
-
----
-
-1085 |    ✰ 14 ✰    |    AndroidModularization
-
-Modular android implementation example
-
-[https://github.com/abbas-oveissi/androidmodularization](https://github.com/abbas-oveissi/androidmodularization)
-
-
----
-
-1086 |    ✰ 14 ✰    |    TMDB-App
-
-Demo app using TMDB api 
-
-[https://github.com/auto-droid/tmdb-app](https://github.com/auto-droid/tmdb-app)
-
-
----
-
-1087 |    ✰ 14 ✰    |    android-ganje
-
-Hand picked resources for learning Android development.
-
-[https://github.com/ssisakhti/android-ganje](https://github.com/ssisakhti/android-ganje)
-
-
----
-
-1088 |    ✰ 14 ✰    |    MFileChooser
-
-Cordova/Phonegap plugin that supplies a File Chooser
-
-[https://github.com/maginsoft/mfilechooser](https://github.com/maginsoft/mfilechooser)
-
-
----
-
-1089 |    ✰ 14 ✰    |    AutoInsertEditText
+✰✰✰ 15
 
 Auto insert characters into EditText
 
@@ -9806,52 +13284,97 @@ Auto insert characters into EditText
 
 ---
 
-1090 |    ✰ 14 ✰    |    android-eth-wallet
+1208 |    android-ocr-test
 
-Android cryptocurrency wallet app with clean architecture 
+✰✰✰ 15
 
-[https://github.com/ibrahimsn98/android-eth-wallet](https://github.com/ibrahimsn98/android-eth-wallet)
+OCR (Optical Character Recognition) sample application for lazy programmers
 
-
----
-
-1091 |    ✰ 14 ✰    |    InstantRuntimePermissions
-
-Android Permissions Library. You can add run-time Marshmellow permissions with a single line of code.
-
-[https://github.com/sneha010/instantruntimepermissions](https://github.com/sneha010/instantruntimepermissions)
+[https://github.com/ismaeltoe/android-ocr-test](https://github.com/ismaeltoe/android-ocr-test)
 
 
 ---
 
-1092 |    ✰ 14 ✰    |    sweet-alert-dialog
+1209 |    dragon
 
-Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+✰✰✰ 15
 
-[https://github.com/lzyzsd/sweet-alert-dialog](https://github.com/lzyzsd/sweet-alert-dialog)
+Secure messenger
 
-
----
-
-1093 |    ✰ 14 ✰    |    Android-Dynamic-Search-Adapter
-
-Source code for one for all list search adapter that provides a search feature to unlimited number of extending adapters for their individual lists when attached to recycler view.
-
-[https://github.com/mmobin789/android-dynamic-search-adapter](https://github.com/mmobin789/android-dynamic-search-adapter)
+[https://github.com/miladdavoodi/dragon](https://github.com/miladdavoodi/dragon)
 
 
 ---
 
-1094 |    ✰ 14 ✰    |    HoloKitKatDrawer
+1210 |    AIO
 
-[DEPRECATED] See for the MaterialDrawer for updates | Description: A simple Project to show how to use the new TranslucentDecor with a Drawer
+✰✰✰ 15
 
-[https://github.com/mikepenz/holokitkatdrawer](https://github.com/mikepenz/holokitkatdrawer)
+A highly modularized Android project with a future to show latest trends on Android.
+
+[https://github.com/worldsnas/AIO](https://github.com/worldsnas/AIO)
 
 
 ---
 
-1095 |    ✰ 14 ✰    |    Sko4
+1211 |    empress
+
+✰✰✰ 15
+
+Android framework for ruling your app
+
+[https://github.com/nofrills-io/empress](https://github.com/nofrills-io/empress)
+
+
+---
+
+1212 |    rxbilling
+
+✰✰✰ 15
+
+RxJava binding APIs for Google Play Billing
+
+[https://github.com/prcaen/rxbilling](https://github.com/prcaen/rxbilling)
+
+
+---
+
+1213 |    tmdb-app
+
+✰✰✰ 14
+
+Demo app using TMDB api 
+
+[https://github.com/auto-droid/tmdb-app](https://github.com/auto-droid/tmdb-app)
+
+
+---
+
+1214 |    bigtextbutton
+
+✰✰✰ 14
+
+Android sample code showing how to size text to fit a view
+
+[https://github.com/catchthecows/bigtextbutton](https://github.com/catchthecows/bigtextbutton)
+
+
+---
+
+1215 |    daytripper
+
+✰✰✰ 14
+
+Chatbot that learns and provides map, video, and Web searches.
+
+[https://github.com/datjandra/daytripper](https://github.com/datjandra/daytripper)
+
+
+---
+
+1216 |    sko4
+
+✰✰✰ 14
 
 Sko4.com android application source code
 
@@ -9860,151 +13383,31 @@ Sko4.com android application source code
 
 ---
 
-1096 |    ✰ 14 ✰    |    CalendarTool
+1217 |    open-source-android-apps
 
+✰✰✰ 14
 
+Open-Source Android Apps
 
-[https://github.com/spournasseh/calendartool](https://github.com/spournasseh/calendartool)
-
-
----
-
-1097 |    ✰ 14 ✰    |    AndroidKeyboardStateChecker
-
-
-
-[https://github.com/enyciaa/androidkeyboardstatechecker](https://github.com/enyciaa/androidkeyboardstatechecker)
+[https://github.com/erpragatisingh/open-source-android-apps](https://github.com/erpragatisingh/open-source-android-apps)
 
 
 ---
 
-1098 |    ✰ 14 ✰    |    SimpleWeatherForecast
+1218 |    analogclock
 
-A simple application that gives you the weather forecast for 14 days according to your location.
+✰✰✰ 14
 
-[https://github.com/tvbarthel/simpleweatherforecast](https://github.com/tvbarthel/simpleweatherforecast)
+Simple Analog Clock with Clickable Data
 
-
----
-
-1099 |    ✰ 14 ✰    |    litho-lint-rules
-
-Lint rules for Litho by Facebook http://fblitho.com/
-
-[https://github.com/pavlospt/litho-lint-rules](https://github.com/pavlospt/litho-lint-rules)
+[https://github.com/huteri/analogclock](https://github.com/huteri/analogclock)
 
 
 ---
 
-1100 |    ✰ 14 ✰    |    double-tf-android
+1219 |    transfer.sh
 
-[Deprecated, checkout https://bintray.com/google/tensorflow/tensorflow-android] A pure Gradle port of the TensorFlow library for Android!
-
-[https://github.com/piasy/double-tf-android](https://github.com/piasy/double-tf-android)
-
-
----
-
-1101 |    ✰ 13 ✰    |    PopupDemo
-
-Demo of a Quick Action-like popup in Android
-
-[https://github.com/nolanlawson/popupdemo](https://github.com/nolanlawson/popupdemo)
-
-
----
-
-1102 |    ✰ 13 ✰    |    DemoTwitterImagePost
-
-Demo to post a tweet/tweet with image using twitter4j
-
-[https://github.com/learnncode/demotwitterimagepost](https://github.com/learnncode/demotwitterimagepost)
-
-
----
-
-1103 |    ✰ 13 ✰    |    NfA
-
-Android Library for simplifing nfc developpment
-
-[https://github.com/nfcforandroid/nfa](https://github.com/nfcforandroid/nfa)
-
-
----
-
-1104 |    ✰ 13 ✰    |    issue-handler
-
-Android Library for handling uncaught exceptions and sending it to installed IssueBot program for posing to bug-trackers.
-
-[https://github.com/busylee999/issue-handler](https://github.com/busylee999/issue-handler)
-
-
----
-
-1105 |    ✰ 13 ✰    |    to-google-spreadsheet
-
-Application example to write to a spreadsheet stored in Google Drive. It uses OAuth2 authentication to get a token to access user's spreadsheets.
-
-[https://github.com/gregriggins36/to-google-spreadsheet](https://github.com/gregriggins36/to-google-spreadsheet)
-
-
----
-
-1106 |    ✰ 13 ✰    |    Bamdad-Persian-Calendar-
-
-Open source life Manager Android Application ( برنامه اندروید مدیریت زندگی‌ )
-
-[https://github.com/soheilnikbin/bamdad-persian-calendar-](https://github.com/soheilnikbin/bamdad-persian-calendar-)
-
-
----
-
-1107 |    ✰ 13 ✰    |    tipz-android
-
-Tipz.io - Learn Android Best Practices By Example
-
-[https://github.com/tipz/tipz-android](https://github.com/tipz/tipz-android)
-
-
----
-
-1108 |    ✰ 13 ✰    |    learnings
-
-Summaries of every thing that i learn daily.
-
-[https://github.com/nasrabadiam/learnings](https://github.com/nasrabadiam/learnings)
-
-
----
-
-1109 |    ✰ 13 ✰    |    android-ble-sample
-
-Bluetooth Low Energy to Android Connection
-
-[https://github.com/rizasif/android-ble-sample](https://github.com/rizasif/android-ble-sample)
-
-
----
-
-1110 |    ✰ 13 ✰    |    common
-
-Java Common Library
-
-[https://github.com/serso/common](https://github.com/serso/common)
-
-
----
-
-1111 |    ✰ 13 ✰    |    Ergo
-
-A library for easily executing asynchronous tasks using IntentServices
-
-[https://github.com/nhaarman/ergo](https://github.com/nhaarman/ergo)
-
-
----
-
-1112 |    ✰ 13 ✰    |    Transfer.sh
+✰✰✰ 14
 
 Easy file sharing from your Android device!
 
@@ -10013,16 +13416,218 @@ Easy file sharing from your Android device!
 
 ---
 
-1113 |    ✰ 13 ✰    |    volume_control_android
+1220 |    sweet-alert-dialog
 
-noads/free volume controll application
+✰✰✰ 14
 
-[https://github.com/punksta/volume_control_android](https://github.com/punksta/volume_control_android)
+Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+
+[https://github.com/lzyzsd/sweet-alert-dialog](https://github.com/lzyzsd/sweet-alert-dialog)
 
 
 ---
 
-1114 |    ✰ 13 ✰    |    RotateWheelAndroid_lib4
+1221 |    mfilechooser
+
+✰✰✰ 14
+
+Cordova/Phonegap plugin that supplies a File Chooser
+
+[https://github.com/maginsoft/mfilechooser](https://github.com/maginsoft/mfilechooser)
+
+
+---
+
+1222 |    holokitkatdrawer
+
+✰✰✰ 14
+
+[DEPRECATED] See for the MaterialDrawer for updates | Description: A simple Project to show how to use the new TranslucentDecor with a Drawer
+
+[https://github.com/mikepenz/holokitkatdrawer](https://github.com/mikepenz/holokitkatdrawer)
+
+
+---
+
+1223 |    litho-lint-rules
+
+✰✰✰ 14
+
+Lint rules for Litho by Facebook http://fblitho.com/
+
+[https://github.com/pavlospt/litho-lint-rules](https://github.com/pavlospt/litho-lint-rules)
+
+
+---
+
+1224 |    double-tf-android
+
+✰✰✰ 14
+
+[Deprecated, checkout https://bintray.com/google/tensorflow/tensorflow-android] A pure Gradle port of the TensorFlow library for Android!
+
+[https://github.com/piasy/double-tf-android](https://github.com/piasy/double-tf-android)
+
+
+---
+
+1225 |    android-ble-sample
+
+✰✰✰ 14
+
+Bluetooth Low Energy to Android Connection
+
+[https://github.com/rizasif/android-ble-sample](https://github.com/rizasif/android-ble-sample)
+
+
+---
+
+1226 |    quickreminderwidget
+
+✰✰✰ 14
+
+QuickReminderWidget Android App
+
+[https://github.com/sickmartian/quickreminderwidget](https://github.com/sickmartian/quickreminderwidget)
+
+
+---
+
+1227 |    instantruntimepermissions
+
+✰✰✰ 14
+
+Android Permissions Library. You can add run-time Marshmellow permissions with a single line of code.
+
+[https://github.com/sneha010/instantruntimepermissions](https://github.com/sneha010/instantruntimepermissions)
+
+
+---
+
+1228 |    bamdad-persian-calendar-
+
+✰✰✰ 14
+
+Open source life Manager Android Application ( برنامه اندروید مدیریت زندگی‌ )
+
+[https://github.com/soheilnikbin/bamdad-persian-calendar-](https://github.com/soheilnikbin/bamdad-persian-calendar-)
+
+
+---
+
+1229 |    simpleweatherforecast
+
+✰✰✰ 14
+
+A simple application that gives you the weather forecast for 14 days according to your location.
+
+[https://github.com/tvbarthel/simpleweatherforecast](https://github.com/tvbarthel/simpleweatherforecast)
+
+
+---
+
+1230 |    querymovies
+
+✰✰✰ 14
+
+This repository shows a Android project with Clean Architecture, Functional Reactive Programming and MVP+Dagger
+
+[https://github.com/yaircarreno/querymovies](https://github.com/yaircarreno/querymovies)
+
+
+---
+
+1231 |    kotlin-date-range
+
+✰✰✰ 14
+
+Implementation of rangeTo operator for LocalDate and Date in kotlin
+
+[https://github.com/moallemi/kotlin-date-range](https://github.com/moallemi/kotlin-date-range)
+
+
+---
+
+1232 |    slider
+
+✰✰✰ 14
+
+Infinite Slider library built on top of epoxy
+
+[https://github.com/worldsnas/slider](https://github.com/worldsnas/slider)
+
+
+---
+
+1233 |    instagramstories
+
+✰✰✰ 13
+
+A demo application depicting stories just like in Instagram.
+
+[https://github.com/amanjeetsingh150/instagramstories](https://github.com/amanjeetsingh150/instagramstories)
+
+
+---
+
+1234 |    issue-handler
+
+✰✰✰ 13
+
+Android Library for handling uncaught exceptions and sending it to installed IssueBot program for posing to bug-trackers.
+
+[https://github.com/busylee999/issue-handler](https://github.com/busylee999/issue-handler)
+
+
+---
+
+1235 |    android-open-shopping-list
+
+✰✰✰ 13
+
+None
+
+[https://github.com/david-szabo97/android-open-shopping-list](https://github.com/david-szabo97/android-open-shopping-list)
+
+
+---
+
+1236 |    android-pathshapeview
+
+✰✰✰ 13
+
+Draw shapes or lines by path with marks
+
+[https://github.com/gleb8k/android-pathshapeview](https://github.com/gleb8k/android-pathshapeview)
+
+
+---
+
+1237 |    to-google-spreadsheet
+
+✰✰✰ 13
+
+Application example to write to a spreadsheet stored in Google Drive. It uses OAuth2 authentication to get a token to access user's spreadsheets.
+
+[https://github.com/gregriggins36/to-google-spreadsheet](https://github.com/gregriggins36/to-google-spreadsheet)
+
+
+---
+
+1238 |    demotwitterimagepost
+
+✰✰✰ 13
+
+Demo to post a tweet/tweet with image using twitter4j
+
+[https://github.com/learnncode/demotwitterimagepost](https://github.com/learnncode/demotwitterimagepost)
+
+
+---
+
+1239 |    rotatewheelandroid_lib4
+
+✰✰✰ 13
 
 Basic Wheel Rotation on android.
 
@@ -10031,25 +13636,75 @@ Basic Wheel Rotation on android.
 
 ---
 
-1115 |    ✰ 12 ✰    |    SpinnerTextView
+1240 |    nfa
 
-A CustomView like Spinner for Android (Kotlin)
+✰✰✰ 13
 
-[https://github.com/taindb/spinnertextview](https://github.com/taindb/spinnertextview)
+Android Library for simplifing nfc developpment
 
-
----
-
-1116 |    ✰ 12 ✰    |    ListViewToRecyclerView
-
-Library to help products migrate from ListView to RecyclerView.
-
-[https://github.com/fbsamples/listviewtorecyclerview](https://github.com/fbsamples/listviewtorecyclerview)
+[https://github.com/nfcforandroid/nfa](https://github.com/nfcforandroid/nfa)
 
 
 ---
 
-1117 |    ✰ 12 ✰    |    DynamicLayoutViewGroup
+1241 |    ergo
+
+✰✰✰ 13
+
+A library for easily executing asynchronous tasks using IntentServices
+
+[https://github.com/nhaarman/ergo](https://github.com/nhaarman/ergo)
+
+
+---
+
+1242 |    popupdemo
+
+✰✰✰ 13
+
+Demo of a Quick Action-like popup in Android
+
+[https://github.com/nolanlawson/popupdemo](https://github.com/nolanlawson/popupdemo)
+
+
+---
+
+1243 |    trustworthy
+
+✰✰✰ 13
+
+ایده‌ای برای ضمانت کالا
+
+[https://github.com/rastikerdar/trustworthy](https://github.com/rastikerdar/trustworthy)
+
+
+---
+
+1244 |    common
+
+✰✰✰ 13
+
+Java Common Library
+
+[https://github.com/serso/common](https://github.com/serso/common)
+
+
+---
+
+1245 |    reactive-pusher
+
+✰✰✰ 12
+
+An RxJava wrapper for the Pusher Java Library [Work in progress]
+
+[https://github.com/bufferapp/reactive-pusher](https://github.com/bufferapp/reactive-pusher)
+
+
+---
+
+1246 |    dynamiclayoutviewgroup
+
+✰✰✰ 12
 
 An Android ViewGroup that supports animating child Views at the layout level 
 
@@ -10058,43 +13713,42 @@ An Android ViewGroup that supports animating child Views at the layout level
 
 ---
 
-1118 |    ✰ 12 ✰    |    Sfen
+1247 |    spaceshooter
 
+✰✰✰ 12
 
+Android game published on the Google Play store. Used libGDX as the graphics API for cross-platform capability. 
 
-[https://github.com/lordgreg/sfen](https://github.com/lordgreg/sfen)
-
-
----
-
-1119 |    ✰ 12 ✰    |    log4k
-
-https://proandroiddev.com/logging-in-kotlin-8ecfb97a4840
-
-[https://github.com/sheypoor/log4k](https://github.com/sheypoor/log4k)
+[https://github.com/edwardonochie/spaceshooter](https://github.com/edwardonochie/spaceshooter)
 
 
 ---
 
-1120 |    ✰ 12 ✰    |    PushNoficationFirebase
+1248 |    listviewtorecyclerview
 
+✰✰✰ 12
 
+Library to help products migrate from ListView to RecyclerView.
 
-[https://github.com/vishal901/pushnoficationfirebase](https://github.com/vishal901/pushnoficationfirebase)
-
-
----
-
-1121 |    ✰ 12 ✰    |    MarsExplorer
-
-Android app to easily browse images captured on Mars.
-
-[https://github.com/krtkush/marsexplorer](https://github.com/krtkush/marsexplorer)
+[https://github.com/fbsamples/listviewtorecyclerview](https://github.com/fbsamples/listviewtorecyclerview)
 
 
 ---
 
-1122 |    ✰ 12 ✰    |    ai-assets
+1249 |    dottedview
+
+✰✰✰ 12
+
+Drawing Dots in android
+
+[https://github.com/imanneofight/dottedview](https://github.com/imanneofight/dottedview)
+
+
+---
+
+1250 |    ai-assets
+
+✰✰✰ 12
 
 Adobe Illustrator script to export grafic assets
 
@@ -10103,79 +13757,119 @@ Adobe Illustrator script to export grafic assets
 
 ---
 
-1123 |    ✰ 12 ✰    |    DragSelectionGridView
+1251 |    swipenumberpicker
 
-[Android] Recreation of Google Images app's gridview drag selection
+✰✰✰ 12
 
-[https://github.com/darkionavey/dragselectiongridview](https://github.com/darkionavey/dragselectiongridview)
+Simple NumberPicker, a number that is selected with the swipe gestures
 
-
----
-
-1124 |    ✰ 12 ✰    |    swipe-to-refresh-demo
-
-
-
-[https://github.com/zmdominguez/swipe-to-refresh-demo](https://github.com/zmdominguez/swipe-to-refresh-demo)
+[https://github.com/liyuzhao/swipenumberpicker](https://github.com/liyuzhao/swipenumberpicker)
 
 
 ---
 
-1125 |    ✰ 12 ✰    |    Hangman
+1252 |    sfen
 
-Hangman app for Android
+✰✰✰ 12
 
-[https://github.com/laurensv/hangman](https://github.com/laurensv/hangman)
+None
+
+[https://github.com/lordgreg/sfen](https://github.com/lordgreg/sfen)
 
 
 ---
 
-1126 |    ✰ 12 ✰    |    clean-architecture
+1253 |    universal-bottom-bar
 
-An Android app that shows a sufficiently clean architecture for local database storage and persistent storage.
+✰✰✰ 12
+
+Drawer plus bottombar
+
+[https://github.com/rajatsonii/universal-bottom-bar](https://github.com/rajatsonii/universal-bottom-bar)
+
+
+---
+
+1254 |    tipz-android
+
+✰✰✰ 12
+
+Tipz.io - Learn Android Best Practices By Example
+
+[https://github.com/tipz/tipz-android](https://github.com/tipz/tipz-android)
+
+
+---
+
+1255 |    clean-architecture
+
+✰✰✰ 12
+
+Recommendations for sufficiently clean architecture for local database storage and persistent storage.
 
 [https://github.com/tylersuehr7/clean-architecture](https://github.com/tylersuehr7/clean-architecture)
 
 
 ---
 
-1127 |    ✰ 11 ✰    |    android-nav-drawer
+1256 |    pushnoficationfirebase
 
-android navigation drawer in base activity
+✰✰✰ 12
 
-[https://github.com/mrthiago/android-nav-drawer](https://github.com/mrthiago/android-nav-drawer)
+None
 
-
----
-
-1128 |    ✰ 11 ✰    |    app-context
-
-A tiny utility library for Android to get the global app context without overriding the application class.
-
-[https://github.com/vrallev/app-context](https://github.com/vrallev/app-context)
+[https://github.com/vishal901/pushnoficationfirebase](https://github.com/vishal901/pushnoficationfirebase)
 
 
 ---
 
-1129 |    ✰ 11 ✰    |    BeautyClock
+1257 |    rapidmetainfplugin
 
-A simple project draw clock view by using Canvas and Kotlin
+✰✰✰ 12
 
-[https://github.com/taindb/beautyclock](https://github.com/taindb/beautyclock)
+Android Gradle Plugin for add generate file to META-INF folder in apk.
 
-
----
-
-1130 |    ✰ 11 ✰    |    android_video_player_types
-
-Exoplayer and what you can do with it vs. Videoview vs. Video Intent
-
-[https://github.com/childofthehorn/android_video_player_types](https://github.com/childofthehorn/android_video_player_types)
+[https://github.com/wangjiegulu/rapidmetainfplugin](https://github.com/wangjiegulu/rapidmetainfplugin)
 
 
 ---
 
-1131 |    ✰ 11 ✰    |    SurfaceGameProject
+1258 |    swipe-to-refresh-demo
+
+✰✰✰ 12
+
+None
+
+[https://github.com/zmdominguez/swipe-to-refresh-demo](https://github.com/zmdominguez/swipe-to-refresh-demo)
+
+
+---
+
+1259 |    bluetoothhelper
+
+✰✰✰ 11
+
+Bluetooth helper Java class
+
+[https://github.com/basicairdata/bluetoothhelper](https://github.com/basicairdata/bluetoothhelper)
+
+
+---
+
+1260 |    ads1015
+
+✰✰✰ 11
+
+AndroidThings Analog to Digital Converter Driver
+
+[https://github.com/blundell/ads1015](https://github.com/blundell/ads1015)
+
+
+---
+
+1261 |    surfacegameproject
+
+✰✰✰ 11
 
 A Game framework implementation using Android View components
 
@@ -10184,142 +13878,9 @@ A Game framework implementation using Android View components
 
 ---
 
-1132 |    ✰ 11 ✰    |    PresenterLite
+1262 |    fixedspans
 
-
-
-[https://github.com/stylingandroid/presenterlite](https://github.com/stylingandroid/presenterlite)
-
-
----
-
-1133 |    ✰ 11 ✰    |    Android-weather
-
-Weather Android App - Multiple Language
-
-[https://github.com/abbashosseini/android-weather](https://github.com/abbashosseini/android-weather)
-
-
----
-
-1134 |    ✰ 11 ✰    |    RxStarter
-
-This is a starter project for demonstrating simple RxJava2 samples in Android.
-
-[https://github.com/jacquessmuts/rxstarter](https://github.com/jacquessmuts/rxstarter)
-
-
----
-
-1135 |    ✰ 11 ✰    |    AIO
-
-A highly modularized Android project with a future to show latest trends on Android.
-
-[https://github.com/worldsnas/aio](https://github.com/worldsnas/aio)
-
-
----
-
-1136 |    ✰ 11 ✰    |    ActionBarPlus
-
-ActionBar Plus
-
-[https://github.com/dworks/actionbarplus](https://github.com/dworks/actionbarplus)
-
-
----
-
-1137 |    ✰ 11 ✰    |    android_WallBox
-
-Open source wallpaper editor android application
-
-[https://github.com/lithidsoftware/android_wallbox](https://github.com/lithidsoftware/android_wallbox)
-
-
----
-
-1138 |    ✰ 11 ✰    |    MaterialLibrary
-
-A collection of views/widgets devs can use in their code to make "material" apps
-
-[https://github.com/micnubinub/materiallibrary](https://github.com/micnubinub/materiallibrary)
-
-
----
-
-1139 |    ✰ 10 ✰    |    radiogeek
-
-Simple android application for persian podcast "RadioGeek"
-
-[https://github.com/farnabaz/radiogeek](https://github.com/farnabaz/radiogeek)
-
-
----
-
-1140 |    ✰ 10 ✰    |    ABTesting
-
-
-
-[https://github.com/tikivn/abtesting](https://github.com/tikivn/abtesting)
-
-
----
-
-1141 |    ✰ 10 ✰    |    overlaytutorial
-
-Create Transparent Demo pages on Android
-
-[https://github.com/marty331/overlaytutorial](https://github.com/marty331/overlaytutorial)
-
-
----
-
-1142 |    ✰ 10 ✰    |    SUID
-
-Simple Unique Identifier
-
-[https://github.com/bigfatsea/suid](https://github.com/bigfatsea/suid)
-
-
----
-
-1143 |    ✰ 10 ✰    |    Charter
-
-written in Kotlin, using WorkerApi, Paging, Room
-
-[https://github.com/abbas-oveissi/charter](https://github.com/abbas-oveissi/charter)
-
-
----
-
-1144 |    ✰ 10 ✰    |    DevInfoNotification
-
-This app notify info such as 'Nexus5 XXHDPI 5.1' 
-
-[https://github.com/takahirom/devinfonotification](https://github.com/takahirom/devinfonotification)
-
-
----
-
-1145 |    ✰ 10 ✰    |    NoNewPermissionForAndroid
-
-
-
-[https://github.com/thyrlian/nonewpermissionforandroid](https://github.com/thyrlian/nonewpermissionforandroid)
-
-
----
-
-1146 |    ✰ 10 ✰    |    DoReFindMi
-
-
-
-[https://github.com/tomaszrykala/dorefindmi](https://github.com/tomaszrykala/dorefindmi)
-
-
----
-
-1147 |    ✰ 10 ✰    |    FixedSpans
+✰✰✰ 11
 
 MonospaceSpan and TabularSpan with Sample
 
@@ -10328,7 +13889,174 @@ MonospaceSpan and TabularSpan with Sample
 
 ---
 
-1148 |    ✰ 10 ✰    |    Android-ListDialogExample
+1263 |    persiancaldroid
+
+✰✰✰ 11
+
+Persian CalendarView and DatePicker for Android
+
+[https://github.com/dariushm2/persiancaldroid](https://github.com/dariushm2/persiancaldroid)
+
+
+---
+
+1264 |    actionbarplus
+
+✰✰✰ 11
+
+ActionBar Plus
+
+[https://github.com/dworks/actionbarplus](https://github.com/dworks/actionbarplus)
+
+
+---
+
+1265 |    kotlinsample-mvp
+
+✰✰✰ 11
+
+Sample Kotlin project with MVP implementation
+
+[https://github.com/immathanr/kotlinsample-mvp](https://github.com/immathanr/kotlinsample-mvp)
+
+
+---
+
+1266 |    thrifty-retrofit-converter
+
+✰✰✰ 11
+
+Retrofit converter which uses Thrifty for Apache Thrift-compatible serialization
+
+[https://github.com/infinum/thrifty-retrofit-converter](https://github.com/infinum/thrifty-retrofit-converter)
+
+
+---
+
+1267 |    marsexplorer
+
+✰✰✰ 11
+
+Android app to easily browse images captured on Mars.
+
+[https://github.com/krtkush/marsexplorer](https://github.com/krtkush/marsexplorer)
+
+
+---
+
+1268 |    hangman
+
+✰✰✰ 11
+
+Hangman app for Android
+
+[https://github.com/laurensv/hangman](https://github.com/laurensv/hangman)
+
+
+---
+
+1269 |    android_wallbox
+
+✰✰✰ 11
+
+Open source wallpaper editor android application
+
+[https://github.com/lithidsoftware/android_wallbox](https://github.com/lithidsoftware/android_wallbox)
+
+
+---
+
+1270 |    materiallibrary
+
+✰✰✰ 11
+
+A collection of views/widgets devs can use in their code to make "material" apps
+
+[https://github.com/micnubinub/materiallibrary](https://github.com/micnubinub/materiallibrary)
+
+
+---
+
+1271 |    android-nav-drawer
+
+✰✰✰ 11
+
+android navigation drawer in base activity
+
+[https://github.com/mrthiago/android-nav-drawer](https://github.com/mrthiago/android-nav-drawer)
+
+
+---
+
+1272 |    unslack
+
+✰✰✰ 11
+
+Simple To-do app showcasing ObjectBox, Epoxy, RxJava2, Kotlin and MVVM architecture.
+
+[https://github.com/vincent-carrier/unslack](https://github.com/vincent-carrier/unslack)
+
+
+---
+
+1273 |    app-context
+
+✰✰✰ 11
+
+A tiny utility library for Android to get the global app context without overriding the application class.
+
+[https://github.com/vrallev/app-context](https://github.com/vrallev/app-context)
+
+
+---
+
+1274 |    suid
+
+✰✰✰ 10
+
+Simple Unique Identifier
+
+[https://github.com/bigfatsea/suid](https://github.com/bigfatsea/suid)
+
+
+---
+
+1275 |    radiogeek
+
+✰✰✰ 10
+
+Simple android application for persian podcast "RadioGeek"
+
+[https://github.com/farnabaz/radiogeek](https://github.com/farnabaz/radiogeek)
+
+
+---
+
+1276 |    simplest-sync-adapter
+
+✰✰✰ 10
+
+The bare minimum code that one will have to write to build a working sync adapter for an android app.
+
+[https://github.com/jaydeepw/simplest-sync-adapter](https://github.com/jaydeepw/simplest-sync-adapter)
+
+
+---
+
+1277 |    overlaytutorial
+
+✰✰✰ 10
+
+Create Transparent Demo pages on Android
+
+[https://github.com/marty331/overlaytutorial](https://github.com/marty331/overlaytutorial)
+
+
+---
+
+1278 |    android-listdialogexample
+
+✰✰✰ 10
 
 Example of how to create an Activity with Dialog theme, showing a list with images and text.
 
@@ -10337,34 +14065,9 @@ Example of how to create an Activity with Dialog theme, showing a list with imag
 
 ---
 
-1149 |    ✰ 10 ✰    |    morse-code-keyboard
+1279 |    morse-code-converter
 
-An Android soft keyboard using Morse code.
-
-[https://github.com/whymarrh/morse-code-keyboard](https://github.com/whymarrh/morse-code-keyboard)
-
-
----
-
-1150 |    ✰ 10 ✰    |    Minesweeper
-
-It's a good case study project for design patterns in java.
-
-[https://github.com/aminography/minesweeper](https://github.com/aminography/minesweeper)
-
-
----
-
-1151 |    ✰ 10 ✰    |    secrecy
-
-
-
-[https://github.com/doplgangr/secrecy](https://github.com/doplgangr/secrecy)
-
-
----
-
-1152 |    ✰ 10 ✰    |    Morse-Code-Converter
+✰✰✰ 10
 
 Android Morse Code Converter Application
 
@@ -10373,142 +14076,86 @@ Android Morse Code Converter Application
 
 ---
 
-1153 |    ✰ 9 ✰    |    genaroid
+1280 |    devinfonotification
 
-Fast Android development with annotation processing
+✰✰✰ 10
 
-[https://github.com/ixkor/genaroid](https://github.com/ixkor/genaroid)
+This app notify info such as 'Nexus5 XXHDPI 5.1' 
 
-
----
-
-1154 |    ✰ 9 ✰    |    InAppBillingHelper
-
-IranApps in-app billing helper library
-
-[https://github.com/iranapps/inappbillinghelper](https://github.com/iranapps/inappbillinghelper)
+[https://github.com/takahirom/devinfonotification](https://github.com/takahirom/devinfonotification)
 
 
 ---
 
-1155 |    ✰ 9 ✰    |    TrytoDothis
+1281 |    nonewpermissionforandroid
 
+✰✰✰ 10
 
+None
 
-[https://github.com/mkodekar/trytodothis](https://github.com/mkodekar/trytodothis)
-
-
----
-
-1156 |    ✰ 9 ✰    |    not-fancy-random-password-generator
-
-Application built for #NotFancyAppChallenge started by @samanthaming
-
-[https://github.com/mddanishansari/not-fancy-random-password-generator](https://github.com/mddanishansari/not-fancy-random-password-generator)
+[https://github.com/thyrlian/nonewpermissionforandroid](https://github.com/thyrlian/nonewpermissionforandroid)
 
 
 ---
 
-1157 |    ✰ 9 ✰    |    imgurdroid
+1282 |    abtesting
 
-Imgur client for Android
+✰✰✰ 10
 
-[https://github.com/nispok/imgurdroid](https://github.com/nispok/imgurdroid)
+None
 
-
----
-
-1158 |    ✰ 9 ✰    |    SamuraiView
-
-Simple showcase library. Made Samurai great again! ⚔️
-
-[https://github.com/st235/samuraiview](https://github.com/st235/samuraiview)
+[https://github.com/tikivn/abtesting](https://github.com/tikivn/abtesting)
 
 
 ---
 
-1159 |    ✰ 9 ✰    |    AndroidCustomImageView
+1283 |    dorefindmi
 
+✰✰✰ 10
 
+None
 
-[https://github.com/manishsri01/androidcustomimageview](https://github.com/manishsri01/androidcustomimageview)
-
-
----
-
-1160 |    ✰ 9 ✰    |    appwoodoo-android-sdk
-
-The simplest way to add an admin panel to existing or new apps, to edit their content.
-
-[https://github.com/appwoodoo/appwoodoo-android-sdk](https://github.com/appwoodoo/appwoodoo-android-sdk)
+[https://github.com/tomaszrykala/dorefindmi](https://github.com/tomaszrykala/dorefindmi)
 
 
 ---
 
-1161 |    ✰ 8 ✰    |    PluginManagementTutorial
+1284 |    rapidooo
 
+✰✰✰ 10
 
+Android POJO Converter:Generate scalable and bindable domain objects java class file automatically in compile time.
 
-[https://github.com/nikkyai/pluginmanagementtutorial](https://github.com/nikkyai/pluginmanagementtutorial)
-
-
----
-
-1162 |    ✰ 8 ✰    |    phuzei
-
-
-
-[https://github.com/alirezaafkar/phuzei](https://github.com/alirezaafkar/phuzei)
+[https://github.com/wangjiegulu/rapidooo](https://github.com/wangjiegulu/rapidooo)
 
 
 ---
 
-1163 |    ✰ 8 ✰    |    motion-photo-grid
+1285 |    morse-code-keyboard
 
-MotionLayout photo gallery demonstration
+✰✰✰ 10
 
-[https://github.com/kaeawc/motion-photo-grid](https://github.com/kaeawc/motion-photo-grid)
+An Android soft keyboard using Morse code.
 
-
----
-
-1164 |    ✰ 8 ✰    |    ATaxer
-
-calculate tax with ease
-
-[https://github.com/1hakr/ataxer](https://github.com/1hakr/ataxer)
+[https://github.com/whymarrh/morse-code-keyboard](https://github.com/whymarrh/morse-code-keyboard)
 
 
 ---
 
-1165 |    ✰ 8 ✰    |    AndroidImagePicker
+1286 |    AwesomePersianCalendar
 
-Capture and Crop an Image with the Device Camera
+✰✰✰ 10
 
-[https://github.com/dustookk/androidimagepicker](https://github.com/dustookk/androidimagepicker)
+None
 
-
----
-
-1166 |    ✰ 8 ✰    |    NimbleME
-
-Nimble Markdown Editor App for Android
-
-[https://github.com/arshadalisoomro/nimbleme](https://github.com/arshadalisoomro/nimbleme)
+[https://github.com/iamYMZ/AwesomePersianCalendar](https://github.com/iamYMZ/AwesomePersianCalendar)
 
 
 ---
 
-1167 |    ✰ 8 ✰    |    AnnoRouter
+1287 |    acharkit-android
 
-Android 接口式路由 / A routing framework to assist with Android Componentization. it's turns your route API into a Java interface.
-
-[https://github.com/eastwoodyang/annorouter](https://github.com/eastwoodyang/annorouter)
-
-
----
-
-1168 |    ✰ 8 ✰    |    acharkit-android
+✰✰✰ 9
 
 acharkit is utility framework for android
 
@@ -10517,25 +14164,130 @@ acharkit is utility framework for android
 
 ---
 
-1169 |    ✰ 8 ✰    |    android-L-library
+1288 |    android-resize-drawable-script
 
-Compatible library that can use across version from 11 to L. This is not really support on L yet as we don't have official source code release. The process animation won't take advantage of thread rendering for this library, update will be push when Google release final L source code.
+✰✰✰ 9
 
-[https://github.com/cmidt-veasna/android-l-library](https://github.com/cmidt-veasna/android-l-library)
+[ARCHIVED] A script to resize an Android drawable image into lower density versions
 
-
----
-
-1170 |    ✰ 8 ✰    |    StateLayout
-
-A ViewGroup for Simple Handle Diff State on Android
-
-[https://github.com/imanx/statelayout](https://github.com/imanx/statelayout)
+[https://github.com/andrewlord1990/android-resize-drawable-script](https://github.com/andrewlord1990/android-resize-drawable-script)
 
 
 ---
 
-1171 |    ✰ 8 ✰    |    dagger2-shaded
+1289 |    appwoodoo-android-sdk
+
+✰✰✰ 9
+
+The simplest way to add an admin panel to existing or new apps, to edit their content.
+
+[https://github.com/appwoodoo/appwoodoo-android-sdk](https://github.com/appwoodoo/appwoodoo-android-sdk)
+
+
+---
+
+1290 |    secrecy
+
+✰✰✰ 9
+
+None
+
+[https://github.com/doplgangr/secrecy](https://github.com/doplgangr/secrecy)
+
+
+---
+
+1291 |    inappbillinghelper
+
+✰✰✰ 9
+
+IranApps in-app billing helper library
+
+[https://github.com/iranapps/inappbillinghelper](https://github.com/iranapps/inappbillinghelper)
+
+
+---
+
+1292 |    genaroid
+
+✰✰✰ 9
+
+Fast Android development with annotation processing
+
+[https://github.com/ixkor/genaroid](https://github.com/ixkor/genaroid)
+
+
+---
+
+1293 |    androidcustomimageview
+
+✰✰✰ 9
+
+None
+
+[https://github.com/manishsri01/androidcustomimageview](https://github.com/manishsri01/androidcustomimageview)
+
+
+---
+
+1294 |    trytodothis
+
+✰✰✰ 9
+
+None
+
+[https://github.com/mkodekar/trytodothis](https://github.com/mkodekar/trytodothis)
+
+
+---
+
+1295 |    imgurdroid
+
+✰✰✰ 9
+
+Imgur client for Android
+
+[https://github.com/nispok/imgurdroid](https://github.com/nispok/imgurdroid)
+
+
+---
+
+1296 |    pyapk
+
+✰✰✰ 9
+
+Small python program to install all apks on a directory(including apks in sub-directory of it) from pc to android phones.
+
+[https://github.com/psuzn/pyapk](https://github.com/psuzn/pyapk)
+
+
+---
+
+1297 |    stage
+
+✰✰✰ 9
+
+A View-based Android UI framework
+
+[https://github.com/seven332/stage](https://github.com/seven332/stage)
+
+
+---
+
+1298 |    songwiki
+
+✰✰✰ 9
+
+SongWiki lets you discover new music and find out more about your favorite songs and artists
+
+[https://github.com/slakshmiprasad/songwiki](https://github.com/slakshmiprasad/songwiki)
+
+
+---
+
+1299 |    dagger2-shaded
+
+✰✰✰ 9
 
 Wrapper around Dagger 2 with the Maven Shade Plugin so we can have Dagger 1 and Dagger 2 living together
 
@@ -10544,97 +14296,53 @@ Wrapper around Dagger 2 with the Maven Shade Plugin so we can have Dagger 1 and 
 
 ---
 
-1172 |    ✰ 8 ✰    |    Moviz
+1300 |    Heyyoo
 
-This is a movie sample app in Kotlin and architected by Clean and integrated with coroutines
+✰✰✰ 9
 
-[https://github.com/rezaiyan/moviz](https://github.com/rezaiyan/moviz)
+Heyyoo is a sample social media  Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components).
 
-
----
-
-1173 |    ✰ 8 ✰    |    CustomFontView
-
-Easiest way to include custom fonts in your TextView
-
-[https://github.com/mddanishansari/customfontview](https://github.com/mddanishansari/customfontview)
+[https://github.com/ardakazanci/Heyyoo](https://github.com/ardakazanci/Heyyoo)
 
 
 ---
 
-1174 |    ✰ 7 ✰    |    EasyOkHttp
+1301 |    ataxer
 
+✰✰✰ 8
 
+calculate tax with ease
 
-[https://github.com/mehrdadf7/easyokhttp](https://github.com/mehrdadf7/easyokhttp)
-
-
----
-
-1175 |    ✰ 7 ✰    |    NumberKeyboardLayout
-
-
-
-[https://github.com/taindb/numberkeyboardlayout](https://github.com/taindb/numberkeyboardlayout)
+[https://github.com/1hakr/ataxer](https://github.com/1hakr/ataxer)
 
 
 ---
 
-1176 |    ✰ 7 ✰    |    Android-ActionBarTabs
+1302 |    cirmove
 
-Android demo of tabbed navigation made with ActionBar and Fragments.
+✰✰✰ 8
 
-[https://github.com/baruckis/android-actionbartabs](https://github.com/baruckis/android-actionbartabs)
+None
 
-
----
-
-1177 |    ✰ 7 ✰    |    ImageDownloader
-
-
-
-[https://github.com/navabi/imagedownloader](https://github.com/navabi/imagedownloader)
+[https://github.com/alirezaafkar/cirmove](https://github.com/alirezaafkar/cirmove)
 
 
 ---
 
-1178 |    ✰ 7 ✰    |    motion-hourglass
+1303 |    nimbleme
 
-MotionLayout hourglass animation
+✰✰✰ 8
 
-[https://github.com/kaeawc/motion-hourglass](https://github.com/kaeawc/motion-hourglass)
+Nimble Markdown Editor App for Android
 
-
----
-
-1179 |    ✰ 7 ✰    |    motion-puzzle
-
-MotionLayout sliding tile puzzle in a 2 by 2 grid
-
-[https://github.com/kaeawc/motion-puzzle](https://github.com/kaeawc/motion-puzzle)
+[https://github.com/arshadalisoomro/nimbleme](https://github.com/arshadalisoomro/nimbleme)
 
 
 ---
 
-1180 |    ✰ 7 ✰    |    scaling-recyclerview
+1304 |    uniqueadapter
 
-
-
-[https://github.com/rvhamed/scaling-recyclerview](https://github.com/rvhamed/scaling-recyclerview)
-
-
----
-
-1181 |    ✰ 7 ✰    |    android-auto-fit-button
-
-Android Auto Fit Button library
-
-[https://github.com/marcouberti/android-auto-fit-button](https://github.com/marcouberti/android-auto-fit-button)
-
-
----
-
-1182 |    ✰ 7 ✰    |    UniqueAdapter
+✰✰✰ 8
 
 The UniqueAdapter With DataBinding
 
@@ -10643,142 +14351,273 @@ The UniqueAdapter With DataBinding
 
 ---
 
-1183 |    ✰ 6 ✰    |    MaterialKeylines
+1305 |    android-l-library
 
-An Android application displaying an overlay of the Material design keylines
+✰✰✰ 8
 
-[https://github.com/aodevblue/materialkeylines](https://github.com/aodevblue/materialkeylines)
+Compatible library that can use across version from 11 to L. This is not really support on L yet as we don't have official source code release. The process animation won't take advantage of thread rendering for this library, update will be push when Google release final L source code.
 
-
----
-
-1184 |    ✰ 6 ✰    |    chameleon
-
-
-
-[https://github.com/cloudmade/chameleon](https://github.com/cloudmade/chameleon)
+[https://github.com/cmidt-veasna/android-l-library](https://github.com/cmidt-veasna/android-l-library)
 
 
 ---
 
-1185 |    ✰ 6 ✰    |    Android-PullToRefresh
+1306 |    androidimagepicker
 
-Implementation of the Pull-to-Refresh UI Pattern for Android
+✰✰✰ 8
 
-[https://github.com/serso/android-pulltorefresh](https://github.com/serso/android-pulltorefresh)
+Capture and Crop an Image with the Device Camera
 
-
----
-
-1186 |    ✰ 6 ✰    |    Android-ReactiveLocation
-
-Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
-
-[https://github.com/adevintaspain/android-reactivelocation](https://github.com/adevintaspain/android-reactivelocation)
+[https://github.com/dustookk/androidimagepicker](https://github.com/dustookk/androidimagepicker)
 
 
 ---
 
-1187 |    ✰ 6 ✰    |    Pholder
+1307 |    link-shortner
 
-Open source code for PholderApp available on Google Play Store (http://bit.ly/PholderApp). Let's learn together and get better!
+✰✰✰ 8
 
-[https://github.com/tingyik90/pholder](https://github.com/tingyik90/pholder)
+Android client for goo.gl link shortner
 
-
----
-
-1188 |    ✰ 6 ✰    |    android-boost
-
-Open Source Project List for Android Application Development
-
-[https://github.com/zouguangxian/android-boost](https://github.com/zouguangxian/android-boost)
+[https://github.com/gurleensethi/link-shortner](https://github.com/gurleensethi/link-shortner)
 
 
 ---
 
-1189 |    ✰ 6 ✰    |    AndroidMultiCalendarTools
+1308 |    sudoku-solver
 
-android date tools and date picker for tree calendar "Jalali" and "Hijri" and "Gregorian"
+✰✰✰ 8
 
-[https://github.com/hooshkar/androidmulticalendartools](https://github.com/hooshkar/androidmulticalendartools)
+An Android application to solve sudoku puzzles, the algorithm used here follows a constraint method to solve the puzzle.. To input a number, just place your finger on a cell and drag it down. Download it from Amazon https://goo.gl/TAEGKy or direct APK link: https://goo.gl/MgcCyN.
 
-
----
-
-1190 |    ✰ 6 ✰    |    kotlinxRetrofit
-
-This project uses Kotlinx serialisation as a retrofit adapter for json serialisation and as well shows how to parse objects to and from json using the kotlinx serialisation methods and entity annotation
-
-[https://github.com/smilecs/kotlinxretrofit](https://github.com/smilecs/kotlinxretrofit)
+[https://github.com/harsha-main/sudoku-solver](https://github.com/harsha-main/sudoku-solver)
 
 
 ---
 
-1191 |    ✰ 6 ✰    |    bazaar-push
+1309 |    android-itunes-rsync
 
-BazaarPush is a wrapper based on the popular Laravel Framework which regularly logs into your CafeBazaar accounts, parses pages and pushes reports of new events such as sales on to your devices (via PushBullet). 
+✰✰✰ 8
 
-[https://github.com/nikapps/bazaar-push](https://github.com/nikapps/bazaar-push)
+Automatically exports m3u playlists from iTunes on your Mac, and rsyncs these and all your music to your Android phone.
 
-
----
-
-1192 |    ✰ 6 ✰    |    Khoji
-
-An annotation processor for generating collections of annotation classes
-
-[https://github.com/saadfarooq/khoji](https://github.com/saadfarooq/khoji)
+[https://github.com/jakecoppinger/android-itunes-rsync](https://github.com/jakecoppinger/android-itunes-rsync)
 
 
 ---
 
-1193 |    ✰ 6 ✰    |    SampleMVP
+1310 |    customfontview
 
-This is a sample app that follows the Model View Presenter Architecture written 100% in Kotlin
+✰✰✰ 8
 
-[https://github.com/nikhilbansal97/samplemvp](https://github.com/nikhilbansal97/samplemvp)
+Easiest way to include custom fonts in your TextView
 
-
----
-
-1194 |    ✰ 6 ✰    |    Weather
-
-This is a simple rn project about weather forecast.
-
-[https://github.com/sanyinchen/weather](https://github.com/sanyinchen/weather)
+[https://github.com/mddanishansari/customfontview](https://github.com/mddanishansari/customfontview)
 
 
 ---
 
-1195 |    ✰ 6 ✰    |    android-ripple-drawable-demo
+1311 |    whyhowmvponandroid
 
-Demo of a small problem with RippleDrawable
+✰✰✰ 8
 
-[https://github.com/dlew/android-ripple-drawable-demo](https://github.com/dlew/android-ripple-drawable-demo)
+Why and how to implement MVP on Android
 
-
----
-
-1196 |    ✰ 6 ✰    |    ListWithDiffRowViewType
-
- Demo showing the functionality of getViewTypeCount() and getItemViewType(…)  in list-view.
-
-[https://github.com/learnncode/listwithdiffrowviewtype](https://github.com/learnncode/listwithdiffrowviewtype)
+[https://github.com/mohamad-amin/whyhowmvponandroid](https://github.com/mohamad-amin/whyhowmvponandroid)
 
 
 ---
 
-1197 |    ✰ 6 ✰    |    droid-RuntimePermissions
+1312 |    itag
 
+✰✰✰ 8
 
+This Android application helps you to connect to an iTag BLE button and broadcast a message when button is pressed
 
-[https://github.com/goldenmace/droid-runtimepermissions](https://github.com/goldenmace/droid-runtimepermissions)
+[https://github.com/mohsenoid/itag](https://github.com/mohsenoid/itag)
 
 
 ---
 
-1198 |    ✰ 6 ✰    |    8-Puzzle
+1313 |    analytics_wrapper
+
+✰✰✰ 8
+
+Wrapper for Google Measurement Protocol, for those who serious about analytics sdk size but don't wanna write a lot of codes
+
+[https://github.com/wailynnzaw/analytics_wrapper](https://github.com/wailynnzaw/analytics_wrapper)
+
+
+---
+
+1314 |    markdown-lint
+
+✰✰✰ 8
+
+Linting for markdown files
+
+[https://github.com/appmattus/markdown-lint](https://github.com/appmattus/markdown-lint)
+
+
+---
+
+1315 |    TelegramAndroid
+
+✰✰✰ 8
+
+Fork client of Telegram app for Android.
+
+[https://github.com/Forkgram/TelegramAndroid](https://github.com/Forkgram/TelegramAndroid)
+
+
+---
+
+1316 |    myapplication
+
+✰✰✰ 7
+
+A application to help tourist to find out best places in bangladesh,Group Costing Monitor
+
+[https://github.com/abdullahalrifat/myapplication](https://github.com/abdullahalrifat/myapplication)
+
+
+---
+
+1317 |    android-actionbartabs
+
+✰✰✰ 7
+
+Android demo of tabbed navigation made with ActionBar and Fragments.
+
+[https://github.com/baruckis/android-actionbartabs](https://github.com/baruckis/android-actionbartabs)
+
+
+---
+
+1318 |    river-rivescript-ide-on-android
+
+✰✰✰ 7
+
+River is a IDE for RiveScript on Android
+
+[https://github.com/bennykok/river-rivescript-ide-on-android](https://github.com/bennykok/river-rivescript-ide-on-android)
+
+
+---
+
+1319 |    liquidloader
+
+✰✰✰ 7
+
+None
+
+[https://github.com/braulio94/liquidloader](https://github.com/braulio94/liquidloader)
+
+
+---
+
+1320 |    simplerecyclerview
+
+✰✰✰ 7
+
+None
+
+[https://github.com/ihorklimov/simplerecyclerview](https://github.com/ihorklimov/simplerecyclerview)
+
+
+---
+
+1321 |    android-auto-fit-button
+
+✰✰✰ 7
+
+Android Auto Fit Button library
+
+[https://github.com/marcouberti/android-auto-fit-button](https://github.com/marcouberti/android-auto-fit-button)
+
+
+---
+
+1322 |    imagedownloader
+
+✰✰✰ 7
+
+None
+
+[https://github.com/navabi/imagedownloader](https://github.com/navabi/imagedownloader)
+
+
+---
+
+1323 |    unityplanner
+
+✰✰✰ 7
+
+:school_satchel: The student planner app to unify your school life.
+
+[https://github.com/nbd9/unityplanner](https://github.com/nbd9/unityplanner)
+
+
+---
+
+1324 |    birthday-app-android-
+
+✰✰✰ 7
+
+Android app to give a person as a birthday gift
+
+[https://github.com/shoukhin93/birthday-app-android-](https://github.com/shoukhin93/birthday-app-android-)
+
+
+---
+
+1325 |    Customgram
+
+✰✰✰ 7
+
+Customgram for Android source - A Telegram client with some useful features.
+
+[https://github.com/AmanoTeam/Customgram](https://github.com/AmanoTeam/Customgram)
+
+
+---
+
+1326 |    Animation-Challenge
+
+✰✰✰ 7
+
+for Behnam Mohammadi's challenge 
+
+[https://github.com/SarahGhorbani/Animation-Challenge](https://github.com/SarahGhorbani/Animation-Challenge)
+
+
+---
+
+1327 |    StopCar-Redesigned
+
+✰✰✰ 7
+
+open source Android project for learn latest  trends on Android
+
+[https://github.com/BasetEsmaeili/StopCar-Redesigned](https://github.com/BasetEsmaeili/StopCar-Redesigned)
+
+
+---
+
+1328 |    minio-buildcache
+
+✰✰✰ 6
+
+A gradle plugin which adds support for using https://minio.io/ as a build cache remote
+
+[https://github.com/aegis123/minio-buildcache](https://github.com/aegis123/minio-buildcache)
+
+
+---
+
+1329 |    8-puzzle
+
+✰✰✰ 6
 
 An android App to solve the 8-puzzle problem with  Breath-First Search Algorithm and Iterative deepening search 
 
@@ -10787,97 +14626,163 @@ An android App to solve the 8-puzzle problem with  Breath-First Search Algorithm
 
 ---
 
-1199 |    ✰ 5 ✰    |    jvm-source-guidelines
+1330 |    materialkeylines
 
-Blacklane Engineering's guidelines on writing code in JVM languages
+✰✰✰ 6
 
-[https://github.com/blacklane/jvm-source-guidelines](https://github.com/blacklane/jvm-source-guidelines)
+An Android application displaying an overlay of the Material design keylines
 
-
----
-
-1200 |    ✰ 5 ✰    |    analitica
-
-Android library to manage both Google Analytics and Piwik services to match FOSS software need
-
-[https://github.com/federicoiosue/analitica](https://github.com/federicoiosue/analitica)
+[https://github.com/aodevblue/materialkeylines](https://github.com/aodevblue/materialkeylines)
 
 
 ---
 
-1201 |    ✰ 5 ✰    |    choco-ktx
+1331 |    rollingbeadview
 
-Choco solver Kotlin extensions
+✰✰✰ 6
 
-[https://github.com/ideaplugins/choco-ktx](https://github.com/ideaplugins/choco-ktx)
+Android library for producing lens(bead) effect in imageviews
 
-
----
-
-1202 |    ✰ 5 ✰    |    smoothie
-
-Simple way to handle the Idling Resource in your Espresso tests
-
-[https://github.com/coroutinedispatcher/smoothie](https://github.com/coroutinedispatcher/smoothie)
+[https://github.com/dev-ritik/rollingbeadview](https://github.com/dev-ritik/rollingbeadview)
 
 
 ---
 
-1203 |    ✰ 5 ✰    |    StarWars
+1332 |    dfmfabanimator
 
-an Android application to search StarWars characters
+✰✰✰ 6
 
-[https://github.com/sirlordpouya/starwars](https://github.com/sirlordpouya/starwars)
+This library is for adding smooth animation and coloring to the FloatingActionButton library android.
 
-
----
-
-1204 |    ✰ 5 ✰    |    rxjava-walkthrough-kotlin
-
-RxJava playground for Kotlin
-
-[https://github.com/bskim45/rxjava-walkthrough-kotlin](https://github.com/bskim45/rxjava-walkthrough-kotlin)
+[https://github.com/dfmabbas/dfmfabanimator](https://github.com/dfmabbas/dfmfabanimator)
 
 
 ---
 
-1205 |    ✰ 5 ✰    |    AndroidEssentials
+1333 |    android-ripple-drawable-demo
 
-Essential basic utils library for android
+✰✰✰ 6
 
-[https://github.com/dinocore1/androidessentials](https://github.com/dinocore1/androidessentials)
+Demo of a small problem with RippleDrawable
 
-
----
-
-1206 |    ✰ 5 ✰    |    ImageGallery
-
-Creates an Image Gallery in Android
-
-[https://github.com/sitepoint-editors/imagegallery](https://github.com/sitepoint-editors/imagegallery)
+[https://github.com/dlew/android-ripple-drawable-demo](https://github.com/dlew/android-ripple-drawable-demo)
 
 
 ---
 
-1207 |    ✰ 5 ✰    |    Contacts_Eclair_Mod
+1334 |    droid-runtimepermissions
 
-Modded Contacts for AOSP 2.1
+✰✰✰ 6
 
-[https://github.com/wysie/contacts_eclair_mod](https://github.com/wysie/contacts_eclair_mod)
+None
 
-
----
-
-1208 |    ✰ 5 ✰    |    bazaar-api-php
-
-A PHP API wrapper for CafeBazaar REST API (v2)
-
-[https://github.com/nikapps/bazaar-api-php](https://github.com/nikapps/bazaar-api-php)
+[https://github.com/goldenmace/droid-runtimepermissions](https://github.com/goldenmace/droid-runtimepermissions)
 
 
 ---
 
-1209 |    ✰ 5 ✰    |    android-dimension-converter
+1335 |    github-issue-cloud-function
+
+✰✰✰ 6
+
+🔥 Firebase cloud function to post a GitHub issue whenever new crash🐞 reported in firebase crashalytics.
+
+[https://github.com/kevalpatel2106/github-issue-cloud-function](https://github.com/kevalpatel2106/github-issue-cloud-function)
+
+
+---
+
+1336 |    listwithdiffrowviewtype
+
+✰✰✰ 6
+
+ Demo showing the functionality of getViewTypeCount() and getItemViewType(…)  in list-view.
+
+[https://github.com/learnncode/listwithdiffrowviewtype](https://github.com/learnncode/listwithdiffrowviewtype)
+
+
+---
+
+1337 |    perfectbody
+
+✰✰✰ 6
+
+PerfectBody Android app for sports
+
+[https://github.com/logo252/perfectbody](https://github.com/logo252/perfectbody)
+
+
+---
+
+1338 |    numactsappathon
+
+✰✰✰ 6
+
+I created this app for Techgig Appathon Season 2 and got 2nd prize in Q4 of 2017
+
+[https://github.com/mddanishansari/numactsappathon](https://github.com/mddanishansari/numactsappathon)
+
+
+---
+
+1339 |    bazaar-push
+
+✰✰✰ 6
+
+BazaarPush is a wrapper based on the popular Laravel Framework which regularly logs into your CafeBazaar accounts, parses pages and pushes reports of new events such as sales on to your devices (via PushBullet). 
+
+[https://github.com/nikapps/bazaar-push](https://github.com/nikapps/bazaar-push)
+
+
+---
+
+1340 |    autoproxy
+
+✰✰✰ 6
+
+Annotation Processing Library. Generates proxy class on top of interface/abstract class, that allows to intercept calls. Also known as a design pattern: proxy, delegate, interceptor.
+
+[https://github.com/oleksandrkucherenko/autoproxy](https://github.com/oleksandrkucherenko/autoproxy)
+
+
+---
+
+1341 |    khoji
+
+✰✰✰ 6
+
+An annotation processor for generating collections of annotation classes
+
+[https://github.com/saadfarooq/khoji](https://github.com/saadfarooq/khoji)
+
+
+---
+
+1342 |    weather
+
+✰✰✰ 6
+
+This is a simple rn project about weather forecast.
+
+[https://github.com/sanyinchen/weather](https://github.com/sanyinchen/weather)
+
+
+---
+
+1343 |    android-pulltorefresh
+
+✰✰✰ 6
+
+Implementation of the Pull-to-Refresh UI Pattern for Android
+
+[https://github.com/serso/android-pulltorefresh](https://github.com/serso/android-pulltorefresh)
+
+
+---
+
+1344 |    android-dimension-converter
+
+✰✰✰ 6
 
 Dimension Converter
 
@@ -10886,142 +14791,20 @@ Dimension Converter
 
 ---
 
-1210 |    ✰ 5 ✰    |    Android-Flashable-Zip-Creator
+1345 |    android-boost
 
-The product of this project creates a flashable zip with inbuilt aroma UI which can be flashed in android phones for various purpose like changing kernels, fonts, boot animations, etc
+✰✰✰ 6
 
-[https://github.com/nikhilmenghani/android-flashable-zip-creator](https://github.com/nikhilmenghani/android-flashable-zip-creator)
+Open Source Project List for Android Application Development
 
-
----
-
-1211 |    ✰ 5 ✰    |    NTPClock
-
-
-
-[https://github.com/hesamedin/ntpclock](https://github.com/hesamedin/ntpclock)
+[https://github.com/zouguangxian/android-boost](https://github.com/zouguangxian/android-boost)
 
 
 ---
 
-1212 |    ✰ 5 ✰    |    notificationmaterial
+1346 |    dialogshard
 
-New Notification in Material Design
-
-[https://github.com/sprik/notificationmaterial](https://github.com/sprik/notificationmaterial)
-
-
----
-
-1213 |    ✰ 5 ✰    |    RefreshNestedLayout
-
-Refresh the contents of a view via a vertical swipe gesture.
-
-[https://github.com/eastwoodyang/refreshnestedlayout](https://github.com/eastwoodyang/refreshnestedlayout)
-
-
----
-
-1214 |    ✰ 5 ✰    |    ThemeApp
-
-
-
-[https://github.com/dhosseiny/themeapp](https://github.com/dhosseiny/themeapp)
-
-
----
-
-1215 |    ✰ 4 ✰    |    AndroidMaterialDesignNavigationDrawer
-
-Android Material Design Navigation Drawer Example More: Detail Visit http://manishkpr.webheavens.com and http://manishkpr.com/
-
-[https://github.com/manishkpr/androidmaterialdesignnavigationdrawer](https://github.com/manishkpr/androidmaterialdesignnavigationdrawer)
-
-
----
-
-1216 |    ✰ 4 ✰    |    android-intro
-
-An example Android app consuming GitHub's events API
-
-[https://github.com/abdyer/android-intro](https://github.com/abdyer/android-intro)
-
-
----
-
-1217 |    ✰ 4 ✰    |    What-To-Wear-Android
-
-An Android application for daily clothing suggestions
-
-[https://github.com/shivam101/suitup](https://github.com/shivam101/suitup)
-
-
----
-
-1218 |    ✰ 4 ✰    |    ADateSlider
-
-fill dates differently
-
-[https://github.com/dworks/adateslider](https://github.com/dworks/adateslider)
-
-
----
-
-1219 |    ✰ 4 ✰    |    Password_Validation_Animation
-
-
-
-[https://github.com/shashankchandak/password_validation_animation](https://github.com/shashankchandak/password_validation_animation)
-
-
----
-
-1220 |    ✰ 4 ✰    |    jjalali
-
-Jalali calendar for Java
-
-[https://github.com/abdollahpour/jjalali](https://github.com/abdollahpour/jjalali)
-
-
----
-
-1221 |    ✰ 4 ✰    |    Android-Clean-Architecture-MVP
-
-Implemented by Clean Architecture, Dagger2, MVP, RX, Retrofit2, Espresso, Mockito
-
-[https://github.com/zahraheydari/android-clean-architecture-mvp](https://github.com/zahraheydari/android-clean-architecture-mvp)
-
-
----
-
-1222 |    ✰ 4 ✰    |    wait
-
-Useful android library to simplify handling loading, no network and working sates anywhere in app.
-
-[https://github.com/n0ise9914/wait](https://github.com/n0ise9914/wait)
-
-
----
-
-1223 |    ✰ 4 ✰    |    NotificationBell
-
-Animate notification icon whenever a new notification appears
-
-[https://github.com/rajat028/notificationbell](https://github.com/rajat028/notificationbell)
-
-
----
-
-1224 |    ✰ 4 ✰    |    AppFeedbackDialog
-
-
-
-[https://github.com/appdictive/appfeedbackdialog](https://github.com/appdictive/appfeedbackdialog)
-
-
----
-
-1225 |    ✰ 4 ✰    |    DialogShard
+✰✰✰ 5
 
 An alternative to DialogFragment, that's intended to overcome fragments exceptions
 
@@ -11030,52 +14813,207 @@ An alternative to DialogFragment, that's intended to overcome fragments exceptio
 
 ---
 
-1226 |    ✰ 4 ✰    |    android-custom-tabbar
+1347 |    androidessentials
+
+✰✰✰ 5
+
+Essential basic utils library for android
+
+[https://github.com/dinocore1/androidessentials](https://github.com/dinocore1/androidessentials)
 
 
+---
+
+1348 |    analitica
+
+✰✰✰ 5
+
+Android library to manage both Google Analytics and Piwik services to match FOSS software need
+
+[https://github.com/federicoiosue/analitica](https://github.com/federicoiosue/analitica)
+
+
+---
+
+1349 |    ntpclock
+
+✰✰✰ 5
+
+None
+
+[https://github.com/hesamedin/ntpclock](https://github.com/hesamedin/ntpclock)
+
+
+---
+
+1350 |    movie-box
+
+✰✰✰ 5
+
+None
+
+[https://github.com/manas-shrestha/movie-box](https://github.com/manas-shrestha/movie-box)
+
+
+---
+
+1351 |    bazaar-api-php
+
+✰✰✰ 5
+
+A PHP API wrapper for CafeBazaar REST API (v2)
+
+[https://github.com/nikapps/bazaar-api-php](https://github.com/nikapps/bazaar-api-php)
+
+
+---
+
+1352 |    android-flashable-zip-creator
+
+✰✰✰ 5
+
+The product of this project creates a flashable zip with inbuilt aroma UI which can be flashed in android phones for various purpose like changing kernels, fonts, boot animations, etc
+
+[https://github.com/nikhilmenghani/android-flashable-zip-creator](https://github.com/nikhilmenghani/android-flashable-zip-creator)
+
+
+---
+
+1353 |    rootchecker
+
+✰✰✰ 5
+
+None
+
+[https://github.com/pavel163/rootchecker](https://github.com/pavel163/rootchecker)
+
+
+---
+
+1354 |    shamsidate
+
+✰✰✰ 5
+
+Shamsi date on lockscreen via Xposed framework
+
+[https://github.com/runo280/shamsidate](https://github.com/runo280/shamsidate)
+
+
+---
+
+1355 |    imagegallery
+
+✰✰✰ 5
+
+Creates an Image Gallery in Android
+
+[https://github.com/sitepoint-editors/imagegallery](https://github.com/sitepoint-editors/imagegallery)
+
+
+---
+
+1356 |    notificationmaterial
+
+✰✰✰ 5
+
+New Notification in Material Design
+
+[https://github.com/sprik/notificationmaterial](https://github.com/sprik/notificationmaterial)
+
+
+---
+
+1357 |    contacts_eclair_mod
+
+✰✰✰ 5
+
+Modded Contacts for AOSP 2.1
+
+[https://github.com/wysie/contacts_eclair_mod](https://github.com/wysie/contacts_eclair_mod)
+
+
+---
+
+1358 |    jjalali
+
+✰✰✰ 4
+
+Jalali calendar for Java
+
+[https://github.com/abdollahpour/jjalali](https://github.com/abdollahpour/jjalali)
+
+
+---
+
+1359 |    android-intro
+
+✰✰✰ 4
+
+An example Android app consuming GitHub's events API
+
+[https://github.com/abdyer/android-intro](https://github.com/abdyer/android-intro)
+
+
+---
+
+1360 |    appfeedbackdialog
+
+✰✰✰ 4
+
+None
+
+[https://github.com/appdictive/appfeedbackdialog](https://github.com/appdictive/appfeedbackdialog)
+
+
+---
+
+1361 |    imagecache
+
+✰✰✰ 4
+
+A simple in-memory cache with LRU algorithm
+
+[https://github.com/bisphone/imagecache](https://github.com/bisphone/imagecache)
+
+
+---
+
+1362 |    droidsterutility
+
+✰✰✰ 4
+
+First commit
+
+[https://github.com/droidstered/droidsterutility](https://github.com/droidstered/droidsterutility)
+
+
+---
+
+1363 |    adateslider
+
+✰✰✰ 4
+
+fill dates differently
+
+[https://github.com/dworks/adateslider](https://github.com/dworks/adateslider)
+
+
+---
+
+1364 |    android-custom-tabbar
+
+✰✰✰ 4
+
+None
 
 [https://github.com/girishbhutiya/android-custom-tabbar](https://github.com/girishbhutiya/android-custom-tabbar)
 
 
 ---
 
-1227 |    ✰ 4 ✰    |    CryptoNews
+1365 |    64
 
-Simple application showing latest cryptocurrency news, consuming cryptocontrol.io's API.
-
-[https://github.com/mohandeath/cryptonews](https://github.com/mohandeath/cryptonews)
-
-
----
-
-1228 |    ✰ 4 ✰    |    Night-Downloader
-
-A multi-thread & lightweight downloader designed for Android
-
-[https://github.com/dhosseiny/night-downloader](https://github.com/dhosseiny/night-downloader)
-
-
----
-
-1229 |    ✰ 4 ✰    |    DVDLiveWallpaper
-
-DVD bouncing logo as a live wallpaper for your Android device!
-
-[https://github.com/phelat/dvdlivewallpaper](https://github.com/phelat/dvdlivewallpaper)
-
-
----
-
-1230 |    ✰ 4 ✰    |    VolleyTest
-
-This application is a sample application to test Volley, given by Android. I have implemented basic classes to test each type of request using Volley.  
-
-[https://github.com/pankajchunchun/volleytest](https://github.com/pankajchunchun/volleytest)
-
-
----
-
-1231 |    ✰ 4 ✰    |    64
+✰✰✰ 4
 
 A simple android wear game
 
@@ -11084,16 +15022,141 @@ A simple android wear game
 
 ---
 
-1232 |    ✰ 3 ✰    |    InteractiveInfoWindowAndroid
+1366 |    androidmaterialdesignnavigationdrawer
 
-Library project offering an interactive info window for Google maps on Android.
+✰✰✰ 4
 
-[https://github.com/rizasif/interactiveinfowindowandroid](https://github.com/rizasif/interactiveinfowindowandroid)
+Android Material Design Navigation Drawer Example More: Detail Visit http://manishkpr.webheavens.com and http://manishkpr.com/
+
+[https://github.com/manishkpr/androidmaterialdesignnavigationdrawer](https://github.com/manishkpr/androidmaterialdesignnavigationdrawer)
 
 
 ---
 
-1233 |    ✰ 3 ✰    |    DBXDroidDemo
+1367 |    emenoxzooper
+
+✰✰✰ 4
+
+Source code for EmenoxZooper
+
+[https://github.com/mddanishansari/emenoxzooper](https://github.com/mddanishansari/emenoxzooper)
+
+
+---
+
+1368 |    blinking-image-view
+
+✰✰✰ 4
+
+A variant of Android View that blinks only the source image (not the background)
+
+[https://github.com/milosmns/blinking-image-view](https://github.com/milosmns/blinking-image-view)
+
+
+---
+
+1369 |    wait
+
+✰✰✰ 4
+
+Useful android library to simplify handling loading, no network and working sates anywhere in app.
+
+[https://github.com/n0ise9914/wait](https://github.com/n0ise9914/wait)
+
+
+---
+
+1370 |    volleytest
+
+✰✰✰ 4
+
+This application is a sample application to test Volley, given by Android. I have implemented basic classes to test each type of request using Volley.  
+
+[https://github.com/pankajchunchun/volleytest](https://github.com/pankajchunchun/volleytest)
+
+
+---
+
+1371 |    inspector
+
+✰✰✰ 4
+
+None
+
+[https://github.com/pavel163/inspector](https://github.com/pavel163/inspector)
+
+
+---
+
+1372 |    coffee-slice-example
+
+✰✰✰ 4
+
+This is an example code of Android Slices usage
+
+[https://github.com/pstambrecht/coffee-slice-example](https://github.com/pstambrecht/coffee-slice-example)
+
+
+---
+
+1373 |    suitup
+
+✰✰✰ 4
+
+An Android application for daily clothing suggestions
+
+[https://github.com/shivam101/suitup](https://github.com/shivam101/suitup)
+
+
+---
+
+1374 |    androidworks
+
+✰✰✰ 4
+
+Repository that showcases Android Best Practices with Intermediate Project Creation skills
+
+[https://github.com/syamsundarkirubakaran/androidworks](https://github.com/syamsundarkirubakaran/androidworks)
+
+
+---
+
+1375 |    4146prefixdialer
+
+✰✰✰ 4
+
+Android app to manage 4146 prefix
+
+[https://github.com/xcesco/4146prefixdialer](https://github.com/xcesco/4146prefixdialer)
+
+
+---
+
+1376 |    kripton-examples
+
+✰✰✰ 4
+
+some examples to show how to use kripton persistence library
+
+[https://github.com/xcesco/kripton-examples](https://github.com/xcesco/kripton-examples)
+
+
+---
+
+1377 |    LineAnimatedCheckBox
+
+✰✰✰ 4
+
+Android CheckBox with animated line style
+
+[https://github.com/mofakhrpour/LineAnimatedCheckBox](https://github.com/mofakhrpour/LineAnimatedCheckBox)
+
+
+---
+
+1378 |    dbxdroiddemo
+
+✰✰✰ 3
 
 Demo App for DBXDroid Library
 
@@ -11102,43 +15165,64 @@ Demo App for DBXDroid Library
 
 ---
 
-1234 |    ✰ 3 ✰    |    MultiLevelListview
+1379 |    roomsample
 
+✰✰✰ 3
 
+Android Room example with ViewHolder. Architecture components
 
-[https://github.com/manishsri01/multilevellistview](https://github.com/manishsri01/multilevellistview)
-
-
----
-
-1235 |    ✰ 3 ✰    |    WordSearchAI
-
-
-
-[https://github.com/joaobiriba/wordsearchai](https://github.com/joaobiriba/wordsearchai)
+[https://github.com/amanchugh/roomsample](https://github.com/amanchugh/roomsample)
 
 
 ---
 
-1236 |    ✰ 3 ✰    |    OverlapRecyclerView
+1380 |    bingerwallmvp
 
+✰✰✰ 3
 
+This is a simple android MVP project that uses the Bing search engine API. (Using Retrofit + RxAndroid + Dagger)
 
-[https://github.com/imanneofight/overlaprecyclerview](https://github.com/imanneofight/overlaprecyclerview)
-
-
----
-
-1237 |    ✰ 3 ✰    |    dokilog
-
-Pleasant Android + Kotlin logging by DokiDevs. Inspired by Timber + AnkoLogger.
-
-[https://github.com/tingyik90/dokilog](https://github.com/tingyik90/dokilog)
+[https://github.com/amirpiri/bingerwallmvp](https://github.com/amirpiri/bingerwallmvp)
 
 
 ---
 
-1238 |    ✰ 3 ✰    |    WhatTimeIsIt
+1381 |    droidstercustomeexoplayer
+
+✰✰✰ 3
+
+None
+
+[https://github.com/droidstered/droidstercustomeexoplayer](https://github.com/droidstered/droidstercustomeexoplayer)
+
+
+---
+
+1382 |    gamesboard
+
+✰✰✰ 3
+
+The complete android client and web server tier for my multi-game application https://play.google.com/store/apps/details?id=com.pigdroid.gameboard
+
+[https://github.com/eduyayo/gamesboard](https://github.com/eduyayo/gamesboard)
+
+
+---
+
+1383 |    quiz-app
+
+✰✰✰ 3
+
+this is the server client js app with nodejs(keystonejs) and angularjs for multidevices support
+
+[https://github.com/hootan09/quiz-app](https://github.com/hootan09/quiz-app)
+
+
+---
+
+1384 |    whattimeisit
+
+✰✰✰ 3
 
 A simple minimal color changing Android Wear watchface
 
@@ -11147,97 +15231,53 @@ A simple minimal color changing Android Wear watchface
 
 ---
 
-1239 |    ✰ 3 ✰    |    Sprint
+1385 |    multilevellistview
 
-Sprint is an HTTP android java library
+✰✰✰ 3
 
-[https://github.com/ostamustafa/sprint](https://github.com/ostamustafa/sprint)
+None
 
-
----
-
-1240 |    ✰ 3 ✰    |    mymessages-android
-
-Client side of MyMessages project
-
-[https://github.com/farzad119/mymessages-android](https://github.com/farzad119/mymessages-android)
+[https://github.com/manishsri01/multilevellistview](https://github.com/manishsri01/multilevellistview)
 
 
 ---
 
-1241 |    ✰ 3 ✰    |    MVVMNewsAppTemplate
+1386 |    interactiveinfowindowandroid
 
-Super Simple MVVM News App Template with Architecture Components
+✰✰✰ 3
 
-[https://github.com/akshaychordiya/mvvmnewsapptemplate](https://github.com/akshaychordiya/mvvmnewsapptemplate)
+Library project offering an interactive info window for Google maps on Android.
 
-
----
-
-1242 |    ✰ 2 ✰    |    praytimes-java
-
-The Java version of Islamic PrayTimes Calculator in praytimes.org
-
-[https://github.com/sancho21/praytimes-java](https://github.com/sancho21/praytimes-java)
+[https://github.com/rizasif/interactiveinfowindowandroid](https://github.com/rizasif/interactiveinfowindowandroid)
 
 
 ---
 
-1243 |    ✰ 2 ✰    |    TweetSearch
+1387 |    Rick-and-Morty
 
-My Open Tweet Search - https://play.google.com/store/apps/details?id=org.new_year2018
+✰✰✰ 3
 
-[https://github.com/giuliohome/tweetsearch](https://github.com/giuliohome/tweetsearch)
+Rick and Morty Android app
 
-
----
-
-1244 |    ✰ 2 ✰    |    AndroViews
-
-Git fork of Eric Taix's  Workspace View. A side scrolling ViewGroup based on com.android.launcher.Workspace.java
-
-[https://github.com/catchthecows/androviews](https://github.com/catchthecows/androviews)
+[https://github.com/mohsenoid/Rick-and-Morty](https://github.com/mohsenoid/Rick-and-Morty)
 
 
 ---
 
-1245 |    ✰ 2 ✰    |    SimpleDo
+1388 |    GenericRecyclerView
 
-A simple Android 'to-do' application.
+✰✰✰ 3
 
-[https://github.com/jamesfrost/simpledo](https://github.com/jamesfrost/simpledo)
+A simplified easy to use a smart recyclerview and adapter to create dynamic content list like youtube, google play, Netflix
 
-
----
-
-1246 |    ✰ 2 ✰    |    TabWidgetSample
-
-This is a simple tutorial on how to use tabs with fragment  in android application.
-
-[https://github.com/learnncode/tabwidgetsample](https://github.com/learnncode/tabwidgetsample)
+[https://github.com/janbarari/GenericRecyclerView](https://github.com/janbarari/GenericRecyclerView)
 
 
 ---
 
-1247 |    ✰ 2 ✰    |    EasyDataAndroid
+1389 |    persian-textview
 
-all you need for working with files and database focused on being easy to use
-
-[https://github.com/ali77gh/easydataandroid](https://github.com/ali77gh/easydataandroid)
-
-
----
-
-1248 |    ✰ 2 ✰    |    VoronImageView
-
-Rotate, Zoom, Drag ImageView with Two Finger Gestures
-
-[https://github.com/devvoron/voronimageview](https://github.com/devvoron/voronimageview)
-
-
----
-
-1249 |    ✰ 2 ✰    |    Persian-TextView
+✰✰✰ 2
 
 Android Persian (maybe arabic) Textview that support custom font and automatic reShape for before Honeycomb Android version
 
@@ -11246,34 +15286,64 @@ Android Persian (maybe arabic) Textview that support custom font and automatic r
 
 ---
 
-1250 |    ✰ 2 ✰    |    ITMoldova
+1390 |    family-tambola
 
-A simple app written in Kotlin that shows articles from ITMoldova web site.
+✰✰✰ 2
 
-[https://github.com/vgrec/itmoldova](https://github.com/vgrec/itmoldova)
+Tambola game
 
-
----
-
-1251 |    ✰ 2 ✰    |    InAppVerify
-
-Simple function for verify android in app billing in your server - php
-
-[https://github.com/aghabeiki/inappverify](https://github.com/aghabeiki/inappverify)
+[https://github.com/anvesh523/family-tambola](https://github.com/anvesh523/family-tambola)
 
 
 ---
 
-1252 |    ✰ 2 ✰    |    Scratch
+1391 |    assignment
 
-🚀 An Android boilerplate project in Kotlin: A starting point in future projects where Clean Architecture feels appropriate.
+✰✰✰ 2
 
-[https://github.com/meness/scratch](https://github.com/meness/scratch)
+MVP Android Kotlin +RXJava 2+Dagger 2+Room+Retrofit
+
+[https://github.com/bineeshr/assignment](https://github.com/bineeshr/assignment)
 
 
 ---
 
-1253 |    ✰ 2 ✰    |    android-1
+1392 |    androviews
+
+✰✰✰ 2
+
+Git fork of Eric Taix's  Workspace View. A side scrolling ViewGroup based on com.android.launcher.Workspace.java
+
+[https://github.com/catchthecows/androviews](https://github.com/catchthecows/androviews)
+
+
+---
+
+1393 |    voronimageview
+
+✰✰✰ 2
+
+Rotate, Zoom, Drag ImageView with Two Finger Gestures
+
+[https://github.com/devvoron/voronimageview](https://github.com/devvoron/voronimageview)
+
+
+---
+
+1394 |    imagetoast
+
+✰✰✰ 2
+
+None
+
+[https://github.com/doomers/imagetoast](https://github.com/doomers/imagetoast)
+
+
+---
+
+1395 |    android-1
+
+✰✰✰ 2
 
 GitHub Android App
 
@@ -11282,115 +15352,64 @@ GitHub Android App
 
 ---
 
-1254 |    ✰ 2 ✰    |    Android-M-Runtime-Permission-Module
+1396 |    tweetsearch
 
-This is a Module that help you to handle Android M Permission Easily :)
+✰✰✰ 2
 
-[https://github.com/ysaeid/android-m-runtime-permission-module](https://github.com/ysaeid/android-m-runtime-permission-module)
+My Open Tweet Search - https://play.google.com/store/apps/details?id=org.new_year2018
 
-
----
-
-1255 |    ✰ 1 ✰    |    Spika-Android
-
-
-
-[https://github.com/cloverstudio/spika-android](https://github.com/cloverstudio/spika-android)
+[https://github.com/giuliohome/tweetsearch](https://github.com/giuliohome/tweetsearch)
 
 
 ---
 
-1256 |    ✰ 1 ✰    |    Noti
+1397 |    cheesewire
 
-Another Note Taking app that implemented in "clean architecture" way.
+✰✰✰ 2
 
-[https://github.com/nasrabadiam/noti](https://github.com/nasrabadiam/noti)
+Lifecycle-friendly view binding in Kotlin for Conductor.
 
-
----
-
-1257 |    ✰ 1 ✰    |    OneWest
-
-Simple app for my dragon boat team, listing workouts, important dates and links, and ladders. This app incorporates SlidingMenu by Jeremy Feinstein, PagerSlidingTabStrip by Andreas Stuetz, and ActionBarSherlock by Jake Wharton.
-
-[https://github.com/jacobcho/onewest](https://github.com/jacobcho/onewest)
+[https://github.com/hannesstruss/cheesewire](https://github.com/hannesstruss/cheesewire)
 
 
 ---
 
-1258 |    ✰ 1 ✰    |    CleanArchitectIr
+1398 |    calendardayviewalgorithm
 
-Project based on Clean Architecture . include Dagger , RxJava , MVP , ButterKnife ...
+✰✰✰ 2
 
-[https://github.com/alirezanazari/cleanarchitectir](https://github.com/alirezanazari/cleanarchitectir)
+None
 
-
----
-
-1259 |    ✰ 1 ✰    |    Udacity-Showcase
-
-An android App to showcase Udacity courses
-
-[https://github.com/enamin/udacity-showcase](https://github.com/enamin/udacity-showcase)
+[https://github.com/ihrupin/calendardayviewalgorithm](https://github.com/ihrupin/calendardayviewalgorithm)
 
 
 ---
 
-1260 |    ✰ 1 ✰    |    CameraDenyMyFace
+1399 |    simpledo
 
-This is a sample application explaining how to deny selfie mode on apps that require some spefic stuffs like bills or ecg reports 
+✰✰✰ 2
 
-[https://github.com/mkodekar/cameradenymyface](https://github.com/mkodekar/cameradenymyface)
+A simple Android 'to-do' application.
 
-
----
-
-1261 |    ✰ 1 ✰    |    SpoilerText
-
-A demo on how to achieve spoiler text formatting on Android.
-
-[https://github.com/marknjunge/spoilertext](https://github.com/marknjunge/spoilertext)
+[https://github.com/jamesfrost/simpledo](https://github.com/jamesfrost/simpledo)
 
 
 ---
 
-1262 |    ✰ 1 ✰    |    FrankenRobot
+1400 |    tabwidgetsample
 
-A simple injection library for Android. Uses the Android resources qualification mechanism to create concrete instances.
+✰✰✰ 2
 
-[https://github.com/menny/frankenrobot](https://github.com/menny/frankenrobot)
+This is a simple tutorial on how to use tabs with fragment  in android application.
 
-
----
-
-1263 |    ✰ 1 ✰    |    android-pdf
-
-Simple app that shows a PDF that is in the assets directory
-
-[https://github.com/danialgoodwin/android-pdf](https://github.com/danialgoodwin/android-pdf)
+[https://github.com/learnncode/tabwidgetsample](https://github.com/learnncode/tabwidgetsample)
 
 
 ---
 
-1264 |    ✰ 1 ✰    |    GiphyApp
+1401 |    android-priority-jobqueue-examples
 
-This is a sample Android application using Kotlin, MVP, Dagger, RxJava, Retrofit and Glide. It lists a still preview of the most trending gifs from Giphy.com and plays the selected one in a new page. It also loads a random gif from Giphy.com every 10 seconds after playing the selected gif.
-
-[https://github.com/mjn1369/giphyapp](https://github.com/mjn1369/giphyapp)
-
-
----
-
-1265 |    ✰ 1 ✰    |    RNADBMenu
-
-This is a simple AS pligin for invoke dev menu when you are developing rn app.
-
-[https://github.com/sanyinchen/rnadbmenu](https://github.com/sanyinchen/rnadbmenu)
-
-
----
-
-1266 |    ✰ 1 ✰    |    android-priority-jobqueue-examples
+✰✰✰ 2
 
 Examples for android-priority-jobqueue
 
@@ -11399,7 +15418,108 @@ Examples for android-priority-jobqueue
 
 ---
 
-1267 |    ✰ 1 ✰    |    android-ui
+1402 |    praytimes-java
+
+✰✰✰ 2
+
+The Java version of Islamic PrayTimes Calculator in praytimes.org
+
+[https://github.com/sancho21/praytimes-java](https://github.com/sancho21/praytimes-java)
+
+
+---
+
+1403 |    simplevalidation
+
+✰✰✰ 2
+
+A simple library built for Android in order to validate beans.
+
+[https://github.com/shabab477/simplevalidation](https://github.com/shabab477/simplevalidation)
+
+
+---
+
+1404 |    android-m-runtime-permission-module
+
+✰✰✰ 2
+
+This is a Module that help you to handle Android M Permission Easily :)
+
+[https://github.com/ysaeid/android-m-runtime-permission-module](https://github.com/ysaeid/android-m-runtime-permission-module)
+
+
+---
+
+1405 |    paginationRecyclerView
+
+✰✰✰ 2
+
+a simple library for generic data pagination.
+
+[https://github.com/pirayeh/paginationRecyclerView](https://github.com/pirayeh/paginationRecyclerView)
+
+
+---
+
+1406 |    BookList
+
+✰✰✰ 2
+
+Interview Application
+
+[https://github.com/DHosseiny/BookList](https://github.com/DHosseiny/BookList)
+
+
+---
+
+1407 |    android-mvp
+
+✰✰✰ 1
+
+Android mvp architecture
+
+[https://github.com/aleksandarvasilevski/android-mvp](https://github.com/aleksandarvasilevski/android-mvp)
+
+
+---
+
+1408 |    understandinggradle
+
+✰✰✰ 1
+
+None
+
+[https://github.com/burntcookie90/understandinggradle](https://github.com/burntcookie90/understandinggradle)
+
+
+---
+
+1409 |    spika-android
+
+✰✰✰ 1
+
+None
+
+[https://github.com/cloverstudio/spika-android](https://github.com/cloverstudio/spika-android)
+
+
+---
+
+1410 |    android-pdf
+
+✰✰✰ 1
+
+Simple app that shows a PDF that is in the assets directory
+
+[https://github.com/danialgoodwin/android-pdf](https://github.com/danialgoodwin/android-pdf)
+
+
+---
+
+1411 |    android-ui
+
+✰✰✰ 1
 
 Android UI library.
 
@@ -11408,61 +15528,64 @@ Android UI library.
 
 ---
 
-1268 |    ✰ 1 ✰    |    TinyProgressbar
+1412 |    rippleloder
 
-Custom Reverse Android Progressbar 
+✰✰✰ 1
 
-[https://github.com/sinadalvand/tinyprogressbar](https://github.com/sinadalvand/tinyprogressbar)
-
-
----
-
-1269 |    ✰ 1 ✰    |    rippleLoder
-
-
+None
 
 [https://github.com/essid-ahmed/rippleloder](https://github.com/essid-ahmed/rippleloder)
 
 
 ---
 
-1270 |    ✰ 1 ✰    |    reading-box
+1413 |    hafez
 
-An open-source Article (RSS) reader Application that developed by Kotlin.
+✰✰✰ 1
 
-[https://github.com/nasrabadiam/reading-box](https://github.com/nasrabadiam/reading-box)
+None
 
-
----
-
-1271 |    ✰ 1 ✰    |    NavigationSample
-
-a sample of android navigation arch component
-
-[https://github.com/zoho1381/navigationsample](https://github.com/zoho1381/navigationsample)
+[https://github.com/hafezapp/hafez](https://github.com/hafezapp/hafez)
 
 
 ---
 
-1272 |    ✰ 1 ✰    |    SmartTimePicker
+1414 |    onewest
 
-SmartTimePicker is an android library for pick the time with day/night detection and awesome acceleration 
+✰✰✰ 1
 
-[https://github.com/imansdn/smarttimepicker](https://github.com/imansdn/smarttimepicker)
+Simple app for my dragon boat team, listing workouts, important dates and links, and ladders. This app incorporates SlidingMenu by Jeremy Feinstein, PagerSlidingTabStrip by Andreas Stuetz, and ActionBarSherlock by Jake Wharton.
 
-
----
-
-1273 |    ✰ 1 ✰    |    HandleProgressbar
-
-animation Progressbar that can transform to handle
-
-[https://github.com/sinadalvand/handleprogressbar](https://github.com/sinadalvand/handleprogressbar)
+[https://github.com/jacobcho/onewest](https://github.com/jacobcho/onewest)
 
 
 ---
 
-1274 |    ✰ 1 ✰    |    bazaar-api-laravel
+1415 |    frankenrobot
+
+✰✰✰ 1
+
+A simple injection library for Android. Uses the Android resources qualification mechanism to create concrete instances.
+
+[https://github.com/menny/frankenrobot](https://github.com/menny/frankenrobot)
+
+
+---
+
+1416 |    cameradenymyface
+
+✰✰✰ 1
+
+This is a sample application explaining how to deny selfie mode on apps that require some spefic stuffs like bills or ecg reports 
+
+[https://github.com/mkodekar/cameradenymyface](https://github.com/mkodekar/cameradenymyface)
+
+
+---
+
+1417 |    bazaar-api-laravel
+
+✰✰✰ 1
 
 An API wrapper for CafeBazaar based on popular Laravel Framework
 
@@ -11471,97 +15594,75 @@ An API wrapper for CafeBazaar based on popular Laravel Framework
 
 ---
 
-1275 |    ✰ 1 ✰    |    developer-assistant
+1418 |    rnadbmenu
 
-A Tool For Android developers. 
+✰✰✰ 1
 
-[https://github.com/nasrabadiam/developer-assistant](https://github.com/nasrabadiam/developer-assistant)
+This is a simple AS pligin for invoke dev menu when you are developing rn app.
+
+[https://github.com/sanyinchen/rnadbmenu](https://github.com/sanyinchen/rnadbmenu)
 
 
 ---
 
-1276 |    ✰ 1 ✰    |    sqlite-class-parser
+1419 |    persiancalendar_2_1
 
-A library that will parse a Java class and create a SQLite table creation statement.
+✰✰✰ 1
+
+Persian Calendar is an implementation of the Iranian (Jalali) calendar based on the ICU4J calendar framework.
+
+[https://github.com/smhjamali/persiancalendar_2_1](https://github.com/smhjamali/persiancalendar_2_1)
+
+
+---
+
+1420 |    sqlite-class-parser
+
+✰✰✰ 1
+
+A lightweight object-to-SQL statement parser.
 
 [https://github.com/tylersuehr7/sqlite-class-parser](https://github.com/tylersuehr7/sqlite-class-parser)
 
 
 ---
 
-1277 |    ✰ 1 ✰    |    android-progress-overlay
+1421 |    locationtracker
 
-An implementation of my article on Medium that demonstrates the new progress overlay feature. 
+✰✰✰ 1
 
-[https://github.com/themavencoder/android-progress-overlay](https://github.com/themavencoder/android-progress-overlay)
+Easiest Android app ever to store your route on a CSV file.
 
-
----
-
-1278 |    ✰ 0 ✰    |    SecureApp
-
-SecureApp is an Android module to check for possible manipulations in the original application.
-
-[https://github.com/mjn1369/secureapp](https://github.com/mjn1369/secureapp)
+[https://github.com/wonderfulme/locationtracker](https://github.com/wonderfulme/locationtracker)
 
 
 ---
 
-1279 |    ✰ 0 ✰    |    Sheduler
+1422 |    AndroidStudio-SuperShortcuts
 
-A productive time management android application which is under development. Please feel free to do all the changes and make this a complete wonderful application.
+✰✰✰ 1
 
-[https://github.com/sadathanwar17/sheduler](https://github.com/sadathanwar17/sheduler)
+Throw away your mouse!
 
-
----
-
-1280 |    ✰ 0 ✰    |    bugmailer
-
-An android library used to send bug report via email
-
-[https://github.com/theapache64/bugmailer](https://github.com/theapache64/bugmailer)
+[https://github.com/m-u5/AndroidStudio-SuperShortcuts](https://github.com/m-u5/AndroidStudio-SuperShortcuts)
 
 
 ---
 
-1281 |    ✰ 0 ✰    |    PersianCalendar
+1423 |    Remynd
 
-Persian (Jalali) Calendar in Java
+✰✰✰ 1
 
-[https://github.com/freydoonk/persiancalendar](https://github.com/freydoonk/persiancalendar)
+Application that send reminders
 
-
----
-
-1282 |    ✰ 0 ✰    |    Android-Iconography
-
-first release
-
-[https://github.com/iboalali/android-iconography](https://github.com/iboalali/android-iconography)
+[https://github.com/nongdenchet/Remynd](https://github.com/nongdenchet/Remynd)
 
 
 ---
 
-1283 |    ✰ 0 ✰    |    dagger-example
+1424 |    imagegallery
 
-A very simple app to show the key components of Dagger
-
-[https://github.com/fstephany/dagger-example](https://github.com/fstephany/dagger-example)
-
-
----
-
-1284 |    ✰ 0 ✰    |    CPPTimer
-
-[Android] A screen overlay with two stopwatches that start/stop by swiping over them. Useful for people using conditioned place preference with two compartments
-
-[https://github.com/darkionavey/cpptimer](https://github.com/darkionavey/cpptimer)
-
-
----
-
-1285 |    ✰ 0 ✰    |    ImageGallery
+✰✰✰ 0
 
 Creates an Image Gallery in Android
 
@@ -11570,52 +15671,75 @@ Creates an Image Gallery in Android
 
 ---
 
-1286 |    ✰ 0 ✰    |    String-Downloader
+1425 |    dynamic-fragments
 
-AsyncTask with callback in android, with this library you can download any file
+✰✰✰ 0
 
-[https://github.com/venomvendor/string-downloader](https://github.com/venomvendor/string-downloader)
+All about fragments in Android
 
-
----
-
-1287 |    ✰ 0 ✰    |    CalendarDayViewAlgorithm
-
-
-
-[https://github.com/ihrupin/calendardayviewalgorithm](https://github.com/ihrupin/calendardayviewalgorithm)
+[https://github.com/ammadshakoor/dynamic-fragments](https://github.com/ammadshakoor/dynamic-fragments)
 
 
 ---
 
-1288 |    ✰ 0 ✰    |    AndroIOTesting
+1426 |    testfirebase
 
-Android IO testing with Robolectric and JVM system properties.
+✰✰✰ 0
 
-[https://github.com/behzadam/androiotesting](https://github.com/behzadam/androiotesting)
+Testing my first app using firebase,
 
-
----
-
-1289 |    ✰ 0 ✰    |    Bookie
-
-Android app that shows NYT Bestsellers
-
-[https://github.com/avjinder/bookie](https://github.com/avjinder/bookie)
+[https://github.com/ammadshakoor/testfirebase](https://github.com/ammadshakoor/testfirebase)
 
 
 ---
 
-1290 |    ✰ 0 ✰    |    zipunzip
+1427 |    animatededittext
 
+✰✰✰ 0
 
+Simple Android UI component to animate user inputs
 
-[https://github.com/manishsri01/zipunzip](https://github.com/manishsri01/zipunzip)
+[https://github.com/frlgrd/animatededittext](https://github.com/frlgrd/animatededittext)
 
 
 ---
 
-1291 |    ✰ 0 ✰    |    LuarcaAndroidApp
+1428 |    dagger-example
+
+✰✰✰ 0
+
+A very simple app to show the key components of Dagger
+
+[https://github.com/fstephany/dagger-example](https://github.com/fstephany/dagger-example)
+
+
+---
+
+1429 |    quicknote
+
+✰✰✰ 0
+
+Simple note taking app using SQLite , RxPermissions and Butterknife.
+
+[https://github.com/hgayan7/quicknote](https://github.com/hgayan7/quicknote)
+
+
+---
+
+1430 |    android-iconography
+
+✰✰✰ 0
+
+first release
+
+[https://github.com/iboalali/android-iconography](https://github.com/iboalali/android-iconography)
+
+
+---
+
+1431 |    luarcaandroidapp
+
+✰✰✰ 0
 
 Luarca Android App
 
@@ -11624,16 +15748,42 @@ Luarca Android App
 
 ---
 
-1292 |    ✰ 0 ✰    |    LiveDataDSL
+1432 |    zipunzip
 
-An annotation processor which generates DSL functions for LiveData observation.
+✰✰✰ 0
 
-[https://github.com/phelat/livedatadsl](https://github.com/phelat/livedatadsl)
+None
+
+[https://github.com/manishsri01/zipunzip](https://github.com/manishsri01/zipunzip)
 
 
 ---
 
-1293 |    ✰ 0 ✰    |    android_uioptimizationexample
+1433 |    storedemo
+
+✰✰✰ 0
+
+StoreDemo application
+
+[https://github.com/mziedan/storedemo](https://github.com/mziedan/storedemo)
+
+
+---
+
+1434 |    crypto-assistant
+
+✰✰✰ 0
+
+This is an android crypto currency informer. If bitcoin prices surge to the limit you set, the informer lets you know! and also the same case applies to price drops.
+
+[https://github.com/nyangate/crypto-assistant](https://github.com/nyangate/crypto-assistant)
+
+
+---
+
+1435 |    android_uioptimizationexample
+
+✰✰✰ 0
 
 An exmple project showing some of the ui optimization techniques on android
 
@@ -11642,11 +15792,68 @@ An exmple project showing some of the ui optimization techniques on android
 
 ---
 
-1294 |    ✰ 0 ✰    |    KotlinKtxApplication
+1436 |    opencvkotlinplayground
 
-Manage all your Android project dependency from one place
+✰✰✰ 0
 
-[https://github.com/raviyadav5951/kotlinktxapplication](https://github.com/raviyadav5951/kotlinktxapplication)
+None
+
+[https://github.com/saczer/opencvkotlinplayground](https://github.com/saczer/opencvkotlinplayground)
+
+
+---
+
+1437 |    sheduler
+
+✰✰✰ 0
+
+A productive time management android application which is under development. Please feel free to do all the changes and make this a complete wonderful application.
+
+[https://github.com/sadathanwar17/sheduler](https://github.com/sadathanwar17/sheduler)
+
+
+---
+
+1438 |    why-need-test
+
+✰✰✰ 0
+
+لزوم نوشتن کلاس های تست چیست؟
+
+[https://github.com/schabaani/why-need-test](https://github.com/schabaani/why-need-test)
+
+
+---
+
+1439 |    string-downloader
+
+✰✰✰ 0
+
+AsyncTask with callback in android, with this library you can download any file
+
+[https://github.com/venomvendor/string-downloader](https://github.com/venomvendor/string-downloader)
+
+
+---
+
+1440 |    rippleview
+
+✰✰✰ 0
+
+This is a Relativelayout that ripple automatically with some functionality
+
+[https://github.com/ysaeid/rippleview](https://github.com/ysaeid/rippleview)
+
+
+---
+
+1441 |    GIF-browser
+
+✰✰✰ 0
+
+Giphy GIF browser Android application
+
+[https://github.com/mohsenoid/GIF-browser](https://github.com/mohsenoid/GIF-browser)
 
 
 ---
